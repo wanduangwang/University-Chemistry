@@ -1,0 +1,7 @@
+mineru/.env
+node_modules/
+_build/
+*.log
+mineru/output_pdfs/
+mineru/output/
+.workbuddy/
