@@ -1,6 +1,10 @@
 mineru/.env
 node_modules/
 _build/
+.myst/
+__pycache__/
+*.py[cod]
+*.pdf
 *.log
 mineru/output_pdfs/
 mineru/output/

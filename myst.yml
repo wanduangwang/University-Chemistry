@@ -1,14 +1,29 @@
 version: 1
 project:
   id: f47ac10b-58cc-4372-a567-0e02b2c3d479
-  # Table of contents. Pilot build = Chapters 1–3; further chapters appended as built.
+  # Full local table of contents: 13 chapters and 6 appendices.
   toc:
     - file: index.md
     - file: chapters/p1-ch01-energy.md
     - file: chapters/p1-ch02-atomic-molecular-structure.md
     - file: chapters/p1-ch03-thermochemistry.md
+    - file: chapters/p1-ch04-entropy-second-law.md
+    - file: chapters/p1-ch05-equilibria-free-energy.md
+    - file: chapters/p1-ch06-equilibria-in-solution.md
+    - file: chapters/p1-ch07-electrochemistry.md
+    - file: chapters/p1-ch08-quantum-single-electron.md
+    - file: chapters/p1-ch09-multielectron-systems.md
+    - file: chapters/p1-ch10-molecular-bonding-i.md
+    - file: chapters/p1-ch11-molecular-bonding-ii.md
+    - file: chapters/p1-ch12-kinetics.md
+    - file: chapters/p1-ch13-nuclear-chemistry.md
+    - file: chapters/p1-appa.md
+    - file: chapters/p1-appb.md
+    - file: chapters/p1-appc.md
+    - file: chapters/p1-appd.md
+    - file: chapters/p1-appe.md
+    - file: chapters/p1-appf.md
   authors: [OpenScienceTeam]
-  github: https://github.com/wanduangwang/UNIVERSITY-CHEMISTRY
 site:
   template: book-theme
   # base_url is "/" for LOCAL acceptance/preview (myst start).
@@ -18,13 +33,9 @@ site:
     hide_toc: false
     hide_outline: false
     logo_text: University Chemistry
+    favicon: favicon.svg
     base_url: /
   nav:
     - title: Book
       url: /p1-ch01-energy
-    - title: Repository
-      url: https://github.com/wanduangwang/UNIVERSITY-CHEMISTRY
-  actions:
-    - title: Repository
-      url: https://github.com/wanduangwang/UNIVERSITY-CHEMISTRY
   domains: []

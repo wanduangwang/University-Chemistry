@@ -11,9 +11,10 @@ title: "Energy"
 
 —Bill Gates and Mark Zuckerberg, November 29, 2015, Palo Alto, CA
 
-::{figure} ../images/fig-p1-ch01-1.jpg
+:::{figure} ../images/fig-p1-ch01-1.jpg
 :name: fig-p1-ch01-1
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## Framework
 
@@ -23,10 +24,11 @@ There are important answers to these questions that emerge from different lines 
 
 Numbers are important. We receive 10,000 times the amount of energy from the Sun, shown in Figure 1.1, per unit time than is consumed by all mankind. The human endeavor of energy extraction, distribution and use is today an \$8 trillion per year enterprise, dwarfing its next closest competitor. Developing a $1 \%$ niche in this industry is an \$80 billion per year opportunity. Energy dominates consideration of economic decisions and economic forecasts. Another perspective is that supplying energy to the global population is the single most important prerequisite for human health, food supplies, education, and civilized existence. As change accelerates in the global arena, the future increasingly belongs to those in command of an understanding of energy and energy consequences at the global and molecular level. A key reason for this is that picturing what occurs at the submicroscopic or molecular level directly clarifies the cause of changes that occur at the macroscopic, observable scale. Alternatively stated, the lack of an understanding of the principles that underlie the concept of energy will increasingly become an impairment to professional success as globalization becomes increasingly important.
 
-::{figure} ../images/fig-p1-ch01-2.jpg
+:::{figure} ../images/fig-p1-ch01-2.jpg
 :name: fig-p1-ch01-2
+:alt: FIGURE 1.1 An understanding of energy at the global and molecular level requires an understanding of how nature seamlessly transforms energy among and between various categories. The Sun represents an important case in point because at the
 FIGURE 1.1 An understanding of energy at the global and molecular level requires an understanding of how nature seamlessly transforms energy among and between various categories. The Sun represents an important case in point because at the core of the Sun the extremely high pressure and high temperature (100 million K) sustain nuclear fusion reactions converting hydrogen nuclei to helium nuclei generating some $1 0 ^ { 3 4 }$ joules of energy a year. This energy release moves to the surface of the Sun by the transport of hot material and by the transport of electromagnetic radiation outward to the Sun's surface. The temperature of the visible disk of the Sun, called the photosphere, resides at 5800 K, emitting visible light (electromagnetic radiation). That solar radiation in the visible is emitted outward into the blackness of Space. The Earth intercepts approximately one part in $1 0 ^ { 1 0 }$ of that solar radiation, which is 10,000 times the total energy consumption rate of the global economy. The solar radiation received by the Earth is transformed into the kinetic energy of the motion of the atmosphere and the oceans, into the building of organisms through photosynthesis, into the power that sustains humanity, and into the heat that warms the planet.
-::::
+:::
 
 
 An important consideration at the intersection of science and the role science now plays in societal objectives is that learning and understanding are accelerated by an imperative. We reside today at an unprecedented point in human history for which the physical sciences hold the key to developing a strategy for global scale decisions of critical importance to this and subsequent generations. This increasingly powerful union of science and society places the physical sciences not only in a position of opportunity, but also in a position of responsibility for establishing a rational foundation for progress. Current university graduates face coming to terms with a number of questions: What technical forces are shaping the modern world? What are the most pressing problems this and subsequent generations will face? Where are the frontiers of innovation and what implications do they hold for professional endeavors in science, technology, international economics, government, ethics, public health, law, and education? From the emergence of modern humans as a species 160,000 years ago, it required 7000 human generations to reach a global population of 2 billion in the middle of the 20<sup>th</sup> century. In the span of a single human lifetime, 1945 to 2045, world population will increase by a factor of five to approximately 10 billion. To recognize the scale of human demand for energy in the face of this population increase, combined with the expected growth in the standard of living for the developing economies in Asia, Africa, and South America, our global society must build the equivalent of two large fossil fuel burning power plants per day between now and 2050; alternatively, a nuclear power plant every day between now and 2050. This sets the scale of the challenges—but what are the consequences? As we will see, when carefully considered, pressure applied to the structures of global society by increasing global population and per capita standard of living transform the union between the core concepts in the physical sciences and the structure of an effective university education. Specifically the union is transformed by the objective of linking an understanding of the scientific and technical fundamentals into an integrated university education that does not, at an early stage, split the sciences from the broader context of societal challenges and opportunities. Operating effectively within the international arena without a grasp of the scientific and technical fundamentals that define a path forward will, for current university graduates, become increasingly difficult.
@@ -35,63 +37,73 @@ An important component of an ability to understand the scientific and technical 
 
 Setting the Context 1: Energy Scale in Joules
 
-::{figure} ../images/fig-p1-ch01-3.jpg
+:::{figure} ../images/fig-p1-ch01-3.jpg
 :name: fig-p1-ch01-3
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-4.jpg
+:::{figure} ../images/fig-p1-ch01-4.jpg
 :name: fig-p1-ch01-4
+:alt: FIGURE 1.2 Becoming familiar with the orders of magnitude that comprise the range of energies occurring in both nature and in the human endeavor constitutes one of the most important perspectives in the union of science and society. We will
 FIGURE 1.2 Becoming familiar with the orders of magnitude that comprise the range of energies occurring in both nature and in the human endeavor constitutes one of the most important perspectives in the union of science and society. We will constantly be returning to the calculation and analysis of “how much energy” is associated with global consumption, with the output of the Sun, with the interaction of photons of light with molecules, with the energy release from a nuclear reaction or a chemical reaction, and with the kinetic energy of a single molecule. While we will subsequently become familiar with how to calculate the energy in each category of interest, and how to relate each of these energy categories, we present here a range of energies from the microscopic to the macroscopic as a framework to build an intuition concerning how the world works—in the universally adopted unit of joules, so named for James Prescott Joule whom we will meet in the chapter Core.
-::::
+:::
 
 
-::{figure} ../images/fig-p1-ch01-5.jpg
+:::{figure} ../images/fig-p1-ch01-5.jpg
 :name: fig-p1-ch01-5
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-6.jpg
+:::{figure} ../images/fig-p1-ch01-6.jpg
 :name: fig-p1-ch01-6
+:alt: FIGURE 1.3 While energy determines the amount of work that can be done, power determines how fast or how quickly that energy can be converted from one form of energy to another. Thus the distinction between energy and power becomes one of p
 FIGURE 1.3 While energy determines the amount of work that can be done, power determines how fast or how quickly that energy can be converted from one form of energy to another. Thus the distinction between energy and power becomes one of paramount importance in any discussion of energy transfer. Power is quite simply the amount of energy transferred per unit time so power = energy/time and the universal unit of power is the watt, named after James Watt, such that 1 watt = 1 joule/second. In the case of an electrical device for example, a 100 watt light bulb uses 100 joules of energy in one second. Frequently for mechanical devices such as a car, we define its power in terms of horsepower (hp). But 1000 watts, or a kilowatt (kW), is just 1.3 hp so a 200 horsepower car is a 154 kW car. Examine this power scale carefully—just as with energy, it provides an important perspective!
-::::
+:::
 
 
 ## - Global Context -
 
-::{figure} ../images/fig-p1-ch01-7.jpg
+:::{figure} ../images/fig-p1-ch01-7.jpg
 :name: fig-p1-ch01-7
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## Case Study 1.1 Linking the Concepts of Energy and Power
 
-::{figure} ../images/fig-p1-ch01-8.jpg
+:::{figure} ../images/fig-p1-ch01-8.jpg
 :name: fig-p1-ch01-8
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## Case Study 1.2 Quantitative Reasoning Linking Energy, Work, and Power
 
-::{figure} ../images/fig-p1-ch01-9.jpg
+:::{figure} ../images/fig-p1-ch01-9.jpg
 :name: fig-p1-ch01-9
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## Case Study 1.3 Development of the Scales of Energy and Power
 
-::{figure} ../images/fig-p1-ch01-10.jpg
+:::{figure} ../images/fig-p1-ch01-10.jpg
 :name: fig-p1-ch01-10
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 A key structural feature of the approach adopted here is the relationship between concepts intrinsic to the scientific fundamentals and context that constitutes the global demand for innovative solutions serving both personal and societal objectives. Figure 1.4 presents this strategy in graphical form, placing the concepts that form the foundation of the modern physical sciences at the center of the diagram: quantum mechanics, thermodynamics, electrochemistry, kinetics, catalysis, photochemistry, materials, and nuclear chemistry. The outer circle of Figure 1.4 summarizes the context that requires an understanding of the concepts in order to participate proactively in the affairs of our global society as the future unfolds: energy production and storage, innovative new materials, feedbacks in the climate structure, human health, technology leadership, national security, and international negotiations. Indeed, a working knowledge of the concepts at the core of Figure 1.4 and the union of those concepts with the context laid out in Figure 1.4 is necessary for informed participation in a modern scientific discourse and in a modern democracy.
 
 • Innovative new materials Nanostructures, self assembly, solar cells, electronics
 
-::{figure} ../images/fig-p1-ch01-11.jpg
+:::{figure} ../images/fig-p1-ch01-11.jpg
 :name: fig-p1-ch01-11
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 •Technology leadership Electronics, electric automobiles, health systems, and software
 
-::{figure} ../images/fig-p1-ch01-12.jpg
+:::{figure} ../images/fig-p1-ch01-12.jpg
 :name: fig-p1-ch01-12
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## CONTEXT
 
@@ -99,21 +111,24 @@ A key structural feature of the approach adopted here is the relationship betwee
 
 • Energy production, storage, and distribution
 
-::{figure} ../images/fig-p1-ch01-13.jpg
+:::{figure} ../images/fig-p1-ch01-13.jpg
 :name: fig-p1-ch01-13
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-14.jpg
+:::{figure} ../images/fig-p1-ch01-14.jpg
 :name: fig-p1-ch01-14
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Incoming sunlight Solar panel
 
 Energy storage
 
-::{figure} ../images/fig-p1-ch01-15.jpg
+:::{figure} ../images/fig-p1-ch01-15.jpg
 :name: fig-p1-ch01-15
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## CONCEPTS
 
@@ -135,16 +150,18 @@ Energy storage
 
 • Rapid changes in the product of global population and per capita power demand
 
-::{figure} ../images/fig-p1-ch01-16.jpg
+:::{figure} ../images/fig-p1-ch01-16.jpg
 :name: fig-p1-ch01-16
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 • International negotiations Technology leadership, arms control
 
-::{figure} ../images/fig-p1-ch01-17.jpg
+:::{figure} ../images/fig-p1-ch01-17.jpg
 :name: fig-p1-ch01-17
+:alt: FIGURE 1.4 The combination of rapidly developing innovation and rapidly increasing world population places the physical sciences in a position of primary responsibility for the solution to key societal objectives. The concepts central to ch
 FIGURE 1.4 The combination of rapidly developing innovation and rapidly increasing world population places the physical sciences in a position of primary responsibility for the solution to key societal objectives. The concepts central to chemistry and the physical sciences are summarized in the center of the diagram. Mastering the conceptual core of the physical sciences is essential for understanding the larger context of how those principles are connected to immediate challenges including global energy production, innovative new materials, economic leadership, human health, feedbacks in the climate system, international negotiations, and natural security.
-::::
+:::
 
 
 One other aspect of Figure 1.4 that requires note is the input, displayed at the bottom center of the diagram. The rapid increase in global population, particularly in Asia and Africa, as we approach the middle of the century is forcing dynamic change linking the concepts to the context. Because this global population increase is occurring primarily in the developing world, where per capita energy consumption is a small fraction of what it is in the developed countries, the global demand for energy will increase far more rapidly than will population. For example, the per capita consumption of energy in the US is nearly 50 times the per capita energy consumption of nations in central Africa, yet a major fraction of world population growth will occur in Africa.
@@ -155,9 +172,10 @@ A further study of thermodynamics over the course of this text will demonstrate 
 
 For example, an important axiom that can be drawn directly from the First Law of Thermodynamics is: it is the net flow of heat into the reservoirs of the climate system that define the course of events as we move into the future. It is the irreversible changes to the climate structure that result from the retention of that heat that matters most to society, not simply “global warming.” An important example is the floating ice encompassing the Arctic Ocean that has remained in place for the past 3 million years. However, in the last 30 years, 75 percent of the permanent ice has been lost from this system initiating potent feedbacks that accelerate the removal of the remaining ice. It is now possible to pass unencumbered from the Pacific to the Atlantic Ocean in summer—the “northwest passage” that drove exploration from the 15th century on. The numbers matter: this loss of ice volume means that a net $5 \times 1 0 ^ { 2 1 }$ joules of energy, as heat, has flowed into the Arctic Ice Cap over the past 30 years. Yet the energy per unit time required to melt this Arctic ice is but one part in 50,000 of the infrared energy circulating between the Earth's surface and the water vapor, carbon dioxide, methane, and cloud structures in the atmosphere. In order to place this in context, we must understand energy scales and the relative orders of magnitude associated with categories of energy. We must also develop an understanding of feedbacks and the role they play in physical and biological systems.
 
-::{figure} ../images/fig-p1-ch01-18.jpg
+:::{figure} ../images/fig-p1-ch01-18.jpg
 :name: fig-p1-ch01-18
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Next consider quantum mechanics. Why is quantum mechanics so important to our future? Recognition of the wave properties of the electron initiates fundamental insight into the structure of the hydrogen atom and multielectron atomic systems. In addition, tracing the scientific origin of quantum mechanics gives us an opportunity to discuss the Scientific Method in concrete terms—this is the subject of Case Study 1.4.
 
@@ -177,19 +195,22 @@ Case Study 1.5 Calculating Energy Use at the Global Scale
 
 ## What drives the demand for global energy?
 
-::{figure} ../images/fig-p1-ch01-19.jpg
+:::{figure} ../images/fig-p1-ch01-19.jpg
 :name: fig-p1-ch01-19
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-20.jpg
+:::{figure} ../images/fig-p1-ch01-20.jpg
 :name: fig-p1-ch01-20
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Per capita income
 
-::{figure} ../images/fig-p1-ch01-21.jpg
+:::{figure} ../images/fig-p1-ch01-21.jpg
 :name: fig-p1-ch01-21
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 = GLOBAL ENERGY DEMAND
 
@@ -199,7 +220,7 @@ Per capita income
 
 In the sections that follow, we develop first an understanding of the concept of energy by tracing its scientific development—a treatment that demonstrates how elusive the concept of energy turned out to be. As we will see, in order to understand energy we must develop a facility for understanding how nature transforms various types of energy among and between various important categories of energy. The Chapter 1 Road Map is displayed in Figure 1.5.
 
-<table><tr><td colspan="2">Road Map to Core Concepts</td></tr><tr><td>Understanding the Concept of Energy: A Prerequisite for Scientific Progress (p. 9)</td><td><img src="../images/fig-p1-ch01-22.jpg"/></td></tr><tr><td>Energy, Work, and Newton&#x27;s Laws: Conservation of Mechanical Energy (p. 12)</td><td><img src="../images/fig-p1-ch01-23.jpg"/></td></tr><tr><td>Conservation of Energy: Tracking the Flow of Energy from Macroscopic Mechanical Energy to Microscopic Molecular Motion (p. 15)</td><td><img src="../images/fig-p1-ch01-24.jpg"/></td></tr><tr><td>Potential Energy Diagram and the Reaction Coordinate Diagram (p. 20)</td><td>Reaction Coordinate Diagram <img src="../images/fig-p1-ch01-25.jpg"/></td></tr><tr><td>The Mechanical Equivalent of Heat and the Concept of Heat Capacity (p. 22)</td><td><img src="../images/fig-p1-ch01-26.jpg"/></td></tr><tr><td>Kinetic Theory Interpretation of Temperature (p. 26)</td><td><img src="../images/fig-p1-ch01-27.jpg"/></td></tr><tr><td>Role of Electromagnetic Radiation in the Transformation of Energy Among Various Categories of Energy (p. 30)</td><td><img src="../images/fig-p1-ch01-28.jpg"/></td></tr><tr><td>Blackbody Radiation and the Stefan-Boltzmann Law (p. 34)</td><td><img src="../images/fig-p1-ch01-29.jpg"/></td></tr><tr><td>Energy and Power: A Critically Important Distinction (p. 38)</td><td><img src="../images/fig-p1-ch01-30.jpg"/></td></tr></table>
+<table><tr><td colspan="2">Road Map to Core Concepts</td></tr><tr><td>Understanding the Concept of Energy: A Prerequisite for Scientific Progress (p. 9)</td><td><img src="../images/fig-p1-ch01-22.jpg" alt="Source textbook figure"/></td></tr><tr><td>Energy, Work, and Newton&#x27;s Laws: Conservation of Mechanical Energy (p. 12)</td><td><img src="../images/fig-p1-ch01-23.jpg" alt="Source textbook figure"/></td></tr><tr><td>Conservation of Energy: Tracking the Flow of Energy from Macroscopic Mechanical Energy to Microscopic Molecular Motion (p. 15)</td><td><img src="../images/fig-p1-ch01-24.jpg" alt="Source textbook figure"/></td></tr><tr><td>Potential Energy Diagram and the Reaction Coordinate Diagram (p. 20)</td><td>Reaction Coordinate Diagram <img src="../images/fig-p1-ch01-25.jpg" alt="Source textbook figure"/></td></tr><tr><td>The Mechanical Equivalent of Heat and the Concept of Heat Capacity (p. 22)</td><td><img src="../images/fig-p1-ch01-26.jpg" alt="Source textbook figure"/></td></tr><tr><td>Kinetic Theory Interpretation of Temperature (p. 26)</td><td><img src="../images/fig-p1-ch01-27.jpg" alt="Source textbook figure"/></td></tr><tr><td>Role of Electromagnetic Radiation in the Transformation of Energy Among Various Categories of Energy (p. 30)</td><td><img src="../images/fig-p1-ch01-28.jpg" alt="Source textbook figure"/></td></tr><tr><td>Blackbody Radiation and the Stefan-Boltzmann Law (p. 34)</td><td><img src="../images/fig-p1-ch01-29.jpg" alt="Source textbook figure"/></td></tr><tr><td>Energy and Power: A Critically Important Distinction (p. 38)</td><td><img src="../images/fig-p1-ch01-30.jpg" alt="Source textbook figure"/></td></tr></table>
 
 FIGURE 1.5 Summary of the major concepts developed in the chapter core.
 
@@ -209,9 +230,10 @@ Energy is transformed continuously between its various forms in ways that can ra
 
 The emergence of energy as a well defined scientific concept has a tortured past. Aristotle (381-322 BC) was the first to grapple with the many connotations of the concept of energy and to attempt to make sense of its many complexities. He first referred to it in his Metaphysics by joining in (εν) and work (εργoν) to form ενεργεα or “energea” that he linked with “entelechia” or “complete reality.” The verb energea thus came to signify motion, action, work, and/or change. But little progress was made on this concept of energy through the Roman period, the Middle Ages, and the Renaissance.
 
-::{figure} ../images/fig-p1-ch01-31.jpg
+:::{figure} ../images/fig-p1-ch01-31.jpg
 :name: fig-p1-ch01-31
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Aristotle
 
@@ -231,9 +253,10 @@ Mayer had an explanation ready: blood in the tropics does not have to be as oxid
 
 The correct value for the equivalence of heat and mechanical energy was found by the English physicist James Prescott Joule (1818-1889), after he conducted a large number of careful experiments. Joule used very sensitive thermometers to measure the temperature of water being churned by an assembly of revolving vanes driven by descending weights: this arrangement made it possible to measure fairly accurately the mechanical energy invested in the churning process. In 1847 Joule's painstaking experiments yielded a result that turned out to be less than one percent of the actual value. The law of conservation of energy—that energy can be neither created nor destroyed—is now commonly known as the first law of thermodynamics.
 
-::{figure} ../images/fig-p1-ch01-32.jpg
+:::{figure} ../images/fig-p1-ch01-32.jpg
 :name: fig-p1-ch01-32
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 James Prescott Joule
 
@@ -243,9 +266,10 @@ In 1850 the German theoretical physicist Rudolf Clausius (1822- 1888) published 
 
 The initial motivation for all of the pioneers of steam, most notably Thomas Newcomen (1663-1729) and James Watt (1738-1819), was to develop an efficient means to pump water from underground mines. In this, Watt's primary achievement was to improve on the earlier innovation by Thomas Newcomen. But where Newcomen failed to profit much from his invention, Watt was remarkably successful. He was recognized early in life as an accomplished inventor and entrepreneur. He received more lasting fame in later life when he was elected, at age 47 (in 1785), to the Royal Society of London. Fifteen years after his death in 1819, a statue honoring him was installed in Westminster Abbey.
 
-::{figure} ../images/fig-p1-ch01-33.jpg
+:::{figure} ../images/fig-p1-ch01-33.jpg
 :name: fig-p1-ch01-33
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 The inscription on Watt's statue reads as follows:
 
@@ -259,15 +283,17 @@ In Newcomen's engine, steam under pressure from a boiler pushed a piston to the 
 
 Newcomen's engines were used almost exclusively for pumping water. When power was needed to turn other machinery, a Newcomen engine would pump water to a level from which it could fall through a water wheel! (This practice has had a reincarnation. Nowadays, some electric generating power plants use off-peak power to pump water to elevated reservoirs. During peak demand, the water runs downhill through hydraulic turbines whose output supplements the capacity of the steam plant.) In spite of its wide use, the Newcomen engine left much to be desired. It was large, ungainly, and had an extravagant appetite for fuel.
 
-::{figure} ../images/fig-p1-ch01-34.jpg
+:::{figure} ../images/fig-p1-ch01-34.jpg
 :name: fig-p1-ch01-34
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 In 1763 the Scottish instrument maker James Watt became disturbed by the Newcomen engine's great waste of heat through the alternate warming and cooling of the cylinder. He introduced the idea of a separate condenser that would remain cool yet communicate with the cylinder by a valve opened at a propitious point in the cycle (see figure right).
 
-::{figure} ../images/fig-p1-ch01-35.jpg
+:::{figure} ../images/fig-p1-ch01-35.jpg
 :name: fig-p1-ch01-35
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 A separate condenser draws steam from the Lever Second cylinder, creating the pressure loss that allows the translates piston piston to drop. Because the cylinder heats and motion to draws cools less each cycle, the design is more efficient. secondpiston water up
 
@@ -281,10 +307,11 @@ So reaching a quantitative understanding of what energy is required a broad reco
 
 The secrets surrounding how energy serves as the singularly important currency for changes in natural systems began to be revealed through the work of James Watt, Thomas Young, and others as described above. But it was Isaac Newton, shown in Figure 1.6, who, well before Watt's and Young's contributions, made the profound connections that began to expose the true nature of energy. While the stories about Newton watching an apple fall from a tree are woven into scientific legend, consider what is actually occurring when you observe such an event. It is far from a trivial transformation. The apple, suspended at rest above the ground, begins to accelerate downward, gaining kinetic energy as it falls. This is a rather miraculous, yet seamless, interchange of energy from one form (gravitational potential energy) to another form (kinetic energy). When the apple hits the ground, it comes to rest. Has the energy disappeared? As we will see, the answer is no. But Newton was initially concerned with a different question. Suppose, he reasoned, we reverse the process by returning that apple to the branch from which it fell. Newton recognized that to do so he would have to apply a force against gravity, over a distance, from the ground to the point from which the apple fell. That quantity, he reasoned (the force times the distance) must quantitatively represent the same “thing” as the kinetic energy contained in the apple as it hit the ground. That is, the work required to raise the apple in the Earth's gravitational field was quantitatively the same as the kinetic energy of motion possessed by the apple at the moment it hit the ground. The common, and apparently exchangeable, quantity involved in this physical transformation, was energy. Except now this exchangeable currency, energy, could be quantitatively determined by measuring the force and the distance and multiplying them to obtain the work required to place the apple at its initial position.
 
-::{figure} ../images/fig-p1-ch01-36.jpg
+:::{figure} ../images/fig-p1-ch01-36.jpg
 :name: fig-p1-ch01-36
+:alt: FIGURE 1.6 Isaac Newton (1642-1727) was responsible for establishing the laws governing the relationship between inertia, force, mass, acceleration, work, and energy. He would later clarify the principles governing the gravitational force b
 FIGURE 1.6 Isaac Newton (1642-1727) was responsible for establishing the laws governing the relationship between inertia, force, mass, acceleration, work, and energy. He would later clarify the principles governing the gravitational force between celestial objects.
-::::
+:::
 
 
 It is obvious to us when we do physical work that it takes more work to push a 100 lb box 200 feet than it does to push it 100 feet (and that a 50 lb box takes less work to push an equal distance than a 100 lb box). But we still do not have a quantitative definition of force, even though we can reliably measure distance.
@@ -371,10 +398,11 @@ Alternatively, we can run repeated experiments, for example with a baseball as s
 
 ## Schematic of a baseball thrown vertically
 
-::{figure} ../images/fig-p1-ch01-37.jpg
+:::{figure} ../images/fig-p1-ch01-37.jpg
 :name: fig-p1-ch01-37
+:alt: FIGURE 1.7 The trajectory of a baseball, thrown vertically from the ground, exemplifies the exchange between potential energy and kinetic energy. The baseball leaves the ground with initial vertical velocity of mathematical notation and ini
 FIGURE 1.7 The trajectory of a baseball, thrown vertically from the ground, exemplifies the exchange between potential energy and kinetic energy. The baseball leaves the ground with initial vertical velocity of $\mathsf { v } _ { \mathrm { i } }$ and initial kinetic energy of $ { \gamma _ { 2 } }  { \mathrm { \ m v } _ { \mathrm { i } } } ^ { 2 }$ . It rises vertically until it acquires an amount of potential energy, mgh, equal to its initial kinetic energy. It then falls toward the ground, converting potential energy to kinetic energy until it reaches the ground with downward velocity opposite in direction but equal in magnitude to $\mathsf { v } _ { \mathrm { i } } .$
-::::
+:::
 
 
 Or if $\mathrm { ( E _ { T } ) _ { g r o u n d } = ( P E + K E ) _ { g r o u n d } }$ is the sum of potential energy and kinetic energy at the ground and if $( \mathrm { E _ { T } } ) _ { \mathrm { m a x } } = \left( \mathrm { P E } + \mathrm { K E } \right) _ { \mathrm { m a x } }$ is the sum of potential energy plus kinetic energy at the maximum height the mass reaches, then, because the conservation of energy dictates that $\Delta \mathrm { E _ { T } = \left( \mathrm { E _ { T } } \right) _ { g r o u n d } - \left( \mathrm { E _ { T } } \right) _ { m a x } = }$ $\mathbf { O } ,$ we have $\mathrm { ( E _ { T } ) _ { g r o u n d } = ( E _ { T } ) _ { m a x } \ s o \ ( m g h + ^ { 1 / 2 } m v ^ { 2 } ) _ { g r o u n d } = ( m g h + ^ { 1 / 2 } m v ^ { 2 } ) _ { m a x } . }$ If we begin initially with the mass moving vertically upward at the ground with velocity $\mathbf { v _ { i } }$ at $\mathbf { h } = \mathbf { 0 } ;$ , then $\mathrm { ( m g h ) } _ { \mathrm { g r o u n d } } = 0$ and $( \mathrm { \small ~ ^ { 1 } / 2 ~ m v ^ { 2 } ) _ { g r o u n d } = ^ { 1 } / 2 ~ m v _ { i } } ^ { 2 }$ . At the maximum height, the final velocity, $\mathbf { v _ { f } } = \mathbf { 0 }$ , and with the mass at height, h, $( \mathrm { m g h + ^ { 1 } / 2 \ m v _ { f } ^ { 2 } } ) _ { \mathrm { m a x } } = \mathrm { m g h + o \ s o }$ our conservation of energy expression gives us
@@ -395,10 +423,11 @@ Thus the height, h, reached by the mass with initial vertical velocity $\mathbf 
 
 It is important to keep this principle of conservation of energy clearly in mind, which we can do for any point in the trajectory of the mass using an energy chart to keep quantitative track. This is displayed in Figure 1.8.
 
-::{figure} ../images/fig-p1-ch01-38.jpg
+:::{figure} ../images/fig-p1-ch01-38.jpg
 :name: fig-p1-ch01-38
+:alt: FIGURE 1.8 We can keep track of the amount of kinetic energy and potential energy throughout the course of a mass's trajectory using an energy bar chart to track the quantitative relationship between KE and PE.
 FIGURE 1.8 We can keep track of the amount of kinetic energy and potential energy throughout the course of a mass's trajectory using an energy bar chart to track the quantitative relationship between KE and PE.
-::::
+:::
 
 
 So it was the link among inertia, force, acceleration, and work that exposed the central principle of energy and of energy conservation.
@@ -457,9 +486,10 @@ If you dive from a cliff 30 meters above the water, how fast will you be moving 
 
 That's about 50 mph!
 
-::{figure} ../images/fig-p1-ch01-39.jpg
+:::{figure} ../images/fig-p1-ch01-39.jpg
 :name: fig-p1-ch01-39
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 There is another important relationship that emerges from Newton's laws. Since $\mathrm { F = m a }$ it follows from the definition of acceleration $\mathbf { a } = \Delta \mathbf { v } / \Delta \mathrm { t }$ that
 
@@ -479,9 +509,10 @@ But for a body of given mass m, the momentum of that body is $\mathbf { P } = \m
 
 ## Sidebar 1.3—Velocity of Molecules in a Gas
 
-::{figure} ../images/fig-p1-ch01-40.jpg
+:::{figure} ../images/fig-p1-ch01-40.jpg
 :name: fig-p1-ch01-40
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 There are several key features to note in this distribution of molecular kinetic energies. The first is that the distribution is a distinct function of temperature. The distribution of molecular speeds for molecular oxygen at 273 K peaks (reaches a maximum) at a velocity of about 450 m/sec, whereas the $\mathrm { O } _ { 2 }$ velocity distribution at 1000 K peaks at nearly 1000 m/sec. The number of molecules at very low velocities drops to $\mathbf { Z } { \mathrm { e r } } 0 ,$ as does the number at high velocities. Of particular importance, however, is that as the temperature increases, the number of molecules at the high velocity (and thus high kinetic energy) end of the distribution increases dramatically. Consider, for example, the fraction of $\mathrm { O } _ { 2 }$ molecules with molecular velocities equal to or greater than 1000 m/sec at 273 K (\~1%) versus at 1000 K (\~30%). The importance of molecular mass on the velocity distribution is also dramatic. The molecular mass of $\mathrm { O } _ { 2 } \left( 3 2 \times 1 . 6 6 \times 1 0 ^ { - 2 7 } \right.$ $\mathrm { k g } = 5 { \cdot } 3 \times 1 0 ^ { - 2 6 }$ kg) is sixteen times that of $\mathrm { H _ { 2 } } \left( 2 \times 1 . 6 6 \times 1 0 ^ { - 2 7 } \mathrm { k g } = 3 . 3 \times \right.$ $1 0 ^ { - 2 7 } ~ \mathrm { k g } )$ , but the velocity corresponding to the maximum fraction of $\mathrm { H } _ { 2 }$ molecules at 273 K is some four times that of $\mathrm { O } _ { 2 } .$
 
@@ -507,10 +538,11 @@ Now let's suppose we have a mass moving up and down in a gravitational field on 
 ```
 
 
-::{figure} ../images/fig-p1-ch01-41.jpg
+:::{figure} ../images/fig-p1-ch01-41.jpg
 :name: fig-p1-ch01-41
+:alt: FIGURE 1.9 The apparatus consisting of a mass, rod and spring is a system that can be used to track quantitatively the conversion of macroscopic mechanical energy to microscopic thermal energy contained in the atoms that compose the system.
 FIGURE 1.9 The apparatus consisting of a mass, rod and spring is a system that can be used to track quantitatively the conversion of macroscopic mechanical energy to microscopic thermal energy contained in the atoms that compose the system.
-::::
+:::
 
 
 The conservation of energy equation requires that the mass m on the rod will continue to oscillate indefinitely. Suppose, however, that the motion of the mass on the rod is no longer frictionless and that there is some energy dissipation in the spring. In this case, our conservation of total energy law, as expressed by the equation $\Delta \mathrm { E } _ { \mathrm { m e c h } } = \Delta ( \mathrm { K E } + \mathrm { P E } ) = 0$ , will clearly be violated as the friction will remove mechanical energy from the system (mass, rod, spring in a gravitational field). The vertical oscillation of the mass on the rod will decay in amplitude until the mass comes to rest on the top of the spring— motionless. At that point, direct observation has demonstrated that rather than $\Delta \mathrm { E } _ { \mathrm { m e c h } } = \mathbf { 0 }$ , in fact $\Delta \mathrm { E } _ { \mathrm { m e c h } } = \left( \mathrm { E } _ { \mathrm { m e c h } } \right) _ { \mathrm { i } } ,$ the initial mechanical energy of the system. The conservation of energy equation requires that $\Delta \mathrm { E } _ { \mathrm { m e c h } } =$ $\mathrm { ( E _ { m e c h } ) _ { i } - ( E _ { m e c h } ) _ { f } }$ so if $( \mathrm { E } _ { \mathrm { m e c h } } ) _ { \mathrm { f } } = \mathbf { 0 }$ , then $\Delta \mathrm { E } _ { \mathrm { m e c h } } = \mathrm { ( E _ { m e c h } ) } _ { \mathrm { i } } - 0 = \mathrm { ( E _ { m e c h } ) } _ { \mathrm { i } }$ and so $\Delta \mathrm { { E } _ { \mathrm { { m e c h } } } ~ = ~ ( \mathrm { { E } _ { \mathrm { { m e c h } } } ) _ { i } } }$ . But if we trust in the principle of energy conservation, then we must find that lost energy, because there is no longer any macroscopic mechanical energy associated with the system.
@@ -593,10 +625,11 @@ This expresses the fact that the work done to sustain the macroscopic kinetic en
 
 We now have a formulation that can answer the question: What happened to the kinetic energy of Newton's falling apple when it struck the ground? Just as with the moving mass on the rod, the answer lies in the conversion of macroscopic motion of a body (the apple) to the microscopic energy contained in the motion of molecules that make up a solid body. In particular, when the apple strikes the ground, the kinetic energy of its downward motion is converted to the increase in the velocity of the molecules that make up the ground at the point of impact as well as the velocity of the molecules that make up the apple at the point of impact with the ground. This is manifest in the increase in temperature of the collision “zone” between the apple and the ground displayed graphically in Figure 1.10.
 
-::{figure} ../images/fig-p1-ch01-42.jpg
+:::{figure} ../images/fig-p1-ch01-42.jpg
 :name: fig-p1-ch01-42
+:alt: FIGURE 1.10 As the apple descends toward the ground, it converts potential energy, mgh, to kinetic energy, ½ mv2. Just as it reaches the ground, it has its maximum kinetic energy. At the point of collision, the macroscopic kinetic energy of
 FIGURE 1.10 As the apple descends toward the ground, it converts potential energy, mgh, to kinetic energy, ½ mv<sup>2</sup>. Just as it reaches the ground, it has its maximum kinetic energy. At the point of collision, the macroscopic kinetic energy of the apple is converted to the microscopic energy of the molecules in the collision zone, increasing the velocity of those molecules and thereby increasing their temperature.
-::::
+:::
 
 
 ## Check Yourself 4
@@ -685,20 +718,22 @@ So we recognize from this quick calculation that, first, molecules at room tempe
 
 We can also represent the exchange of kinetic and potential energy by investigating a rolling sphere as it progresses over a surface that contains a series of hills and valleys as displayed in Figure 1.11.
 
-::{figure} ../images/fig-p1-ch01-43.jpg
+:::{figure} ../images/fig-p1-ch01-43.jpg
 :name: fig-p1-ch01-43
+:alt: FIGURE 1.11 The potential energy diagram represents an extremely important and versatile concept that is applicable to many different systems. In the case shown here, potential energy created by the gravitational attraction between the mass
 FIGURE 1.11 The potential energy diagram represents an extremely important and versatile concept that is applicable to many different systems. In the case shown here, potential energy created by the gravitational attraction between the mass M and the Earth is such that the vertical axis in energy units is equal to Mgh where g is the acceleration of gravity, h is the height of the mass above a reference position. Notice that the potential energy surface is fixed as a coordinate system and the kinetic energy of a mass moving over that surface allows us to separate the kinetic energy of mass M (given by $1 / 2 \mathsf { M v } ^ { 2 } )$ from the potential energy.
-::::
+:::
 
 
 As the sphere rolls past position #1 in Figure 1.11, it has an initial kinetic energy $\mathrm { ^ { 1 / 2 \ m v _ { i } ^ { 2 } } }$ . As it moves toward position $\# 2 ,$ it is losing kinetic energy as it “climbs” the hill toward position $\# 2$ because it is converting kinetic energy into potential energy such that the sum $\mathrm { E } _ { \mathrm { m e c h } } = \mathrm { K E } + \mathrm { P E }$ remains constant (where we assume the motion of the ball over the surface is frictionless.) When it reaches position #2, it has gained an amount of potential energy, given by $\mathrm { \ m g h _ { 2 } } ,$ , but it has lost an amount of kinetic energy given by $- \mathrm { m g h } _ { 2 }$ . If the amount of initial kinetic energy, $\mathrm { ^ { 1 / 2 } \ m v _ { i } } ^ { 2 } ;$ , is less than $\mathrm { { m g h } } _ { 2 } ,$ then the rolling sphere will reverse direction and pass again through position #1 moving in the opposite direction, but in the absence of friction, with a velocity equal in magnitude to that of the initial condition at position #1. However, if the initial kinetic energy exceeds $\mathrm { \ m g h _ { 2 } } ,$ the sphere will pass over the crest of the hill and will convert potential energy to kinetic energy as it proceeds to the right, down the hill toward position #3 such that it will have added additional kinetic energy. The additional kinetic energy is equal to the potential energy lost in moving from position $\# 1$ to position $\# 3$ , an amount $\mathrm { { m g h } } _ { 3 }$ . Figure 1.11 represents a simple but extremely important concept called a Potential Energy Surface (PES). In this example, the potential energy surface graphically represents a vertical displacement in a gravitational field that determines the potential energy (mgh) at any point along the surface referenced to a specific position. It also, interestingly, serves to effectively separate the kinetic energy $( 1 / 2 \mod 2 )$ from the potential energy. This separation of the kinetic energy from the potential energy on a PES is a characteristic that will become increasingly important as more complicated systems are considered.
 
 This idea of a potential energy surface that defines the amount of kinetic energy required to surmount a barrier has an important and very useful analogy when applied to a chemical reaction. We know that when we mix hydrogen gas and oxygen, the mixture of $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 }$ will coexist without reaction indefinitely if left alone. We also know that if we touch a match to the mixture, it will explode, releasing considerable energy. We also know that when $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 }$ react, there is only one product: water or $\mathrm { H } _ { 2 } \mathrm { O }$ All of this information can be summarized in a single diagram, called a Reaction Coordinate Diagram. Figure 1.12 is a reaction coordinate diagram for $\mathrm { H } _ { 2 }$ reacting with $\mathrm { O } _ { 2 }$ to form $_ \mathrm { H _ { 2 } O }$ . The reaction coordinate diagram has several important features. First, the diagram separates reactants $\mathrm { ( H _ { 2 } }$ and $\mathrm { O } _ { 2 } )$ from the products $\mathrm { ( H } _ { 2 } \mathrm { O ) }$ of the chemical reaction. The chemical reaction thus progresses from left to right in Figure 1.12. Second, note that the reactants, $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 } ,$ are separated from the reaction product, $\mathrm { H } _ { 2 } \mathrm { O } ,$ by a barrier—not unlike the barrier in the potential energy diagram Figure 1.11. That barrier represents the energy that must be invested to initiate the chemical reaction. This barrier is the reason we must use a match or a spark to ignite the hydrogen-oxygen mixture. This is also the reason your automobile has an ignition system and “spark plugs.” A carefully timed spark is what ignites the mixture of gasoline and oxygen in the cylinders of the automobile's engine.
 
-::{figure} ../images/fig-p1-ch01-44.jpg
+:::{figure} ../images/fig-p1-ch01-44.jpg
 :name: fig-p1-ch01-44
+:alt: FIGURE 1.12 The potential energy diagram for a chemical reaction, in this case between hydrogen and oxygen, represents the relative energy between reactants mathematical notation and products mathematical notation , so that the energy diffe
 FIGURE 1.12 The potential energy diagram for a chemical reaction, in this case between hydrogen and oxygen, represents the relative energy between reactants $( \mathsf { H } _ { 2 } + \mathsf { O } _ { 2 } )$ and products $( \mathsf { H } _ { 2 } \mathsf { O } )$ , so that the energy difference represents the energy released in the rearrangement of the chemical bonds. In addition to the energy difference between reactants and products, the energy “barrier” between reactants and products represents a potential energy “hill” created by the electron-electron repulsion of the valence electrons in ${ \sf H } _ { 2 }$ and $\mathsf { O } _ { 2 }$ that must be surmounted in order to execute the chemical reaction.
-::::
+:::
 
 
 The reason a barrier to the reaction exists is that the outer electrons in $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 }$ repel each other (like electrical charges repel) and the colliding $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 }$ molecules must have sufficient kinetic energy to overcome the potential energy associated with this repulsive force to place the nuclei in close proximity to form new chemical bonds. Third, the net energy release resulting from the chemical reaction is given by the difference in energy between the hydrogen and oxygen reactants and the $\mathrm { H } _ { 2 } \mathrm { O }$ products. Fourth, the reaction coordinate diagram keeps track of the number of hydrogen atoms (two on the reactant side of the barrier, two on the product side of the barrier) and of the oxygen atoms (one on the reactant side, one on the product side). The reason the number of atoms of each element must “balance” (must be equal) on the reactant side and the product side is that a chemical reaction cannot produce or destroy atoms. A chemical reaction can only change that bonding structure of product molecules with respect to reactant molecules.
@@ -723,13 +758,15 @@ To keep track of the quantitative relationship between the kinetic energy, poten
 
 Examination of the figure in the sidebar 1.3 on page 14 that displays the velocity distribution of molecules of various masses at different temperatures raises the question of how those speeds compare with other objects such as a high power rifle bullet, a commercial jet aircraft, or a supersonic fighter aircraft. Inspection of the figure on molecular speeds reveals that an $\mathrm { O } _ { 2 }$ molecule at room temperature has, on average, a speed of approximately 450 m/s. That corresponds to 935 miles/hr. A commercial jet travels at approximately 550 mph, so that an oxygen molecule at room temperature has a speed nearly twice that of a commercial jet aircraft. Supersonic aircraft, such as the SR-71 high altitude spy plane, travel at Mach 3.5, three and one-half times the speed of sound. Since the speed of sound is $7 7 0$ mph (344 m/s, 1230 km/hr, 1130 ft/s), the SR-71 has a speed of 2695 mph (1204 m/s, 4340 km/hr, 3955 $\operatorname { f t } / \operatorname { s } )$ . Thus the SR-71 has a velocity approximately 2.5 times the average speed of the $\mathrm { O } _ { 2 }$ molecule at room temperature. Notice, however, that because the $\mathrm { O } _ { 2 }$ molecules have a distribution of speeds, some of the molecules have speeds in excess of 1000 $\mathbf { m } / \mathbf { s } _ { \mathrm { ; } }$ , and thus some of the $\mathrm { O } _ { 2 }$ molecules in this room have speeds in excess of the Mach 3.5 jet aircraft. What about the rifle bullet? The speed of rifle bullets ranges from 200 $\mathrm { m } / \mathrm { s }$ (22 caliber rim-fire cartridge) to 1500 m/s (large charge center-fire cartridge), so the average speed of an $\mathrm { O } _ { 2 }$ molecule at room temperature is about twice that of a “normal” rifle bullet and about one-third that of a high power rifle bullet. Notice, from inspection of the figure in sidebar 1.3, that even at room temperature the H atom has an average speed that exceeds that of the Mach 3.5 jet aircraft and that of the high power rifle bullet! We will examine the relationship between the temperature, mass, and velocity of molecules in a subsequent discussion.
 
-::{figure} ../images/fig-p1-ch01-45.jpg
+:::{figure} ../images/fig-p1-ch01-45.jpg
 :name: fig-p1-ch01-45
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-46.jpg
+:::{figure} ../images/fig-p1-ch01-46.jpg
 :name: fig-p1-ch01-46
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 NASA Dryden Flight Research Center Photo Collection http://www.dfrc.nasa.gov/gallery/photo/index.html NASA Photo: EC93-03092-5 Date: 1993
 
@@ -737,9 +774,10 @@ SR-71 in flight with full afterburner
 
 SR-71 aircraft with full afterburner
 
-::{figure} ../images/fig-p1-ch01-47.jpg
+:::{figure} ../images/fig-p1-ch01-47.jpg
 :name: fig-p1-ch01-47
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Bullet leaving revolver
 
@@ -749,9 +787,10 @@ Scientific discovery profits in spectacular fashion from the serendipitous: the 
 
 We know from direct experience that when two objects at different temperatures are put in contact, heat spontaneously flows from the hotter one to the colder one. The flow of thermal energy is spontaneous; it serves to equalize the temperature of the two bodies in contact. While some aspects of the flow of thermal energy seem self evident, society and science have long sought a more coherent understanding of the relationship between heat, the transformation of energy, and, in fact, of temperature itself. From the Greeks through the Roman period to the Renaissance and beyond, the explanation of the flow of heat engaged a discussion of the movement of a fluid substance called caloric.
 
-::{figure} ../images/fig-p1-ch01-48.jpg
+:::{figure} ../images/fig-p1-ch01-48.jpg
 :name: fig-p1-ch01-48
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Benjamin Thompson
 
@@ -769,24 +808,28 @@ As we noted above, the idea that heat is related to energy was pursued by a numb
 
 Electromagnetic energy transferred = heat transferred = CΔT
 
-::{figure} ../images/fig-p1-ch01-49.jpg
+:::{figure} ../images/fig-p1-ch01-49.jpg
 :name: fig-p1-ch01-49
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Mechanical energy transferred = mgh = heat transferred = CΔT
 
-::{figure} ../images/fig-p1-ch01-50.jpg
+:::{figure} ../images/fig-p1-ch01-50.jpg
 :name: fig-p1-ch01-50
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-51.jpg
+:::{figure} ../images/fig-p1-ch01-51.jpg
 :name: fig-p1-ch01-51
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-::{figure} ../images/fig-p1-ch01-52.jpg
+:::{figure} ../images/fig-p1-ch01-52.jpg
 :name: fig-p1-ch01-52
+:alt: FIGURE 1.13 Joule studied the relationship between mechanical energy and heat using an apparatus shown in panel (a) to convert gravitational potential energy, mgh, to an increase in temperature of the water and metal apparatus that heated w
 FIGURE 1.13 Joule studied the relationship between mechanical energy and heat using an apparatus shown in panel (a) to convert gravitational potential energy, mgh, to an increase in temperature of the water and metal apparatus that heated water with a system of paddles. The simple proportionality between the amount of potential energy released, mgh, and the increase in temperature, ΔT, established the relationship between the heat added, $\mathsf { q } _ { \mathsf { a d d e d } } = \mathsf { m g h }$ , and the increase in temperature such that ${ \tt q } _ { \tt a d d e d } = { \tt C } \Delta { \tt T } .$ . Panel (b) replaces the release of potential energy as a source of heat with sunlight thereby quantitatively linking electromagnetic radiation to mechanical energy. Panels (c) and (d) establish the quantitative relationship to chemical energy and electrical energy.
-::::
+:::
 
 
 ## Check Yourself 7—Joule and the Relationship between the Heat Added and the Increase in Temperature
@@ -845,10 +888,11 @@ However, the human body does not convert chemical (i.e. food) energy to mechanic
 
 This simple proportionality between the heat added to a body, $\mathbf { q } _ { \mathrm { a d d e d } } ,$ and the temperature of the body increase, $\Delta \mathrm { T _ { b o d y } }$ , begs the question: what is going on at the molecular level within the body as the heat is being added? We can gain some insight into this important question by reexamining part of Figure 1.10, the schematic of the network of masses and springs that represent the atoms and the bonds between them that comprise the macroscopic body, as displayed in Figure 1.14.
 
-::{figure} ../images/fig-p1-ch01-53.jpg
+:::{figure} ../images/fig-p1-ch01-53.jpg
 :name: fig-p1-ch01-53
+:alt: FIGURE 1.14 A macroscopic body is simply an ensemble of atoms linked by chemical bonds. At temperatures above 0 K, those atoms are in motion, exchanging kinetic and potential energy analogous to a network of masses coupled by springs.
 FIGURE 1.14 A macroscopic body is simply an ensemble of atoms linked by chemical bonds. At temperatures above 0 K, those atoms are in motion, exchanging kinetic and potential energy analogous to a network of masses coupled by springs.
-::::
+:::
 
 
 One aspect of Joule's studies of the mechanical equivalent of heat that was so transformational was the idea that the mechanical energy of a macroscopic body could be quantitatively converted to the microscopic motion of atoms within the body into which energy, as heat, had flowed. But what was also transformational was that for a given object (such as the paddle wheel-water systems of Figure 1.13) when the amount of mechanical energy converted to heat was doubled, the temperature increase, $\Delta \mathrm { T } ,$ also doubled. Therefore, if $\mathbf { q } _ { \mathrm { a d d e d } }$ is the amount of heat added to the body, then $\Delta \mathrm { T } _ { \mathrm { b o d y } } \propto \mathrm { q } _ { \mathrm { a d d e d } } .$ Different materials have a different quantitative relationship between the magnitude of the temperature increase, $\Delta \mathrm { T _ { b o d y } }$ , and the amount of heat added, but for the same material and the same amount of material, the simple proportionality $\Delta \mathrm { T } _ { \mathrm { b o d y } } \propto \mathrm { q } _ { \mathrm { a d d e d } }$ always holds. For a given material, as the amount of the material into which that heat is added increases, so too must the amount of heat added increase to achieve the same temperature increase, $\Delta \mathrm { T _ { b o d y } }$ . We are acquainted with this in practice. If you double the amount of water in a pot on the stove, you must add twice as much heat to bring it from room temperature, $2 0 ^ { \circ } \mathrm { C }$ , to the boiling point, $\bf { 1 0 0 ^ { \circ } C }$
@@ -889,10 +933,11 @@ The specific heat of liquid water is $4 . 1 8 4 ~ \mathrm { J / ^ { \circ } C { 
 
 The key point is that the temperature of a macroscopic body is a quantitative measure of the sum of the kinetic energy and potential energy of the ensemble of atoms that comprise the mass of the body. This is the thermal energy of the body. Notice the key role played by the law of energy conservation at play here. Joule demonstrated that when a mass falls twice as far in a gravitational field, twice as much heat is added to a body, inducing a temperature change, $\Delta \mathrm { T } ,$ that always turned out to be twice as large. The only way energy can be stored in, for example, a block of copper, is by virtue of the kinetic energy of motion of the copper atoms and the potential energy in the bonds between those copper atoms. Just as with our mass, rod, and spring example where there is a constant exchange of kinetic and potential energy, in the case of kinetic and potential energy at the molecular level, there is nowhere else for that energy to go once it is stored as thermal energy by virtue of the energy contained in the motion of the atoms that comprise the body. This means that there is a simple chain of logic leading from the release of mechanical potential energy of an observable macroscopic body falling through a gravitational field releasing potential energy, mgh, to the transfer of heat into the body leading to a temperature increase $\Delta \mathrm { T _ { b o d y } }$ of the body, as represented schematically in Figure 1.15. But the ultimate recipient of that mechanical energy, mgh, is the microscopic motion of the atoms in the body.
 
-::{figure} ../images/fig-p1-ch01-54.jpg
+:::{figure} ../images/fig-p1-ch01-54.jpg
 :name: fig-p1-ch01-54
+:alt: FIGURE 1.15 The organized release of gravitational potential energy, mgh, is used to turn the paddles connected to a central shaft that transfers that energy through friction to the surrounding water. The addition of that energy to the mole
 FIGURE 1.15 The organized release of gravitational potential energy, mgh, is used to turn the paddles connected to a central shaft that transfers that energy through friction to the surrounding water. The addition of that energy to the molecules of water raises the temperature of the system by an amount, $\Delta \mathsf { T } _ { \mathsf { b o d y } }$ . That increase in temperature of the water is a result of the increased kinetic energy of the molecules of water and of the copper atoms in the apparatus.
-::::
+:::
 
 
 There is a compelling logic that emerges from the simple proportionality between the increase in temperature, ΔT, and the energy added to a given mass of material such as a block of iron or a given number of molecules of a gas. Because that given mass of material must contain a fixed number of atoms or molecules, it follows that the average energy, $\mathbf { \delta } \mathbf { \varepsilon } _ { \mathbf { \varepsilon } }$ of an atom or molecule that comprises that given mass of material must be proportional to the temperature of that mass of material. Thus we know that
@@ -909,16 +954,18 @@ From our analysis of Newton's Laws, we know that when a particle of mass m colli
 ```
 
 
-A  
-::{figure} ../images/fig-p1-ch01-55.jpg
+A
+:::{figure} ../images/fig-p1-ch01-55.jpg
 :name: fig-p1-ch01-55
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-B  
-::{figure} ../images/fig-p1-ch01-56.jpg
+B
+:::{figure} ../images/fig-p1-ch01-56.jpg
 :name: fig-p1-ch01-56
+:alt: FIGURE 1.16 The geometry for calculating both the momentum change mathematical notation and the collision time interval Δt.
 FIGURE 1.16 The geometry for calculating both the momentum change $\Delta \mathsf { P } _ { \mathsf { x } }$ and the collision time interval Δt.
-::::
+:::
 
 
 The resulting pressure exerted on the wall can be calculated from the relationship between force, F, and pressure, p, where
@@ -1117,10 +1164,11 @@ While we will develop increasingly the details of the answer to this question in
 
 In any discussion concerning transformations among and between various forms of energy (kinetic, gravitational, chemical, electromagnetic, thermal, etc.), electromagnetic energy occupies a central role. Light from the Sun, the wireless connection to your computer, cooking with microwaves in an oven, all involve the transfer of energy and the conversion of energy to one form or another using electromagnetic radiation. What is rather surprising is that the structure of the electromagnetic wave is common to all types of radiation that propagate either through vacuum or through materials that are to some degree transparent, depending upon the molecular level interaction between the electromagnetic radiation and the atoms that comprise the particular material. It was a young James Clerk Maxwell (1831-1879) in 1865 who theorized that electromagnetic radiation was comprised of mutually perpendicular oscillating electric and magnetic fields and that the direction of oscillation of these two fields was in turn perpendicular to the direction of propagation of those fields. The geometry of the electromagnetic wave is captured in Figure 1.17. The diagram identifies the electric and magnetic field components, as well as the direction of propagation.
 
-::{figure} ../images/fig-p1-ch01-57.jpg
+:::{figure} ../images/fig-p1-ch01-57.jpg
 :name: fig-p1-ch01-57
+:alt: FIGURE 1.17 The structure of electromagnetic radiation is defined by oscillating orthogonal electric and magnetic fields that are themselves perpendicular to the direction of propagation of the electromagnetic wave. The wavelength of the ra
 FIGURE 1.17 The structure of electromagnetic radiation is defined by oscillating orthogonal electric and magnetic fields that are themselves perpendicular to the direction of propagation of the electromagnetic wave. The wavelength of the radiation is measured from peak to peak of the oscillating electric or magnetic wave.
-::::
+:::
 
 
 Electromagnetic radiation is characterized first and foremost by the wavelength of the radiation, λ, and by the velocity of the propagation, the magnitude of which is the speed of light, c. Another characterization of electromagnetic energy is the frequency of that radiation. The wavelength, λ, is defined to be the distance between two consecutive peaks (or troughs) in a wave, as displayed in Figure 1.17. The frequency, ν, is defined as the number of cycles (waves) per second that pass a given position (or point) in space. Because all electromagnetic radiation travels with the speed of light, shortwave radiation is of higher frequency than longwave radiation. A very simple but important equation links wavelength, λ, and frequency, ν, because the product of the wavelength (in meters) and the frequency (in $\mathbf { S e c ^ { - 1 } }$ or hertz) equals the speed of light:
@@ -1133,10 +1181,11 @@ Electromagnetic radiation is characterized first and foremost by the wavelength 
 
 Figure 1.18 maps out the electromagnetic spectrum extending from gamma rays (a product of nuclear fusion that we will discuss in Chapter 13 on nuclear chemistry) at the high energy end to radio waves at the low energy end of the spectrum. What is important to garner from Figure 1.18 is the relationship between the wavelength of the electromagnetic radiation and the size (the scale) of known entities whose physical dimensions are comparable to those wavelengths. For example, x-rays have a wavelength equivalent to the size of individual atoms, ultraviolet light has a wavelength comparable to the size of a virus, visible light to that of a bacterium, microwaves to that of the width of a human finger and radio waves to the height of a human being.
 
-::{figure} ../images/fig-p1-ch01-58.jpg
+:::{figure} ../images/fig-p1-ch01-58.jpg
 :name: fig-p1-ch01-58
+:alt: FIGURE 1.18 While we are most familiar with the segment of the electromagnetic spectrum that is visible to the human eye, between 380 nm and 780 nm, this segment represents but a small slice of the full electromagnetic spectrum that extends
 FIGURE 1.18 While we are most familiar with the segment of the electromagnetic spectrum that is visible to the human eye, between 380 nm and 780 nm, this segment represents but a small slice of the full electromagnetic spectrum that extends from gamma rays with a wavelength of $1 0 ^ { - 1 2 }$ meters through the x-ray $( 1 0 ^ { - 1 0 }$ meters), ultraviolet $( 1 0 ^ { - 7 }$ meters), visible $( 1 \dot { 0 } ^ { - 6 }$ meters), infrared $( 1 0 ^ { - 5 }$ meters), microwave $( 1 0 ^ { - 2 }$ meters), and radio wave (10 meters) regions. What this figure emphasizes is both the wavelength and frequency range of electromagnetic radiation and the scale of entities with the same physical dimensions as the corresponding wavelength of the electromagnetic radiation. This constitutes a very important mnemonic device for linking the type of electromagnetic radiation to well known objects.
-::::
+:::
 
 
 We will refer repeatedly to the basis of electromagnetic radiation throughout the course when we examine transformations between different types of energy, when we consider the propagation of radiation through different materials, and when we consider the molecular level interaction between light and the electrons in the various energy levels of atoms and molecules. Thus Figure 1.18 deserves particular attention. Given that matter is composed of charged particles—electrons and protons—in general when the electric field of the electromagnetic radiation impinges on the surface of a material, that electric field applies a force to the charged particles.
@@ -1167,36 +1216,40 @@ and the force on a positive charge will be
 
 Thus as the electromagnetic wave passes into the material, a force will be applied to these charge centers that alternately forces the charges apart and then forces them back together, as displayed schematically in Figure 1.19.
 
-::{figure} ../images/fig-p1-ch01-59.jpg
+:::{figure} ../images/fig-p1-ch01-59.jpg
 :name: fig-p1-ch01-59
+:alt: FIGURE 1.19 The electric field component of electromagnetic radiation is shown here along with the force that is imposed on both positive and negative charges depending upon whether the E field is positive or negative.
 FIGURE 1.19 The electric field component of electromagnetic radiation is shown here along with the force that is imposed on both positive and negative charges depending upon whether the E field is positive or negative.
-::::
+:::
 
 
 This is what physically couples the electric field in the radiation to the kinetic energy of the atoms in the material, increasing the kinetic energy of motion of the atoms that comprise the material. We can sketch, as shown in Figure 1.20, the atomic level interaction between the electric field of the electromagnetic radiation and the charges that comprise the material illuminated by that radiation.
 
-::{figure} ../images/fig-p1-ch01-60.jpg
+:::{figure} ../images/fig-p1-ch01-60.jpg
 :name: fig-p1-ch01-60
+:alt: FIGURE 1.20 A schematic of the electric field component of electromagnetic radiation as it interacts with a positive-negative charge pair on the surface of a material.
 FIGURE 1.20 A schematic of the electric field component of electromagnetic radiation as it interacts with a positive-negative charge pair on the surface of a material.
-::::
+:::
 
 
 Another critically important fact that emerged from Maxwell's (and others’) work was that an accelerating charge radiates electromagnetic radiation. Moreover, a positive and negative charge pair, oscillating with respect to their relative distance of separation, can generate electromagnetic radiation, as shown in Figure 1.21. That oscillation of positive and negative charge centers is sustained by the thermal motion of the atoms and molecules that comprise the material. Thus we can capture the emission of electromagnetic radiation by the oscillating charges in the material in the analogous diagram to the one detailing the absorption of electromagnetic radiation:
 
-::{figure} ../images/fig-p1-ch01-61.jpg
+:::{figure} ../images/fig-p1-ch01-61.jpg
 :name: fig-p1-ch01-61
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-Motion in charge separation caused by oscillation of charge  
-leads to generation of electromagnetic wave.  
+Motion in charge separation caused by oscillation of charge
+leads to generation of electromagnetic wave.
 FIGURE 1.21 The emission of electromagnetic radiation from an oscillating positive and negative charge pair on the surface of a material.
 
 The conclusion is that all materials with a temperature above (absolute) zero on the Kelvin scale emit electromagnetic radiation. This establishes a very important, and dynamic, exchange of electromagnetic radiation between any two bodies, as shown in Figure 1.22. Electromagnetic radiation emitted by one body is absorbed by the other and vice versa as depicted here:
 
-::{figure} ../images/fig-p1-ch01-62.jpg
+:::{figure} ../images/fig-p1-ch01-62.jpg
 :name: fig-p1-ch01-62
+:alt: FIGURE 1.22 The electromagnetic energy exchange between two surfaces displaying both the emission and absorption of electromagnetic radiation.
 FIGURE 1.22 The electromagnetic energy exchange between two surfaces displaying both the emission and absorption of electromagnetic radiation.
-::::
+:::
 
 
 This underscores the reciprocity inherent in the emission and absorption of electromagnetic radiation: light is emitted by the time dependent motion of charges that comprise matter, and light is absorbed by inducing changes on the charge displacement of the positive and negative charges within matter.
@@ -1207,10 +1260,11 @@ Notice that in Figure 1.13, organized forms of energy—potential energy of a fa
 
 Increasingly, quantitative studies of the emission of electromagnetic radiation from the surface of materials as the ${ 2 0 } ^ { \mathrm { t h } }$ century approached began to reveal an increasingly coherent picture of the character of this emitted radiation. For example, an iron plate, which could be heated to temperatures of over 1000 K, or titanium, to temperatures approaching 2000 K, provided direct observations of the intensity of radiation as a function of wavelength displayed in Figure 1.23.
 
-::{figure} ../images/fig-p1-ch01-63.jpg
+:::{figure} ../images/fig-p1-ch01-63.jpg
 :name: fig-p1-ch01-63
+:alt: FIGURE 1.23 The emission of electromagnetic radiation from the surface of a metal plate displaying the relationship between the emitted intensity, I, and the wavelength, λ.
 FIGURE 1.23 The emission of electromagnetic radiation from the surface of a metal plate displaying the relationship between the emitted intensity, I, and the wavelength, λ.
-::::
+:::
 
 
 Figure 1.23 shows the intensity of radiation, I, as a function of wavelength, λ, from a plate of iron. When the emission from a plate of polished nickel or a vat of water was examined, the details of the shape of the curve of I vs. λ at a given temperature changed somewhat, but the characteristic shape remained: at very small λ the intensity approached zero, then rose to a maximum as the wavelength increased, then fell back to zero at large λ.
@@ -1219,20 +1273,22 @@ But what was also apparent was that as the temperature of the plate was raised, 
 
 While the quantitative details of emitted intensity varied somewhat as a function of wavelength depending on the metal or the condition of the surface of the metal, these differences could be eliminated entirely by forming a cavity of the material with a small hole to allow the emitted radiations to escape. The use of this “blackbody cavity,” as it came to be called, eliminated any variables specific to the material and placed those studies on a path to quantitative consistency. A diagram of such a cavity is shown in Figure 1.24.
 
-::{figure} ../images/fig-p1-ch01-64.jpg
+:::{figure} ../images/fig-p1-ch01-64.jpg
 :name: fig-p1-ch01-64
+:alt: FIGURE 1.24 The emission of a blackbody cavity, which emits electromagnetic radiation through a small hole in the wall of the cavity, is displayed on the left. The emitted radiation from the cavity has a characteristic relationship between
 FIGURE 1.24 The emission of a blackbody cavity, which emits electromagnetic radiation through a small hole in the wall of the cavity, is displayed on the left. The emitted radiation from the cavity has a characteristic relationship between emitted intensity, I, and wavelength, λ, that is independent of the material that comprises the cavity, and is displayed on the right.
-::::
+:::
 
 
 So the curve on the right of the diagram above, defining the intensity of energy flow, I, as a function of wavelength, λ, emitted from the aperture of a cavity, or “blackbody,” characterizes the radiation emitted from the cavity wall resulting from multiple reflections within the cavity.
 
 Figure 1.25 displays how the relationship between the emitted intensity I vs. λ changes with temperature. For the case of a blackbody at 6000 K and one at 3000 K, as the temperature is increased, the peak of the blackbody curve shifts to shorter wavelengths. Note also that the area under the curve of I versus λ increases dramatically. You experience this in many venues: As the heating element of a stove gets hotter, sequentially the color shifts from invisible infrared radiation that you can feel with your hand to deep red that you can see with your eyes, then to orange at the highest temperature. The amount of heat flow you sense increases dramatically in the transition to higher temperature. Another example is that as the battery of your car begins to fail, the filaments in the headlights dim and turn increasingly red from their normal bright whitish-yellow.
 
-::{figure} ../images/fig-p1-ch01-65.jpg
+:::{figure} ../images/fig-p1-ch01-65.jpg
 :name: fig-p1-ch01-65
+:alt: FIGURE 1.25 The intensity of radiation emitted by a blackbody as function of wavelength for two different temperatures: 6000 K and 3000 K. Notice that as the temperature of the surface increases, the wavelength of maximum emitted intensity
 FIGURE 1.25 The intensity of radiation emitted by a blackbody as function of wavelength for two different temperatures: 6000 K and 3000 K. Notice that as the temperature of the surface increases, the wavelength of maximum emitted intensity decreases. Also note that as the temperature increases, the total intensity increases dramatically.
-::::
+:::
 
 
 The total amount of energy emitted by a blackbody is expressed quantitatively by a simple equation, termed the Stefan-Boltzmann Law, which states that the rate at which energy leaves a body at temperature T is given by
@@ -1265,18 +1321,20 @@ F = A \sigma T ^ {4}
 
 as shown in Figure 1.26.
 
-::{figure} ../images/fig-p1-ch01-66.jpg
+:::{figure} ../images/fig-p1-ch01-66.jpg
 :name: fig-p1-ch01-66
+:alt: FIGURE 1.26 The emission of radiation from a surface element with area A at temperature T is given by the Stefan-Boltzmann equation mathematical notation
 FIGURE 1.26 The emission of radiation from a surface element with area A at temperature T is given by the Stefan-Boltzmann equation $\mathsf { F } = \mathsf { A } \sigma \mathsf { T } ^ { 4 }$
-::::
+:::
 
 
 This makes it very easy to calculate the rate at which energy is emitted from any solid body at temperature, T. For example a sphere of radius r at temperature T will emit an amount of energy per unit time into the space that surrounds it given by the simple expression $\mathrm { F } = \mathrm { A } \sigma \mathrm { T } ^ { 4 }$ , as shown in Figure 1.27:
 
-::{figure} ../images/fig-p1-ch01-67.jpg
+:::{figure} ../images/fig-p1-ch01-67.jpg
 :name: fig-p1-ch01-67
+:alt: FIGURE 1.27 To calculate the energy emitted by a sphere of radius r, it is simply a matter of calculating the surface area, mathematical notation , and multiplying that by mathematical notation
 FIGURE 1.27 To calculate the energy emitted by a sphere of radius r, it is simply a matter of calculating the surface area, $4 \pi ^ { 2 }$ , and multiplying that by $\sigma \tau ^ { 4 }$
-::::
+:::
 
 
 ## Energy per unit time emitted by a sphere of radius r is
@@ -1295,9 +1353,10 @@ The Stefan-Boltzmann law provides remarkable insight into how the exchange of en
 
 1. Using the remarkably simple expression for the flow of radiant energy from a body at temperature, T, of $\mathrm { F } = \mathrm { A } \mathrm { \Phi } \mathrm { T } ^ { 4 }$ where A is the area of the body emitting electromagnetic radiation and σ is the Stefan- Boltzmann constant, calculate the energy, emitted by the human body in the infrared. The first step is to “model” the complex structure of the human body as a simple geometric structure that will yield a reasonable value for the area, A, in the Stefan-Boltzmann equation.
 
-::{figure} ../images/fig-p1-ch01-68.jpg
+:::{figure} ../images/fig-p1-ch01-68.jpg
 :name: fig-p1-ch01-68
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 2. Calculate the flow of energy per unit time from this “model” human at a temperature of $3 7 ^ { \circ } \mathrm { C }$ . How many joules per day are radiated in the infrared (IR)?
 
@@ -1347,16 +1406,18 @@ Until energy was understood in a rigorous scientific sense, modern scientific in
 
 The evolution of energy as a scientific concept emerged from the foundation of Newton's Laws of motion. Newton's First Law clarified the importance of inertia and states that every body persists in its state of rest or of motion in a straight line unless it is compelled to change that state by forces impressed upon it. This clarified the role of force as the agent of change, and that change was the acceleration imparted to the body by the external force. Newton's Second Law defined the relationship between force and acceleration: the acceleration, a, of a body is proportional to the force applied. Moreover, the force is equal to the product of the mass of the body and acceleration, F = ma. This relationship between force and acceleration provided the relationship between work and energy, where work is the product of force times distance. The sum of kinetic energy, $\mathrm { K E } = 1 / 2 ~ \mathrm { m v } ^ { 2 }$ , and potential energy, PE = mgh, is equal to the total mechanical energy $\mathrm { E _ { T } = P E + K E = m g h + ^ { 1 } / 2 \ m v ^ { 2 } }$ of the macroscopic system.
 
-Pages 9-12  
-::{figure} ../images/fig-p1-ch01-69.jpg
+Pages 9-12
+:::{figure} ../images/fig-p1-ch01-69.jpg
 :name: fig-p1-ch01-69
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## Schematic of a baseball thrown vertically
 
-::{figure} ../images/fig-p1-ch01-70.jpg
+:::{figure} ../images/fig-p1-ch01-70.jpg
 :name: fig-p1-ch01-70
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Pages 12-15
 
@@ -1370,16 +1431,18 @@ With the incorporation of nonconservative frictional forces in mechanical system
 
 The concept of a potential energy surface has broad applicability in the physical sciences. In its most basic form the potential energy surface tracks the exchange of kinetic energy, $\scriptstyle { 1 / 2 \mathrm { ~ m v } ^ { 2 } }$ , and gravitational potential energy, mgh, of a mass moving across a surface in a gravitational field. If the mass has kinetic energy, $\scriptstyle { 1 / 2 \mathrm { ~ m v } ^ { 2 } }$ , it can exchange that kinetic energy for potential energy if the moving mass rises by increasing its height h in the gravitational field. It can also release potential energy, increasing its kinetic energy as it rolls down a hill. The Reaction Coordinate Diagram takes the same form as a Potential Energy Diagram for a mass moving in a gravitational field, but the coulomb repulsion of the outer electrons creates the repulsive force that generates the repulsive barrier. Both the Potential Energy Diagram and the Reaction Coordinate Diagram express the conservation of energy, they both represent the exchange of kinetic and potential energy, and they both express the release of energy in the transition from initial to final conditions.
 
-::{figure} ../images/fig-p1-ch01-71.jpg
+:::{figure} ../images/fig-p1-ch01-71.jpg
 :name: fig-p1-ch01-71
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Pages 15-18
 
-Reaction Coordinate Diagram  
-::{figure} ../images/fig-p1-ch01-72.jpg
+Reaction Coordinate Diagram
+:::{figure} ../images/fig-p1-ch01-72.jpg
 :name: fig-p1-ch01-72
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Pages 21-22
 
@@ -1389,9 +1452,10 @@ Pages 21-22
 
 Following the contributions of Newton it was well understood that energy could be exchanged between potential and kinetic forms, but it could not be created nor destroyed. The concept of heat was far more subtle. The idea that heat was a substance was finally dispelled by Benjamin Thompson (Count Rumford) who correctly identified heat with the process of the transfer of energy. But it was Joule who, by a series of brilliantly simple experiments, established the key quantitative link between the release of mechanical energy of a macroscopic body and the increase in temperature of a system that transferred that mechanical potential energy to a water bath via the friction between the paddle blades and the water. That experimental system provided the physical coupling between the macroscopic mechanical energy release, mgh, and the increase in the temperature of the water bath, $\Delta \mathrm { T _ { b a t h } }$ . Thus $\mathbf { q } _ { \mathrm { a d d e d } }$ must equal the release of potential energy, mgh, from the falling mass in the gravitational field. This simple proportionality between the amount of potential energy release and the increase in temperature $( \Delta \mathrm { T _ { b a t h } } \ \mathrm { m g h } )$ , combined with $\mathrm { q _ { a d d e d } = m g h }$ , meant that the heat added, the potential energy release, and the increase in temperature of the apparatus could be equated: mg $\mathbf { h } = \mathbf { q } _ { \mathrm { a d d e d } } = \mathbf { C } \Delta \mathrm { T } _ { \mathrm { b a t h } }$ where C is termed the heat capacity of the object into which heat is added.
 
-::{figure} ../images/fig-p1-ch01-73.jpg
+:::{figure} ../images/fig-p1-ch01-73.jpg
 :name: fig-p1-ch01-73
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Mechanical energy transferred = mgh = heat transferred = CΔT
 
@@ -1401,9 +1465,10 @@ Pages 22-26
 
 Kinetic Theory Interpretation of Temperature A simple logic that emerges from the mechanical equivalent of heat coupled with basic assumptions concerning the theory of molecular motion in gases provides a very general relationship between the average kinetic energy, ε, of the individual atoms or molecules that make up a macroscopic body and the temperature, T, of that macroscopic body. The chain of logic begins with the observed fact that the temperature change, ΔT, of an ensemble of molecules that comprise a macroscopic body is proportional to the heat added—thus to the energy added—to that body. Combining this with the assumption that all collisions at the molecular level are elastic (that is they do not change the total energy of the ensemble of molecules) and that the momentum change in any molecular collision with a vessel wall results in a momentum change ΔP = -2mv, results in the determination that the average energy per atom or molecule, $\mathbf { { \varepsilon } } _ { \mathbf { { \varepsilon } } } ,$ is just $\mathrm { \varepsilon } = \mathrm { \varepsilon } ^ { 3 } / _ { 2 } \mathrm { \ k _ { B } T }$ where $\mathbf { k _ { B } }$ is Boltzmann's constant and T is the temperature in Kelvin.
 
-::{figure} ../images/fig-p1-ch01-74.jpg
+:::{figure} ../images/fig-p1-ch01-74.jpg
 :name: fig-p1-ch01-74
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ```{math}
 :label: eq-p1-ch01-72
@@ -1419,9 +1484,10 @@ Pages 26-30
 
 The concept of energy cannot be grasped in a scientific sense without an understanding of how energy is transformed from one category to another. The basic truth of this is revealed in the work of Newton, Count Rumford, Joule, and others. Joule recognized very early in his experiments that he must carefully insulate his paddle wheel-water system in order to get accurate results. Joule recognized that he could not let energy of any form escape from his experimental system or his results would be inaccurate. Yet the addition of heat, it was recognized, increased the average speed of the atoms that comprised the object into which the heat flowed. From the work of Maxwell it was recognized that oscillating charges emit electromagnetic radiation, and it was clear that electromagnetic radiation falling on an object transferred heat to that body—by necessity increasing the average speed of the atoms that comprised the object. Careful experiments revealed that objects at room temperature and above emit radiation in the infrared region of the spectrum by virtue of the oscillatory motion of charges that comprise the material.
 
-::{figure} ../images/fig-p1-ch01-75.jpg
+:::{figure} ../images/fig-p1-ch01-75.jpg
 :name: fig-p1-ch01-75
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Pages 30-34
 
@@ -1439,9 +1505,10 @@ Intensive studies of the radiation emitted by various materials, particularly me
 
 where A is the area from which the radiation is emitted, T is the temperature of the surface, and σ is the Stefan- Boltzmann constant, $\sigma = 5 . 6 7 \times { { \bf { 1 0 } } ^ { - 8 } }$ joules/sec·m<sup>2</sup>·K<sup>4</sup>. Experiments demonstrated that if a material was formed as a cavity with a small opening for observing the escaped radiation, that the relationship between the emitted intensity of radiation and the wavelength dependence of the radiation was dependent only on temperature and not on the material itself. The shape of the intensity curve I vs. λ was to revolutionize modern science as Case Study 1.4 makes clear.
 
-::{figure} ../images/fig-p1-ch01-76.jpg
+:::{figure} ../images/fig-p1-ch01-76.jpg
 :name: fig-p1-ch01-76
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Pages 34-38
 
@@ -1467,9 +1534,10 @@ Typically an amount of energy, ΔE, is transformed in time, Δt, and the power, 
 
 The unit of power is the watt, and one watt is equal to 1 joule/sec.
 
-::{figure} ../images/fig-p1-ch01-77.jpg
+:::{figure} ../images/fig-p1-ch01-77.jpg
 :name: fig-p1-ch01-77
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Page 38
 
@@ -1479,9 +1547,10 @@ Page 38
 
 KEY CONCEPTS:
 
-::{figure} ../images/fig-p1-ch01-78.jpg
+:::{figure} ../images/fig-p1-ch01-78.jpg
 :name: fig-p1-ch01-78
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 “There is a fact, or if you wish, a law, governing all natural phenomena that are known to date. There is no known exception to this law—it is exact so far as we know. The law is called the conservation of energy.”
 
@@ -1509,10 +1578,11 @@ In this Case Study we will develop the ability not only to quantitatively distin
 
 It is important for an analysis of each system we consider to “model” that system as a translation of the physical system as it appears upon visual inspection into a schematic that captures the essential features of the device under consideration. We do that in Figure CS1.1a for the light bulb wherein we convert the bulb into a sketch that captures the flow of electrons into a filament that is heated to a high temperature producing visible light from the filament and heat that emerges in the infrared. The electrons flowing out of the filament are returned to the power station to complete the circuit.
 
-::{figure} ../images/fig-p1-ch01-79.jpg
+:::{figure} ../images/fig-p1-ch01-79.jpg
 :name: fig-p1-ch01-79
+:alt: FIGURE CS1.1A When we consider a physical system such as a light bulb, we can “model” the system by diagramming just the components that are relevant to how the device actually functions. In this case, the 120-volt electrical outlet moves e
 FIGURE CS1.1A When we consider a physical system such as a light bulb, we can “model” the system by diagramming just the components that are relevant to how the device actually functions. In this case, the 120-volt electrical outlet moves electrons through the filament that is, therefore, heated to a high temperature such that visible light is emitted and heat is produced.
-::::
+:::
 
 
 But to “power” this light bulb you must purchase energy from the “power company,” and your monthly bill will arrive with a statement of the cost per unit of energy and a charge for each unit of that energy. You pay for the energy used, independent of the rate at which you use it. But the bill will read an amount of energy in kilowatt-hours (designated kWh). What does this mean? Inspection of the unit kWh reveals that this is power (kilowatts) multiplied by time (hours) so the quantity is (Power) (time) = Energy. Therefore, the bill is indeed for the purchase of units of energy. But how large is the energy unit: kWh? One kilowatt is ${ \bf 1 0 ^ { 3 } }$ watts or 10<sup>3</sup> J/sec. One hour is $3 . 6 \times 1 0 ^ { 3 }$ seconds so
@@ -1541,10 +1611,11 @@ For the case of a gas furnace, the energy contained in the bond structure of nat
 
 Natural gas is typically purchased from the gas company in units of the “therm” that corresponds to 100 cubic feet of gas delivered at a temperature of ${ \bf 2 0 ^ { \circ } C }$ at a pressure of $1 4 . 7$ pounds/square inch (one atmosphere pressure). The energy content of this amount of natural gas is $\mathbf { 1 . 0 6 \times 1 0 ^ { 8 } }$ joules or $2 . 9 \times 1 0 ^ { 1 }$ kWh, which can be rounded to 30 kWh for the purpose of comparison. For example, natural gas sold on the commodities market at the beginning of 2013 for \$0.35/therm so that in terms of the cost per unit of energy, this corresponds to 30 kWh/\$0.35 or 1.2 cents per kWh, markedly less than the cost of an equivalent amount of energy delivered to your house in the form of electricity! On the other hand, a liquid fuel such as heating oil, with an energy content of approximately 10 kWh/liter, costs about \$1 a liter. Thus, 30 kWh of energy from fuel oil costs approximately \$3, whereas the same amount of energy from natural gas costs \$0.35—a difference of nearly a factor of ten.
 
-::{figure} ../images/fig-p1-ch01-80.jpg
+:::{figure} ../images/fig-p1-ch01-80.jpg
 :name: fig-p1-ch01-80
+:alt: FIGURE CS1.1B A gas furnace employs a burner that simply controls the mixing of natural gas (primarily methane, mathematical notation with oxygen to form carbon dioxide, mathematical notation and water, mathematical notation . The energy co
 FIGURE CS1.1B A gas furnace employs a burner that simply controls the mixing of natural gas (primarily methane, $\mathsf { C H } _ { 4 } )$ with oxygen to form carbon dioxide, ${ \mathsf { C O } } _ { 2 } ,$ and water, ${ \mathsf { \bar { H } } } _ { 2 } { \mathsf { O } } .$ . The energy contained in the bonding structure of $\mathsf { C H } _ { 4 }$ and $\mathrm { O } _ { 2 }$ relative to the energy contained in the bonding structure of $\mathsf { C O } _ { 2 }$ and ${ \sf H } _ { 2 } \mathrm { O }$ is released as heat. That heat is then distributed to warm the house. The essentials of this conversion of chemical energy to heat, which we will explore in a subsequent chapter, are represented in the simplified model in the right-hand panel.
-::::
+:::
 
 Case 3: A Human Being at Rest
 
@@ -1556,10 +1627,11 @@ We can model the case of energy transformations for a human being by again disti
 
 We can demonstrate the distinction between energy and power while at the same time reviewing the relationship between work and potential energy by considering the following problem. Four students run up the stairs in the time shown. In the following calculational exercises, we will determine the energy and power for each case. Those cases are displayed in Figure CS1.1c.
 
-::{figure} ../images/fig-p1-ch01-81.jpg
+:::{figure} ../images/fig-p1-ch01-81.jpg
 :name: fig-p1-ch01-81
+:alt: FIGURE CS1.1C Four cases of students running steps.
 FIGURE CS1.1C Four cases of students running steps.
-::::
+:::
 
 
 ## Case 5: Human Being on a Bicycle
@@ -1576,10 +1648,11 @@ Let's assume for this calculation that the bike is ridden on the flat (we can ex
 
 Thus, for a given speed, v, of say 20 km/hr (5.6 m/sec), the force required to sustain this speed is made up of the rolling friction of the bicycle and the resistance resulting from moving through the atmosphere. The rolling resistance of the bicycle is independent of speed, but the air drag is proportional to the square of the speed. Those two factors are plotted in Figure CS1.1d for a typical bicycle. We will use this relationship between energy consumption and speed in the next section.
 
-::{figure} ../images/fig-p1-ch01-82.jpg
+:::{figure} ../images/fig-p1-ch01-82.jpg
 :name: fig-p1-ch01-82
+:alt: FIGURE CS1.1D Representation of the energy consumption of a bicycle per 100 km assuming the drag area of the cyclist is mathematical notation and a cyclist plus bike mass of 90 kg. In subsequent case studies, we will derive how to calculate
 FIGURE CS1.1D Representation of the energy consumption of a bicycle per 100 km assuming the drag area of the cyclist is $0 . 7 5 \mathrm { m } ^ { 2 }$ and a cyclist plus bike mass of 90 kg. In subsequent case studies, we will derive how to calculate rolling resistance and air resistance (drag) from first principles.
-::::
+:::
 
 
 ## Case 6: An Automobile
@@ -1588,10 +1661,11 @@ We can model the energy transformations for the automobile by again distilling t
 
 For this case, on a level road, the force required to sustain a given speed (let's choose 100 km/hr) must be sufficient to overcome both the rolling friction of the tires and the air drag. For a typical automobile of weight 1500 kg and frontal area 2.25 $\mathrm { m } ^ { 2 } { \mathrm { ; } }$ , the rolling resistance and air drag are displayed in Figure CS1.1e in terms of the energy consumption per unit of distance. This provides the necessary information to calculate the required power.
 
-::{figure} ../images/fig-p1-ch01-83.jpg
+:::{figure} ../images/fig-p1-ch01-83.jpg
 :name: fig-p1-ch01-83
+:alt: FIGURE CS1.1E Representation of the energy consumption of an automobile per 100 km traveled. The calculation takes into account the rolling resistance of the car and the air drag resulting from pushing the car through the atmosphere. It is
 FIGURE CS1.1E Representation of the energy consumption of an automobile per 100 km traveled. The calculation takes into account the rolling resistance of the car and the air drag resulting from pushing the car through the atmosphere. It is assumed that the product of the drag coefficient and frontal area of the car is $1 ~ \mathsf { m } ^ { 2 }$ , and the mass of the car is 1500 kg.
-::::
+:::
 
 
 ## CALCULATIONS:
@@ -1626,9 +1700,10 @@ The law of the conservation of energy requires that we keep quantitative track o
 
 As we will see in our development of thermodynamics, electrochemistry, quantum mechanics of molecular bonding, kinetics, and nuclear chemistry in subsequent chapters, modern technology is developing ever more sophisticated ways of interconverting energy to provide the energy needed to accomplish a particular task or to sustain the human endeavor more broadly, in increasingly sustainable ways. This Case Study emphasizes (a) the pathways available for interconverting light to electricity, (b) the remarkable efficiency and low cost of electricity versus gasoline for transportation, as well as (c) the ability to generate a major fraction of U.S. energy needs from solar power.
 
-::{figure} ../images/fig-p1-ch01-84.jpg
+:::{figure} ../images/fig-p1-ch01-84.jpg
 :name: fig-p1-ch01-84
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## 2 Placing Different Types of Energy on the Same Absolute Scale
 
@@ -1646,14 +1721,16 @@ The development of new materials that are stronger per unit mass than steel, and
 
 We can model such an aircraft by representing the physical system as a schematic as we did in Case Study 1.1. An example is shown here:
 
-::{figure} ../images/fig-p1-ch01-85.jpg
+:::{figure} ../images/fig-p1-ch01-85.jpg
 :name: fig-p1-ch01-85
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-Case 2  
-::{figure} ../images/fig-p1-ch01-86.jpg
+Case 2
+:::{figure} ../images/fig-p1-ch01-86.jpg
 :name: fig-p1-ch01-86
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Chevy Volt
 
@@ -1665,23 +1742,26 @@ The Chevrolet Volt represents the new class of “plug-in hybrids” distinguish
 
 The United States is endowed with a remarkable mix of wind power, solar power, geothermal power, and hydroelectric power. While we will analyze each of these we consider here the case of solar power and we consider two types: photovoltaics (PVs) and concentrated solar thermal. Photovoltaics (shown here) produce electricity directly from sunlight with an efficiency of 15-20%.
 
-::{figure} ../images/fig-p1-ch01-87.jpg
+:::{figure} ../images/fig-p1-ch01-87.jpg
 :name: fig-p1-ch01-87
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 Concentrated solar thermal uses large linear parabolic reflectors to concentrate the solar energy onto a transparent tube at the focal point that raises the fluid temperature $\mathrm { t o } > 3 0 0 ^ { \circ } \mathrm { C } .$ That high temperature fluid is then used to drive a steam turbine to generate electricity. Concentrated high temperature solar thermal typically achieves efficiencies of \~30%.
 
-::{figure} ../images/fig-p1-ch01-88.jpg
+:::{figure} ../images/fig-p1-ch01-88.jpg
 :name: fig-p1-ch01-88
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 We can then use yearly average observed solar power received at specific locations to calculate the area required to generate any given amount of electrical power.
 
 Displayed here is a sampling of yearly average sunshine in units of $\mathrm { W } / \mathrm { m } ^ { 2 }$
 
-::{figure} ../images/fig-p1-ch01-89.jpg
+:::{figure} ../images/fig-p1-ch01-89.jpg
 :name: fig-p1-ch01-89
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 ## PROBLEMS
 
@@ -1741,25 +1821,28 @@ One of the most important and versatile expressions in the physical sciences is 
 
 A vast proportion of the systems that sustain modern society— automobiles, aircraft, ships, rockets, etc.—derive the energy required to operate from liquid fuels. While those liquid fuels differ somewhat in the details of how much energy is contained in a liter, they are all reasonably close to an easy number to remember: one liter of liquid fuel contains \~10 kWh of energy when reacted with oxygen (i.e. burned) to form $\mathrm { C O } _ { 2 } \ +$ $\mathrm { H } _ { 2 } \mathrm { O }$
 
-::{figure} ../images/fig-p1-ch01-90.jpg
+:::{figure} ../images/fig-p1-ch01-90.jpg
 :name: fig-p1-ch01-90
+:alt: FIGURE CS1.3A Building the power and energy scales.
 FIGURE CS1.3A Building the power and energy scales.
-::::
+:::
 
 
 ## Case 1: The Sun
 
 While we will develop the subject of nuclear reactions more fully in Chapter 13, we note here that energy is generated at the core of stars such as our Sun by the conversion of hydrogen to helium in a sequence of nuclear reactions (i.e. reactions that change the structure of the nucleus). These reactions are classed fusion reactions because they join lighter nuclei to form heavier nuclei, thereby converting mass to energy according to Einstein's equation $E = m c ^ { 2 }$ The fusion reactions occur at the core of the Sun, at temperatures in excess of ${ \bf 1 } \times { \bf 1 0 } ^ { 8 } { \bf K } ,$ 100 million K. As a result, that energy is radiated from the Sun's surface, which approximates a blackbody surface.
 
-::{figure} ../images/fig-p1-ch01-91.jpg
+:::{figure} ../images/fig-p1-ch01-91.jpg
 :name: fig-p1-ch01-91
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 We can take the physical entity of the Sun displayed above, and model it in order to calculate the energy per unit time emitted to space. That schematic of that model is
 
-::{figure} ../images/fig-p1-ch01-92.jpg
+:::{figure} ../images/fig-p1-ch01-92.jpg
 :name: fig-p1-ch01-92
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 The radius of the Sun is $7 . 0 \times 1 0 ^ { 8 }$ meters.
 
@@ -1769,16 +1852,18 @@ Review the derivation of the average kinetic energy of a molecule in a gas that 
 
 A simple logic that emerges from the mechanical equivalent of heat coupled with basic assumptions concerning the theory of molecular motion in gases provides a very general relationship between the average kinetic energy, ε, of the individual atoms or molecules that make up a macroscopic body and the temperature, T, of that macroscopic body. The chain of logic begins with the observed fact that the temperature change, ΔT, of an ensemble of molecules that comprise a macroscopic body is proportional to the heat added—thus to the energy added—to that body. Combining this with the assumption that all collisions at the molecular level are elastic (that is, they do not change the total energy of the ensemble of molecules) and that the momentum change in any molecular collision with a vessel wall results in a momentum change $\Delta \mathbf { P } = - 2 \mathrm { m } \mathbf { v } ,$ results in the determination that the average energy per atom or molecule, $\varepsilon ,$ is just $\mathfrak { L } = 3 / 2 \mathrm { k _ { B } T }$ where $\mathrm { k _ { B } }$ is Boltzmann's constant and T is the temperature in Kelvin.
 
-A  
-::{figure} ../images/fig-p1-ch01-93.jpg
+A
+:::{figure} ../images/fig-p1-ch01-93.jpg
 :name: fig-p1-ch01-93
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
-B  
-::{figure} ../images/fig-p1-ch01-94.jpg
+B
+:::{figure} ../images/fig-p1-ch01-94.jpg
 :name: fig-p1-ch01-94
+:alt: FIGURE CS1.3B The geometry for calculating both the momentum change mathematical notation and the collision time interval Δt.
 FIGURE CS1.3B The geometry for calculating both the momentum change $\Delta \mathsf { P } _ { \mathsf { x } }$ and the collision time interval Δt.
-::::
+:::
 
 
 ## Case 3: Energy Content of Fossil Fuels
@@ -1833,9 +1918,10 @@ An Automobile: Energy content of fuel tank, kinetic energy of motion, and power.
 
 The first step is to transpose the physical system of the automobile into a model that captures the elements of the system related to the objective of the calculation. This is done in the diagram:
 
-::{figure} ../images/fig-p1-ch01-95.jpg
+:::{figure} ../images/fig-p1-ch01-95.jpg
 :name: fig-p1-ch01-95
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 How much energy is stored in the fuel tank if the tank capacity is 60 liters (15.2 gallons)?
 
@@ -1851,9 +1937,10 @@ A Jet Liner
 
 Again the first step is to transpose the physical system of the jet aircraft into a model that captures the elements of the system related to the objective of the calculation.
 
-::{figure} ../images/fig-p1-ch01-96.jpg
+:::{figure} ../images/fig-p1-ch01-96.jpg
 :name: fig-p1-ch01-96
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 We adopt here the example of the Boeing 767 that has a range of 11,400 km (6,150 nautical miles) (767-400ER) and a fuel capacity of $\mathbf { 1 . 1 \times 1 0 ^ { 5 } }$ liters of jet fuel.
 
@@ -1885,10 +1972,11 @@ But the scientific method represents a dynamic exchange between these observatio
 
 Building on this dynamic exchange between observation and hypothesis is the development of a theory that represents both (1) a union of hypotheses to more fully represent laws guiding the structure and function of natural phenomena and (2) a foundation for prediction of other phenomena and/or for what will happen in the future. This linkage is represented in Figure CS1.4a.
 
-::{figure} ../images/fig-p1-ch01-97.jpg
+:::{figure} ../images/fig-p1-ch01-97.jpg
 :name: fig-p1-ch01-97
+:alt: FIGURE CS1.4A The evolution in the development of a scientific theory that emerges from a set of observations that test the validity of a hypothesis. Subsequent revisions of the hypothesis or multiple hypotheses leads to the development of
 FIGURE CS1.4A The evolution in the development of a scientific theory that emerges from a set of observations that test the validity of a hypothesis. Subsequent revisions of the hypothesis or multiple hypotheses leads to the development of a theory.
-::::
+:::
 
 
 While the scientific method is a construct that must be adapted to various categories of the scientific endeavor, it is nonetheless a process of immense importance today, just as it was four centuries ago as the techniques of modern science emerged on a global scale. In fact, there are examples in contemporary science where the lack of vigorous appreciation for the scientific method has led to serious mistakes associated with the national research endeavor in fields as disparate as chemical biology, climate, and materials research.
@@ -1897,10 +1985,11 @@ A particularly important example of how the scientific method serves to guide sc
 
 Yet the wavelength dependence of the intensity of radiation emitted by a blackbody held key information that was to revolutionize the physical sciences. It was the shape of the intensity, I, versus wavelength displayed in Figure CS1.4b that presented a very serious problem for Maxwell's theory of electromagnetism. In particular, Maxwell's wave formulation of electromagnetic radiation predicts that the energy density of radiation within the blackbody cavity should be proportional to $1 / \lambda ^ { 4 }$ . If that were true, the intensity of radiation emitted by the black body would increase without limit as $\lambda \to 0$ . This in turn meant that rather than glowing red, a blackbody should emit violet light. As it gets hotter, it would simply become a brighter and brighter blue. The prediction of the wavelength dependence of emitted radiation according to Maxwell's formulation of electromagnetic theory is superimposed on the observed wavelength dependence in Figure CS1.4b. This profound departure between the observed and predicted dependence of the intensity emitted by the blackbody cavity was so serious that at the turn of the 20th century it was universally referred to as the “ultraviolet catastrophe.”
 
-::{figure} ../images/fig-p1-ch01-98.jpg
+:::{figure} ../images/fig-p1-ch01-98.jpg
 :name: fig-p1-ch01-98
+:alt: FIGURE CS1.4B The term “ultraviolet catastrophe” was coined to represent the dramatic difference between the theoretical prediction from Maxwell's equations for electromagnetic radiation and the observed dependence of I as a function of λ f
 FIGURE CS1.4B The term “ultraviolet catastrophe” was coined to represent the dramatic difference between the theoretical prediction from Maxwell's equations for electromagnetic radiation and the observed dependence of I as a function of λ from a blackbody cavity.
-::::
+:::
 
 
 It was Max Planck, a young German physicist, who proposed in 1900 a solution that was to be the first step in the revolution of modern chemistry and physics. Planck proposed that the radiant energy of light comes in discrete packets or bundles called quanta each of which possesses electromagnetic energy ε proportional to the frequency, ν, of the light such that:
@@ -1915,9 +2004,10 @@ The proportionality constant h, now called Planck's constant, has a value $\math
 
 What was transformational about this hypothesis put forward by Planck in 1900, as summarized in Figure CS1.4c, was that it implied a wave-particle duality for electromagnetic radiation. That is, light possesses both the properties of waves as described by Maxwell's theory, and the properties of particles. This wave-particle duality formed the first cornerstone in the formulation of quantum mechanics that constitutes the foundation of modern theories of chemical bonding and in the understanding of the interaction of these photons with the structure of atoms and molecules.
 
-::{figure} ../images/fig-p1-ch01-99.jpg
+:::{figure} ../images/fig-p1-ch01-99.jpg
 :name: fig-p1-ch01-99
-::::
+:alt: Figure from the University Chemistry source textbook
+:::
 
 What is remarkable is that Planck himself was not convinced that his own hypothesis was correct—it was such a radical idea that it had little chance of being accepted by the physics community. Yet by inductive reasoning based on the observed dependence of intensity on wavelength emitted from blackbodies combined with the simple representation of the quanta of energy as ε = hν, the observed wavelength dependence of the intensity of blackbody radiation exactly matched the calculated wavelength dependence of blackbody radiation as displayed in Figure CS1.4c. It was a number of years before additional evidence was gathered (the “photoelectric effect”) that lead to the acceptance of Planck's hypothesis that electromagnetic radiation is comprised of discrete packets (quanta) of radiation. It represents a triumph of the scientific method.
 
@@ -1959,28 +2049,31 @@ Modern humans emerged from central Africa some 160,000 years ago. Remarkably, it
 
 250 million until the Renaissance and remarkably global population did not reach 1 billion until 25 years after the American Revolution that occured in 1776. At the time of the Second World War global population had reached approximately 2.3 billion, primarily because agricultural production had increased markedly because of the use of fixed nitrogen as a fertilizer. Thus from the emergence of modern humans to the midtwentieth century it had required some 7000 generations to reach a global population of two billion. In sharp contrast, over the span of a single human lifetime, 1945 to 2045, human population is forecast to increase by 8 billion, to approximately 10 billion people. This is summarized in Figure CS1.5a.
 
-::{figure} ../images/fig-p1-ch01-100.jpg
+:::{figure} ../images/fig-p1-ch01-100.jpg
 :name: fig-p1-ch01-100
+:alt: FIGURE CS1.5A The graph of human population as function of time is of key interest. With the emergence of modern humans in central Africa approximately 160,000 years ago, it required 7000 generations to reach a global population of 2 billio
 FIGURE CS1.5A The graph of human population as function of time is of key interest. With the emergence of modern humans in central Africa approximately 160,000 years ago, it required 7000 generations to reach a global population of 2 billion in the middle of the 20th century. Then within one human lifetime, population is forecast to increase by 8 billion people to 10 billion by 2050.
-::::
+:::
 
 
 ## Case 2: Per Capita Income
 
 While population increase receives the most important attention as the driver of increased energy use, it is actually increases in per capita income that is the primary driver. The reason for this is that it is the developing countries (e.g., India, central African nations, etc.) that are projected to have the greatest increase in population, but also have the lowest per capita income that will, when modernization takes place as it has in China, have the largest increase in per capita income. The concentration of global population growth in Asia is obvious from the recent U.N. projection displayed in Figure CS1.5b.
 
-::{figure} ../images/fig-p1-ch01-101.jpg
+:::{figure} ../images/fig-p1-ch01-101.jpg
 :name: fig-p1-ch01-101
+:alt: FIGURE CS1.5B The UN projection of population in the six major global regions between 1950 and 2100.
 FIGURE CS1.5B The UN projection of population in the six major global regions between 1950 and 2100.
-::::
+:::
 
 
 It is instructive, therefore, to superimpose the increase in global energy consumption on the previously shown graph of global population to emphasize how much more rapidly global energy consumption is increasing than is global population. This remarkable contrast is displayed graphically in Figure CS1.5c.
 
-::{figure} ../images/fig-p1-ch01-102.jpg
+:::{figure} ../images/fig-p1-ch01-102.jpg
 :name: fig-p1-ch01-102
+:alt: FIGURE CS1.5C When we calculate the global energy consumption, it is clear that the increase in global power consumption is significantly greater than the increase in global population.
 FIGURE CS1.5C When we calculate the global energy consumption, it is clear that the increase in global power consumption is significantly greater than the increase in global population.
-::::
+:::
 
 
 ## CALCULATIONS:

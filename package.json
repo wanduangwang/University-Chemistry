@@ -1,0 +1,19 @@
+{
+  "name": "university-chemistry-local-edition",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-only MyST conversion of University Chemistry",
+  "scripts": {
+    "start": "myst start",
+    "build": "node qa/build-strict.mjs",
+    "build:raw": "myst build --html",
+    "qa": "python qa/check_project.py",
+    "check": "npm run qa && npm run build"
+  },
+  "devDependencies": {
+    "mystmd": "1.10.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

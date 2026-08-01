@@ -1,4 +1,8 @@
-# Pilot Status — University Chemistry web book (Chapters 1–3)
+# Archived Pilot Status — University Chemistry web book (Chapters 1–3)
+
+> Historical record only. The project has since expanded to the full local
+> 13-chapter and 6-appendix conversion. See `status-current.md` for current
+> acceptance criteria. Public deployment is disabled.
 
 **Date:** 2026-07-23 · **Method:** MyST-Markdown, replicating SSP/SolidStatePhysics handbook
 **Scope:** Pilot = Ch1 Energy, Ch2 Atomic & Molecular Structure, Ch3 Thermochemistry

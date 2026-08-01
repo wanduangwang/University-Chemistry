@@ -6,20 +6,16 @@ site:
   hide_outline: true
 ---
 
-+++ { "kind": "split-image" }
-
 ## Welcome to University Chemistry
 
-An open, expert-editable web edition of *University Chemistry* by James G. Anderson — covering energy, atomic & molecular structure, thermochemistry, thermodynamics, equilibria, electrochemistry, quantum mechanics, bonding, kinetics, and nuclear chemistry.
+A local research conversion of *University Chemistry* by James G. Anderson — covering energy, atomic & molecular structure, thermochemistry, thermodynamics, equilibria, electrochemistry, quantum mechanics, bonding, kinetics, and nuclear chemistry.
 
 {button}`Get Started </p1-ch01-energy>`
 
-+++
-
 ## About this edition
 
-This site is generated from the original PDF with MyST-Markdown, preserving the text, equations, figures, and cross-references of the source. The content language matches the original (English).
+This site is generated from the original PDF with MyST Markdown. It contains all 13 chapters and Appendices A–F. Text, equations, figures, and tables were machine-extracted and remain subject to OCR and reconstruction review. The content language matches the original (English).
 
-:::{note}
-This is a **pilot build** covering Chapters 1–3 (Energy, Atomic and Molecular Structure, Thermochemistry). Further chapters are added incrementally.
+:::{warning}
+This is a **local-only research copy** of a copyrighted MIT Press publication. It is not an open edition and must not be published or redistributed without written permission from the rights holder.
 :::

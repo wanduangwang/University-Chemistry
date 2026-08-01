@@ -62,7 +62,7 @@ def find_key(obj, key):
     return None
 
 
-def parse(pdf_path, name, out_root):
+def parse(pdf_path, name, out_root, poll_interval=15, poll_timeout=7200):
     token = load_token()
     fn = os.path.basename(pdf_path)
     data_id = str(uuid.uuid4())
@@ -96,8 +96,11 @@ def parse(pdf_path, name, out_root):
             raise
 
     # Poll
+    deadline = time.monotonic() + poll_timeout
     while True:
-        time.sleep(15)
+        if time.monotonic() >= deadline:
+            raise TimeoutError(f"MinerU extraction timed out after {poll_timeout} seconds")
+        time.sleep(poll_interval)
         res = api("GET", f"{API}/api/v4/extract-results/batch/{batch_id}", token=token)
         items = find_key(res, "extract_result")
         states = [it.get("state") for it in items] if isinstance(items, list) else []
@@ -115,6 +118,11 @@ def parse(pdf_path, name, out_root):
     out_dir = os.path.join(out_root, name)
     os.makedirs(out_dir, exist_ok=True)
     with zipfile.ZipFile(io.BytesIO(zbytes)) as z:
+        root = os.path.abspath(out_dir)
+        for member in z.infolist():
+            target = os.path.abspath(os.path.join(root, member.filename))
+            if os.path.commonpath([root, target]) != root:
+                raise ValueError(f"unsafe path in MinerU archive: {member.filename}")
         z.extractall(out_dir)
     print(f"[done] extracted {len(z.namelist())} entries -> {out_dir}")
     return out_dir
@@ -125,6 +133,8 @@ if __name__ == "__main__":
     ap.add_argument("--pdf", required=True)
     ap.add_argument("--name", required=True)
     ap.add_argument("--out", default=None)
+    ap.add_argument("--poll-interval", type=int, default=15)
+    ap.add_argument("--poll-timeout", type=int, default=7200)
     args = ap.parse_args()
     out = args.out or os.path.join(os.path.dirname(os.path.abspath(__file__)), "output")
-    parse(args.pdf, args.name, out)
+    parse(args.pdf, args.name, out, args.poll_interval, args.poll_timeout)

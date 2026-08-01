@@ -4,6 +4,7 @@
 # `npm install -g mystmd`. The Python packages below mirror the reference project
 # (SolidStatePhysics / General-Chemistry) and are kept for parity / optional
 # executed-notebook or plotting support.
+pymupdf==1.28.0
 contourpy==1.3.1
 cycler==0.12.1
 fonttools==4.61.0

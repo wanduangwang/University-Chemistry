@@ -13,11 +13,27 @@ Handles the real MinerU output quirks observed on University Chemistry:
   `^ {-} ^` double-superscript -> `^{-`, `\\tag {x}` -> `\\tag{x}`, strip trailing
   stray backslash (KaTeX pitfall, manual SSP $9). Empty $$ blocks skipped.
 """
-import os, re, sys, argparse, shutil
+import os, re, argparse, shutil
 
 
-def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
+def _normalized_title(value):
+    """Normalize OCR/Markdown title text for conservative title matching."""
+    value = re.sub(r"[`*_{}$\\]", "", value)
+    return re.sub(r"[^a-z0-9]+", "", value.lower())
+
+
+def _figure_alt(caption):
+    if not caption:
+        return "Figure from the University Chemistry source textbook"
+    alt = re.sub(r"<[^>]+>", "", caption)
+    alt = re.sub(r"\$[^$]*\$", "mathematical notation", alt)
+    alt = re.sub(r"\s+", " ", alt).strip()
+    return alt[:240].rstrip()
+
+
+def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest, app=None):
     images_dir = os.path.join(os.path.dirname(full_md_path), "images")
+    prefix = f"{part}-{app}" if app else f"{part}-ch{ch:02d}"
     with open(full_md_path, encoding="utf-8") as f:
         text = f.read()
 
@@ -29,14 +45,20 @@ def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
         if h.lower() not in seen:
             seen.add(h.lower())
             hashes.append(h)
-    figmap = {h: f"fig-{part}-ch{ch:02d}-{i + 1}" for i, h in enumerate(hashes)}
+    figmap = {h: f"fig-{prefix}-{i + 1}" for i, h in enumerate(hashes)}
     if img_dest:
         os.makedirs(img_dest, exist_ok=True)
+        # Remove only images owned by this chapter/appendix. This prevents a
+        # new MinerU run from leaving stale numbered files behind.
+        owned = re.compile(rf"^fig-{re.escape(prefix)}-\d+\.(?:jpg|jpeg|png|gif)$", re.I)
+        for entry in os.listdir(img_dest):
+            if owned.match(entry):
+                os.remove(os.path.join(img_dest, entry))
         for h, name in figmap.items():
             src = os.path.join(images_dir, h)
             ext = os.path.splitext(h)[1].lower()
             dst = os.path.join(img_dest, f"{name}{ext}")
-            if os.path.exists(src) and not os.path.exists(dst):
+            if os.path.exists(src):
                 shutil.copy(src, dst)
 
     def _repl(m):
@@ -45,14 +67,66 @@ def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
         return f"../images/{figmap[h]}{ext}"
 
     text = re.sub(r"images/([0-9a-fA-F]{20,}\.(?:jpg|jpeg|png|gif))", _repl, text)
+    text = re.sub(
+        r'<img\s+src="([^"]+)"\s*/?>',
+        r'<img src="\1" alt="Source textbook figure"/>',
+        text,
+    )
 
     # ---- global MinerU OCR cleanup (covers inline + display math) ----
+    # Strip combining marks (esp. U+0332 low line) that MinerU sprinkles into
+    # control sequences like \times -> \t̲i̲m̲e̲s̲ (KaTeX then fails to recognize them).
+    text = re.sub(r"[\u0332\u0323\u0304\u0303\u0301\u0302\u0300\u0311\u0307]", "", text)
+    text = text.replace("\x00", "")
     text = text.replace("\u2013", "-")  # en-dash -> hyphen (fixes KaTeX unknownSymbol)
     text = re.sub(r"\\dprime", r"\\prime", text)
     text = re.sub(r"\^ \{\-\} \^ \{(\\circ)\}", r"^{-\\circ}", text)
+    # KaTeX rejects math commands embedded inside text-mode commands. These
+    # patterns are recurring MinerU artifacts in this source book.
+    text = re.sub(
+        r"\\textbf\s*\{\s*([0-9 ]+)\s*\\times\s*([0-9 ]+)\s*\}",
+        r"\\mathbf{\1} \\times \\mathbf{\2}",
+        text,
+    )
+    text = re.sub(
+        r"\\textbf\s*\{\s*([0-9]+)\s*\\times\s*\}",
+        r"\\mathbf{\1} \\times",
+        text,
+    )
+    text = re.sub(r"\\mathrm\s*\{\s*\\AA\s*\}", r"\\text{\\AA}", text)
+    text = text.replace(
+        r"\text {Ratio of molecules with energy at or above \varepsilon_ {A}}",
+        r"\text {Ratio of molecules with energy at or above } \varepsilon_{A}",
+    )
+    text = text.replace(
+        r"\text {Ratio of molecules with energy at or above E_{A}}",
+        r"\text {Ratio of molecules with energy at or above } E_{A}",
+    )
+    text = text.replace(
+        r"\text {with K_{eq} = K_{a} (1/ K_{w})}",
+        r"\text {with } K_{eq} = K_{a} (1/K_{w})",
+    )
+    text = text.replace(
+        r"\text {so that Na^{+} Cl^{-} resulted.}",
+        r"\text {so that } \mathrm{Na}^{+}\mathrm{Cl}^{-}\text { resulted.}",
+    )
+    text = text.replace(
+        r"\cdot \mathrm { ~ \textmu ~ } ^ { \circ } \mathrm { C }",
+        r"\cdot {}^{\circ}\mathrm{C}",
+    )
+    text = text.replace(
+        r"\text {[energy required to drive 100 km] = (100 km / 8 km/ \ell) 10 kWh / \ell = 125}",
+        r"\text {[energy required to drive 100 km] = (100 km / 8 km/}\ell\text {) 10 kWh/}\ell\text { = 125}",
+    )
+    text = re.sub(
+        r"Figure\s+\$\\operatorname\s*\{[^$]+\}\$\s*First,",
+        "Figure 10.17)? First,",
+        text,
+    )
 
     lines = text.split("\n")
-    out = ["---", f'title: "{title}"', "---", "", f"# {ch} {title}", ""]
+    title_line = f"# {title}" if app else f"# {ch} {title}"
+    out = ["---", f'title: "{title}"', "---", "", title_line, ""]
 
     eq_seq = 0
     first_idx = None
@@ -60,7 +134,35 @@ def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
         if re.match(r"^#{1,6}\s", ln):
             first_idx = k
             break
-    i = 0 if first_idx is None else first_idx + 1
+    skip_first_heading = False
+    if first_idx is not None:
+        source_heading = re.sub(r"^#{1,6}\s+", "", lines[first_idx]).strip()
+        expected = {_normalized_title(title)}
+        if app:
+            expected.add(_normalized_title(f"Appendix {app[-1].upper()}"))
+        skip_first_heading = _normalized_title(source_heading) in expected
+
+    i = first_idx + 1 if skip_first_heading else 0
+    skip_lines = set()
+    promote_lines = set()
+    if not skip_first_heading:
+        first_content = i
+        while first_content < len(lines) and not lines[first_content].strip():
+            first_content += 1
+        if app and first_content < len(lines):
+            appendix_title = _normalized_title(f"Appendix {app[-1].upper()}")
+            if _normalized_title(lines[first_content].strip()) == appendix_title:
+                skip_lines.add(first_content)
+                first_content += 1
+                while first_content < len(lines) and not lines[first_content].strip():
+                    skip_lines.add(first_content)
+                    first_content += 1
+        if (
+            first_content < len(lines)
+            and not re.match(r"^(?:#{1,6}\s|<table|!\[|\$\$)", lines[first_content].strip())
+            and len(lines[first_content].strip()) < 200
+        ):
+            promote_lines.add(first_content)
     n = len(lines)
     img_re = re.compile(r"^!\[\]\((\.\./images/.*?)\)\s*$")
     head_re = re.compile(r"^(#{1,6})\s+(.*)$")
@@ -68,6 +170,14 @@ def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
     while i < n:
         line = lines[i]
         stripped = line.strip()
+
+        if i in skip_lines:
+            i += 1
+            continue
+        if i in promote_lines:
+            out += [f"## {stripped}", ""]
+            i += 1
+            continue
 
         # ---- display math block ----
         if stripped.startswith("$$"):
@@ -96,7 +206,7 @@ def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
             content = re.sub(r"\\tag\s*\{", r"\\tag{", content)
             content = content.rstrip().rstrip("\\").strip()
             eq_seq += 1
-            out += ["```{math}", f":label: eq-{part}-ch{ch:02d}-{eq_seq}", content, "```", ""]
+            out += ["```{math}", f":label: eq-{prefix}-{eq_seq}", content, "```", ""]
             continue
 
         # ---- standalone markdown figure ----
@@ -116,10 +226,14 @@ def reconstruct(full_md_path, slug, part, ch, title, out_md, img_dest):
                 i = j
             for k, img in enumerate(imgs):
                 fname = os.path.splitext(img)[0].split("/")[-1]
-                out += [f"::{{figure}} {img}", f":name: {fname}"]
+                out += [
+                    f":::{{figure}} {img}",
+                    f":name: {fname}",
+                    f":alt: {_figure_alt(caption if k == 0 else None)}",
+                ]
                 if k == 0 and caption:
                     out.append(caption)
-                out += ["::::", ""]
+                out += [":::", ""]
             continue
 
         # ---- headings ----
@@ -144,9 +258,10 @@ if __name__ == "__main__":
     ap.add_argument("--full", required=True)
     ap.add_argument("--slug", required=True)
     ap.add_argument("--part", default="p1")
-    ap.add_argument("--ch", type=int, required=True)
+    ap.add_argument("--ch", type=int, default=None)
+    ap.add_argument("--app", default=None, help="appendix id e.g. appa (use instead of --ch)")
     ap.add_argument("--title", required=True)
     ap.add_argument("--out", required=True)
     ap.add_argument("--img-dest", default="images")
     args = ap.parse_args()
-    reconstruct(args.full, args.slug, args.part, args.ch, args.title, args.out, args.img_dest)
+    reconstruct(args.full, args.slug, args.part, args.ch, args.title, args.out, args.img_dest, app=args.app)
