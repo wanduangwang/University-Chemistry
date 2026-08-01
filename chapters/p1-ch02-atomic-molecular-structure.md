@@ -1,5 +1,5 @@
 ---
-title: "Atomic and Molecular Structure"
+title: "2 Atomic and Molecular Structure"
 ---
 
 # 2 Atomic and Molecular Structure

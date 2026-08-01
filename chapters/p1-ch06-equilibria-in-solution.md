@@ -1,5 +1,5 @@
 ---
-title: "Equilibria in Solution"
+title: "6 Equilibria in Solution"
 ---
 
 # 6 Equilibria in Solution

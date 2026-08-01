@@ -1,5 +1,5 @@
 ---
-title: "Energy"
+title: "1 Energy"
 ---
 
 # 1 Energy

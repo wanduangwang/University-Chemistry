@@ -1,5 +1,5 @@
 ---
-title: "Quantum Mechanics, Wave-Particle Duality, and the Single Electron Atom"
+title: "8 Quantum Mechanics, Wave-Particle Duality, and the Single Electron Atom"
 ---
 
 # 8 Quantum Mechanics, Wave-Particle Duality, and the Single Electron Atom

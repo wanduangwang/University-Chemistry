@@ -35,7 +35,7 @@ jobs:
         run: npm ci
       - name: Run structural QA and strict build
         env:
-          BASE_URL: /${{ github.event.repository.name }}/
+          BASE_URL: /${{ github.event.repository.name }}
         run: npm run check
       - name: Configure Pages
         if: github.event_name != 'pull_request'

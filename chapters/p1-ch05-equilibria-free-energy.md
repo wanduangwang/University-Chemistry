@@ -1,5 +1,5 @@
 ---
-title: "Equilibria and Free Energy"
+title: "5 Equilibria and Free Energy"
 ---
 
 # 5 Equilibria and Free Energy

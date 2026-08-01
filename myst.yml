@@ -27,7 +27,7 @@ project:
 site:
   template: book-theme
   # base_url is "/" for LOCAL acceptance/preview (myst start).
-  # Before GitHub Pages deploy, the CI rewrites it to "/<REPO>/" automatically.
+  # For GitHub Pages, CI overrides it with "/<REPO>".
   title: University Chemistry
   options:
     hide_toc: false
