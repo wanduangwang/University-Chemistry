@@ -1,7 +1,13 @@
+# Local credentials and dependencies
 mineru/.env
 node_modules/
+
+# MyST and notebook build outputs
 _build/
 .myst/
+.ipynb_checkpoints/
+
+# Python caches and generated extraction inputs
 __pycache__/
 *.py[cod]
 *.pdf
