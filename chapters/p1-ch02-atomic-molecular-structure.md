@@ -40,7 +40,7 @@ As we will see in this chapter, we cannot comprehend the fundamentals that under
 
 Nations that prosper will be those tuned to the pathways that are innovative in the development of techniques for primary energy generation. Strategic choices for primary energy generation will serve any nation's ability to compete economically in the world market, achieve national security through energy independence, and properly forecast changes in the Earth's climate structure. The climate structure in turn controls water supplies from glacial and snow pack runoff, sea level, severe storm frequency and intensity, rainfall patterns, temperatures, and thereby social infrastructure.
 
-To address these questions, we first consider the processes involved in the familiar example of hydrocarbon combustion and human comfort—a campfire surrounded by a group of organisms—humans, as displayed in Figure 2.1; humans that are themselves sustained by the oxidation of hydrocarbons that they have consumed as “food.” While this example provides a model that may appear trivial in contrast to the scale of global energy, it provides a prototype for a series of important processes in atomic and molecular structure and in thermochemistry. It also provides an important context before turning to the development of atomic and molecular structure of matter.
+To address these questions, we first consider the processes involved in the familiar example of hydrocarbon combustion and human comfort—a campfire surrounded by a group of organisms—humans, as displayed in [Figure 2.1](#fig-p1-ch02-4); humans that are themselves sustained by the oxidation of hydrocarbons that they have consumed as “food.” While this example provides a model that may appear trivial in contrast to the scale of global energy, it provides a prototype for a series of important processes in atomic and molecular structure and in thermochemistry. It also provides an important context before turning to the development of atomic and molecular structure of matter.
 
 :::{figure} ../images/fig-p1-ch02-4.jpg
 :name: fig-p1-ch02-4
@@ -58,18 +58,18 @@ A picture of campers sitting around a fire at night contains, within a single im
 
 The energy released in the reaction increases the temperature of tiny particles of carbon and/or “ash” that collectively appear as a flame because of the blackbody emission from the solid surfaces of the particles. The particles are hot enough that blackbody radiation occurs in the visible region of the spectrum and is thus detected by the human eye, but also clearly sensed as warmth by the campers sitting around the fire. Notice, however, that the flame transitions to red at the edges and then disappears because the particles cool, shifting to the red end of the visible spectrum and then, with further cooling, emitting radiation in the infrared that is invisible to the human eye. The chemical energy released in the combustion of wood is transformed to electromagnetic radiation (visible and infrared) and then absorbed by the campers in proximity to the fire. The campers, in turn, are sustained by the oxidation of glucose formed from what they have had for dinner, releasing chemical energy that maintains their body temperature at $3 8 ^ { \circ } \mathrm { C }$ (311 K). The clothes, worn by the campers, absorb the infrared radiation from their bodies and then reradiate that infrared back into their bodies. The clothes also eliminate convective loss of energy to the surrounding air (energy transport via the macroscopic motion of the air). The rate of energy transport through the campers’ clothes depends upon the difference in temperature between the inside and outside of their garments—the greater the temperature difference, the higher the rate of energy loss through the garments. The electromagnetic energy (visible and infrared) produced by the fire directly transmits energy to their bodies, through exposure to their faces, but also reduces the temperature difference between the outer and inner surface of their clothes, reducing the flow of energy outward from their bodies through their clothes.
 
-We can model the systems contained in the image of the campers sitting around the campfire, Figure 2.1, by capturing the sources of energy, the transformations of energy taking place, as well as the barriers to energy flow. This “model” of the system is shown in Figure 2.2. Notice that in order to maintain a comfortable temperature of $3 8 ^ { \circ } \mathrm { C } ,$ , the campers will select a distance from the fire and a thickness of outer garments to comfortably stabilize their body temperature at $3 8 ^ { \circ } \mathrm { C }$
+We can model the systems contained in the image of the campers sitting around the campfire, [Figure 2.1](#fig-p1-ch02-4), by capturing the sources of energy, the transformations of energy taking place, as well as the barriers to energy flow. This “model” of the system is shown in [Figure 2.2](#fig-p1-ch02-6). Notice that in order to maintain a comfortable temperature of $3 8 ^ { \circ } \mathrm { C } ,$ , the campers will select a distance from the fire and a thickness of outer garments to comfortably stabilize their body temperature at $3 8 ^ { \circ } \mathrm { C }$
 
 :::{figure} ../images/fig-p1-ch02-6.jpg
 :name: fig-p1-ch02-6
 :alt: FIGURE 2.2 We can “model” the campfire scene captured in Figure 2.1 by replacing the physical objects (fire, people, clothes, etc.) by simplified “subsystems” that capture, in this case, just the chemical transformations, the boundaries def
-FIGURE 2.2 We can “model” the campfire scene captured in Figure 2.1 by replacing the physical objects (fire, people, clothes, etc.) by simplified “subsystems” that capture, in this case, just the chemical transformations, the boundaries defining each of the subsystems from their surroundings, and the energy transformations taking place that link the subsystems together.
+FIGURE 2.2 We can “model” the campfire scene captured in [Figure 2.1](#fig-p1-ch02-4) by replacing the physical objects (fire, people, clothes, etc.) by simplified “subsystems” that capture, in this case, just the chemical transformations, the boundaries defining each of the subsystems from their surroundings, and the energy transformations taking place that link the subsystems together.
 :::
 
 
 While we can represent respiration (the oxidation of organic material to form $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O } )$ as the burning of lignin or cellulose in the fire, what is the comparable mechanism for the oxidation of hydrocarbons that “fuels” the human beings in this picture?
 
-Cells have the capacity to extract energy from molecules (primarily sugars) through a coupled series of reactions that release energy in a controlled sequence that can either release heat directly or control that energy to be used for muscular control, nerve function, etc. As we have seen, heat is a highly disorganized form of energy that is not available for the controlled formation of specific chemical bonds. In almost all organisms this transfer of energy along chains of coupled reactions is accomplished by the molecule adenosine triphosphate or ATP. The structure of ATP is shown in Figure 2.3. The energy content of ATP that is readily transferred is in the phosphate subunit of the molecule, highlighted in red in that sidebar. The conversion of ATP to adenosine diphosphate, or ADP shown in Figure 2.4, occurs in the reaction with water
+Cells have the capacity to extract energy from molecules (primarily sugars) through a coupled series of reactions that release energy in a controlled sequence that can either release heat directly or control that energy to be used for muscular control, nerve function, etc. As we have seen, heat is a highly disorganized form of energy that is not available for the controlled formation of specific chemical bonds. In almost all organisms this transfer of energy along chains of coupled reactions is accomplished by the molecule adenosine triphosphate or ATP. The structure of ATP is shown in [Figure 2.3](#fig-p1-ch02-7). The energy content of ATP that is readily transferred is in the phosphate subunit of the molecule, highlighted in red in that sidebar. The conversion of ATP to adenosine diphosphate, or ADP shown in [Figure 2.4](#fig-p1-ch02-8), occurs in the reaction with water
 
 ```{math}
 :label: eq-p1-ch02-1
@@ -125,7 +125,7 @@ Because the amount of energy entering a mass, m, of material is directly proport
 
 where C, the “heat capacity” of the body, is a constant specific to the material into which the energy is flowing, and to the amount of material —the mass of the body into which the energy is flowing.
 
-This is very important in practice because it means that we can measure the energy contained in the reaction of, say, a liter of gasoline, by capturing that energy and simply measuring the increase in temperature of the material into which the energy released in the reaction has flowed. We could get a reasonably accurate measure of the energy contained in the molecular structure of gasoline relative to the products of the reaction, $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ , simply by burning the liter of gasoline in a steel box, first measuring the temperature of the box just before we ignited the liter of fuel and then measuring the temperature of the box just after the gasoline was consumed in combustion. We could improve our measurement by insulating the box so no energy was lost by the emission of infrared radiation or by conduction to the surrounding air from the box during the combustion of the gasoline. In addition we could add the gasoline fairly slowly so the flame burned at a controlled rate such that the steel box did not explode from the rapid release of energy. A simple experiment to obtain a good estimate of the energy contained in gasoline is shown in Figure 2.5.
+This is very important in practice because it means that we can measure the energy contained in the reaction of, say, a liter of gasoline, by capturing that energy and simply measuring the increase in temperature of the material into which the energy released in the reaction has flowed. We could get a reasonably accurate measure of the energy contained in the molecular structure of gasoline relative to the products of the reaction, $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ , simply by burning the liter of gasoline in a steel box, first measuring the temperature of the box just before we ignited the liter of fuel and then measuring the temperature of the box just after the gasoline was consumed in combustion. We could improve our measurement by insulating the box so no energy was lost by the emission of infrared radiation or by conduction to the surrounding air from the box during the combustion of the gasoline. In addition we could add the gasoline fairly slowly so the flame burned at a controlled rate such that the steel box did not explode from the rapid release of energy. A simple experiment to obtain a good estimate of the energy contained in gasoline is shown in [Figure 2.5](#fig-p1-ch02-9).
 
 :::{figure} ../images/fig-p1-ch02-9.jpg
 :name: fig-p1-ch02-9
@@ -163,7 +163,7 @@ We have, with our insulated steel box into which we slowly added a liter of gaso
 :alt: Figure from the University Chemistry source textbook
 :::
 
-In the process of combusting gasoline, we have released all the energy as heat that went into elevating the temperature of the steel box. We can sketch this in Figure 2.6 to emphasize that we combined gasoline with oxygen producing carbon dioxide and water. Energy was released primarily as heat. Expansion of gas resulting from the formation of $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ molecules did some work on the surroundings, but as we will see, very little compared with the release of heat. Thus virtually all of the energy released in the combustion of gasoline went to heat. This is also summarized in Figure 2.6. Given that fossil fuels provide 80% of all primary energy, where do fossil fuels come from? How were fossil fuels formed? This is an important topic that is treated in Case Study 2.3.
+In the process of combusting gasoline, we have released all the energy as heat that went into elevating the temperature of the steel box. We can sketch this in [Figure 2.6](#fig-p1-ch02-11) to emphasize that we combined gasoline with oxygen producing carbon dioxide and water. Energy was released primarily as heat. Expansion of gas resulting from the formation of $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ molecules did some work on the surroundings, but as we will see, very little compared with the release of heat. Thus virtually all of the energy released in the combustion of gasoline went to heat. This is also summarized in [Figure 2.6](#fig-p1-ch02-11). Given that fossil fuels provide 80% of all primary energy, where do fossil fuels come from? How were fossil fuels formed? This is an important topic that is treated in Case Study 2.3.
 
 :::{figure} ../images/fig-p1-ch02-11.jpg
 :name: fig-p1-ch02-11
@@ -179,7 +179,7 @@ FIGURE 2.6 When we burn gasoline in a container open to the atmosphere, all the 
 :alt: Figure from the University Chemistry source textbook
 :::
 
-When we use gasoline to power an automobile rather than combusting gasoline in an open steel box, the only difference is that the engine of the car converts some of the energy contained in the bonding structure of octane to work, moving the car forward. This forward motion is a result of a series of small explosions within the cylinders of the engine that turns the crankshaft of the engine that turns the wheels of the car. A diagram that expresses the combustion of gasoline in oxygen, to form $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ with the release of energy because of the chemical reaction, is shown in Figure 2.7 for the case of an automobile. In the case of even a modern high-efficiency gasoline-powered car, Figure 2.7 properly reflects the fact that only about 15% of the energy released from the rearrangement of chemical bonds of gasoline and oxygen to produce carbon dioxide and water is available to power the automobile: 85% of the energy is lost as heat!
+When we use gasoline to power an automobile rather than combusting gasoline in an open steel box, the only difference is that the engine of the car converts some of the energy contained in the bonding structure of octane to work, moving the car forward. This forward motion is a result of a series of small explosions within the cylinders of the engine that turns the crankshaft of the engine that turns the wheels of the car. A diagram that expresses the combustion of gasoline in oxygen, to form $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ with the release of energy because of the chemical reaction, is shown in [Figure 2.7](#fig-p1-ch02-13) for the case of an automobile. In the case of even a modern high-efficiency gasoline-powered car, [Figure 2.7](#fig-p1-ch02-13) properly reflects the fact that only about 15% of the energy released from the rearrangement of chemical bonds of gasoline and oxygen to produce carbon dioxide and water is available to power the automobile: 85% of the energy is lost as heat!
 
 :::{figure} ../images/fig-p1-ch02-13.jpg
 :name: fig-p1-ch02-13
@@ -256,7 +256,7 @@ These are the concepts that constitute the foundation for all modern studies of 
 
 Virtually without exception, our major conceptual advances in the physical sciences have sprung from an observation or series of observations that refute the community-held views of the day, replacing those views with a radically different perspective. This was the case when the concept of a material substance called caloric was replaced by the concept that heat was not a substance but rather the transfer of thermal energy; it was the case when Copernicus demonstrated that the Earth did not sit at the center of the solar system. While we take it for granted today that material is built from atoms and the bonds they form with other atoms to form molecules, throughout a vast fraction of human history, matter was viewed as continuous. The idea that the physical material around us was divisible into specific, identifiable entities was rejected in scientific thinking until the beginning of the 19th century. In fact there were leading scientists that rejected the notion into the early part of the 20th century. A sequence of three discoveries, articulated in the form of scientific laws, changed the very foundation of how the structure of materials was viewed in science.
 
-The first law that led to a new atomic theory of matter was formulated in 1789 by Antoine Lavoisier, shown in Figure 2.8. Lavoisier is often called the father of modern chemistry because he was the first to recognize, isolate, and name oxygen in 1778 and hydrogen in 1783. Lavoisier discovered that while matter may change its form, shape, or chemical characteristics, its mass always remains constant. In other words, mass is conserved in such transformations. This realization led Lavoisier to formulate his Law of the Conservation of Mass in 1789: In a chemical reaction, matter is neither created nor destroyed.
+The first law that led to a new atomic theory of matter was formulated in 1789 by Antoine Lavoisier, shown in [Figure 2.8](#fig-p1-ch02-21). Lavoisier is often called the father of modern chemistry because he was the first to recognize, isolate, and name oxygen in 1778 and hydrogen in 1783. Lavoisier discovered that while matter may change its form, shape, or chemical characteristics, its mass always remains constant. In other words, mass is conserved in such transformations. This realization led Lavoisier to formulate his Law of the Conservation of Mass in 1789: In a chemical reaction, matter is neither created nor destroyed.
 
 :::{figure} ../images/fig-p1-ch02-21.jpg
 :name: fig-p1-ch02-21
@@ -293,7 +293,7 @@ Positive and negative charges of exactly the same magnitude sum to zero when com
 
 It is interesting to point out that it was Lavoisier's deft discoveries of oxygen and hydrogen as gases produced and/or consumed by chemical reactions that led him to include these important gases in his analysis of both reactant and product masses involved in a chemical reaction, opening the pathway to an understanding of mass conservation. Lavoisier brought the application of high accuracy measurements of mass to the practice of chemistry, initializing a new era of analytical chemistry that remains an important part of chemistry today. Lavoisier was a member of the French aristocracy and was beheaded in the French Revolution on the 8th of May 1794 at the age of 50.
 
-In 1799 another French chemist, Joseph Proust, shown in Figure 2.9, convinced many scientific skeptics that the elements that make up a given compound were always present in fixed proportions. Establishing this fact lead to his formulation of the Law of Definite Proportions, also known as the Law of Definite Composition, which states that: Independent of its source, a particular compound is composed of the same elements in the same fraction by mass.
+In 1799 another French chemist, Joseph Proust, shown in [Figure 2.9](#fig-p1-ch02-26), convinced many scientific skeptics that the elements that make up a given compound were always present in fixed proportions. Establishing this fact lead to his formulation of the Law of Definite Proportions, also known as the Law of Definite Composition, which states that: Independent of its source, a particular compound is composed of the same elements in the same fraction by mass.
 
 :::{figure} ../images/fig-p1-ch02-26.jpg
 :name: fig-p1-ch02-26
@@ -304,7 +304,7 @@ FIGURE 2.9 Joseph Proust (1754-1826), who established the Law of Definite Propor
 
 The fraction by mass that a given element contributes is obtained by dividing the mass of each element by the total mass of the compound.
 
-Five years later, in 1804, John Dalton, an English physicist and chemist shown in Figure 2.10, published his law of Multiple Proportions, which stated that: When two elements, A and B, react to form two different compounds, the masses of B that combine with a fixed mass of A can be expressed as a ratio of whole numbers.
+Five years later, in 1804, John Dalton, an English physicist and chemist shown in [Figure 2.10](#fig-p1-ch02-27), published his law of Multiple Proportions, which stated that: When two elements, A and B, react to form two different compounds, the masses of B that combine with a fixed mass of A can be expressed as a ratio of whole numbers.
 
 :::{figure} ../images/fig-p1-ch02-27.jpg
 :name: fig-p1-ch02-27
@@ -335,7 +335,7 @@ It was nearly one hundred years before the structure of the atom was interrogate
 
 The fact that the new Dalton model of matter revolutionized the study of both physics and chemistry did not mean that the theory was complete. For example the Dalton model could not successfully explain why atoms could bond together to form molecules, why carbon and oxygen could form either carbon monoxide, CO, or carbon dioxide, $\mathrm { C O } _ { 2 } .$
 
-It was the union of the studies of electricity and chemical composition that opened key new insights in the late 19th century. The English physicist J. J. Thomson, shown in Figure 2.11, working with evacuated tubes to which a high voltage could be applied, discovered the fact that these “atoms” were not indivisible. In fact they contained negatively charged particles that could be separated from the positive component of the atom by a strong electric field. An example of the original device used in these studies is shown in Figure 2.12—it was termed a cathode ray tube. Cathode ray tubes, as Figure 2.12 shows, consist of two electrodes, one negative—the cathode, and one positive —the anode, separated by a few centimeters of space that can be evacuated and filled with small amounts of any number of different gases. With the application of high voltage between these electrodes, a beam of light appears between the electrodes and a “current” flows through the tube. These glowing discharges were a fascination of the day, but it was J. J. Thomson who systematically studied those discharges using specifically designed tubes and using both electric and magnetic fields to study the properties of these charged entities that traversed the tube when voltage was applied. Thomson, through a series of increasingly decisive experiments, determined that those “cathode rays” were streams of particles that (1) traveled in straight trajectories, (2) were independent of the element that comprised the cathode, and (3) carried a negative charge. By studying the curvature of the trajectories of these subatomic particles, Thomson established the ratio of the particle's charge to the particle's mass—the “charge-to-mass-ratio”—demonstrating that those particles were 2000 times less massive than the hydrogen atom.
+It was the union of the studies of electricity and chemical composition that opened key new insights in the late 19th century. The English physicist J. J. Thomson, shown in [Figure 2.11](#fig-p1-ch02-28), working with evacuated tubes to which a high voltage could be applied, discovered the fact that these “atoms” were not indivisible. In fact they contained negatively charged particles that could be separated from the positive component of the atom by a strong electric field. An example of the original device used in these studies is shown in [Figure 2.12](#fig-p1-ch02-29)—it was termed a cathode ray tube. Cathode ray tubes, as [Figure 2.12](#fig-p1-ch02-29) shows, consist of two electrodes, one negative—the cathode, and one positive —the anode, separated by a few centimeters of space that can be evacuated and filled with small amounts of any number of different gases. With the application of high voltage between these electrodes, a beam of light appears between the electrodes and a “current” flows through the tube. These glowing discharges were a fascination of the day, but it was J. J. Thomson who systematically studied those discharges using specifically designed tubes and using both electric and magnetic fields to study the properties of these charged entities that traversed the tube when voltage was applied. Thomson, through a series of increasingly decisive experiments, determined that those “cathode rays” were streams of particles that (1) traveled in straight trajectories, (2) were independent of the element that comprised the cathode, and (3) carried a negative charge. By studying the curvature of the trajectories of these subatomic particles, Thomson established the ratio of the particle's charge to the particle's mass—the “charge-to-mass-ratio”—demonstrating that those particles were 2000 times less massive than the hydrogen atom.
 
 :::{figure} ../images/fig-p1-ch02-28.jpg
 :name: fig-p1-ch02-28
@@ -353,7 +353,7 @@ FIGURE 2.12 An early simple cathode ray tube consisting of an evacuated tube, a 
 
 This discovery rewrote the atomic model—the atom was not indivisible, it contained negative particles and positive particles. The new subatomic particle discovered by Thomson was called an electron. As is quite often the case, many in the scientific community reacted with bemused disbelief. But additional experiments that tested Thomson's hypothesis proved him correct. The scientific method, in the fullness of time, is the ultimate adjudicator of disputes among scientists.
 
-The cathode ray tube constitutes the basis for both the display tube on a television set shown in Figure 2.13 (now replaced by a flat screen system that employ, for example, liquid crystal displays—LCDs, that employ light emitting diodes—LEDs) and the “neon” signs that are simply evacuated tubes with a high voltage applied containing various mixtures of the rare gases (helium, neon, argon, etc.) that are ubiquitous in the advertising community.
+The cathode ray tube constitutes the basis for both the display tube on a television set shown in [Figure 2.13](#fig-p1-ch02-30) (now replaced by a flat screen system that employ, for example, liquid crystal displays—LCDs, that employ light emitting diodes—LEDs) and the “neon” signs that are simply evacuated tubes with a high voltage applied containing various mixtures of the rare gases (helium, neon, argon, etc.) that are ubiquitous in the advertising community.
 
 :::{figure} ../images/fig-p1-ch02-30.jpg
 :name: fig-p1-ch02-30
@@ -362,7 +362,7 @@ FIGURE 2.13 A modern cathode ray tube that provides precise control over the ele
 :::
 
 
-While Thomson discovered the electron and measured the charge to mass ratio of the electron, it was the American physicist Robert Millikan, Figure 2.14, working at the University of Chicago, who determined the charge on the electron. This was extremely important, for not only did it place an absolute value on the electron charge, it also, in combination with Thomson's measurement of the charge-to-mass ratio of the electron, provided a determination of the mass of the electron itself. While some experiments in science are clean and decisive, Millikan's experiment, called the “Millikan oil drop experiment,” was anything but. Here is how it worked.
+While Thomson discovered the electron and measured the charge to mass ratio of the electron, it was the American physicist Robert Millikan, [Figure 2.14](#fig-p1-ch02-31), working at the University of Chicago, who determined the charge on the electron. This was extremely important, for not only did it place an absolute value on the electron charge, it also, in combination with Thomson's measurement of the charge-to-mass ratio of the electron, provided a determination of the mass of the electron itself. While some experiments in science are clean and decisive, Millikan's experiment, called the “Millikan oil drop experiment,” was anything but. Here is how it worked.
 
 :::{figure} ../images/fig-p1-ch02-31.jpg
 :name: fig-p1-ch02-31
@@ -371,7 +371,7 @@ FIGURE 2.14 Robert Millikan (1868-1953), developer of the oil drop experiment th
 :::
 
 
-Millikan built an experimental apparatus, shown in Figure 2.15, that aspirated a mist of oil droplets into an upper chamber. A few of those tiny oil droplets passed through an opening into a second lower chamber where they passed through a collimated beam of x-rays (high energy electromagnetic radiation, Figure 2.15) that detached one or more electrons from one or more of the oil droplets. The lower chamber was comprised of an upper plate that was positively charged and a lower plate that was negatively charged. By adjusting the voltage between the two plates, the vertical velocity of the oil droplets could be controlled; in fact a given droplet could be suspended such that the force on the oil droplet resulting from the imposed electric field just balanced the gravitational force resulting from the mass of the oil droplet within the Earth's gravitational field.
+Millikan built an experimental apparatus, shown in [Figure 2.15](#fig-p1-ch02-32), that aspirated a mist of oil droplets into an upper chamber. A few of those tiny oil droplets passed through an opening into a second lower chamber where they passed through a collimated beam of x-rays (high energy electromagnetic radiation, [Figure 2.15)](#fig-p1-ch02-32) that detached one or more electrons from one or more of the oil droplets. The lower chamber was comprised of an upper plate that was positively charged and a lower plate that was negatively charged. By adjusting the voltage between the two plates, the vertical velocity of the oil droplets could be controlled; in fact a given droplet could be suspended such that the force on the oil droplet resulting from the imposed electric field just balanced the gravitational force resulting from the mass of the oil droplet within the Earth's gravitational field.
 
 :::{figure} ../images/fig-p1-ch02-32.jpg
 :name: fig-p1-ch02-32
@@ -380,7 +380,7 @@ FIGURE 2.15 The Millikan oil drop experiment consists of an upper and a lower ch
 :::
 
 
-The experimental complement, as shown in Figure 2.15, was complete with the addition of a microscope that provided the identification of a single oil droplet that could be manipulated with the electric field to reveal both its mass by measuring its fall velocity (cross checked by observing its size and knowing the density of the oil) and its charge by determining the electric field necessary to suspend it motionless in the gravitational field. Millikan's strategy was to observe a large number of cases, which would include a range of integral numbers of electrons removed by the x-ray beam, then solve for the minimum incremental charge.
+The experimental complement, as shown in [Figure 2.15](#fig-p1-ch02-32), was complete with the addition of a microscope that provided the identification of a single oil droplet that could be manipulated with the electric field to reveal both its mass by measuring its fall velocity (cross checked by observing its size and knowing the density of the oil) and its charge by determining the electric field necessary to suspend it motionless in the gravitational field. Millikan's strategy was to observe a large number of cases, which would include a range of integral numbers of electrons removed by the x-ray beam, then solve for the minimum incremental charge.
 
 This work was completed in 1909, yielding a charge on the electron of $\mathbf { - 1 . 6 0 2 \times 1 0 ^ { - 1 9 } }$ coulombs or $\mathbf { - 1 . 6 0 2 \times 1 0 ^ { - 1 9 } C }$ . This value is within 1% of the value accepted today after decades of refinement.
 
@@ -410,7 +410,7 @@ While Thomson's discovery of the electron was irrefutable, and in conjunction wi
 
 But Thomson was intent on testing his model of the atomic structure. After all, if he was wrong he wanted to be the first one to know. A powerful motivator leading to good science!
 
-Thus Ernest Rutherford, a young New Zealander, shown in Figure 2.16, who had worked with Thomson and was a proponent of the “plum-pudding” model, decided to use an important new discovery—radioactivity—as a new experimental tool. Henri Becquerel and Marie Curie, shown in Figure 2.17, discoverers of radioactivity, had identified three distinct forms of radioactivity: alpha (α) particles, beta (β) particles, and gamma (γ) rays. Those will be treated in some detail in Chapter 13.
+Thus Ernest Rutherford, a young New Zealander, shown in [Figure 2.16](#fig-p1-ch02-33), who had worked with Thomson and was a proponent of the “plum-pudding” model, decided to use an important new discovery—radioactivity—as a new experimental tool. Henri Becquerel and Marie Curie, shown in [Figure 2.17](#fig-p1-ch02-34), discoverers of radioactivity, had identified three distinct forms of radioactivity: alpha (α) particles, beta (β) particles, and gamma (γ) rays. Those will be treated in some detail in Chapter 13.
 
 :::{figure} ../images/fig-p1-ch02-33.jpg
 :name: fig-p1-ch02-33
@@ -426,7 +426,7 @@ FIGURE 2.17 Madame Marie Curie (1867-1934), codiscoverer of radio activity, pion
 :::
 
 
-The α particles had the attributes Rutherford needed—they were massive (relative to the electron) and they were emitted from radioactive elements at high velocity. In setting out to confirm Thomson's model, Rutherford built an experimental apparatus that was remarkably simple but powerful in its decisive ability to test this new model of atomic structure. As noted, that model of atomic structure was built on the notion of a continuous sphere of positive charge containing the majority of mass that has electrons of equal total negative charge distributed through the sphere. That model is graphically depicted in the left panel of Figure 2.18. The apparatus that Rutherford built to verify the plum-pudding model is displayed in Figure 2.19, and consists of (1) a radioactive source centered within a lead block that serves to collimate a beam of α particles emitted from the source, (2) a thin target of gold only a few molecules in thickness, and (3) a circumferential target that detects α particles scattered from the target and identifies the angle of the scattered α particles.
+The α particles had the attributes Rutherford needed—they were massive (relative to the electron) and they were emitted from radioactive elements at high velocity. In setting out to confirm Thomson's model, Rutherford built an experimental apparatus that was remarkably simple but powerful in its decisive ability to test this new model of atomic structure. As noted, that model of atomic structure was built on the notion of a continuous sphere of positive charge containing the majority of mass that has electrons of equal total negative charge distributed through the sphere. That model is graphically depicted in the left panel of [Figure 2.18](#fig-p1-ch02-35). The apparatus that Rutherford built to verify the plum-pudding model is displayed in [Figure 2.19](#fig-p1-ch02-36), and consists of (1) a radioactive source centered within a lead block that serves to collimate a beam of α particles emitted from the source, (2) a thin target of gold only a few molecules in thickness, and (3) a circumferential target that detects α particles scattered from the target and identifies the angle of the scattered α particles.
 
 :::{figure} ../images/fig-p1-ch02-35.jpg
 :name: fig-p1-ch02-35
@@ -444,7 +444,7 @@ FIGURE 2.19 A schematic of the apparatus used by Rutherford to establish the nuc
 
 In the opening phases of the experiment in 1909, Rutherford believed he had confirmed Thomson's plum-pudding model. Virtually all the detected α particles displayed little or no deflection from a straight trajectory. But as the data set evolved to include more and more observations, a remarkable and at first unbelievable conclusion emerged. Approximately one in 20,000 α particles was scattered back toward the source!
 
-As the data base grew it became increasingly clear that approximately one α particle in 20,000 possessed a trajectory that carried the particle backwards in the direction of the source, as shown in the right-hand panel in Figure 2.18 and in Figure 2.19. This was an unexpected result for Rutherford because it refuted the plum-pudding model he had intended to verify with his experimental strategy. Rutherford's now famous comment was that the results were “about as credible as if you had fired a 15-inch shell at a piece of tissue paper and it came back and hit you.” But continuing experiments proved these observations to be correct. An entirely new model of atomic structure was required and Rutherford provided that new model. He reasoned that the mass association with the positive charge which constituted the dominant fraction of the mass present, must be a highly concentrated point mass. This implied a structure of the atom with a positively charged central “nucleus” that was largely empty space within which very small negatively charged electrons resided. The contrast between the “plum-pudding” model and the “nuclear model” is displayed in Figure 2.18.
+As the data base grew it became increasingly clear that approximately one α particle in 20,000 possessed a trajectory that carried the particle backwards in the direction of the source, as shown in the right-hand panel in [Figure 2.18](#fig-p1-ch02-35) and in [Figure 2.19](#fig-p1-ch02-36). This was an unexpected result for Rutherford because it refuted the plum-pudding model he had intended to verify with his experimental strategy. Rutherford's now famous comment was that the results were “about as credible as if you had fired a 15-inch shell at a piece of tissue paper and it came back and hit you.” But continuing experiments proved these observations to be correct. An entirely new model of atomic structure was required and Rutherford provided that new model. He reasoned that the mass association with the positive charge which constituted the dominant fraction of the mass present, must be a highly concentrated point mass. This implied a structure of the atom with a positively charged central “nucleus” that was largely empty space within which very small negatively charged electrons resided. The contrast between the “plum-pudding” model and the “nuclear model” is displayed in [Figure 2.18](#fig-p1-ch02-35).
 
 Rutherford thus proposed a nuclear theory of the atom with three primary components:
 
@@ -456,7 +456,7 @@ Rutherford thus proposed a nuclear theory of the atom with three primary compone
 
 Yet again the world of atomic structure was fundamentally and irreversibly transformed, this time by Rutherford's nuclear model. However, it was immediately clear that the mass of the nucleus was not simply an ensemble of positively charged particles because while helium had two electrons, it had a mass four times that of hydrogen. It was Rutherford working with a student, James Chadwick, who demonstrated two decades later, that the unaccounted for mass was explained by the existence of another subatomic particle. That particle resided in the nucleus and was of approximately the same mass as the proton, but carried no intrinsic charge. The particle was called the neutron.
 
-We can now summarize the view of the atom with a graphic, shown in Figure 2.20, depicting the nucleus residing at the center of an electron cloud. The diameter of the electron cloud is approximately ${ \bf 1 0 } ^ { - 1 0 }$ meters, but the nucleus is 5 orders of magnitude smaller in diameter, approximately ${ \bf 1 0 } ^ { - 1 5 }$ meters. The nucleus contains protons that possess a positive charge and neutrons that contain no charge. The mass of the proton is $\mathbf { 1 . 6 7 2 6 2 \times 1 0 ^ { - 2 7 } }$ kg and the mass of the neutron is $\mathbf { 1 . 6 7 4 9 3 \times 1 0 ^ { - 2 7 } }$ kg. While the nucleus contains $9 9 . 9 7 \%$ of the atom's mass, it occupies one quadrillionth the volume. The density (mass/volume) of the nucleus is thus remarkable by any standard we are normally acquainted with. The density of the nucleus can be calculated from the diameter and the mass and is approximately $\mathbf { 1 0 ^ { 1 8 } ~ k g / m ^ { 3 } }$ . Lead, which we regard as a high-density material, has a density of approximately 1 $\times ~ 1 0 ^ { 4 } ~ \mathrm { k g / m ^ { 3 } }$ , which is $1 0 ^ { 1 4 }$ times less dense than nuclear material. There are many interesting comparisons. A nucleus the size of a period in this text would weigh approximately 100,000 kg (100 tons); a coin the size of a penny would weigh $3 \times 1 0 ^ { 1 2 }$ kg (6 billion tons!). We can summarize the properties of the subatomic particles in Table 2.1.
+We can now summarize the view of the atom with a graphic, shown in [Figure 2.20](#fig-p1-ch02-37), depicting the nucleus residing at the center of an electron cloud. The diameter of the electron cloud is approximately ${ \bf 1 0 } ^ { - 1 0 }$ meters, but the nucleus is 5 orders of magnitude smaller in diameter, approximately ${ \bf 1 0 } ^ { - 1 5 }$ meters. The nucleus contains protons that possess a positive charge and neutrons that contain no charge. The mass of the proton is $\mathbf { 1 . 6 7 2 6 2 \times 1 0 ^ { - 2 7 } }$ kg and the mass of the neutron is $\mathbf { 1 . 6 7 4 9 3 \times 1 0 ^ { - 2 7 } }$ kg. While the nucleus contains $9 9 . 9 7 \%$ of the atom's mass, it occupies one quadrillionth the volume. The density (mass/volume) of the nucleus is thus remarkable by any standard we are normally acquainted with. The density of the nucleus can be calculated from the diameter and the mass and is approximately $\mathbf { 1 0 ^ { 1 8 } ~ k g / m ^ { 3 } }$ . Lead, which we regard as a high-density material, has a density of approximately 1 $\times ~ 1 0 ^ { 4 } ~ \mathrm { k g / m ^ { 3 } }$ , which is $1 0 ^ { 1 4 }$ times less dense than nuclear material. There are many interesting comparisons. A nucleus the size of a period in this text would weigh approximately 100,000 kg (100 tons); a coin the size of a penny would weigh $3 \times 1 0 ^ { 1 2 }$ kg (6 billion tons!). We can summarize the properties of the subatomic particles in [Table 2.1](#original-table-2-1).
 
 :::{figure} ../images/fig-p1-ch02-37.jpg
 :name: fig-p1-ch02-37
@@ -465,6 +465,7 @@ FIGURE 2.20 Diagram contrasting the scale of the size of the atom to that of the
 :::
 
 
+(original-table-2-1)=
 TABLE 2.1
 
 <table><tr><td></td><td>Mass (kg)</td><td>Mass (amu)</td><td>Charge (relative)</td><td>Charge (C)</td></tr><tr><td>Proton</td><td> $1.67262 \times 10^{-27}$ </td><td>1.00727</td><td>+1</td><td> $+1.60218 \times 10^{-19}$ </td></tr><tr><td>Neutron</td><td> $1.67493 \times 10^{-27}$ </td><td>1.00866</td><td>0</td><td>0</td></tr><tr><td>Electron</td><td> $0.00091 \times 10^{-27}$ </td><td>0.00055</td><td>-1</td><td> $-1.60218 \times 10^{-19}$ </td></tr></table>
@@ -479,11 +480,11 @@ Rutherford's discovery of the structure of the atom through his discovery of the
 
 2. A carbon atom has six protons and six neutrons. How many electrons would it take to equal the mass of the carbon nucleus?
 
-3. Considering Figure 2.20, what is the ratio of the volume of the atom to the volume of the nucleus?
+3. Considering [Figure 2.20](#fig-p1-ch02-37), what is the ratio of the volume of the atom to the volume of the nucleus?
 
 ## Atomic Number, Mass Number, and Atomic Symbol
 
-The atomic number of a given element is equal to the number of protons in the nucleus of that element, and is thus equal to the number of electrons the element possesses. The key point is that what makes an element distinct, what defines its chemical properties, is the number of electrons it possesses in its electrically neutral configuration. That is, when the number of electrons and protons are equal. Thus the number of protons defines the element. All atoms of a particular element have the same atomic number and that atomic number is equal to the number of protons present in the nucleus. Each element thus has a different atomic number from every other element. As we will see it is the number of electrons an element has that determines the chemical characteristics of an atom, so therefore each element is designated by its atomic number. The atomic number is designated by the symbol Z as displayed in Figure 2.21.
+The atomic number of a given element is equal to the number of protons in the nucleus of that element, and is thus equal to the number of electrons the element possesses. The key point is that what makes an element distinct, what defines its chemical properties, is the number of electrons it possesses in its electrically neutral configuration. That is, when the number of electrons and protons are equal. Thus the number of protons defines the element. All atoms of a particular element have the same atomic number and that atomic number is equal to the number of protons present in the nucleus. Each element thus has a different atomic number from every other element. As we will see it is the number of electrons an element has that determines the chemical characteristics of an atom, so therefore each element is designated by its atomic number. The atomic number is designated by the symbol Z as displayed in [Figure 2.21](#fig-p1-ch02-44).
 
 :::{figure} ../images/fig-p1-ch02-38.jpg
 :name: fig-p1-ch02-38
@@ -530,9 +531,9 @@ FIGURE 2.21 A series of comparisons between atom number, mass number, and the at
 :::
 
 
-This mass number of an atom is equal to the total number of protons and neutrons contained in the nucleus. The mass number is designated by the symbol A, also in Figure 2.21.
+This mass number of an atom is equal to the total number of protons and neutrons contained in the nucleus. The mass number is designated by the symbol A, also in [Figure 2.21](#fig-p1-ch02-44).
 
-This gives rise to the convention of designating each element by its atomic symbol with the mass number as a superscript and the atomic number as a subscript as displayed in Figure 2.21. All carbon atoms have 6 protons. The common form of carbon also has 6 neutrons so we write this form of carbon as $^ { 1 2 } _ { 6 } \mathrm { C }$ . The most common form of helium has 2 protons and 2 neutrons so we write $^ { 4 } _ { 2 } \mathrm { H e }$ . As the nucleus gets larger, the number of protons and neutrons is no longer equal as we will investigate in Chapter 13. For example, the stable form of uranium has 92 protons and $1 4 6$ neutrons and is thus designated $^ { 2 3 8 } _ { \ 9 2 } \mathrm { U }$
+This gives rise to the convention of designating each element by its atomic symbol with the mass number as a superscript and the atomic number as a subscript as displayed in [Figure 2.21](#fig-p1-ch02-44). All carbon atoms have 6 protons. The common form of carbon also has 6 neutrons so we write this form of carbon as $^ { 1 2 } _ { 6 } \mathrm { C }$ . The most common form of helium has 2 protons and 2 neutrons so we write $^ { 4 } _ { 2 } \mathrm { H e }$ . As the nucleus gets larger, the number of protons and neutrons is no longer equal as we will investigate in Chapter 13. For example, the stable form of uranium has 92 protons and $1 4 6$ neutrons and is thus designated $^ { 2 3 8 } _ { \ 9 2 } \mathrm { U }$
 
 A word about the chemical symbols. In a majority of cases, there is an obvious relationship between the chemical symbol and the name of the elements. Oxygen is O, carbon is C, neon is Ne, bromine is Br, etc. However, just to make things interesting, some of the chemical symbols are drawn from their Latin names. The symbol for tin is Sn from the Latin stannum; the symbol for sodium is Na from the Latin natrium.
 
@@ -540,7 +541,7 @@ A word about the chemical symbols. In a majority of cases, there is an obvious r
 
 While all atoms of a given element have the same number of protons, the same number of electrons, and the same chemical symbol, all atoms of a given element do not necessarily have the same number of neutrons. Thus all atoms of a given element do not necessarily have the same mass. Atoms with the same number of protons but with a different number of neutrons are called isotopes of that element. Isotopes are ubiquitous and they are profoundly important to nearly all branches of science from medical research to nuclear energy to paleobiology.
 
-Perhaps the most famous example of the distinction between isotopes in light elements is that of carbon. There are three important isotopes of carbon. Carbon 12 is the common form, with six protons and six neutrons, carbon 13 has six protons and seven neutrons, and carbon 14 has six protons and eight neutrons. As we will examine in more detail in Chapter 13, carbon 12 and carbon 13, written $^ { 1 2 } 6 \mathrm { C }$ and $^ { 1 3 } 6 ,$ are stable isotopes. That is, they remain a carbon 12 or a carbon 13 and do not “decay” into other nuclei by the loss of a neutron. Carbon 14, written $^ { 1 4 } 6 ,$ is radioactive and decays to stable nitrogen $^ { 1 4 } _ { 7 } \mathrm { N }$ with the emission of particles from the nuclei, as we will discuss in Chapter 13. Carbon $^ { 1 4 }$ is formed in the upper atmosphere by the collision of a stable nitrogen 14 and a high-energy neutron. The carbon 14 so formed is incorporated continuously into living organisms, built from the $\mathrm { C O } _ { 2 }$ present in the atmosphere. When the organism dies, carbon 14 is no longer incorporated, and carbon 14 decays with the emission of radioactivity such that with time, the number of radioactive events per unit mass, within the organism that has died, decreases. This provides a clock timing the delay from the death of the organism to the present. The method, termed radiocarbon dating, developed by Willard Libby, shown in Figure 2.22, at the University of Chicago in 1947, has revolutionized our ability to determine the age of artifacts obtained from ancient sites. The details of the method will be presented in Chapter 13 on nuclear chemistry. The use of isotopes has spread to virtually every branch of modern science, and is a subject we will revisit often in the course.
+Perhaps the most famous example of the distinction between isotopes in light elements is that of carbon. There are three important isotopes of carbon. Carbon 12 is the common form, with six protons and six neutrons, carbon 13 has six protons and seven neutrons, and carbon 14 has six protons and eight neutrons. As we will examine in more detail in Chapter 13, carbon 12 and carbon 13, written $^ { 1 2 } 6 \mathrm { C }$ and $^ { 1 3 } 6 ,$ are stable isotopes. That is, they remain a carbon 12 or a carbon 13 and do not “decay” into other nuclei by the loss of a neutron. Carbon 14, written $^ { 1 4 } 6 ,$ is radioactive and decays to stable nitrogen $^ { 1 4 } _ { 7 } \mathrm { N }$ with the emission of particles from the nuclei, as we will discuss in Chapter 13. Carbon $^ { 1 4 }$ is formed in the upper atmosphere by the collision of a stable nitrogen 14 and a high-energy neutron. The carbon 14 so formed is incorporated continuously into living organisms, built from the $\mathrm { C O } _ { 2 }$ present in the atmosphere. When the organism dies, carbon 14 is no longer incorporated, and carbon 14 decays with the emission of radioactivity such that with time, the number of radioactive events per unit mass, within the organism that has died, decreases. This provides a clock timing the delay from the death of the organism to the present. The method, termed radiocarbon dating, developed by Willard Libby, shown in [Figure 2.22](#fig-p1-ch02-45), at the University of Chicago in 1947, has revolutionized our ability to determine the age of artifacts obtained from ancient sites. The details of the method will be presented in Chapter 13 on nuclear chemistry. The use of isotopes has spread to virtually every branch of modern science, and is a subject we will revisit often in the course.
 
 :::{figure} ../images/fig-p1-ch02-45.jpg
 :name: fig-p1-ch02-45
@@ -569,7 +570,7 @@ Identify each of the elements represented by X, R, and Q.
 
 ## Molecular Structure
 
-When we move from a discussion of the elements to a discussion of the molecules and compounds constructed from those atoms such as the enzyme shown in Figure 2.23, which can convert $\mathrm { C O } _ { 2 }$ to $\mathrm { C _ { 2 } O _ { 4 } }$ , we enter into a world of profound variety and nearly limitless options. When we consider the variety of chemical properties exhibited by the array of chemical compounds available in nature relative to the range of properties of the elements themselves, it is as though we were to compare the range of options in the expression of ideas using a fully developed language compared to what is available with just the letters used to create the "alphabet" of that language. So it is with chemistry.
+When we move from a discussion of the elements to a discussion of the molecules and compounds constructed from those atoms such as the enzyme shown in [Figure 2.23](#fig-p1-ch02-46), which can convert $\mathrm { C O } _ { 2 }$ to $\mathrm { C _ { 2 } O _ { 4 } }$ , we enter into a world of profound variety and nearly limitless options. When we consider the variety of chemical properties exhibited by the array of chemical compounds available in nature relative to the range of properties of the elements themselves, it is as though we were to compare the range of options in the expression of ideas using a fully developed language compared to what is available with just the letters used to create the "alphabet" of that language. So it is with chemistry.
 
 :::{figure} ../images/fig-p1-ch02-46.jpg
 :name: fig-p1-ch02-46
@@ -580,7 +581,7 @@ FIGURE 2.23 Before we can both think about and converse about molecular structur
 
 While the remarkable variety in chemical properties available to us represents a powerful opportunity, we must first acquire a working knowledge of how these compounds are constructed and how they are named. We note this close relationship between the structure of compounds and the strategy for naming them as an important general point. It is also true that many of the conventions used in the naming of compounds are based on historical evolution, not on a logical protocol. This is unfortunate, but such is the case with any language.
 
-The change in chemical and physical properties that occurs when elements combine to form a compound comprised of those same atoms is remarkable indeed. When we ignite a mixture of hydrogen and oxygen, we begin with the most commonly occurring form of pure hydrogen (diatomic hydrogen gas, $\mathrm { H } _ { 2 } )$ and react that $\mathrm { H } _ { 2 }$ with the most commonly occurring form of pure oxygen (diatomic oxygen $\mathrm { g a s } , \mathrm { O } _ { 2 } )$ , the product is a liquid at room temperature; $\mathrm { H } _ { 2 } \mathrm { O }$ Water is, as we will see repeatedly in this text, the single most important molecule to life on this planet and bear virtually no relationship in any chemical or physical sense to the gases, $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 } ,$ that react to produce it. There are other striking examples. We combine, as displayed in Figure 2.24, the most commonly occurring pure form of chlorine, the diatomic gas $\mathrm { C l } _ { 2 } ,$ which is a highly toxic gas, with the most commonly occurring form of sodium, the solid metal that bursts into flames when placed in water, and the product is a crystalline structure sodium chloride, NaCl. Thus we combine two toxic, highly reactive elements to form a compound that resides on every dinner table and is used universally with the food we eat. How can this be?
+The change in chemical and physical properties that occurs when elements combine to form a compound comprised of those same atoms is remarkable indeed. When we ignite a mixture of hydrogen and oxygen, we begin with the most commonly occurring form of pure hydrogen (diatomic hydrogen gas, $\mathrm { H } _ { 2 } )$ and react that $\mathrm { H } _ { 2 }$ with the most commonly occurring form of pure oxygen (diatomic oxygen $\mathrm { g a s } , \mathrm { O } _ { 2 } )$ , the product is a liquid at room temperature; $\mathrm { H } _ { 2 } \mathrm { O }$ Water is, as we will see repeatedly in this text, the single most important molecule to life on this planet and bear virtually no relationship in any chemical or physical sense to the gases, $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 } ,$ that react to produce it. There are other striking examples. We combine, as displayed in [Figure 2.24](#original-fig-2-24), the most commonly occurring pure form of chlorine, the diatomic gas $\mathrm { C l } _ { 2 } ,$ which is a highly toxic gas, with the most commonly occurring form of sodium, the solid metal that bursts into flames when placed in water, and the product is a crystalline structure sodium chloride, NaCl. Thus we combine two toxic, highly reactive elements to form a compound that resides on every dinner table and is used universally with the food we eat. How can this be?
 
 Envisioning a Chemical Reaction
 
@@ -595,6 +596,7 @@ Chlorine Gas
 
 Sodium Chloride Crystal
 
+(original-fig-2-24)=
 FIGURE 2.24 We can track, at the molecular level, the formation of NaCl from chlorine gas and sodium metal.
 
 :::{figure} ../images/fig-p1-ch02-48.jpg
@@ -737,7 +739,7 @@ An important molecule that demonstrates the way a structural formula captures bo
 
 The next level of sophistication is the representation of the threedimensional structure of a molecule using either a ball-and-stick model or a space-filling model. This ability to capture the 3D geometry of a molecule becomes increasingly important as we develop the relationship between structure and function in chemical reactions.
 
-An important example is methane, $\mathrm { C H } _ { 4 }$ , shown in Figure 2.25, a molecule involved in every issue from global energy (“natural gas” is largely $\mathrm { C H } _ { 4 } )$ to molecular synthesis $\mathrm { ( C H } _ { 4 }$ is the starting material for many polymers). We can use methane to compare and contrast the molecular formula, structural formula, ball-and-stick model, and space-filling model as shown in Figure 2.25.
+An important example is methane, $\mathrm { C H } _ { 4 }$ , shown in [Figure 2.25](#fig-p1-ch02-54), a molecule involved in every issue from global energy (“natural gas” is largely $\mathrm { C H } _ { 4 } )$ to molecular synthesis $\mathrm { ( C H } _ { 4 }$ is the starting material for many polymers). We can use methane to compare and contrast the molecular formula, structural formula, ball-and-stick model, and space-filling model as shown in [Figure 2.25](#fig-p1-ch02-54).
 
 :::{figure} ../images/fig-p1-ch02-54.jpg
 :name: fig-p1-ch02-54
@@ -746,8 +748,9 @@ FIGURE 2.25 Displayed from left to right for methane are its molecular formula, 
 :::
 
 
-In stepping from the structural formula of methane to the ball-and-stick model, the tetrahedral structure of the molecule is revealed. In the transition from the ball-and-stick model to the space-filling model, the volume actually occupied by the bonding electrons is revealed. With the advent of increasingly sophisticated calculations of molecular structure, the space-filling model can be further refined by the use of color to represent the degree of delocalization of electron density in the bonding structure. Throughout the chapters in the book we will select from the various options for representing molecules depending on the required detail. Table 2.2 summarizes the comparison between the name of the compound, the molecular formula, the structural formula, and the ball-and-stick model for a few important examples.
+In stepping from the structural formula of methane to the ball-and-stick model, the tetrahedral structure of the molecule is revealed. In the transition from the ball-and-stick model to the space-filling model, the volume actually occupied by the bonding electrons is revealed. With the advent of increasingly sophisticated calculations of molecular structure, the space-filling model can be further refined by the use of color to represent the degree of delocalization of electron density in the bonding structure. Throughout the chapters in the book we will select from the various options for representing molecules depending on the required detail. [Table 2.2](#original-table-2-2) summarizes the comparison between the name of the compound, the molecular formula, the structural formula, and the ball-and-stick model for a few important examples.
 
+(original-table-2-2)=
 TABLE 2.2 Benzene, Acetylene, Glucose, and Ammonia
 
 <table><tr><td>Name of Compound</td><td>Molecular Formula</td><td>Structural Formula</td><td>Ball-and-Stick Model</td></tr><tr><td>Benzene</td><td> $C_6H_6$ </td><td><img src="../images/fig-p1-ch02-55.jpg" alt="Source textbook figure"/></td><td><img src="../images/fig-p1-ch02-56.jpg" alt="Source textbook figure"/></td></tr><tr><td>Acetylene</td><td> $C_2H_2$ </td><td>H-C≡C-H</td><td><img src="../images/fig-p1-ch02-57.jpg" alt="Source textbook figure"/></td></tr><tr><td>Glucose</td><td> $C_6H_{12}O_6$ </td><td><img src="../images/fig-p1-ch02-58.jpg" alt="Source textbook figure"/></td><td><img src="../images/fig-p1-ch02-59.jpg" alt="Source textbook figure"/></td></tr><tr><td>Ammonia</td><td> $NH_3$ </td><td><img src="../images/fig-p1-ch02-60.jpg" alt="Source textbook figure"/></td><td><img src="../images/fig-p1-ch02-61.jpg" alt="Source textbook figure"/></td></tr></table>
@@ -918,7 +921,7 @@ Just as nature “balances” the fraction of atoms contained in reactants to ma
 
 the stoichiometric coefficient of the $\mathrm { H } _ { 2 }$ is two, that for $\mathrm { O } _ { 2 }$ is one, and the stoichiometric coefficient for $\mathrm { H } _ { 2 } \mathrm { O }$ is two. A key point in determining the stoichiometric coefficients is to recognize the difference between (1) the subscript in a chemical formula that establishes the identity of the molecule in the chemical equation and (2) the stoichiometric coefficient itself. The subscript determines the molecular structure of the reactants and products. The stoichiometric coefficients determine the amount of each molecule engaged in the chemical transformation.
 
-In order to demonstrate the process of balancing a chemical equation consider the combustion (burning) of natural gas $\mathrm { ( C H } _ { 4 } )$ using a Bunsen burner. When we “light” the Bunsen burner in a room containing oxygen we know that the reactants are $\mathrm { C H } _ { 4 }$ and $\mathrm { O } _ { 2 } .$ . We also know, by virtue of a long history of experiments, that the products formed in the burning of $\mathrm { C H } _ { 4 }$ in $\mathrm { O } _ { 2 }$ are carbon dioxide and water. This is shown graphically in Figure 2.26. The molecular structures involved as reactants and as products of this reaction have been established by direct observation. Based on this we write the reactants on the left-hand side of the chemical equation and the products on the right-hand side of the equation.
+In order to demonstrate the process of balancing a chemical equation consider the combustion (burning) of natural gas $\mathrm { ( C H } _ { 4 } )$ using a Bunsen burner. When we “light” the Bunsen burner in a room containing oxygen we know that the reactants are $\mathrm { C H } _ { 4 }$ and $\mathrm { O } _ { 2 } .$ . We also know, by virtue of a long history of experiments, that the products formed in the burning of $\mathrm { C H } _ { 4 }$ in $\mathrm { O } _ { 2 }$ are carbon dioxide and water. This is shown graphically in [Figure 2.26](#fig-p1-ch02-64). The molecular structures involved as reactants and as products of this reaction have been established by direct observation. Based on this we write the reactants on the left-hand side of the chemical equation and the products on the right-hand side of the equation.
 
 ```{math}
 :label: eq-p1-ch02-28
@@ -953,8 +956,9 @@ Now the number of hydrogen atoms on the left- and right-hand sides balance, the 
 
 We now have one carbon atom, four hydrogen atoms, and four oxygen atoms on the left-hand (reactant) side of the chemical reaction and one carbon atom, four hydrogen atoms, and four oxygen atoms on the right-hand (product) side. The chemical reaction is balanced.
 
-Given that 80% of the world's energy is produced by the combustion of natural gas, petroleum and coal, it is important to examine this important class of reactions—the combustion of carbon/hydrogen based fuels—in some detail. To this end, we will develop the technique of balancing chemical equations using two important cases: (1) methyl alcohol, which can be used as a liquid fuel for transportation and (2) octane, $\mathrm { C _ { 8 } H _ { 1 8 } , }$ which is the primary constituent of gasoline. We will use a four step process applied to each of these examples in Table 2.3. It is important to work through the examples in Table 2.3 to become familiar with balancing chemical reactions.
+Given that 80% of the world's energy is produced by the combustion of natural gas, petroleum and coal, it is important to examine this important class of reactions—the combustion of carbon/hydrogen based fuels—in some detail. To this end, we will develop the technique of balancing chemical equations using two important cases: (1) methyl alcohol, which can be used as a liquid fuel for transportation and (2) octane, $\mathrm { C _ { 8 } H _ { 1 8 } , }$ which is the primary constituent of gasoline. We will use a four step process applied to each of these examples in [Table 2.3](#original-table-2-3). It is important to work through the examples in [Table 2.3](#original-table-2-3) to become familiar with balancing chemical reactions.
 
+(original-table-2-3)=
 TABLE 2.3
 
 <table><tr><td>Balancing Chemical Equations: A Stepwise Approach</td><td>Write a balanced chemical equation for the combustion of methanol,  $CH_3OH$ , in air</td><td>Write a balanced chemical equation for the combustion of gasoline, which is comprised primarily of octane,  $C_8H_{18}$ </td></tr><tr><td>1. Write an initial chemical equation that specifies the chemical formula for the reactants on the left side and the products on the right side.</td><td>As a general rule, whenever a compound containing C, H, and O is combusted in air, it reacts with  $O_2$  to form carbon dioxide and water; thus the unbalanced skeletal equation is: $CH_3OH + O_2 \rightarrow CO_2 + H_2O$ (unbalanced)</td><td>Hydrocarbon compounds, those containing carbon and hydrogen, no matter how complex, burn in air to produce  $CO_2$  and  $H_2O$ . This covers the combustion chemistry of some 3 million compounds! Thus our unbalanced skeletal equation is: $C_8H_{18} + O_2 \rightarrow H_2O + CO_2$ (unbalanced)</td></tr><tr><td>2. Balance the atoms that occur in more complex substances first.</td><td>Carbon atoms are balanced on both sides of the chemical equation.  $CH_3OH$  has 4 hydrogen atoms, so we place a stoichiometric coefficient of 2 in front of  $H_2O$  on the right-hand side: $CH_3OH + O_2 \rightarrow CO_2 + 2H_2O$ (unbalanced)</td><td>To balance carbon atoms, we apply a stoichiometric coefficient of 8 to  $CO_2$  on the right-hand side: $C_8H_{18} + O_2 \rightarrow H_2O + 8CO_2$ (unbalanced)To balance the hydrogen atoms we apply a stoichiometric coefficient of 9 to  $H_2O$  on the right side: $C_8H_{18} + O_2 \rightarrow 9H_2O + 8CO_2$ (unbalanced)</td></tr><tr><td>3. Balance atoms that occur as free elements on either side of the equation last.</td><td>This balances H atoms, but we have 4 atoms on the right and 3 on the left. If we place a stoichiometric coefficient of 3/2 in front of the  $O_2$  on the left, we will balance O atoms on both sides of the chemical equation: $CH_3OH + 3/2 O_2 \rightarrow CO_2 + 2H_2O$ </td><td>We have now balanced the carbon and hydrogen atoms, but there are 25 oxygen atoms on the right-hand side so we apply a stoichiometric coefficient of 25/2 to  $O_2$  on the left-hand side: $C_8H_{18} + 25/2 O_2 \rightarrow 9H_2O + 8CO_2$ The equation is now balanced for all C, H and O atoms</td></tr><tr><td>4. If the balanced equation contains coefficient fractions, clear these by multiplying the entire equation by the denominator of the fraction.</td><td>Although the equation is now balanced, and is strictly speaking an acceptable chemical equation, the convention is to clear fractions. Thus we multiply each stoichiometry coefficient by a factor of 2: $2CH_3OH + 3O_2 \rightarrow 2CO_2 + 4H_2O$ </td><td>We can clear the fractions in the stoichiometric coefficients by multiplying by a factor of 2: $2C_8H_{18} + 25O_2 \rightarrow 18H_2O + 16CO_2$ </td></tr></table>
@@ -1066,11 +1070,15 @@ Note first that the calculated mass of the glucose produced is less than the mas
 
 Chemical reactions are all about electron rearrangement—the formation of molecular bonds involving the outer most electrons in an atom and then the rearrangement of those electrons to form new molecular structures as a result of a chemical reaction. Oxidation-reduction reactions or redox reactions are reactions in which electrons are transferred from one reactant atom to another in the process of a chemical reaction taking place to form products—new chemical structures. Redox reactions constitute one of the most important classes of reactions, and as we develop a picture of modern chemical research and its intimate link to solving global energy problems, there will be repeated analysis of this category of chemical reaction. Thus we consider redox reactions here in some detail. As we will see, while redox reactions often involve oxygen, they need not. However, we will use combustion reactions, reactions that involve hydrocarbons reacting with oxygen to produce water and carbon dioxide, to introduce redox chemistry.
 
-We have identified the fact that for a redox reaction, the key event is the net movement of one or more electrons. Any loss of electrons from a given atom is referred to as oxidation; a designation that emerged because it was in fact combustion of substances (hydrocarbons) in air that lead to an understanding of electron transfer in chemical reactions. But electrons do not simply drop off an atom or molecule. Electrons are pulled off by another atomic or molecular structure that has a greater ability to draw electrons to it. We will examine this tendency to extract electrons in subsequent chapters. For every oxidation event where an electron is given up, another atom or molecule has succeeded in forcefully extracting that electron or electrons into its valence shell. Thus while oxidation is the loss of an electron, reduction is the gaining of an electron. The processes of oxidation and reduction are locked together; what one member of a chemical reaction loses, the other gains because electrons are neither created nor destroyed in a chemical reaction. In the competitive market place of chemical reactions, electrons are transferred but not lost. The redox transfer of an electron is thus a gain of charge by one entity and a loss of charge by another in pair-wise organization. To keep a close accounting of this electron transfer, this redox process, we use a convenient device known as an oxidation state. An atom's oxidation state (we keep track of electron exchange atom-by-atom) is a positive or negative number that designates that atom's electronic charge relative to a conveniently assigned normal or standard condition. The oxidation state for an atom in elemental form is zero. Without outside influence (such as what happens in the formation of a chemical bond) all atoms are in full possession of their electrons. When these atoms in elemental form engage in the formation of chemical bonds, it is necessary to develop a procedure for assigning oxidation numbers. The rules for assigning oxidation states are laid out in Table 2.4. This table is a hierarchy of rules for assigning oxidation states, and we will follow the hierarchy laid out in Table 2.4 every time we assign oxidation numbers in a chemical reaction.
+We have identified the fact that for a redox reaction, the key event is the net movement of one or more electrons. Any loss of electrons from a given atom is referred to as oxidation; a designation that emerged because it was in fact combustion of substances (hydrocarbons) in air that lead to an understanding of electron transfer in chemical reactions. But electrons do not simply drop off an atom or molecule. Electrons are pulled off by another atomic or molecular structure that has a greater ability to draw electrons to it. We will examine this tendency to extract electrons in subsequent chapters. For every oxidation event where an electron is given up, another atom or molecule has succeeded in forcefully extracting that electron or electrons into its valence shell. Thus while oxidation is the loss of an electron, reduction is the gaining of an electron. The processes of oxidation and reduction are locked together; what one member of a chemical reaction loses, the other gains because electrons are neither created nor destroyed in a chemical reaction. In the competitive market place of chemical reactions, electrons are transferred but not lost. The redox transfer of an electron is thus a gain of charge by one entity and a loss of charge by another in pair-wise organization. To keep a close accounting of this electron transfer, this redox process, we use a convenient device known as an oxidation state. An atom's oxidation state (we keep track of electron exchange atom-by-atom) is a positive or negative number that designates that atom's electronic charge relative to a conveniently assigned normal or standard condition. The oxidation state for an atom in elemental form is zero. Without outside influence (such as what happens in the formation of a chemical bond) all atoms are in full possession of their electrons. When these atoms in elemental form engage in the formation of chemical bonds, it is necessary to develop a procedure for assigning oxidation numbers. The rules for assigning oxidation states are laid out in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071). This table is a hierarchy of rules for assigning oxidation states, and we will follow the hierarchy laid out in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) every time we assign oxidation numbers in a chemical reaction.
 
+:::{table} TABLE 2.4
+:label: xref-visual-p1-ch02-atomic-molecular-structure-1071
+:enumerated: false
 <table><tr><td>Rules of oxidation states</td><td>Example</td></tr><tr><td>1. As noted, the oxidation state of an atom in a free element is zero</td><td>Fe oxidation state: 0Cl in Cl2oxidation state: 0</td></tr><tr><td>2. The oxidation state of a monoatomic ion is equal to its charge</td><td>Na+ oxidation state: +1F- oxidation state: -1</td></tr><tr><td>3. Because electrons are neither produced nor destroyed in a redox reaction:For a neutral molecule or molecular formula, the sum of the oxidation states is zeroFor an ion, the sum of the oxidation states is equal to the charge of the ion</td><td>H2O:2 × (H oxidation state)+ 1 × (O oxidation state) = 0PO43-:1 × (P oxidation state)+ 4 × (O oxidation state) = -3</td></tr><tr><td>4. Metals, when they form compounds, have positive oxidation statesGroup 1A metals always have an oxidation state of +1Group 2A metals always have and oxidation state of +2</td><td>NaClNa has a +1 oxidation stateMgF2Mg has a +2 oxidation state</td></tr><tr><td>5. When nonmetals form compounds, those nonmetals are assigned values according to the table displayed here. Within this table, there is an ordering of importance with the most important rule beginning at the top</td><td>Oxidation States of NonmetalsNonmetal Oxidation State ExampleFluorine -1 MgF-1 oz stateHydrogen +1 H2O +1 ox stateOxygen -2 CO2-2 5x stateGroup 7A -1 CCl4-1 ox stateGroup 6A -2 H2S-2 ox stateGroup 5A -3 NH4-3 ox state</td></tr></table>
+:::
 
-When assigning oxidation numbers, which must be done in general for thousands of compounds, the oxidation number of a given atom (or element) depends upon the other elements in the compound. That is why there is a hierarchy of rules, particularly for the nonmetals that represent a very large range in their ability to extract electrons from other atoms. But there are important patterns to this giving and receiving of electrons (or more appropriately to this stealing and surrendering of electrons). The group 1A and 2A elements are unable to retain electrons in virtually all cases, so they have oxidation states of +1 and +2 respectively. As for those elements that "steal" electrons, it is important to give priority to the elements highest on the list in Table $\underline { { 2 . 4 } }$ . Finally, when assigning oxidation states to elements not covered by rules 4 and 5, deduce their oxidation state by first assigning oxidation state to all other elements in the molecular structure and then using Rule 3. For example, in the reaction of elemental carbon with oxygen, the reaction is
+When assigning oxidation numbers, which must be done in general for thousands of compounds, the oxidation number of a given atom (or element) depends upon the other elements in the compound. That is why there is a hierarchy of rules, particularly for the nonmetals that represent a very large range in their ability to extract electrons from other atoms. But there are important patterns to this giving and receiving of electrons (or more appropriately to this stealing and surrendering of electrons). The group 1A and 2A elements are unable to retain electrons in virtually all cases, so they have oxidation states of +1 and +2 respectively. As for those elements that "steal" electrons, it is important to give priority to the elements highest on the list in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) . Finally, when assigning oxidation states to elements not covered by rules 4 and 5, deduce their oxidation state by first assigning oxidation state to all other elements in the molecular structure and then using Rule 3. For example, in the reaction of elemental carbon with oxygen, the reaction is
 
 ```{math}
 :label: eq-p1-ch02-36
@@ -1082,7 +1090,7 @@ The oxidation state of O is -2, so with two oxygen atoms, and the fact that the 
 
 ## Check Yourself 8
 
-Determining the oxidation state of each element in a molecule requires practice—in particular the engagement of rules presented in Table $\underline { { 2 . 4 } }$ . As an example, determine the oxidation state of each of the underlined elements in the following molecules:
+Determining the oxidation state of each element in a molecule requires practice—in particular the engagement of rules presented in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) . As an example, determine the oxidation state of each of the underlined elements in the following molecules:
 
 <table><tr><td>(1)  $Fe_{3}O_{4}$ </td><td>(2) NaH</td><td>(3)  $Al_{2}O_{3}$ </td></tr><tr><td>(4)  $P_{4}$ </td><td>(5)  $MnO_{4}-$ </td><td>(6)  $H_{2}O_{2}$ </td></tr></table>
 
@@ -1090,7 +1098,7 @@ Determining the oxidation state of each element in a molecule requires practice�
 
 (1) $\mathrm { F e _ { 3 } O _ { 4 } }$
 
-Inspection of Table $\underline { { 2 . 4 } }$ defining the order of assigning oxidation states of nonmetals, we note that $\mathrm { F e _ { 3 } O _ { 4 } }$ does not contain fluorine, F; does not contain hydrogen, and next in order in oxygen. Thus we assign each O atom an oxidation state of -2. Thus the four oxygen atoms contribute a total of -8. To balance the oxidation state of oxygen, each Fe atom must contribute $+ 8 / 3$ such that the net for the (neutral) molecule $\mathrm { F e _ { 3 } O _ { 4 } }$ is $4 ( - 2 ) + [ 3 ( + 8 / 3 ) ] = 0$
+Inspection of [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) defining the order of assigning oxidation states of nonmetals, we note that $\mathrm { F e _ { 3 } O _ { 4 } }$ does not contain fluorine, F; does not contain hydrogen, and next in order in oxygen. Thus we assign each O atom an oxidation state of -2. Thus the four oxygen atoms contribute a total of -8. To balance the oxidation state of oxygen, each Fe atom must contribute $+ 8 / 3$ such that the net for the (neutral) molecule $\mathrm { F e _ { 3 } O _ { 4 } }$ is $4 ( - 2 ) + [ 3 ( + 8 / 3 ) ] = 0$
 
 ## (2) NaH
 
@@ -1102,11 +1110,11 @@ As with example (1) above, given that this molecule has no fluorine or hydrogen,
 
 (4) $\mathrm { P _ { 4 } }$
 
-This is the formula for elemental phosphorus. For an atom within a free element, the oxidation state must be zero as reflected in Rule 1 of Table 2.4. This must also be the case because the oxidation state of an atom defines its relative ability to extract or donate electron density by virtue of the formation of the molecular bond. If all atoms in a molecule are the same, then there is no relative advantage or disadvantage between atoms in a molecule, so the oxidation state must be zero!
+This is the formula for elemental phosphorus. For an atom within a free element, the oxidation state must be zero as reflected in Rule 1 of [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071). This must also be the case because the oxidation state of an atom defines its relative ability to extract or donate electron density by virtue of the formation of the molecular bond. If all atoms in a molecule are the same, then there is no relative advantage or disadvantage between atoms in a molecule, so the oxidation state must be zero!
 
 ## (5) $\mathbf { M n O } _ { 4 } -$
 
-This is the permanganate ion—a very common ion in chemistry. We note first that the sum of oxidation states for all atoms in the molecule must be -1, the net change on the ion. This is Rule 2 in Table $\underline { { 2 . 4 } }$ . Referring next to assignment of oxidation states to the nonmetals in the structure, each oxygen atom has an oxidation state of -2 (there are no F atoms or H atoms), so oxygen contributes an oxidation of $( 4 ) ( - 2 ) = - 8$ to the molecule. This must be balanced by a Mn oxidation state of +7 such that $( 4 ) ( - 2 ) + ( + 7 )$ = -1 to satisfy Rule 2 in Table 2.4.
+This is the permanganate ion—a very common ion in chemistry. We note first that the sum of oxidation states for all atoms in the molecule must be -1, the net change on the ion. This is Rule 2 in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) . Referring next to assignment of oxidation states to the nonmetals in the structure, each oxygen atom has an oxidation state of -2 (there are no F atoms or H atoms), so oxygen contributes an oxidation of $( 4 ) ( - 2 ) = - 8$ to the molecule. This must be balanced by a Mn oxidation state of +7 such that $( 4 ) ( - 2 ) + ( + 7 )$ = -1 to satisfy Rule 2 in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071).
 
 (6) $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$
 
@@ -1124,7 +1132,7 @@ Given that combustion reactions are an important category of redox reactions, le
 
 Next we assign oxidation numbers to every atom in the reaction, both reactants on the left and products on the right.
 
-From Table $\underline { { 2 . 4 } } ,$ there is no fluorine, so we assign an oxidation state of +1 for hydrogen, and then set the sum of oxidation numbers for those compounds containing hydrogen equal to zero:
+From [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) there is no fluorine, so we assign an oxidation state of +1 for hydrogen, and then set the sum of oxidation numbers for those compounds containing hydrogen equal to zero:
 
 ```{math}
 :label: eq-p1-ch02-38
@@ -1138,7 +1146,7 @@ From Table $\underline { { 2 . 4 } } ,$ there is no fluorine, so we assign an ox
 ```
 
 
-Oxygen is the next member below hydrogen in Table 2.4. Thus for
+Oxygen is the next member below hydrogen in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071). Thus for
 
 ```{math}
 :label: eq-p1-ch02-40
@@ -1387,7 +1395,7 @@ Q _ {t} = Q _ {0} e ^ {k t}
 ```
 
 
-We can plot Q as a function of t as shown in Figure CS2.1a
+We can plot Q as a function of t as shown in [Figure CS2.1A](#fig-p1-ch02-76)
 
 :::{figure} ../images/fig-p1-ch02-76.jpg
 :name: fig-p1-ch02-76
@@ -1454,7 +1462,7 @@ The identical mathematics is applicable to exponential decay.
 ```
 
 
-The exponential decay curve is displayed in Figure CS2.1b.
+The exponential decay curve is displayed in [Figure CS2.1B](#fig-p1-ch02-77).
 
 :::{figure} ../images/fig-p1-ch02-77.jpg
 :name: fig-p1-ch02-77
@@ -1475,7 +1483,7 @@ So 7% decay per year yields a reduction by $1 / 2$ in $\mathbf { t } ^ { 1 / 2 }
 
 Exponential growth is used for investments, energy consumption rates, population growth, economic growth, molecular concentration growth, etc. Exponential decay is used for rates of disappearance of chemical species undergoing reactions (Chapter 12), radioactive decay (Chapter 13), absorption of photons (Chapter 11), disappearance of ice structure, etc.
 
-As an important global example of exponential growth, we consider the important case of the increase in carbon emission from China as its economy expands at unprecedented rates. Figure CS2.1c displays the increase in carbon emission from China between the years 1970 and 2012. In 1970, China emitted 0.27 billion tons of carbon in the form of $\mathrm { C O } _ { 2 } .$ . If we wish to calculate the mass of $\mathrm { C O } _ { 2 }$ this represents, we must multiply this figure by the ratio of the molecular weight of $\mathrm { C O } _ { 2 }$ (44 amu) to the molecular weight of carbon (12 amu). Thus 0.27 billion tons of carbons per year (usually written as 0.27 GtC/yr) corresponds to $\left( 4 4 / 1 2 \right)$ 0.27 $\mathrm { G t C / y r } = 1 . 0 \mathrm { \ G t \ C O _ { 2 } / y r }$ The reason emissions are usually expressed in terms of Gt of carbon rather than of $\mathrm { C O } _ { 2 }$ is that other carbon containing compounds such as methane, $\mathrm { C H } _ { 4 } .$ are emitted and a vast majority of those carbon compounds are oxidized to form $\mathrm { C O } _ { 2 }$ in the atmosphere.
+As an important global example of exponential growth, we consider the important case of the increase in carbon emission from China as its economy expands at unprecedented rates. [Figure CS2.1C](#fig-p1-ch02-79) displays the increase in carbon emission from China between the years 1970 and 2012. In 1970, China emitted 0.27 billion tons of carbon in the form of $\mathrm { C O } _ { 2 } .$ . If we wish to calculate the mass of $\mathrm { C O } _ { 2 }$ this represents, we must multiply this figure by the ratio of the molecular weight of $\mathrm { C O } _ { 2 }$ (44 amu) to the molecular weight of carbon (12 amu). Thus 0.27 billion tons of carbons per year (usually written as 0.27 GtC/yr) corresponds to $\left( 4 4 / 1 2 \right)$ 0.27 $\mathrm { G t C / y r } = 1 . 0 \mathrm { \ G t \ C O _ { 2 } / y r }$ The reason emissions are usually expressed in terms of Gt of carbon rather than of $\mathrm { C O } _ { 2 }$ is that other carbon containing compounds such as methane, $\mathrm { C H } _ { 4 } .$ are emitted and a vast majority of those carbon compounds are oxidized to form $\mathrm { C O } _ { 2 }$ in the atmosphere.
 
 :::{figure} ../images/fig-p1-ch02-78.jpg
 :name: fig-p1-ch02-78
@@ -1489,7 +1497,7 @@ FIGURE CS2.1C Carbon dioxide emission from the combustion of fossil fuel is typi
 :::
 
 
-An inspection of Figure CS2.1c, panel A, reveals the remarkable rate of increase in $\mathrm { C O } _ { 2 }$ emission from the combustion of fossil fuel in China as the Chinese economy expands. Panel B of Figure CS2.1c displays the fitting of the data points with two exponential growth curves. One covers the period 1970 to 1990, for which the fractional increase in $\mathrm { C O } _ { 2 }$ emissions was 7.8% per year. The second period from 2000 to 2012 is fit by another exponential representing a fractional growth rate of 9.0% per year. This example sets the stage for examining the mathematical properties of exponential growth and decay.
+An inspection of [Figure CS2.1C](#fig-p1-ch02-79), panel A, reveals the remarkable rate of increase in $\mathrm { C O } _ { 2 }$ emission from the combustion of fossil fuel in China as the Chinese economy expands. Panel B of [Figure CS2.1C](#fig-p1-ch02-79) displays the fitting of the data points with two exponential growth curves. One covers the period 1970 to 1990, for which the fractional increase in $\mathrm { C O } _ { 2 }$ emissions was 7.8% per year. The second period from 2000 to 2012 is fit by another exponential representing a fractional growth rate of 9.0% per year. This example sets the stage for examining the mathematical properties of exponential growth and decay.
 
 ## Part A:
 
@@ -1501,7 +1509,7 @@ If global carbon emission between 2020 and 2040 increases by 9.2% per year, how 
 
 ## Part C:
 
-It is important to compare the carbon release rate of the US and China in both the short term and long term. In Figure CS2.1d, panel A, we plot the superposition of carbon release in the US and carbon release in China from 1970 to 2010. From an inspection of Figure CS2.1d, panel A, we can see that in 2006, carbon emission from China equaled that in the US. If China's emission rate is increasing at 9% per year and the US emission rate does not change, when will the emission rate from China be double that of the US?
+It is important to compare the carbon release rate of the US and China in both the short term and long term. In [Figure CS2.1D](#fig-p1-ch02-81), panel A, we plot the superposition of carbon release in the US and carbon release in China from 1970 to 2010. From an inspection of [Figure CS2.1D](#fig-p1-ch02-81), panel A, we can see that in 2006, carbon emission from China equaled that in the US. If China's emission rate is increasing at 9% per year and the US emission rate does not change, when will the emission rate from China be double that of the US?
 
 :::{figure} ../images/fig-p1-ch02-80.jpg
 :name: fig-p1-ch02-80
@@ -1599,7 +1607,7 @@ The Tesla Model S is a large passenger car that uses 15 kWh of electrical energy
 
 ## 1.3 Summary of the energy used per person per day for the four vehicle types
 
-A summary can best be compared graphically. See Figure CS2.2a. The differences are remarkable both among the three types of internal combustion vehicles that range from 42 kWh/p·d for the vehicle with European average fuel economy to 116 kWh/p·d for the SUV in traffic, as well as that of the electric vehicle.
+A summary can best be compared graphically. See [Figure CS2.2A](#fig-p1-ch02-82). The differences are remarkable both among the three types of internal combustion vehicles that range from 42 kWh/p·d for the vehicle with European average fuel economy to 116 kWh/p·d for the SUV in traffic, as well as that of the electric vehicle.
 
 :::{figure} ../images/fig-p1-ch02-82.jpg
 :name: fig-p1-ch02-82
@@ -1612,7 +1620,7 @@ Remarkably the electric vehicle uses just 7.5 kWh/p·d. When we study the thermo
 
 ## Category 2: Heating, Cooling, and Electrical Use to Sustain a Household
 
-In this analysis we view the house as a system as displayed in Figure CS2.2b. We consider two types of energy use to sustain a household. The first is the energy required to heat the home with natural gas. The second is the electricity used to provide lighting, operate computers, television, etc. Just as was the case for the analysis of the automobile types, the energy use per day per person can range over a remarkable difference. However we will use typical numbers in order to judge what fraction of a person's energy consumption is taken up by the home in which they live.
+In this analysis we view the house as a system as displayed in [Figure CS2.2B](#fig-p1-ch02-83). We consider two types of energy use to sustain a household. The first is the energy required to heat the home with natural gas. The second is the electricity used to provide lighting, operate computers, television, etc. Just as was the case for the analysis of the automobile types, the energy use per day per person can range over a remarkable difference. However we will use typical numbers in order to judge what fraction of a person's energy consumption is taken up by the home in which they live.
 
 :::{figure} ../images/fig-p1-ch02-83.jpg
 :name: fig-p1-ch02-83
@@ -1645,7 +1653,7 @@ In order to account for personal energy consumption at work, a contribution that
 
 ## Category 3: Personal Energy Use Associated with Flying
 
-Flying in commercial airliners, displayed in Figure CS2.2c, represents an example of just how important this aspect of your personal energy budget can be if you fly frequently. In our quantitative analysis we consider first a single round trip flight between New York and San Francisco, a distance of approximately 10,000 km. A Boeing $7 6 7$ that has a passenger capacity of 360 uses $ { 2 } \times \ 1 0 ^ { 5 }$ liters of jet fuel for each leg of the round trip. Thus, using our fact that each liter of fuel contains 10 kWh of chemical energy, we have
+Flying in commercial airliners, displayed in [Figure CS2.2C](#fig-p1-ch02-84), represents an example of just how important this aspect of your personal energy budget can be if you fly frequently. In our quantitative analysis we consider first a single round trip flight between New York and San Francisco, a distance of approximately 10,000 km. A Boeing $7 6 7$ that has a passenger capacity of 360 uses $ { 2 } \times \ 1 0 ^ { 5 }$ liters of jet fuel for each leg of the round trip. Thus, using our fact that each liter of fuel contains 10 kWh of chemical energy, we have
 
 <div class="mineru-algorithm" style="white-space: pre-wrap; font-family:monospace;">
 $\left[\begin{array}{l}\text{Energy consumed for}\\ \text{round trip per person}\end{array}\right]$ $= 2\times \left[\binom{\text{fuel volume consumed}}{\text{each leg}}\bigg / \binom{\text{number of}}{\text{passengers}}\right]\times \binom{\text{energy per}}{\text{unit volume}}$ $= 2\times [(200,000\mathrm{liters}) / (360\mathrm{passengers})]\times 10\mathrm{kWh} / \ell$ $= 11\times 10^{3}\mathrm{kWh / passenger}$ $= 2\times [(2\times 10^{5}\ell) / (360\mathrm{pass.})]\times 10\mathrm{kWh} / \ell$ $= 1.1\times 10^{4}\mathrm{kWh / p}$
@@ -1666,7 +1674,7 @@ However, a single round trip flight across the US is a rather modest amount of f
 
 <table><tr><td>1</td><td>Round trip NY to Beijing</td><td>24,000 km</td></tr><tr><td>6</td><td>Coast-to-coast, U.S.</td><td>58,000 km</td></tr><tr><td>10</td><td>NY to Chicago equivalent</td><td>38,000 km</td></tr><tr><td>10</td><td>Boston to Washington or equivalent</td><td>13,000 km</td></tr><tr><td colspan="2"></td><td>133,000 km</td></tr></table>
 
-Given that we just calculated that the energy consumed for a single 10,000 km round trip flight was 30 kWh/p·d, the above itinerary is 13.3 times as far, so this constitutes (13.3)30 kWh/p·d = 400 kWh/p·d. This figure of 400 kWh/p·d for a frequent flyer turns out to be the dominant contribution to an individual's personal budget. This remarkable contrast is displayed in Figure CS2.2d.
+Given that we just calculated that the energy consumed for a single 10,000 km round trip flight was 30 kWh/p·d, the above itinerary is 13.3 times as far, so this constitutes (13.3)30 kWh/p·d = 400 kWh/p·d. This figure of 400 kWh/p·d for a frequent flyer turns out to be the dominant contribution to an individual's personal budget. This remarkable contrast is displayed in [Figure CS2.2D](#fig-p1-ch02-85).
 
 :::{figure} ../images/fig-p1-ch02-85.jpg
 :name: fig-p1-ch02-85
@@ -1677,7 +1685,7 @@ FIGURE CS2.2D The range of personal energy consumption per day from airline flig
 
 ## Category 4: Contribution of Purchased Goods to an Individual's Personal Energy Budget
 
-The flow of manufactured goods (examples of which are displayed in Figure CS2.2e), particularly in the developed world, engages an intricate but interesting web of processes and phases that together constitute a surprisingly important contribution to our personal energy budget. To address this network of steps leading to the fabrication, delivery and sale of manufactured goods, we break the sequence into four phases:
+The flow of manufactured goods (examples of which are displayed in [Figure CS2.2E)](#fig-p1-ch02-86), particularly in the developed world, engages an intricate but interesting web of processes and phases that together constitute a surprisingly important contribution to our personal energy budget. To address this network of steps leading to the fabrication, delivery and sale of manufactured goods, we break the sequence into four phases:
 
 1. Extraction and delivery of the raw materials required for manufacture.
 
@@ -1702,7 +1710,7 @@ The production of a new car consumes approximately 80,000 kWh of energy for the 
 
 For the use phase, we have done the calculation in Category 1 above where we determined that for an automobile with average US fuel economy, 62 kWh/p·d is an appropriate figure, for an SUV in traffic 116 kWh/p·d and for an electric automobile 7.5 kWh/p·d. Note, therefore, that the embodied energy in the production of the car is considerably less than the energy required to operate the automobile unless it is an electric car where the operating energy budget is about one-half the embodied energy.
 
-However, we also need to consider the energy required to build and maintain the roads on which the automobiles are operated as displayed in Figure CS2.2f. In the US, roadways require on average 35,000 kWh of energy per meter of roadway. If we assume an average lifetime of 40 years for the road, this adds approximately 2 kWh/p·d to or personal energy budget.
+However, we also need to consider the energy required to build and maintain the roads on which the automobiles are operated as displayed in [Figure CS2.2F](#fig-p1-ch02-87). In the US, roadways require on average 35,000 kWh of energy per meter of roadway. If we assume an average lifetime of 40 years for the road, this adds approximately 2 kWh/p·d to or personal energy budget.
 
 :::{figure} ../images/fig-p1-ch02-87.jpg
 :name: fig-p1-ch02-87
@@ -1713,7 +1721,7 @@ FIGURE CS2.2F When we account for the energy to produce an automobile, we must a
 
 ## 4.2 Houses
 
-The contribution of house construction, displayed in Figure CS2.2g, to our personal energy budget is one of the most surprising numbers in this analysis. If we assume that the typical house lasts for 100 years, this works out to be approximately 2.3 kWh/day. If the house is occupied by on average 2.3 individuals, this gives us just 1 kWh/p·d. Given that it requires some 44 kWh/p·d to heat, cool and electrify the home, the actual construction of the home is a very small part of the budget!
+The contribution of house construction, displayed in [Figure CS2.2G](#fig-p1-ch02-88), to our personal energy budget is one of the most surprising numbers in this analysis. If we assume that the typical house lasts for 100 years, this works out to be approximately 2.3 kWh/day. If the house is occupied by on average 2.3 individuals, this gives us just 1 kWh/p·d. Given that it requires some 44 kWh/p·d to heat, cool and electrify the home, the actual construction of the home is a very small part of the budget!
 
 :::{figure} ../images/fig-p1-ch02-88.jpg
 :name: fig-p1-ch02-88
@@ -1724,7 +1732,7 @@ FIGURE CS2.2G The cost of constructing a house is, on the face of it, an expensi
 
 ## 4.3 Electronics and Computers
 
-The embodied energy of a typical computer, displayed in Figure CS2.2h, is 2000 kWh, but a typical computer lasts but two to three years, so these devices including television sets contribute approximately 2.5 kWh/p·d to our personal energy budget.
+The embodied energy of a typical computer, displayed in [Figure CS2.2H](#fig-p1-ch02-89), is 2000 kWh, but a typical computer lasts but two to three years, so these devices including television sets contribute approximately 2.5 kWh/p·d to our personal energy budget.
 
 :::{figure} ../images/fig-p1-ch02-89.jpg
 :name: fig-p1-ch02-89
@@ -1739,7 +1747,7 @@ The sum of all these contributions gives an additional 30 kWh/p-d to our energy 
 
 ## 4.5 Delivery of Products to Market
 
-One of the many interesting considerations in calculating the contribution to our personal energy budget is the transportation cost of delivery. To establish the cost of delivery to market, we first summarize the large range of cost per ton-km in Figure CS2.2i for each mode of transport: ship, rail, truck, or aircraft. The unit ton-km (t-km) is the energy required to move 1000 kg = 1 ton a distance of 1 km. For each of our transportation modes, the approximate figures are:
+One of the many interesting considerations in calculating the contribution to our personal energy budget is the transportation cost of delivery. To establish the cost of delivery to market, we first summarize the large range of cost per ton-km in [Figure CS2.2I](#fig-p1-ch02-90) for each mode of transport: ship, rail, truck, or aircraft. The unit ton-km (t-km) is the energy required to move 1000 kg = 1 ton a distance of 1 km. For each of our transportation modes, the approximate figures are:
 
 <table><tr><td>1. Shipping</td><td>0.1 kWh/t-km</td></tr><tr><td>2. Rail</td><td>0.1 kWh/t-km</td></tr><tr><td>3. Trucking</td><td>1.1 kWh/t-km</td></tr><tr><td>4. Aircraft</td><td>1.65 kWh/t-km</td></tr></table>
 
@@ -1754,7 +1762,7 @@ FIGURE CS2.2I The relationship between energy consumption in kWh/t-km and the sp
 
 ## 4.5.1 Transport by Rail
 
-As an example in 2016, $\mathbf { 2 . 7 \times 1 0 ^ { 1 2 } }$ t-km were carried by rail service as shown in Figure CS2.2j. Thus with an energy intensity of 0.1 kWh/t-km for rail, we have
+As an example in 2016, $\mathbf { 2 . 7 \times 1 0 ^ { 1 2 } }$ t-km were carried by rail service as shown in [Figure CS2.2J](#fig-p1-ch02-91). Thus with an energy intensity of 0.1 kWh/t-km for rail, we have
 
 ```{math}
 :label: eq-p1-ch02-66
@@ -1771,7 +1779,7 @@ FIGURE CS2.2J Freight hauling by train is not only extremely energy efficient, i
 
 ## 4.5.2 Transport by Road
 
-As an example, in 2016 $\mathbf { 2 . 0 \times 1 0 ^ { 1 2 } }$ t-km were transported within the US by truck, displayed in Figure CS2.2k. Given the corresponding energy intensity of 1 kWh/t-km, this computes to $\mathbf { 2 . 0 \times 1 0 ^ { 1 2 } }$ kWh of expended energy per year. For 365 days and 320 million people in the US, this gives 17 kWh/p·d.
+As an example, in 2016 $\mathbf { 2 . 0 \times 1 0 ^ { 1 2 } }$ t-km were transported within the US by truck, displayed in [Figure CS2.2K](#fig-p1-ch02-92). Given the corresponding energy intensity of 1 kWh/t-km, this computes to $\mathbf { 2 . 0 \times 1 0 ^ { 1 2 } }$ kWh of expended energy per year. For 365 days and 320 million people in the US, this gives 17 kWh/p·d.
 
 :::{figure} ../images/fig-p1-ch02-92.jpg
 :name: fig-p1-ch02-92
@@ -1816,7 +1824,7 @@ One of the most illuminating ways to employ the calculations of energy use per p
 
 So if we summarize the ranges for the other contributions, we can immediately infer how lifestyle or life choices affect the totality of our personal energy budget. In Category 2, energy to sustain a household and our workplace, we arrived at a figure of 59 kWh/p·d for an average free standing house. If we occupy a large house, as many people in the United States now do, the figure can easily be double that, or approximately 120 kWh/p·d. On the other hand, if we live in an apartment or attached townhouse the figure can be half that of a free standing house, or approximately 30 kWh/p·d.
 
-We can thus construct a graphic similar to Figure CS2.2a but for sustaining a household as displayed here in Figure CS2.2l.
+We can thus construct a graphic similar to [Figure CS2.2A](#fig-p1-ch02-82) but for sustaining a household as displayed here in [Figure CS2.2L](#fig-p1-ch02-93).
 
 :::{figure} ../images/fig-p1-ch02-93.jpg
 :name: fig-p1-ch02-93
@@ -1825,7 +1833,7 @@ FIGURE CS2.2L A comparison of the range of personal energy consumption per day f
 :::
 
 
-Similarly the distance we fly each year for pleasure or business markedly affects our personal energy budget as summarized in Figure CS2.2m. As we calculated under Category 3, if we take a single round trip flight from New York to San Francisco and back, this constitutes an additional 30 kWh/p·d to our individual energy budget. If on the other hand a person flies extensively for business, this can easily increase the contribution of flying to 400 kWh/p·d.
+Similarly the distance we fly each year for pleasure or business markedly affects our personal energy budget as summarized in [Figure CS2.2M](#fig-p1-ch02-94). As we calculated under Category 3, if we take a single round trip flight from New York to San Francisco and back, this constitutes an additional 30 kWh/p·d to our individual energy budget. If on the other hand a person flies extensively for business, this can easily increase the contribution of flying to 400 kWh/p·d.
 
 :::{figure} ../images/fig-p1-ch02-94.jpg
 :name: fig-p1-ch02-94
@@ -1834,7 +1842,7 @@ FIGURE CS2.2M A comparison of the range of personal energy consumption per day f
 :::
 
 
-With respect to the consumption of consumer goods, again there is a large range of energy use per person per day depending on an individual's inclination or financial capacity to purchase goods as reviewed in Figure CS2.2n. Thus we calculated that on average in the US the combination of embodied energy of domestic and imported goods in combination with required transportation gave a figure of 138 kWh/p·d. If we approximate this as 140 kWh/p·d, then a person with a more modest propensity to shop would draw perhaps half of that or 70 kWh/p·d. A person with more extravagant shopping habits could easily raise to average figure to twice the average or 280 kWh/p·d. This provides another important range for our consideration.
+With respect to the consumption of consumer goods, again there is a large range of energy use per person per day depending on an individual's inclination or financial capacity to purchase goods as reviewed in [Figure CS2.2N](#fig-p1-ch02-95). Thus we calculated that on average in the US the combination of embodied energy of domestic and imported goods in combination with required transportation gave a figure of 138 kWh/p·d. If we approximate this as 140 kWh/p·d, then a person with a more modest propensity to shop would draw perhaps half of that or 70 kWh/p·d. A person with more extravagant shopping habits could easily raise to average figure to twice the average or 280 kWh/p·d. This provides another important range for our consideration.
 
 :::{figure} ../images/fig-p1-ch02-95.jpg
 :name: fig-p1-ch02-95
@@ -1843,7 +1851,7 @@ FIGURE CS2.2N A comparison of the range of personal energy consumption per day f
 :::
 
 
-With this analysis of the range of personal energy consumption, we can then quickly relate lifestyle choices with personal energy consumption. Thus we consider four cases as shown in Figure CS2.2o:
+With this analysis of the range of personal energy consumption, we can then quickly relate lifestyle choices with personal energy consumption. Thus we consider four cases as shown in [Figure CS2.2O](#fig-p1-ch02-96):
 
 Case 1: lives in a townhouse, drives an electric car, has modest shopping goals and flies one round trip excursion between the East Coast and West Coast. Personal energy budget: 138 kWh/p·d.
 
@@ -1853,7 +1861,7 @@ Case 3: lives in a large detached house, drives an SUV in traffic, purchases twi
 
 Case 4: lives in a large detached house, drives an SUV in traffic, purchases twice the average amount of consumer goods and travels extensively for business and/or pleasure. Personal energy budget: 916 kWh/p·d.
 
-We can summarize these four cases graphically in Figure CS2.2o.
+We can summarize these four cases graphically in [Figure CS2.2O](#fig-p1-ch02-96).
 
 :::{figure} ../images/fig-p1-ch02-96.jpg
 :name: fig-p1-ch02-96
@@ -1874,16 +1882,16 @@ We can initiate this discussion of the extraction of chemical energy from the co
 ```
 
 
-First, we know from experience that a balloon filled with hydrogen without outside intervention will not explode. Nor will hydrogen released into the air explode spontaneously. The reason is that, as displayed in Figure 1.12, there is an energy barrier that must be surmounted before the reaction is initiated. If we touch a flame to a balloon (or a spark to a mixture of gasoline and air), the high temperature of the flame will impart very high kinetic energy to a limited number of $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 }$ molecules and the barrier to reaction will be surmounted, releasing an amount of energy equal to the enthalpy difference between the reactants $\mathrm { ( H _ { 2 } }$ and $\mathrm { O } _ { 2 } )$ and the products $\mathrm { ( H _ { 2 } O ) }$ . The chemical energy of $\mathrm { H } _ { 2 }$ results from its ability to react with $\mathrm { O } _ { 2 }$ to form molecules of significantly lower enthalpy of formation, $\mathrm { H } _ { 2 } \mathrm { O }$ . Two molecules of $\mathrm { H } _ { 2 } \mathrm { O }$ are formed, each with a pair of O-H bonds. This suggests that we can develop a strong intuitive sense for the energy release in a given chemical reaction by comparing the bond “strength” (the energy required to convert a chemical bond into its two atomic constituents) represented by some average bond dissociation enthalpy for that particular pair of atoms. This would work if, and only if, O-H bond strengths, C-O bond strengths, C-H bond strengths, etc. were reasonably equivalent in different molecules. A priori there is no reason to believe that this would be true. But, importantly, it turns out to be a reasonably accurate approximation for reasons we will develop in Chapters 10 and 11.
+First, we know from experience that a balloon filled with hydrogen without outside intervention will not explode. Nor will hydrogen released into the air explode spontaneously. The reason is that, as displayed in [Figure 1.12](#fig-p1-ch01-44), there is an energy barrier that must be surmounted before the reaction is initiated. If we touch a flame to a balloon (or a spark to a mixture of gasoline and air), the high temperature of the flame will impart very high kinetic energy to a limited number of $\mathrm { H } _ { 2 }$ and $\mathrm { O } _ { 2 }$ molecules and the barrier to reaction will be surmounted, releasing an amount of energy equal to the enthalpy difference between the reactants $\mathrm { ( H _ { 2 } }$ and $\mathrm { O } _ { 2 } )$ and the products $\mathrm { ( H _ { 2 } O ) }$ . The chemical energy of $\mathrm { H } _ { 2 }$ results from its ability to react with $\mathrm { O } _ { 2 }$ to form molecules of significantly lower enthalpy of formation, $\mathrm { H } _ { 2 } \mathrm { O }$ . Two molecules of $\mathrm { H } _ { 2 } \mathrm { O }$ are formed, each with a pair of O-H bonds. This suggests that we can develop a strong intuitive sense for the energy release in a given chemical reaction by comparing the bond “strength” (the energy required to convert a chemical bond into its two atomic constituents) represented by some average bond dissociation enthalpy for that particular pair of atoms. This would work if, and only if, O-H bond strengths, C-O bond strengths, C-H bond strengths, etc. were reasonably equivalent in different molecules. A priori there is no reason to believe that this would be true. But, importantly, it turns out to be a reasonably accurate approximation for reasons we will develop in Chapters 10 and 11.
 
-For our purposes here, we note that the H-H bond is strong as a result of the close proximity of the valence electrons to the nuclei. However, O-H bonds are even stronger because oxygen atoms have a higher nuclear charge and the valence electrons “see” significantly higher charge on the O atom nucleus. This draws electrons preferentially toward the O atom in a bond. As a result O atoms are said to have higher electronegativity than H atoms—a concept we will develop fully in Chapters 9 and 10. The O-H bond enthalpy is not exactly the same in $_ \mathrm { H _ { 2 } O }$ as in ethanol, $\mathrm { C _ { 2 } H _ { 5 } O H }$ because the strength of the O-H bond is affected to some degree by the presence of the other bonds in the molecular structure. But the differences are not large. This allows us to create a table of average bond energies for atom-atom pairs as displayed in Table CS2.3a.
+For our purposes here, we note that the H-H bond is strong as a result of the close proximity of the valence electrons to the nuclei. However, O-H bonds are even stronger because oxygen atoms have a higher nuclear charge and the valence electrons “see” significantly higher charge on the O atom nucleus. This draws electrons preferentially toward the O atom in a bond. As a result O atoms are said to have higher electronegativity than H atoms—a concept we will develop fully in Chapters 9 and 10. The O-H bond enthalpy is not exactly the same in $_ \mathrm { H _ { 2 } O }$ as in ethanol, $\mathrm { C _ { 2 } H _ { 5 } O H }$ because the strength of the O-H bond is affected to some degree by the presence of the other bonds in the molecular structure. But the differences are not large. This allows us to create a table of average bond energies for atom-atom pairs as displayed in [Table CS2.3A](#fig-p1-ch02-97).
 
 :::{figure} ../images/fig-p1-ch02-97.jpg
 :name: fig-p1-ch02-97
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Examination of Table CS2.3a reveals at least five important facts:
+Examination of [Table CS2.3A](#fig-p1-ch02-97) reveals at least five important facts:
 
 1. Virtually all the important bonding pairs in the structure of fuels are included in the table.
 
@@ -1899,15 +1907,19 @@ Finally, it is the combination of relatively weak O = O bonds (developed in Chap
 
 ## Comparison of Fuel Energies
 
-We can use the short list of average bond dissociation enthalpies in Table CS2.3a to calculate the combustion enthalpies for a wide range of fuels. We can begin by tabulating the combustion energies of several important categories of fuel types: hydrogen, methane, petroleum, coal, ethanol, and carbohydrates. This is presented in Table CS2.3b in energy units of kJ in terms of the reaction enthalpies, energy release per mol of $\mathrm { O } _ { 2 } ,$ per mol of fuel, per gram of fuel, and in terms of the moles of $\mathrm { C O } _ { 2 }$ formed per 1000 kJ released.
+We can use the short list of average bond dissociation enthalpies in [Table CS2.3A](#fig-p1-ch02-97) to calculate the combustion enthalpies for a wide range of fuels. We can begin by tabulating the combustion energies of several important categories of fuel types: hydrogen, methane, petroleum, coal, ethanol, and carbohydrates. This is presented in [Table CS2.3B](#xref-visual-p1-ch02-atomic-molecular-structure-1904) in energy units of kJ in terms of the reaction enthalpies, energy release per mol of $\mathrm { O } _ { 2 } ,$ per mol of fuel, per gram of fuel, and in terms of the moles of $\mathrm { C O } _ { 2 }$ formed per 1000 kJ released.
 
+:::{table} TABLE CS2.3B
+:label: xref-visual-p1-ch02-atomic-molecular-structure-1904
+:enumerated: false
 <table><tr><td rowspan="2"></td><td colspan="5">Energy Content (kJ)</td></tr><tr><td>Reaction Enthalpy</td><td>Per mol  $O_2$ </td><td>Per mol Fuel</td><td>Per g Fuel</td><td>Mol  $CO_2/1000 kJ$ </td></tr><tr><td>Hydrogen $2H_2 + O_2 \rightarrow 2H_2O$ </td><td>482</td><td>482</td><td>241</td><td>120</td><td>0</td></tr><tr><td>Methane $CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O$ </td><td>810</td><td>405</td><td>810</td><td>51.6</td><td>1.2</td></tr><tr><td>Petroleum $2(-CH_2-) + 3O_2$  $\rightarrow 2CO_2 + 2H_2O$ </td><td>1220</td><td>407</td><td>610</td><td>43.6</td><td>1.6</td></tr><tr><td>Coal $4(-CH-) + 5O_2$  $\rightarrow 4CO_2 + 2H_2O$ </td><td>2046</td><td>409</td><td>512</td><td>39.3</td><td>2.0</td></tr><tr><td>Ethanol $C_2H_5OH + 3O_2$  $\rightarrow 2CO_2 + 3H_2O$ </td><td>1257</td><td>419</td><td>1257</td><td>27.3</td><td>1.6</td></tr><tr><td>Carbohydrate $(-CHOH-) + O_2$  $\rightarrow CO_2 + H_2O$ </td><td>447</td><td>447</td><td>447</td><td>14.9</td><td>2.2</td></tr></table>
+:::
 
-There are several very important observations to be made in the investigation of Table CS2.3b. First, the reaction enthalpies span a wide range for the reaction as written. The enthalpies are not directly comparable because the number of moles of chemical bond transformations involved vary considerably. For example, the reaction enthalpy for $\mathrm { C H } _ { 4 }$ combustion is considerably larger than for hydrogen combustion (810 kJ vs. 482 kJ). However, viewed on a per-mole basis, the energy released per mole of $\mathrm { O } _ { 2 }$ is smaller for $\mathrm { C H } _ { 4 }$ (405 kJ) than for $\mathrm { H } _ { 2 }$ (482 kJ). On the other hand, one mole of $\mathrm { C H } _ { 4 }$ has a higher energy content than a mole of $\mathrm { H } _ { 2 }$ (810 kJ vs. 241 kJ). Thus because one mole of any gas occupies the same volume (22.4 liters at STP), a cubic meter of $\mathrm { C H } _ { 4 }$ contains over three times the energy of a cubic meter of $\mathrm { H } _ { 2 } .$ . The reason is that there are four C-H bonds in methane that are converted to C=O and H-O bonds on combustion. There is a single H-H bond in $\mathrm { H } _ { 2 }$ that is converted to O-H bonds.
+There are several very important observations to be made in the investigation of [Table CS2.3B](#xref-visual-p1-ch02-atomic-molecular-structure-1904). First, the reaction enthalpies span a wide range for the reaction as written. The enthalpies are not directly comparable because the number of moles of chemical bond transformations involved vary considerably. For example, the reaction enthalpy for $\mathrm { C H } _ { 4 }$ combustion is considerably larger than for hydrogen combustion (810 kJ vs. 482 kJ). However, viewed on a per-mole basis, the energy released per mole of $\mathrm { O } _ { 2 }$ is smaller for $\mathrm { C H } _ { 4 }$ (405 kJ) than for $\mathrm { H } _ { 2 }$ (482 kJ). On the other hand, one mole of $\mathrm { C H } _ { 4 }$ has a higher energy content than a mole of $\mathrm { H } _ { 2 }$ (810 kJ vs. 241 kJ). Thus because one mole of any gas occupies the same volume (22.4 liters at STP), a cubic meter of $\mathrm { C H } _ { 4 }$ contains over three times the energy of a cubic meter of $\mathrm { H } _ { 2 } .$ . The reason is that there are four C-H bonds in methane that are converted to C=O and H-O bonds on combustion. There is a single H-H bond in $\mathrm { H } _ { 2 }$ that is converted to O-H bonds.
 
-However, there are different figures of merit for different fuel uses. For example, if it is weight that matters most, then $\mathrm { H } _ { 2 }$ is the best choice. From Table CS2.3b hydrogen combustion yields 120 kJ per gram of fuel vs. the next best, methane, at 51.6 kJ of enthalpy release per gram of fuel. For this reason rockets use liquid hydrogen as a fuel because the fuel weight is a large fraction of the system weight during first-stage burn.
+However, there are different figures of merit for different fuel uses. For example, if it is weight that matters most, then $\mathrm { H } _ { 2 }$ is the best choice. From [Table CS2.3B](#xref-visual-p1-ch02-atomic-molecular-structure-1904) hydrogen combustion yields 120 kJ per gram of fuel vs. the next best, methane, at 51.6 kJ of enthalpy release per gram of fuel. For this reason rockets use liquid hydrogen as a fuel because the fuel weight is a large fraction of the system weight during first-stage burn.
 
-Second, Table CS2.3b shows the schematic reaction for both petroleum and coal. This distinguishes representative composition and bonding arrangements, reducing the analysis to interpretable bonding pair atoms. For example, petroleum is largely comprised of saturated hydrocarbons and thus we consider the relevant combustion reaction of a $\mathrm { - C H _ { 2 } - }$ group in a hydrocarbon chain:
+Second, [Table CS2.3B](#xref-visual-p1-ch02-atomic-molecular-structure-1904) shows the schematic reaction for both petroleum and coal. This distinguishes representative composition and bonding arrangements, reducing the analysis to interpretable bonding pair atoms. For example, petroleum is largely comprised of saturated hydrocarbons and thus we consider the relevant combustion reaction of a $\mathrm { - C H _ { 2 } - }$ group in a hydrocarbon chain:
 
 ```{math}
 :label: eq-p1-ch02-70
@@ -1927,7 +1939,7 @@ Bond enthalpies of the reactants = 3816 kJ
 
 Therefore, enthalpy release in reaction of two $\left( - \mathrm { C H } _ { 2 } - \right)$ groups = 1220 kJ. On a per-mole of $\mathrm { O } _ { 2 }$ basis, the energy release is 407 kJ (1220/3 = 407 kJ), which is nearly the same as that of methane. On a per-gram basis, petroleum produces $4 3 . 6 \mathrm { k J } ,$ somewhat less than the 51.6 kJ for methane.
 
-Third, the H/C ratio of a fuel controls the energy content per gram of fuel. The H/C ratio of saturated hydrocarbons is > 2:1 because of the $\mathrm { C H } _ { 3 }$ groups at the terminus of the (branched) chain molecules that make up the fuel. On the other hand, petroleum has a significant fraction of aromatic molecules with H/C ratios < 2:1. As displayed in Figure CS2.5g, the molecular structure of coal is largely built from aromatic rings with an H/C ratio of 1:1 (or slightly less). Thus our proto molecule in combustion is
+Third, the H/C ratio of a fuel controls the energy content per gram of fuel. The H/C ratio of saturated hydrocarbons is > 2:1 because of the $\mathrm { C H } _ { 3 }$ groups at the terminus of the (branched) chain molecules that make up the fuel. On the other hand, petroleum has a significant fraction of aromatic molecules with H/C ratios < 2:1. As displayed in [Figure CS2.5G](#fig-p1-ch02-124), the molecular structure of coal is largely built from aromatic rings with an H/C ratio of 1:1 (or slightly less). Thus our proto molecule in combustion is
 
 ```{math}
 :label: eq-p1-ch02-71
@@ -1957,7 +1969,7 @@ Let's consider gasoline, which is mostly octane, $\mathrm { C _ { 8 } H _ { 1 8 
 :alt: Figure from the University Chemistry source textbook
 :::
 
-a. Based on the list of average bond dissociation enthalpies in Table CS2.3a, calculate the combustion enthalpy for octane in terms of kJ per mol of reaction:
+a. Based on the list of average bond dissociation enthalpies in [Table CS2.3A](#fig-p1-ch02-97), calculate the combustion enthalpy for octane in terms of kJ per mol of reaction:
 
 ```{math}
 :label: eq-p1-ch02-72
@@ -1978,7 +1990,7 @@ While we will consider biofuels in some detail in Case Study 13.3, let's conside
 :alt: Figure from the University Chemistry source textbook
 :::
 
-a. Based on the list of average bond dissociation enthalpies in Table CS2.3a, calculate the combustion enthalpy for ethanol in terms of (i) kJ per mol of reaction, and (ii) kJ per gram of fuel $\left( \mathrm { { k J / g } } \right)$
+a. Based on the list of average bond dissociation enthalpies in [Table CS2.3A](#fig-p1-ch02-97), calculate the combustion enthalpy for ethanol in terms of (i) kJ per mol of reaction, and (ii) kJ per gram of fuel $\left( \mathrm { { k J / g } } \right)$
 
 ```{math}
 :label: eq-p1-ch02-73
@@ -1990,7 +2002,7 @@ b. Why does ethanol produce significantly less energy per unit mass than does pe
 
 ## Problem 3
 
-a. Based on the list of average bond dissociation enthalpies in Table CS2.3a, calculate the combustion (or respiration) energy release for carbohydrates in terms of (i) kJ per mol of $\mathrm { O } _ { 2 } ;$ , and (ii) kJ per gram of fuel $\left( \mathrm { { k J / g } } \right)$
+a. Based on the list of average bond dissociation enthalpies in [Table CS2.3A](#fig-p1-ch02-97), calculate the combustion (or respiration) energy release for carbohydrates in terms of (i) kJ per mol of $\mathrm { O } _ { 2 } ;$ , and (ii) kJ per gram of fuel $\left( \mathrm { { k J / g } } \right)$
 
 ```{math}
 :label: eq-p1-ch02-74
@@ -2008,7 +2020,7 @@ b. Explain qualitatively why the energy per gram for carbohydrates is only about
 
 In order to sustain life on the planet, it is important to develop an understanding of how life evolved and from where the energy came that allowed it to prosper. To develop an understanding of the coupling between energy at the molecular level and the development of self sustaining organisms it is essential that we explore the importance of water as a medium that supports all life forms on Earth and the relationship between water and molecular oxygen in the chemical balance of life.
 
-To this end we begin with the fact that life is sustained by, is powered by, redox reactions. Nature has discovered how to use the energy released when electrons are transferred to or from atoms when reactant molecules are converted to another molecular structure, i.e. product molecules. So let's review oxidation-reduction reactions. When we treat an electron “transfer” in an oxidation-reduction reaction, we seek a convenient way to register the movement of electron density in that chemical reaction. The accounting method is to employ the “oxidation state” of each atom involved in the reaction. In brief, an atom's oxidation state is a positive or negative number designed to reflect electron density shifts local to that particular atom relative to some standard state. That standard state is an atom in elemental form—the form that represents the electron distribution it would have in the absence of another atom that may (or may not) have a greater ability to draw electron density to it when engaged in a chemical bond. We can demonstrate both the redistribution of electron charge, the oxidation state, and the energy release resulting from that redistribution of electron charge in the following diagram for carbon monoxide, Figure CS2.4a. If we begin with the carbon and oxygen a distance apart equal to the bond length in CO, but with the atoms each in their elemental form (including the distribution of electron density about each atom), they will both have an oxidation state of zero, by definition. If we now allow the relative ability of each atom to attract electron density to it in a chemical bond, electron density will move toward the oxygen, will “delocalize” toward the oxygen, releasing energy as the electron density shifts toward the oxygen, thereby reducing the energy of the ensemble of atoms, in this case the two atoms in CO.
+To this end we begin with the fact that life is sustained by, is powered by, redox reactions. Nature has discovered how to use the energy released when electrons are transferred to or from atoms when reactant molecules are converted to another molecular structure, i.e. product molecules. So let's review oxidation-reduction reactions. When we treat an electron “transfer” in an oxidation-reduction reaction, we seek a convenient way to register the movement of electron density in that chemical reaction. The accounting method is to employ the “oxidation state” of each atom involved in the reaction. In brief, an atom's oxidation state is a positive or negative number designed to reflect electron density shifts local to that particular atom relative to some standard state. That standard state is an atom in elemental form—the form that represents the electron distribution it would have in the absence of another atom that may (or may not) have a greater ability to draw electron density to it when engaged in a chemical bond. We can demonstrate both the redistribution of electron charge, the oxidation state, and the energy release resulting from that redistribution of electron charge in the following diagram for carbon monoxide, [Figure CS2.4A](#fig-p1-ch02-103). If we begin with the carbon and oxygen a distance apart equal to the bond length in CO, but with the atoms each in their elemental form (including the distribution of electron density about each atom), they will both have an oxidation state of zero, by definition. If we now allow the relative ability of each atom to attract electron density to it in a chemical bond, electron density will move toward the oxygen, will “delocalize” toward the oxygen, releasing energy as the electron density shifts toward the oxygen, thereby reducing the energy of the ensemble of atoms, in this case the two atoms in CO.
 
 :::{figure} ../images/fig-p1-ch02-102.jpg
 :name: fig-p1-ch02-102
@@ -2026,9 +2038,10 @@ FIGURE CS2.4A If two atoms in their elemental form are placed a distance apart e
 
 The oxidation state formalism takes a subtle shift in electron density and turns it into an all or nothing statement of electron “ownership.” Just as in an election, if candidate A receives just 51% of the vote and candidate B receives 49% of the votes, candidate A is declared the winner. So it is with a chemical bond. In the case of CO, electron density shifts toward the oxygen and it is deemed the “winner” of the electrons and is awarded an oxidation number of -2. The electron is conserved, so the carbon atom is deemed the loser (of electron density) and awarded an oxidation number of +2.
 
-It requires a large computer to accurately calculate the distribution of electron charge in a molecule. Oxidation numbers are an approximation that provide remarkable insight into how electrons move, how they delocalize, in a chemical reaction. Because of the conservation of electrons, the sum of the oxidation numbers assigned to atoms in a molecular structure must equal the net charge on the molecule or ion. In lieu of a large computer calculation, the assignment of oxidation numbers follows a hierarchical pattern based on the competitive ability of individual atoms to draw electron density to them in a chemical bond. This set of rules that establish the hierarchy was presented in Table 2.4, and is reviewed here in Table CS2.4a.
+It requires a large computer to accurately calculate the distribution of electron charge in a molecule. Oxidation numbers are an approximation that provide remarkable insight into how electrons move, how they delocalize, in a chemical reaction. Because of the conservation of electrons, the sum of the oxidation numbers assigned to atoms in a molecular structure must equal the net charge on the molecule or ion. In lieu of a large computer calculation, the assignment of oxidation numbers follows a hierarchical pattern based on the competitive ability of individual atoms to draw electron density to them in a chemical bond. This set of rules that establish the hierarchy was presented in [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071), and is reviewed here in [Table CS2.4A](#original-table-cs2-4a).
 
-## TABLE CS2.4A
+(original-table-cs2-4a)=
+## [TABLE CS2.4A](#original-table-cs2-4a)
 
 ## Rules of oxidation states
 
@@ -2052,7 +2065,7 @@ Group 2A metals always have an oxidation state of +2
 
 <table><tr><td colspan="3">Oxidation States of Nonmetals</td></tr><tr><td>Nonmetal</td><td>Oxidation State</td><td>Example</td></tr><tr><td>Fluorine</td><td>-1</td><td> $MgF_{2}$  - 1 ox state</td></tr><tr><td>Hydrogen</td><td>+1</td><td> $H_{2}O$  + 1 ox state</td></tr><tr><td>Oxygen</td><td>-2</td><td> $CO_{2}$  - 2 ox state</td></tr><tr><td>Group 7A</td><td>-1</td><td> $CCl_{4}$  - 1 ox state</td></tr><tr><td>Group 6A</td><td>-2</td><td> $H_{2}S$  - 2 ox state</td></tr><tr><td>Group 5A</td><td>-3</td><td> $NH_{3}$  - 3 ox state</td></tr></table>
 
-We can sketch some important examples by displaying the transition from the elemental state with oxidation state zero to the oxidation state of the molecule after bond formation, by designating of the direction of electron delocalization and the resulting release of energy as shown in Figure CS2.4b.
+We can sketch some important examples by displaying the transition from the elemental state with oxidation state zero to the oxidation state of the molecule after bond formation, by designating of the direction of electron delocalization and the resulting release of energy as shown in [Figure CS2.4B](#fig-p1-ch02-104).
 
 :::{figure} ../images/fig-p1-ch02-104.jpg
 :name: fig-p1-ch02-104
@@ -2079,7 +2092,7 @@ The idea of an oxidation-reduction reaction, or redox reaction, emerged in the d
 ```
 
 
-We can immediately assign oxidation states to each of the atoms in the reactant molecules and in the product molecules using Table CS2.4a:
+We can immediately assign oxidation states to each of the atoms in the reactant molecules and in the product molecules using [Table CS2.4A](#original-table-cs2-4a):
 
 ```{math}
 :label: eq-p1-ch02-76
@@ -2133,7 +2146,7 @@ Demonstrate explicitly why this reaction is a redox reaction.
 
 ## Answer:
 
-We know from the chapter that a redox reaction must involve the movement of one or more electrons from one reagent to or toward another. But more precisely, we must keep track of the electrons assigned to each atom in both reactants and products in order to determine whether electrons have been transferred even though that “transfer” may simply be the delocalization or movement to or from the atom's center. So let's do this accounting explicitly for the reactants and products in this reaction. To do this we use the Rules for Oxidation States in Table CS2.2a.
+We know from the chapter that a redox reaction must involve the movement of one or more electrons from one reagent to or toward another. But more precisely, we must keep track of the electrons assigned to each atom in both reactants and products in order to determine whether electrons have been transferred even though that “transfer” may simply be the delocalization or movement to or from the atom's center. So let's do this accounting explicitly for the reactants and products in this reaction. To do this we use the Rules for Oxidation States in [Table CS2.2A](#fig-p1-ch02-105).
 
 All the atoms in our respiration reaction are nonmetals, so we assign oxidation states, according to the order presented in the table: to hydrogen first, oxygen second, and then apply the requirement that the oxidation states sum to zero for each of our (neutral) molecules (Rule 3).
 
@@ -2165,7 +2178,7 @@ Why is the chemistry of oxygen and of water so central to redox reactions and to
 
 ## Answer:
 
-We will repeatedly examine the implications of electron movement in chemical transformations that result from the differing ability of atoms to draw electrons to them resulting in a lower energy configuration. Water is the medium within which life takes place—whether at the ocean bottom in vents that spawned primitive life forms 3.5 billion years ago or within complex cells of advanced life forms. Water's central role in all this emerges from two primary traits: (1) the ability of the oxygen to extract electron density from hydrogen in a chemical bond and (2) the shape of the water molecule. It is bent with electron density localized on the (“electron rich”) oxygen and with the “electron poor” hydrogens extending outward as shown in Figure CS2.4c.
+We will repeatedly examine the implications of electron movement in chemical transformations that result from the differing ability of atoms to draw electrons to them resulting in a lower energy configuration. Water is the medium within which life takes place—whether at the ocean bottom in vents that spawned primitive life forms 3.5 billion years ago or within complex cells of advanced life forms. Water's central role in all this emerges from two primary traits: (1) the ability of the oxygen to extract electron density from hydrogen in a chemical bond and (2) the shape of the water molecule. It is bent with electron density localized on the (“electron rich”) oxygen and with the “electron poor” hydrogens extending outward as shown in [Figure CS2.4C](#fig-p1-ch02-107).
 
 :::{figure} ../images/fig-p1-ch02-107.jpg
 :name: fig-p1-ch02-107
@@ -2176,7 +2189,7 @@ FIGURE CS2.4C The remarkable influence that water molecules have on chemical rea
 
 While we will fully develop the principles that determine this structure in subsequent chapters, we will concentrate here on the consequences of this combination of shape and charge distribution intrinsic to the water molecule.
 
-When an ionic solid—a solid comprised of atoms held together by ionic bonds as described on page 2.17—is immersed in water, the negative (oxygen) end of $\mathrm { H } _ { 2 } \mathrm { O }$ attracts the positive (cation) of the ionic solid while the positive (hydrogen) end of $_ \mathrm { H _ { 2 } O }$ attracts the negative (anion) of the ionic solid. This becomes a battle between the ionic bonding between the cation and anion in the solid and the Coulomb attraction between the polar water molecules and the separated cations and anions in the water. We can depict this graphically in Figure CS2.4d, which displays the release of the cation that is then surrounded by numerous water molecules with their negative (oxygen) ends turned toward the central cation.
+When an ionic solid—a solid comprised of atoms held together by ionic bonds as described on page 2.17—is immersed in water, the negative (oxygen) end of $\mathrm { H } _ { 2 } \mathrm { O }$ attracts the positive (cation) of the ionic solid while the positive (hydrogen) end of $_ \mathrm { H _ { 2 } O }$ attracts the negative (anion) of the ionic solid. This becomes a battle between the ionic bonding between the cation and anion in the solid and the Coulomb attraction between the polar water molecules and the separated cations and anions in the water. We can depict this graphically in [Figure CS2.4D](#fig-p1-ch02-108), which displays the release of the cation that is then surrounded by numerous water molecules with their negative (oxygen) ends turned toward the central cation.
 
 :::{figure} ../images/fig-p1-ch02-108.jpg
 :name: fig-p1-ch02-108
@@ -2187,7 +2200,7 @@ FIGURE CS2.4D When an ionic solid is placed in water, the polar nature of water 
 
 Also shown is the corresponding anion that, when released from the ionic solid, is surrounded by the accessible positive (hydrogen) ends of multiple $\mathrm { H } _ { 2 } \mathrm { O }$ solvent molecules.
 
-Why does the ionic solid decide to break up into cations and anions? Because, in so doing, energy is released. We can sketch this on an energy diagram shown in Figure CS2.4e.
+Why does the ionic solid decide to break up into cations and anions? Because, in so doing, energy is released. We can sketch this on an energy diagram shown in [Figure CS2.4E](#fig-p1-ch02-109).
 
 :::{figure} ../images/fig-p1-ch02-109.jpg
 :name: fig-p1-ch02-109
@@ -2200,7 +2213,7 @@ This begins to connect the chemistry of water and oxygen with the concept of red
 
 Elements can exist in different oxidation states depending upon how many electrons are added to or removed from their valence shells. In an aqueous medium, the amount of energy released—the stability of a given oxidation state—depends on the properties of water as described above. For Group 1 and Group 2 metals, for example sodium and magnesium, there are 1 and 2 weakly bound electrons respectively in the valence shell so invariably if energy is released in the solution (the addition of the ionic solid to water), $\mathrm { N a ^ { + } }$ and $\mathbf { M } \mathbf { g } ^ { 2 + }$ are formed from ionic solids that dissociate in water. All metals form cations (positive ions) in water. As we move to the right in the periodic table, electrons are bound more tightly and we can have multiple possibilities for oxidation states. An important example is iron, for which either $\mathrm { F e ^ { 2 + } }$ or $\mathrm { F e ^ { 3 ^ { + } } }$ can exist in water.
 
-Thus we have a general picture of metals, M, donating electrons to the surrounding aqueous medium as shown in Figure CS2.4f.
+Thus we have a general picture of metals, M, donating electrons to the surrounding aqueous medium as shown in [Figure CS2.4F](#fig-p1-ch02-110).
 
 :::{figure} ../images/fig-p1-ch02-110.jpg
 :name: fig-p1-ch02-110
@@ -2223,7 +2236,7 @@ PROBLEM Use oxidation numbers to decide which of the following are redox reactio
 ```
 
 
-PLAN To determine whether a reaction is an oxidation-reduction process, we use Table 4.3 to assign each atom an O.N. and see if it changes as the reactants become products. SOLUTION
+PLAN To determine whether a reaction is an oxidation-reduction process, we use [Table 2.4](#xref-visual-p1-ch02-atomic-molecular-structure-1071) to assign each atom an O.N. and see if it changes as the reactants become products. SOLUTION
 
 :::{figure} ../images/fig-p1-ch02-111.jpg
 :name: fig-p1-ch02-111
@@ -2280,7 +2293,7 @@ We can sketch this by noting the transfer of electron density from the nonmetal 
 
 What is important to recognize is that in the assignment of oxidation states, the designation represents a movement, a shift, a “delocalization” away from the nonmetal to oxygen, not a complete transfer of an electron or electrons. As a result, the actual charges on the nonmetal in a nonmetal to oxygen bond are much less than the $+ 4 , + 5 , + 6 , + 7 \mathrm { ~ i n ~ } \mathrm { C O _ { 2 } } , \mathrm { ~ N O _ { 3 } } ^ { 2 - }$ $\mathrm { S O _ { 4 } } ^ { 2 - } , \mathrm { C l O _ { 4 } } ^ { - }$ respectively. However, the reason we keep careful track of the oxidation state of an atom in a molecular structure and why we keep track of how that oxidation state changes in a chemical reaction is that energy is at stake. A change in oxidation state virtually without exception implies a change in energy. This is why living organisms evolved to become masters of manipulation when it comes to oxidation states and thus of redox reactions.
 
-As we will see, this is why nitrogen is so important for plant growth. Eight electrons must be removed from N in the conversion of $\mathrm { N H } _ { 3 }$ to $\mathrm { N O _ { 3 } } ^ { - }$ and this provides an “energy ladder” by which organisms use the oxidation states of nitrogen to sustain themselves. We summarize the terminology for redox reactions in Figure CS2.4g.
+As we will see, this is why nitrogen is so important for plant growth. Eight electrons must be removed from N in the conversion of $\mathrm { N H } _ { 3 }$ to $\mathrm { N O _ { 3 } } ^ { - }$ and this provides an “energy ladder” by which organisms use the oxidation states of nitrogen to sustain themselves. We summarize the terminology for redox reactions in [Figure CS2.4G](#original-fig-cs2-4g).
 
 :::{figure} ../images/fig-p1-ch02-116.jpg
 :name: fig-p1-ch02-116
@@ -2289,6 +2302,7 @@ As we will see, this is why nitrogen is so important for plant growth. Eight ele
 
 <table><tr><td>X loses electron(s)</td><td>Y gains electron(s)</td></tr><tr><td>X is oxidized</td><td>Y is reduced</td></tr><tr><td>X is the reducing agent</td><td>Y is the oxidizing agent</td></tr><tr><td>X increases its oxidation number</td><td>Y decreases its oxidation number</td></tr></table>
 
+(original-fig-cs2-4g)=
 FIGURE CS2.4G There are a series of terms applied when an electron is either transferred completely or shifts partially from a donating species X to a receiving species Y. The four major examples are presented here.
 
 ## BUILDING QUANTITATIVE REASONING
@@ -2297,7 +2311,7 @@ FIGURE CS2.4G There are a series of terms applied when an electron is either tra
 
 ## KEY CONCEPTS:
 
-Fossil fuels today constitute 80% of primary energy generation globally. Figure CS2.5a displays graphically the formation of coal, petroleum, and natural gas, which are the three fossil fuels we will focus on here.
+Fossil fuels today constitute 80% of primary energy generation globally. [Figure CS2.5A](#fig-p1-ch02-117) displays graphically the formation of coal, petroleum, and natural gas, which are the three fossil fuels we will focus on here.
 
 :::{figure} ../images/fig-p1-ch02-117.jpg
 :name: fig-p1-ch02-117
@@ -2310,7 +2324,7 @@ The question is, how did these fossil fuels form, what is their energy content, 
 
 ## I The Global Carbon Cycle
 
-The genesis of fossil fuels begins with the production of organic material from photosynthesis as we first explored in the Framework for Chapter 1. From the perspective of fuel production, only about 0.5% of the energy received from the Sun at the Earth's surface is converted by photosynthesis to chemical energy in the form of carbohydrates. As pointed out in Chapter 1, the overall reaction representing photosynthesis can be given by $6 \mathrm { C O } _ { 2 } + 6 \mathrm { H } _ { 2 } \mathrm { O }  \mathrm { C } _ { 6 } \mathrm { H } _ { 1 2 } \mathrm { O } _ { 6 } + 6 \mathrm { O } _ { 2 }$ as displayed in Figure CS2.5b. In this expression $\mathrm { C _ { 6 } H _ { 1 2 } O _ { 6 } }$ represents the basic structure of the carbohydrates produced. Carbohydrates are so named because their basic chemical structure, $\mathrm { { ( C H _ { 2 } O ) } _ { n } } .$ contains two atoms of hydrogen and one atom of oxygen for each carbon atom in the structure.
+The genesis of fossil fuels begins with the production of organic material from photosynthesis as we first explored in the Framework for Chapter 1. From the perspective of fuel production, only about 0.5% of the energy received from the Sun at the Earth's surface is converted by photosynthesis to chemical energy in the form of carbohydrates. As pointed out in Chapter 1, the overall reaction representing photosynthesis can be given by $6 \mathrm { C O } _ { 2 } + 6 \mathrm { H } _ { 2 } \mathrm { O }  \mathrm { C } _ { 6 } \mathrm { H } _ { 1 2 } \mathrm { O } _ { 6 } + 6 \mathrm { O } _ { 2 }$ as displayed in [Figure CS2.5B](#fig-p1-ch02-118). In this expression $\mathrm { C _ { 6 } H _ { 1 2 } O _ { 6 } }$ represents the basic structure of the carbohydrates produced. Carbohydrates are so named because their basic chemical structure, $\mathrm { { ( C H _ { 2 } O ) } _ { n } } .$ contains two atoms of hydrogen and one atom of oxygen for each carbon atom in the structure.
 
 :::{figure} ../images/fig-p1-ch02-118.jpg
 :name: fig-p1-ch02-118
@@ -2329,7 +2343,7 @@ Over the past 350 million years the processes of photosynthesis and respiration
 ```
 
 
-have been closely balanced, and the exchange of carbon between $\mathrm { C O } _ { 2 }$ in the atmosphere and that contained in plant tissue constitutes a nearly closed system of carbon exchange. This cycle is displayed schematically in Figure CS2.5c. While this diagram appears to be complex, the figure's caption defines important aspects that are essential for an understanding of climate coupling.
+have been closely balanced, and the exchange of carbon between $\mathrm { C O } _ { 2 }$ in the atmosphere and that contained in plant tissue constitutes a nearly closed system of carbon exchange. This cycle is displayed schematically in [Figure CS2.5C](#fig-p1-ch02-119). While this diagram appears to be complex, the figure's caption defines important aspects that are essential for an understanding of climate coupling.
 
 :::{figure} ../images/fig-p1-ch02-119.jpg
 :name: fig-p1-ch02-119
@@ -2392,7 +2406,7 @@ This value is 283 times greater than the answer in part (1).
 
 New discoveries of natural gas and petroleum reserves have altered the calculation of fossil fuel availability markedly since 2010. This has brought a focus back on how those fuels evolved over the past 300 million years.
 
-The key distinction is that natural gas and petroleum deposits are of marine origin. The oceans are a vast biological “engine” with a production of approximately 400 billion tons of reduced carbon annually via photosynthesis in surface waters. A major fraction of this biogenic carbon is recycled to the atmosphere as displayed in Figure CS2.3c. However, a small fraction settles to the bottom where there is no oxygen available for respiration. This biological detritus becomes entombed in a matrix of porous clay and/or sandstone. Anaerobic bacteria digest the organic matter releasing methane, ammonia $\mathrm { ( N H _ { 3 } ) }$ and water. The molecules most difficult to digest are the hydrocarbon-based lipids. Remarkably, the hydrocarbons in recovered petroleum have both molecular structure and carbon number distributions that closely resemble those found in the lipids of living organisms. Interestingly, all petroleum deposits contain derivatives of the hydrocarbon hopane $\mathrm { ( C _ { 3 0 } H _ { 5 2 } ) }$ that is commonly found in the membrane structure of bacteria. The structure of bacteriohopanetetrol is shown in Figure CS2.5d.
+The key distinction is that natural gas and petroleum deposits are of marine origin. The oceans are a vast biological “engine” with a production of approximately 400 billion tons of reduced carbon annually via photosynthesis in surface waters. A major fraction of this biogenic carbon is recycled to the atmosphere as displayed in [Figure CS2.3C](#fig-p1-ch02-120). However, a small fraction settles to the bottom where there is no oxygen available for respiration. This biological detritus becomes entombed in a matrix of porous clay and/or sandstone. Anaerobic bacteria digest the organic matter releasing methane, ammonia $\mathrm { ( N H _ { 3 } ) }$ and water. The molecules most difficult to digest are the hydrocarbon-based lipids. Remarkably, the hydrocarbons in recovered petroleum have both molecular structure and carbon number distributions that closely resemble those found in the lipids of living organisms. Interestingly, all petroleum deposits contain derivatives of the hydrocarbon hopane $\mathrm { ( C _ { 3 0 } H _ { 5 2 } ) }$ that is commonly found in the membrane structure of bacteria. The structure of bacteriohopanetetrol is shown in [Figure CS2.5D](#fig-p1-ch02-120).
 
 :::{figure} ../images/fig-p1-ch02-120.jpg
 :name: fig-p1-ch02-120
@@ -2403,7 +2417,7 @@ FIGURE CS2.5D The molecular structure of hopane is displayed here in 3 dimension
 
 With the continuing burial of the mixed organic-inorganic matrix, both the temperature and the pressure rise. The combination of increasing pressure and temperature terminates the bacterial action because the bacteria cannot survive those conditions. However, the pressure and temperature are sufficiently high to induce the chemical rearrangement of those molecular structures. The result is that large quantities of methane are released, along with a mixture of other light hydrocarbons. These gases, capable of diffusing through some porous rock structures, accumulate in pockets under impermeable rock structures. The remaining heavy organic compounds mixed with water migrate through the rock structures until the increasing pressure squeezes the water from the emulsified mixture leaving the oil trapped in the porous layers of the rock.
 
-This process of accumulation following bacterial action and increasing formation of natural gas and petroleum deposits has taken place over hundreds of millions of years as detailed in Figure CS2.5e.
+This process of accumulation following bacterial action and increasing formation of natural gas and petroleum deposits has taken place over hundreds of millions of years as detailed in [Figure CS2.5E](#fig-p1-ch02-121).
 
 :::{figure} ../images/fig-p1-ch02-121.jpg
 :name: fig-p1-ch02-121
@@ -2420,7 +2434,7 @@ Finally, a fraction of the hydrocarbon in the Earth's crust is abiotic in origin
 
 ## III Origins of Coal
 
-A primary distinction between coal and the marine origins of petroleum and natural gas is that coal is of terrestrial origin. Coal deposits are a result of plant matter provided from large, thickly wooded swamps that dominated the planet between 250 and 50 million years ago. During that period from the Middle Jurassic to the Eocene (see Figure $\underline { { \mathrm { C S 2 . 5 e } } } )$ , the Earth's climate was warm and moist. As we discussed in the Framework to this Chapter, woody plants are made up mainly of lignin and cellulose. While aerobic bacteria rapidly oxidize cellulose to $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ after the plant dies, lignin is much more resistant to bacterial action. The structure of the lignin polymer is displayed in the upper panel of Figure CS2.5f. The lignin polymer, which gives trees a remarkable strength-to-weight ratio, is a complex three-dimensional structure built upon multiple benzene rings. The primary building units are coniferyl and sinapyl alcohols from coniferous and deciduous plants respectively.
+A primary distinction between coal and the marine origins of petroleum and natural gas is that coal is of terrestrial origin. Coal deposits are a result of plant matter provided from large, thickly wooded swamps that dominated the planet between 250 and 50 million years ago. During that period from the Middle Jurassic to the Eocene (see [Figure CS2.5E](#fig-p1-ch02-121) , the Earth's climate was warm and moist. As we discussed in the Framework to this Chapter, woody plants are made up mainly of lignin and cellulose. While aerobic bacteria rapidly oxidize cellulose to $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ after the plant dies, lignin is much more resistant to bacterial action. The structure of the lignin polymer is displayed in the upper panel of [Figure CS2.5F](#fig-p1-ch02-122). The lignin polymer, which gives trees a remarkable strength-to-weight ratio, is a complex three-dimensional structure built upon multiple benzene rings. The primary building units are coniferyl and sinapyl alcohols from coniferous and deciduous plants respectively.
 
 :::{figure} ../images/fig-p1-ch02-122.jpg
 :name: fig-p1-ch02-122
@@ -2429,7 +2443,7 @@ FIGURE CS2.5F The building block of organic material that led to the formation o
 :::
 
 
-In these warm swamps, the lignin accumulates underwater, slowly compacting into peat. Over millions of years the peat layers of these primeval swamps are transformed to deposits of coal. The motion of tectonic plates buried these deposits and subjected them to high pressures and temperatures for extended periods. This high pressure, high temperature process gradually eliminated the oxygen content via the expulsion of $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ from these deposits. In addition, the aromatic (hydrocarbon ring) structures condensed, resulting in a closely packed structure of hydrocarbon rings with a very high carbon content as displayed in the left-hand panel of Figure CS2.5g. Were this metamorphosis to continue; the final result would be the structure of graphite shown in the right-hand panel of Figure CS2.5g.
+In these warm swamps, the lignin accumulates underwater, slowly compacting into peat. Over millions of years the peat layers of these primeval swamps are transformed to deposits of coal. The motion of tectonic plates buried these deposits and subjected them to high pressures and temperatures for extended periods. This high pressure, high temperature process gradually eliminated the oxygen content via the expulsion of $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ from these deposits. In addition, the aromatic (hydrocarbon ring) structures condensed, resulting in a closely packed structure of hydrocarbon rings with a very high carbon content as displayed in the left-hand panel of [Figure CS2.5G](#fig-p1-ch02-124). Were this metamorphosis to continue; the final result would be the structure of graphite shown in the right-hand panel of [Figure CS2.5G](#fig-p1-ch02-124).
 
 :::{figure} ../images/fig-p1-ch02-123.jpg
 :name: fig-p1-ch02-123
@@ -2447,7 +2461,7 @@ FIGURE CS2.5G The formation of coal results in the molecular structure shown in 
 
 ## Problem 1
 
-Based on the list of average bond dissociation enthalpies in Table CS2.3a, calculate the energy needed for the photosynthesis reaction in terms of kJ per mol of carbon.
+Based on the list of average bond dissociation enthalpies in [Table CS2.3A](#fig-p1-ch02-97), calculate the energy needed for the photosynthesis reaction in terms of kJ per mol of carbon.
 
 ```{math}
 :label: eq-p1-ch02-89

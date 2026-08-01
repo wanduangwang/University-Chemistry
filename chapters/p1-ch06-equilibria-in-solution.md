@@ -44,7 +44,7 @@ The net overall reaction is therefore:
 ```
 
 
-The Gibbs free energy diagram for the overall reaction is displayed in Figure 6.2. As Figure 6.2 displays, the change in Gibbs free energy for the overall reaction is $\Delta G _ { _ { \mathrm { R } } } ^ { \circ } ~ { = } ~  { - } 8 . 2 ~  { ~ \mathrm { k J / m o l } }$ . Because $\Delta G _ { \mathrm { _ R } } ^ { \circ }$ is positive, the equilibrium favors the reactants and only a small fraction of the $\mathrm { C O } _ { 2 } ( \mathrm { g } )$ is converted to $\mathrm { H _ { 2 } C O _ { 3 } ( a q ) }$ . A small but very important fraction as we will see in this chapter.
+The Gibbs free energy diagram for the overall reaction is displayed in [Figure 6.2](#fig-p1-ch06-3). As [Figure 6.2](#fig-p1-ch06-3) displays, the change in Gibbs free energy for the overall reaction is $\Delta G _ { _ { \mathrm { R } } } ^ { \circ } ~ { = } ~  { - } 8 . 2 ~  { ~ \mathrm { k J / m o l } }$ . Because $\Delta G _ { \mathrm { _ R } } ^ { \circ }$ is positive, the equilibrium favors the reactants and only a small fraction of the $\mathrm { C O } _ { 2 } ( \mathrm { g } )$ is converted to $\mathrm { H _ { 2 } C O _ { 3 } ( a q ) }$ . A small but very important fraction as we will see in this chapter.
 
 :::{figure} ../images/fig-p1-ch06-2.jpg
 :name: fig-p1-ch06-2
@@ -72,7 +72,7 @@ FIGURE 6.3 An artist's depiction of the Arctic Coast during the Eocene epoch, ab
 :::
 
 
-But the net reaction of carbonate-silicate weathering, treated in detail in Case Study 6.1, served to draw down the $\mathrm { C O } _ { 2 }$ concentration from approximately 1000 parts per million (ppm) during the late Eocene $( \sim 4 0$ million years ago) to approximately 200-250 ppm about 2.5 million years ago. This removal of $\mathrm { C O } _ { 2 }$ cooled the planet, leading to the series of glacial-interglacial cycles that has dominated the climate for approximately 2 million years. This sequence is shown in Figure $\underline { { 6 . 4 } } ,$ which tracks both the $\mathrm { C O } _ { 2 }$ concentration draw-down resulting from the carbonate-silicate weathering reaction and the decrease in global mean temperature that results.
+But the net reaction of carbonate-silicate weathering, treated in detail in Case Study 6.1, served to draw down the $\mathrm { C O } _ { 2 }$ concentration from approximately 1000 parts per million (ppm) during the late Eocene $( \sim 4 0$ million years ago) to approximately 200-250 ppm about 2.5 million years ago. This removal of $\mathrm { C O } _ { 2 }$ cooled the planet, leading to the series of glacial-interglacial cycles that has dominated the climate for approximately 2 million years. This sequence is shown in [Figure 6.4](#fig-p1-ch06-5) which tracks both the $\mathrm { C O } _ { 2 }$ concentration draw-down resulting from the carbonate-silicate weathering reaction and the decrease in global mean temperature that results.
 
 :::{figure} ../images/fig-p1-ch06-5.jpg
 :name: fig-p1-ch06-5
@@ -88,7 +88,7 @@ FIGURE 6.4 40 million years ago during the Eocene the global average temperature
 
 As $\mathrm { C O } _ { 2 }$ concentrations in the atmosphere dropped to \~200 ppm, the cycling of the climate between glacial and interglacial periods came under the control of Earth's orbital parameters—variations in the tilt of the Earth's rotation axis and variations in the ellipticity of the orbit around the sun.
 
-On the face of it, what happened 40 million years ago may seem distant and removed from what will happen in the next decades. However, if we plot the sequence of events, not as function of time, but rather as a function of $\mathrm { C O } _ { 2 }$ concentration vs. temperature, we find, as displayed in Figure $6 . 5$ , that there are two “legs” that emerge. The first leg begins $4 0$ million years ago and progresses from the warm temperatures of the Eocene when the atmosphere contained \~1000 ppm of $\mathrm { C O } _ { 2 }$ to cooler temperatures as the reaction between carbon dioxide in the atmosphere and the silicate rocks at the surface drew $\mathrm { C O } _ { 2 }$ to lower and lower concentrations. This period of carbonate-silicate control continued until about $e { - 3 }$ million years ago when the $\mathrm { C O } _ { 2 }$ concentration reached about 200 ppm.
+On the face of it, what happened 40 million years ago may seem distant and removed from what will happen in the next decades. However, if we plot the sequence of events, not as function of time, but rather as a function of $\mathrm { C O } _ { 2 }$ concentration vs. temperature, we find, as displayed in [Figure 6.5](#fig-p1-ch06-7) , that there are two “legs” that emerge. The first leg begins $4 0$ million years ago and progresses from the warm temperatures of the Eocene when the atmosphere contained \~1000 ppm of $\mathrm { C O } _ { 2 }$ to cooler temperatures as the reaction between carbon dioxide in the atmosphere and the silicate rocks at the surface drew $\mathrm { C O } _ { 2 }$ to lower and lower concentrations. This period of carbonate-silicate control continued until about $e { - 3 }$ million years ago when the $\mathrm { C O } _ { 2 }$ concentration reached about 200 ppm.
 
 :::{figure} ../images/fig-p1-ch06-7.jpg
 :name: fig-p1-ch06-7
@@ -97,7 +97,7 @@ FIGURE 6.5 If we schematically represent the relationship between $\mathsf { C O
 :::
 
 
-At 200 ppm $\mathrm { C O } _ { 2 } ,$ the Earth's climate is controlled primarily by the details of the Earth's orbit because deglaciation, the melting of glacial systems that marks the end of ice ages, is controlled by the total amount of solar energy received by the northern hemisphere in the summer season, which in turn depends upon the tilt of the Earth's axis (obliquity) with respect to the orbital plane and the eccentricity of the orbit itself. This orbital control of climate is referred to as the “Milankovitch Cycle” after Milutin Milankovitch, a Serbian mathematician-engineer. As described in the sidebar, it is the relationship between obliquity and eccentricity of the Earth's orbit (at low $\mathrm { C O } _ { 2 }$ concentrations), which carries the Earth into and out of glacial periods; that is, between glacial and interglacial periods characterized by significant ice cover followed by conditions of retracted ice, respectfully. With the rapid build-up of $\mathrm { C O } _ { 2 }$ in the atmosphere following the beginning of the industrial revolution in 1750, the climate system is rapidly transitioning, under fossil-fuelcombustion control (the second leg in Figure 6.5), to the situation characterized by high $\mathrm { C O } _ { 2 }$ concentrations and significantly warmer temperatures. What is remarkable is that while it required tens of millions of years for the carbonate-silicate weathering reaction to draw the $\mathrm { C O } _ { 2 }$ concentration down from >1000 ppm to 200 ppm, within this century the $\mathrm { C O } _ { 2 }$ concentration will reach levels of between 700 and 800 ppm if the international community continues to employ fossil fuel combustion to satisfy its primary energy generation needs. When climate feedbacks are included that involve methane release from clathrates, the greenhouse gas concentrations in the Earth's atmosphere could, in this century, reach levels similar to those not seen for tens of millions of years.
+At 200 ppm $\mathrm { C O } _ { 2 } ,$ the Earth's climate is controlled primarily by the details of the Earth's orbit because deglaciation, the melting of glacial systems that marks the end of ice ages, is controlled by the total amount of solar energy received by the northern hemisphere in the summer season, which in turn depends upon the tilt of the Earth's axis (obliquity) with respect to the orbital plane and the eccentricity of the orbit itself. This orbital control of climate is referred to as the “Milankovitch Cycle” after Milutin Milankovitch, a Serbian mathematician-engineer. As described in the sidebar, it is the relationship between obliquity and eccentricity of the Earth's orbit (at low $\mathrm { C O } _ { 2 }$ concentrations), which carries the Earth into and out of glacial periods; that is, between glacial and interglacial periods characterized by significant ice cover followed by conditions of retracted ice, respectfully. With the rapid build-up of $\mathrm { C O } _ { 2 }$ in the atmosphere following the beginning of the industrial revolution in 1750, the climate system is rapidly transitioning, under fossil-fuelcombustion control (the second leg in [Figure 6.5)](#fig-p1-ch06-7), to the situation characterized by high $\mathrm { C O } _ { 2 }$ concentrations and significantly warmer temperatures. What is remarkable is that while it required tens of millions of years for the carbonate-silicate weathering reaction to draw the $\mathrm { C O } _ { 2 }$ concentration down from >1000 ppm to 200 ppm, within this century the $\mathrm { C O } _ { 2 }$ concentration will reach levels of between 700 and 800 ppm if the international community continues to employ fossil fuel combustion to satisfy its primary energy generation needs. When climate feedbacks are included that involve methane release from clathrates, the greenhouse gas concentrations in the Earth's atmosphere could, in this century, reach levels similar to those not seen for tens of millions of years.
 
 What has been the cause of the consistent cycling between glacial periods, characterized by extensive ice coverage of northern hemisphere continental regions, and interglacial periods, characterized by the retraction of large continental glaciers to approximately their current position? The answer involves subtle but important changes in the way the Earth orbits the Sun; specifically changes that repeat in a predictable pattern over tens of thousands of years. In particular, long term variations in the northern hemisphere summer solar intensity and duration are thought to control the degree of glaciation. Three characteristics of the Earth's orbital parameters are involved:
 
@@ -125,7 +125,7 @@ Key points to remember are that (1) continental, northern hemisphere glaciers ar
 
 Milankovitch cycles exert dominant control over whether the Earth is in a glacial or interglacial phase at $\mathrm { C O } _ { 2 }$ concentration below 300 ppm. However, amplification of the infrared trapping by increasing water vapor in the atmosphere in response to elevated levels of $\mathrm { C O } _ { 2 }$ and $\mathrm { C H } _ { 4 }$ exerts dominant control over Earth's climate at $\mathrm { C O } _ { 2 }$ concentration levels above \~350 ppm.
 
-It is illustrative to plot the carbon dioxide, nitrous oxide, and methane concentration since the end of the last ice age (approximately 11,000 years ago) as displayed in Figure 6.6. Also shown in Figure 6.6 is the increase in radiative forcing—the increase in infrared trapping resulting from the increase in those greenhouse gas configurations—resulting from those same three molecules. Also of significant importance is the rate of change of that forcing resulting from the increase in $\mathrm { C O } _ { 2 } , \mathrm { N } _ { 2 } \mathrm { O } ;$ and $\mathrm { C H } _ { 4 }$ since the last ice age. This is displayed in the fourth panel of Figure 6.6.
+It is illustrative to plot the carbon dioxide, nitrous oxide, and methane concentration since the end of the last ice age (approximately 11,000 years ago) as displayed in [Figure 6.6](#fig-p1-ch06-13). Also shown in [Figure 6.6](#fig-p1-ch06-13) is the increase in radiative forcing—the increase in infrared trapping resulting from the increase in those greenhouse gas configurations—resulting from those same three molecules. Also of significant importance is the rate of change of that forcing resulting from the increase in $\mathrm { C O } _ { 2 } , \mathrm { N } _ { 2 } \mathrm { O } ;$ and $\mathrm { C H } _ { 4 }$ since the last ice age. This is displayed in the fourth panel of [Figure 6.6](#fig-p1-ch06-13).
 
 :::{figure} ../images/fig-p1-ch06-10.jpg
 :name: fig-p1-ch06-10
@@ -149,7 +149,7 @@ FIGURE 6.6 The tracking of $\mathsf { C O } _ { 2 } , \mathsf { N } _ { 2 } \mat
 :::
 
 
-Within this context, we can replot the first panel in Figure 6.6 extending the graph to the end of the 21st century, as shown in Figure $6 . 7 .$ when the $\mathrm { C O } _ { 2 }$ concentrations in the atmosphere will nominally reach 600 ppm with a fossil fuel-based economy, perhaps reaching 800 ppm if there is either accelerated use of fossil fuels or release of methane from clathrates. That increase in forcing will carry the Earth back some 25 million years. Under those conditions (1) the ice structures in both the northern hemisphere (Arctic Ice Cap, Tibetan glacial system, Greenland, Alps, etc.) and the southern hemisphere (Antarctic, Andes, etc.) are unsustainable and (2) the current climate state defined by the dynamical structure of the atmosphere and oceans would, with reasonable probability, be fundamentally altered. This altered climate state would be more closely matched to the Eocene of $4 0$ million years ago than to today's climate structure. To review, the climate of the Eocene was characterized by the absence of ice in either hemisphere, sea level 250 feet above present, far warmer and more acidic oceans, and a small temperature difference between the equator and the poles. It is becoming increasingly clear that, in order to return to a stable climate state, we must develop methods to extract currently existing $\mathrm { C O } _ { 2 }$ from the atmosphere. Case Study 6.2 details one approach.
+Within this context, we can replot the first panel in [Figure 6.6](#fig-p1-ch06-13) extending the graph to the end of the 21st century, as shown in [Figure 6.7](#fig-p1-ch06-14) when the $\mathrm { C O } _ { 2 }$ concentrations in the atmosphere will nominally reach 600 ppm with a fossil fuel-based economy, perhaps reaching 800 ppm if there is either accelerated use of fossil fuels or release of methane from clathrates. That increase in forcing will carry the Earth back some 25 million years. Under those conditions (1) the ice structures in both the northern hemisphere (Arctic Ice Cap, Tibetan glacial system, Greenland, Alps, etc.) and the southern hemisphere (Antarctic, Andes, etc.) are unsustainable and (2) the current climate state defined by the dynamical structure of the atmosphere and oceans would, with reasonable probability, be fundamentally altered. This altered climate state would be more closely matched to the Eocene of $4 0$ million years ago than to today's climate structure. To review, the climate of the Eocene was characterized by the absence of ice in either hemisphere, sea level 250 feet above present, far warmer and more acidic oceans, and a small temperature difference between the equator and the poles. It is becoming increasingly clear that, in order to return to a stable climate state, we must develop methods to extract currently existing $\mathrm { C O } _ { 2 }$ from the atmosphere. Case Study 6.2 details one approach.
 
 :::{figure} ../images/fig-p1-ch06-14.jpg
 :name: fig-p1-ch06-14
@@ -167,7 +167,7 @@ FIGURE 6.7 A plot of carbon dioxide mixing ratio in ppm since the last ice age w
 
 However, it must also be recognized that, as we described in the Framework to Chapter 3, the methane and carbon dioxide sequestered in the clathrates and permafrost of the high latitude continental regions would, with high probability, be released as the melting of glacial and permafrost continued. This would, in turn, drive both the methane and carbon dioxide concentration to levels unprecedented for $4 0$ million years. It is a fundamental challenge for the physical sciences to decipher just how we would retrace our steps within the next decade or decades to the Eocene $4 0$ million years ago if the world's primary energy generation remains dependent on fossil fuel combustion.
 
-This brings us back to the chemistry of $\mathrm { C O } _ { 2 }$ and water—specifically the fate of carbonic acid, $\mathrm { H _ { 2 } C O _ { 3 } ( a q ) }$ , and the acid-base chemistry that proves to be so critical to life systems past, present, and future. Figure $6 . 2$ displays the Gibbs free energy surface for the dissolution of atmospheric carbon dioxide in water. The dissolved $\mathrm { C O } _ { 2 }$ then reacts with water to form carbonic acid, $\mathrm { H } _ { 2 } \mathrm { C O } _ { 3 } ( \mathrm { a q } )$ . What happens next is the reaction between $\mathrm { H } _ { 2 } \mathrm { C O } _ { 3 } ( \mathrm { a q } )$ and water, forming the hydronium ion, $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ , and the bicarbonate anion:
+This brings us back to the chemistry of $\mathrm { C O } _ { 2 }$ and water—specifically the fate of carbonic acid, $\mathrm { H _ { 2 } C O _ { 3 } ( a q ) }$ , and the acid-base chemistry that proves to be so critical to life systems past, present, and future. [Figure 6.2](#fig-p1-ch06-3) displays the Gibbs free energy surface for the dissolution of atmospheric carbon dioxide in water. The dissolved $\mathrm { C O } _ { 2 }$ then reacts with water to form carbonic acid, $\mathrm { H } _ { 2 } \mathrm { C O } _ { 3 } ( \mathrm { a q } )$ . What happens next is the reaction between $\mathrm { H } _ { 2 } \mathrm { C O } _ { 3 } ( \mathrm { a q } )$ and water, forming the hydronium ion, $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ , and the bicarbonate anion:
 
 ```{math}
 :label: eq-p1-ch06-4
@@ -175,7 +175,7 @@ This brings us back to the chemistry of $\mathrm { C O } _ { 2 }$ and water—sp
 ```
 
 
-This reaction, which is responsible for the acidic character of $\mathrm { { H _ { 2 } C O _ { 3 } } }$ by virtue of the formation of the hydronium ion, $\mathrm { H _ { 3 } O ^ { + } }$ , has a change in Gibbs free energy of $\Delta G _ { \mathrm { R } } = \Delta H _ { \mathrm { R } } - T \Delta S _ { \mathrm { R } } = 3 6 . 3$ kJ/mole at 298 K. The Gibbs free energy surface for this reaction is displayed in Figure 6.8.
+This reaction, which is responsible for the acidic character of $\mathrm { { H _ { 2 } C O _ { 3 } } }$ by virtue of the formation of the hydronium ion, $\mathrm { H _ { 3 } O ^ { + } }$ , has a change in Gibbs free energy of $\Delta G _ { \mathrm { R } } = \Delta H _ { \mathrm { R } } - T \Delta S _ { \mathrm { R } } = 3 6 . 3$ kJ/mole at 298 K. The Gibbs free energy surface for this reaction is displayed in [Figure 6.8](#fig-p1-ch06-16).
 
 :::{figure} ../images/fig-p1-ch06-16.jpg
 :name: fig-p1-ch06-16
@@ -228,7 +228,7 @@ We turn now to the development of the central concepts of acid-base chemistry by
 
 ## Introduction
 
-We move our discussion of equilibria to the solution or liquid phase, with a concentration on water as the primary solvent. Nature provides remarkable themes that are laced through many interconnected plots guiding the progression of spontaneous processes that dictate the course of events. These include the inexorable drive toward increasing entropy, the release of free energy in any spontaneous process, the quantum nature of atomic and molecular structure, and the distinction between thermodynamics and kinetics. But the role of proton transfer—the transfer of a hydrogen ion, $\mathrm { H ^ { + } }$ from one species to another, often involving water as a solvent—is a theme of broad importance. This is clearly the case for processes central to the cells that sustain life in all known organisms. It is also critical, as we will see, to sustaining living systems in the world's oceans as increasing amounts of $\mathrm { C O } _ { 2 } ,$ released by fossil fuel combustion, enter the oceans. The proton, as we will see, organizes the molecular level structure of liquid water, controls life's biochemical pathways, is held in delicate control in the blood of all organisms, constructs and deconstructs polymers, and aids in the synthesis of exquisite calcium containing structures at the intersection of organic and inorganic architectures in living systems as displayed in Figure 6.1.
+We move our discussion of equilibria to the solution or liquid phase, with a concentration on water as the primary solvent. Nature provides remarkable themes that are laced through many interconnected plots guiding the progression of spontaneous processes that dictate the course of events. These include the inexorable drive toward increasing entropy, the release of free energy in any spontaneous process, the quantum nature of atomic and molecular structure, and the distinction between thermodynamics and kinetics. But the role of proton transfer—the transfer of a hydrogen ion, $\mathrm { H ^ { + } }$ from one species to another, often involving water as a solvent—is a theme of broad importance. This is clearly the case for processes central to the cells that sustain life in all known organisms. It is also critical, as we will see, to sustaining living systems in the world's oceans as increasing amounts of $\mathrm { C O } _ { 2 } ,$ released by fossil fuel combustion, enter the oceans. The proton, as we will see, organizes the molecular level structure of liquid water, controls life's biochemical pathways, is held in delicate control in the blood of all organisms, constructs and deconstructs polymers, and aids in the synthesis of exquisite calcium containing structures at the intersection of organic and inorganic architectures in living systems as displayed in [Figure 6.1](#fig-p1-ch06-2).
 
 ## The Bonding Structure of Water
 
@@ -239,7 +239,7 @@ An investigation of chemical and physical processes that take place in water req
 :alt: Figure from the University Chemistry source textbook
 :::
 
-In an aqueous solution, the chemical species added to the mixture is surrounded by water molecules—but those water molecules have a large permanent dipole moment created by the large electronegative character of oxygen relative to that of hydrogen. However, even in pure water, the structure is a dynamic, ever changing combination of monomers, dimers, trimers, etc., because of the hydrogen bonding that constantly attempts to organize the structure of water by constraining the kinetic motion (translation, rotation, vibration) of the individual water molecules. The addition of a proton, H<sup>+</sup>, leads to a rearrangement in the structure of water around the proton because the net positive charge of the protons attracts the electronegative (oxygen) end of the surrounding water molecule, as shown in Figure 6.9.
+In an aqueous solution, the chemical species added to the mixture is surrounded by water molecules—but those water molecules have a large permanent dipole moment created by the large electronegative character of oxygen relative to that of hydrogen. However, even in pure water, the structure is a dynamic, ever changing combination of monomers, dimers, trimers, etc., because of the hydrogen bonding that constantly attempts to organize the structure of water by constraining the kinetic motion (translation, rotation, vibration) of the individual water molecules. The addition of a proton, H<sup>+</sup>, leads to a rearrangement in the structure of water around the proton because the net positive charge of the protons attracts the electronegative (oxygen) end of the surrounding water molecule, as shown in [Figure 6.9](#fig-p1-ch06-29).
 
 :::{figure} ../images/fig-p1-ch06-29.jpg
 :name: fig-p1-ch06-29
@@ -376,7 +376,7 @@ will be designated $K _ { \mathrm { w } } = \mathrm { [ H _ { 3 } O ^ { + } ] } 
 
 ## Theory of Acid-Base Reactions
 
-The foundations of acid-base chemistry emerged from the work of Svante Arrhenius (1859-1927), Figure 6.10, who approached the subject from the perspective of the conduction of electricity in salt solutions. Arrhenius’ studies revealed the nature of ions that resulted from the dissociation of salt into cations (positively charged ions) and anions (negatively charged ions). This foundation of the ionic character of various salts in solution initiated a series of theories regarding acid-base chemistry, summarized in Figure 6.11.
+The foundations of acid-base chemistry emerged from the work of Svante Arrhenius (1859-1927), [Figure 6.10](#fig-p1-ch06-32), who approached the subject from the perspective of the conduction of electricity in salt solutions. Arrhenius’ studies revealed the nature of ions that resulted from the dissociation of salt into cations (positively charged ions) and anions (negatively charged ions). This foundation of the ionic character of various salts in solution initiated a series of theories regarding acid-base chemistry, summarized in [Figure 6.11](#fig-p1-ch06-33).
 
 :::{figure} ../images/fig-p1-ch06-32.jpg
 :name: fig-p1-ch06-32
@@ -392,7 +392,7 @@ FIGURE 6.11 The theory of acid-base reactions evolved in steps. The original con
 :::
 
 
-According to Arrhenius, as summarized in Figure 6.12, all acids release $\mathrm { H ^ { + } }$ ions in water. For example, when HCl is added to water, HCl dissociates into $\mathrm { H ^ { + } }$ and $\mathrm { C l ^ { - } }$ , and the $\mathrm { H ^ { + } }$ combines with the solvent to form $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ . As we have already seen, $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ is really a shorthand representation of a structure that involves a number of $\mathrm { H } _ { 2 } \mathrm { O }$ molecules organized in a cage around the $\mathrm { H ^ { + } }$ core. Arrhenius identified all bases as those compounds that release hydroxide ions, $\mathrm { O H ^ { - } }$ , into water. An example is the addition of ammonia, $\mathrm { N H } _ { 3 } ,$ to water. $\mathrm { N H } _ { 3 }$ reacts with water, extracting a proton to form the ammonium cation, $\mathrm { N H _ { 4 } } ^ { + }$ , leaving OH<sup>-</sup> in solution.
+According to Arrhenius, as summarized in [Figure 6.12](#original-fig-6-12), all acids release $\mathrm { H ^ { + } }$ ions in water. For example, when HCl is added to water, HCl dissociates into $\mathrm { H ^ { + } }$ and $\mathrm { C l ^ { - } }$ , and the $\mathrm { H ^ { + } }$ combines with the solvent to form $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ . As we have already seen, $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ is really a shorthand representation of a structure that involves a number of $\mathrm { H } _ { 2 } \mathrm { O }$ molecules organized in a cage around the $\mathrm { H ^ { + } }$ core. Arrhenius identified all bases as those compounds that release hydroxide ions, $\mathrm { O H ^ { - } }$ , into water. An example is the addition of ammonia, $\mathrm { N H } _ { 3 } ,$ to water. $\mathrm { N H } _ { 3 }$ reacts with water, extracting a proton to form the ammonium cation, $\mathrm { N H _ { 4 } } ^ { + }$ , leaving OH<sup>-</sup> in solution.
 
 ```{math}
 :label: eq-p1-ch06-17
@@ -457,6 +457,7 @@ And all bases release hydroxide ions, OH in water:
 
 lonization of ammonia in water. Collisions between $N { \mathsf { H } } _ { 3 }$ molecules and water molecules lead to a transfer of H+ from ${ \mathsf { H } } _ { 2 } { \mathsf { O } }$ to ${ \mathsf { N H } } _ { 3 ^ { \prime } }$ giving $\mathsf { N H } _ { 4 } ^ { + }$ and OH- ions.
 
+(original-fig-6-12)=
 FIGURE 6.12 When an acid is placed into water, the water molecule successfully extracts a proton, $\mathsf { H } ^ { + } ,$ from the structure of the acid leaving a negative ion (anion) and ${ \sf H } _ { 3 } { \sf O } ^ { + }$ formed by the attachment of the proton, $\mathsf { H } ^ { + } ,$ , to the oxygen end of the water molecule. “Strong” acids are those for which virtually every H<sup>+</sup> is released into water solution from the acid, as shown for HCl. Bases extract an $\mathsf { H } ^ { + }$ from water leaving an OH<sup>-</sup> behind in solution.
 
 Representing the autoionization of water in terms of the lone electron pairs in water, hydronium, and hydroxide is illustrative and important to keep in mind. The bonding structure of water (we will treat this in more detail in Chapters 10 and 11) is such that there are two lone pairs with the two H atoms occupying positions separated by 104.5°:
@@ -475,7 +476,7 @@ When the autoionization reaction takes place and hydronium, $\mathrm { H } _ { 3
 
 $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ thus has a single lone pair; OH<sup>-</sup> has three lone pairs of electrons.
 
-The Brønsted-Lowry theory of acids and bases, introduced in Figure 6.11, generalized the conceptual framework laid down by Arrhenius to consider acid-base reactions as a symmetric reaction of a proton acceptor in water and a proton donor in water. Figure 6.13 tracks the proton exchange when an acid is added to water.
+The Brønsted-Lowry theory of acids and bases, introduced in [Figure 6.11](#fig-p1-ch06-33), generalized the conceptual framework laid down by Arrhenius to consider acid-base reactions as a symmetric reaction of a proton acceptor in water and a proton donor in water. [Figure 6.13](#fig-p1-ch06-44) tracks the proton exchange when an acid is added to water.
 
 Consider the reaction of a proton donor in water:
 
@@ -526,7 +527,7 @@ producers (Arrhenius bases), when dissolved in water. The common structural feat
 ```
 
 
-If we consider the reaction of a proton acceptor in water, the tracking of the proton exchange is shown in Figure $_ { 6 . 1 4 }$ . What links acid-base chemistry inextricably in aqueous solution is that $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ has a particularly favored reaction partner—specifically the hydroxide ion, OH<sup>-</sup>. The two species, $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ and OH<sup>-</sup>, react on virtually every encounter in solution, interlocking the two species, through the reaction
+If we consider the reaction of a proton acceptor in water, the tracking of the proton exchange is shown in [Figure 6.14](#fig-p1-ch06-45) . What links acid-base chemistry inextricably in aqueous solution is that $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ has a particularly favored reaction partner—specifically the hydroxide ion, OH<sup>-</sup>. The two species, $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ and OH<sup>-</sup>, react on virtually every encounter in solution, interlocking the two species, through the reaction
 
 ```{math}
 :label: eq-p1-ch06-20
@@ -644,7 +645,7 @@ We can immediately identify the acid-conjugate base pair and the baseconjugate a
 
 The equilibrium represents the relative proportion amongst the acid, [HA], its conjugate base, [A<sup>-</sup>], the base, $\mathrm { [ H _ { 2 } O ] }$ , that acts as a proton acceptor, and finally the conjugate acid $\mathrm { [ H _ { 3 } O ^ { + } ] }$ . As we know from Chapter 5, the equilibrium is quantitatively governed by $K _ { \mathrm { a } } ,$ which we refer to as the acid dissociation constant or acid ionization constant. If $K _ { \mathrm { a } }$ is large, the reaction comes to equilibrium far to the right, such that products $\mathrm { A } ^ { - }$ and $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ dominate. This means that a large fraction of the HA has dissociated so that HA is largely ionized in solution, which earns it the designation “strong acid.” Notice that there is a potential confusion here because a strong acid has a weak bond between the anion A<sup>-</sup> and the proton $\mathrm { H ^ { + } }$ resulting in the successful extraction of $\mathrm { H ^ { + } }$ from $\mathrm { A } ^ { - }$ by the electronegative (oxygen) end of the water solvent.
 
-Conversely, a small $K _ { \mathrm { a } }$ indicates a small fraction of the HA acid dissociating to form $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ . This is the case for a weak acid. A schematic representation for this is shown in Figure 6.15.
+Conversely, a small $K _ { \mathrm { a } }$ indicates a small fraction of the HA acid dissociating to form $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ . This is the case for a weak acid. A schematic representation for this is shown in [Figure 6.15](#fig-p1-ch06-47).
 
 :::{figure} ../images/fig-p1-ch06-47.jpg
 :name: fig-p1-ch06-47
@@ -663,7 +664,7 @@ For weak acids $( K _ { \mathrm { a } } < < 1 )$ , the equilibrium calculation i
 ```
 
 
-occupies, with its companion reagent $\mathrm { H } _ { 2 } \mathrm { O } ( \mathrm { l } )$ , a position of high free energy relative to the products $\mathrm { A ^ { - } ( a q ) + H _ { 3 } O ^ { + } ( a q ) }$ . We can sketch the free energy surface, as shown in Figure 6.16.
+occupies, with its companion reagent $\mathrm { H } _ { 2 } \mathrm { O } ( \mathrm { l } )$ , a position of high free energy relative to the products $\mathrm { A ^ { - } ( a q ) + H _ { 3 } O ^ { + } ( a q ) }$ . We can sketch the free energy surface, as shown in [Figure 6.16](#fig-p1-ch06-48).
 
 :::{figure} ../images/fig-p1-ch06-48.jpg
 :name: fig-p1-ch06-48
@@ -672,7 +673,7 @@ FIGURE 6.16 The Gibbs free energy diagram defines the equilibrium point between 
 :::
 
 
-The decrease in free energy drives the reaction (shown in the molecular level diagram in Figure $\underline { { 6 . 1 7 } } )$ “downhill” to the right with respect to the reactants $\mathrm { H A } + \mathrm { H } _ { 2 } \mathrm { O }$ , with the reaction quotient
+The decrease in free energy drives the reaction (shown in the molecular level diagram in [Figure 6.17](#fig-p1-ch06-50) “downhill” to the right with respect to the reactants $\mathrm { H A } + \mathrm { H } _ { 2 } \mathrm { O }$ , with the reaction quotient
 
 ```{math}
 :label: eq-p1-ch06-33
@@ -694,7 +695,7 @@ FIGURE 6.17 Acetic acid is a prototypical weak acid. It has a $K _ { \mathfrak {
 :::
 
 
-Strong acids are converted to weak conjugate bases and strong bases are converted to weak conjugate acids. In the former case (strong acid → weak conjugate base), this is clearly because in the water solvent, the polar character of water, with the highly electronegative (oxygen) end of $_ \mathrm { H _ { 2 } O }$ successfully strips the proton from HA. But this means that $\mathrm { A } ^ { - }$ is incapable of “winning back” the proton; thus, A<sup>-</sup> is a weak base. But, as an inspection of Figure 6.16 reveals, any conjugate species that is referred to as “weak” means, in the language of thermodynamics, that it results in a low free energy relative to its parent species.
+Strong acids are converted to weak conjugate bases and strong bases are converted to weak conjugate acids. In the former case (strong acid → weak conjugate base), this is clearly because in the water solvent, the polar character of water, with the highly electronegative (oxygen) end of $_ \mathrm { H _ { 2 } O }$ successfully strips the proton from HA. But this means that $\mathrm { A } ^ { - }$ is incapable of “winning back” the proton; thus, A<sup>-</sup> is a weak base. But, as an inspection of [Figure 6.16](#fig-p1-ch06-48) reveals, any conjugate species that is referred to as “weak” means, in the language of thermodynamics, that it results in a low free energy relative to its parent species.
 
 Now we are in a position to quantitatively link $K _ { \mathrm { a } }$ and $\Delta G ^ { \mathbf { o } }$ via the equation
 
@@ -763,7 +764,7 @@ invariant under any condition imposed by the addition of an acid or a base to th
 
 which is, as we noted above, referred to as the autoionization constant for water, $K _ { \mathrm { w } }$ . Thus the details of how a particular combination of acids or bases is added to a solution is irrelevant to the calculation of the $\mathrm { [ H _ { 3 } O ^ { + } ] }$ [OH<sup>-</sup>] product: $K _ { \mathrm { w } }$ rules, and it is always $1 \times 1 0 ^ { - 1 4 }$ at $2 5 ^ { \circ } \mathrm { C }$
 
-We diagram this condition in Figure 6.18 to emphasize the point:
+We diagram this condition in [Figure 6.18](#fig-p1-ch06-52) to emphasize the point:
 
 A base, dissolved in water, extracts a proton from water, generating a hydroxide ion, OH<sup>-</sup>; a strong base is so named because it has a more pronounced tendency to accept (steal!) $\mathrm { H ^ { + } }$ from water to form $\mathrm { B H ^ { + } }$ thereby splitting $\mathrm { H } _ { 2 } \mathrm { O }$ into OH<sup>-</sup> and $\mathrm { B H ^ { + } }$
 
@@ -818,7 +819,7 @@ K _ {\mathrm{a}} = K _ {\mathrm{w}} / K _ {\mathrm{b}} \qquad \mathrm{and} \qqua
 ```
 
 
-means that a strong acid (large $K _ { \mathrm { a } } )$ is paired with a weak conjugate base (small $K _ { \mathrm { b } } )$ . In the same vein, a strong base (large $K _ { \mathrm { b } } )$ is paired with a weak conjugate acid (small $K _ { \mathrm { a } } )$ . It is the intrinsic symmetry of proton donation and proton acceptance that simplifies the way we deal with the potentially complex nature of acid-base processes. We have already explored this symmetry when we identified the acid-conjugate base and base-conjugate acid pairs in Figure 6.17.
+means that a strong acid (large $K _ { \mathrm { a } } )$ is paired with a weak conjugate base (small $K _ { \mathrm { b } } )$ . In the same vein, a strong base (large $K _ { \mathrm { b } } )$ is paired with a weak conjugate acid (small $K _ { \mathrm { a } } )$ . It is the intrinsic symmetry of proton donation and proton acceptance that simplifies the way we deal with the potentially complex nature of acid-base processes. We have already explored this symmetry when we identified the acid-conjugate base and base-conjugate acid pairs in [Figure 6.17](#fig-p1-ch06-50).
 
 ## Check Yourself 2—Relating $[ \mathsf { H } _ { 3 } \mathsf { O } ^ { + } ]$ , [OH<sup>-</sup>], pH, and pOH
 
@@ -1097,7 +1098,7 @@ We thus have 0.1 M $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ and the $\mathr
 
 ## Strong Base Reacting with a Weak Acid
 
-The behavior that distinguishes this combination (strong base to weak acid) from the strong base-strong acid combination is that we must recognize that the weak acid component requires an analysis of the equilibrium behavior of the weak acid with its conjugate base as depicted in Figure 6.19. Let's consider the weak acid, acetic acid
+The behavior that distinguishes this combination (strong base to weak acid) from the strong base-strong acid combination is that we must recognize that the weak acid component requires an analysis of the equilibrium behavior of the weak acid with its conjugate base as depicted in [Figure 6.19](#fig-p1-ch06-60). Let's consider the weak acid, acetic acid
 
 ```{math}
 :label: eq-p1-ch06-66
@@ -1166,7 +1167,7 @@ But this is a remarkable result. It says that, even with a weak acid, and thus a
 ```
 
 
-down the free energy slope to completion. Again we refer to the hand-to-hand combat going on at the molecular level in Figure 6.19.
+down the free energy slope to completion. Again we refer to the hand-to-hand combat going on at the molecular level in [Figure 6.19](#fig-p1-ch06-60).
 
 Each $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ consumed by an OH<sup>-</sup> to form water is replaced by the dissociation of another $\mathrm { C H _ { 3 } C O O H }$ molecule until all that remains is the excess OH<sup>-</sup>, each of the $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ (and thus $\mathrm { C H _ { 3 } C O O H ) }$ being eliminated to form $_ \mathrm { H _ { 2 } O }$ . After each $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ released by $\mathrm { C H _ { 3 } C O O H }$ dissociation has been annihilated by the excess OH<sup>-</sup> available from the strong base, the net result is to remove all available acetic acid, leaving one OH<sup>-</sup> removed for each original $\mathrm { C H _ { 3 } C O O H }$ in the solution.
 
@@ -1414,7 +1415,7 @@ FIGURE 6.21 When a base is added to a buffer solution, the base reacts with the 
 :::
 
 
-In this case, the invading OH<sup>−</sup> reacts with the weak acid $\mathrm { C H _ { 3 } C O O H + O H ^ { - }  }$ $\mathrm { C H _ { 3 } C O O ^ { - } + H _ { 2 } O }$ , removing the hydroxide ion and augmenting the conjugate base. This is described schematically in Figure 6.21. The key point to notice is that the acid (HA) does not react with its conjugate base (A<sup>−</sup>) and thus they can coexist in solution.
+In this case, the invading OH<sup>−</sup> reacts with the weak acid $\mathrm { C H _ { 3 } C O O H + O H ^ { - }  }$ $\mathrm { C H _ { 3 } C O O ^ { - } + H _ { 2 } O }$ , removing the hydroxide ion and augmenting the conjugate base. This is described schematically in [Figure 6.21](#fig-p1-ch06-62). The key point to notice is that the acid (HA) does not react with its conjugate base (A<sup>−</sup>) and thus they can coexist in solution.
 
 ## Buffer Solutions
 
@@ -1606,8 +1607,9 @@ Consider first the addition of the 0.006 mol HCl to our buffer solution. The fir
 ```
 
 
-No equilibrium is involved; the reaction goes to completion. We can tabulate this, as shown in Table 6.1, including recalculating the molar concentrations in moles/liter. Notice that Table 6.1 is not a RICE table; there is no equilibrium involved.
+No equilibrium is involved; the reaction goes to completion. We can tabulate this, as shown in [Table 6.1](#original-table-6-1), including recalculating the molar concentrations in moles/liter. Notice that [Table 6.1](#original-table-6-1) is not a RICE table; there is no equilibrium involved.
 
+(original-table-6-1)=
 TABLE 6.1
 
 <table><tr><td></td><td> $C_{2}H_{3}O_{2}^{-}$ </td><td>+</td><td> $H_{3}O^{+}$ </td><td>→</td><td> $HC_{2}H_{3}O_{2}$ </td><td>+</td><td> $H_{2}O$ </td></tr><tr><td>Original buffer:</td><td>0.300 L × 0.560 M0.168 mol</td><td></td><td></td><td></td><td>0.300 L × 0.250 M0.075 mol</td><td></td><td></td></tr><tr><td>Add:</td><td></td><td></td><td>0.0060 mol</td><td></td><td></td><td></td><td></td></tr><tr><td>Changes:</td><td>-0.0060 mol</td><td></td><td>-0.0060 mol</td><td></td><td>+0.0060 mol</td><td></td><td></td></tr><tr><td>Final buffer amounts:</td><td>0.162 mol</td><td></td><td>(?)</td><td></td><td>0.0810 mol</td><td></td><td></td></tr><tr><td>Concentrations:</td><td>0.162 mol/0.300 L0.540 M</td><td></td><td>(?)</td><td></td><td>0.0810 mol/0.300 L0.270 M</td><td></td><td></td></tr></table>
@@ -1634,8 +1636,9 @@ Calculation of the pH change for the addition of 0.006 moles of the strong base 
 
 ## (1) Base Stoichiometric Calculation
 
-In neutralizing the added OH<sup>-</sup>, 0.0060 mol $\mathrm { H C _ { 2 } H _ { 3 } O _ { 2 } }$ is converted to 0.0060 mol $\mathrm { C _ { 2 } H _ { 3 } O _ { 2 } ^ { - } }$ . The calculation of the new stoichiometric concentrations is shown on the last line of Table 6.2.
+In neutralizing the added OH<sup>-</sup>, 0.0060 mol $\mathrm { H C _ { 2 } H _ { 3 } O _ { 2 } }$ is converted to 0.0060 mol $\mathrm { C _ { 2 } H _ { 3 } O _ { 2 } ^ { - } }$ . The calculation of the new stoichiometric concentrations is shown on the last line of [Table 6.2](#original-table-6-2).
 
+(original-table-6-2)=
 TABLE 6.2
 
 <table><tr><td></td><td> $HC_2H_3O_2$ </td><td>+</td><td> $OH^-$ </td><td>→</td><td> $C_2H_3O_2^-$ </td><td>+</td><td> $H_2O$ </td></tr><tr><td>Original buffer:</td><td>0.300 L × 0.250 M0.075 mol</td><td></td><td></td><td></td><td>0.300 L × 0.560 M0.168 mol</td><td></td><td></td></tr><tr><td>Add:</td><td></td><td></td><td>0.0060 mol</td><td></td><td></td><td></td><td></td></tr><tr><td>Changes:</td><td>-0.0060 mol</td><td></td><td>-0.0060 mol</td><td></td><td>+0.0060 mol</td><td></td><td></td></tr><tr><td>Final buffer amounts:</td><td>0.0690 mol</td><td></td><td>(?)</td><td></td><td>0.174 mol</td><td></td><td></td></tr><tr><td>Concentrations:</td><td>0.0690 mol/0.300 L0.230 M</td><td></td><td>(?)</td><td></td><td>0.174 mol/0.300 L0.580 M</td><td></td><td></td></tr></table>
@@ -1656,7 +1659,7 @@ The addition of 0.0060 mol OH<sup>-</sup> raises the pH from 5.09 to 5.14—anot
 
 While the very word conjures up visions of pipettes and beakers, the concept of titration helps to tie together the pH “landscape” shaped by shifting equilibria created by the interplay of $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ , OH<sup>-</sup>, weak acids, strong acids, weak bases, and strong bases. What is important for a useful (a.k.a. lasting) understanding of acid-base interplay is to develop an intuition for how acidbase reactions control these pH landscapes. The basic execution of a titration involves the sequential addition of small incremental amounts of an acid to a basic solution, or incremental amounts of a base to an acidic solution. Typically, the pH of the solution is not known, but the pH of the incrementally added solution is—resulting in a determination of the pH of the unknown solution. The “titration curve” is simply a plot of pH on the vertical axis—determined by a pH meter or by pH indicators—against volume of the acid or base added to the mixture on the horizontal axis.
 
-First, we consider the titration of a strong acid with a strong base, and in the process establish the basic form of the titration curve shown in Figure 6.22. We know a great deal from our discussion of neutralization about what will happen in this case. The solution starts out with a pH determined simply by the molar concentration of the strong acid in solution because dissociation is complete. For example, suppose we begin with a 100 mL solution of HCl that is 0.1 M in acid concentration. To this mix we add, in small increments, 0.1 M NaOH and sequentially map out the pH as a function of the volume of NaOH added.
+First, we consider the titration of a strong acid with a strong base, and in the process establish the basic form of the titration curve shown in [Figure 6.22](#fig-p1-ch06-63). We know a great deal from our discussion of neutralization about what will happen in this case. The solution starts out with a pH determined simply by the molar concentration of the strong acid in solution because dissociation is complete. For example, suppose we begin with a 100 mL solution of HCl that is 0.1 M in acid concentration. To this mix we add, in small increments, 0.1 M NaOH and sequentially map out the pH as a function of the volume of NaOH added.
 
 :::{figure} ../images/fig-p1-ch06-63.jpg
 :name: fig-p1-ch06-63
@@ -1683,12 +1686,12 @@ OH<sup>-</sup> in excess. At the point where the added $[ \mathrm { O H ^ { - } 
 ```
 
 
-As a result, at the equivalence point, $\mathrm { \ p H = - l o g \left[ H _ { 3 } O ^ { + } \right] = 7 } ;$ , just as it is for pure water. The OH<sup>-</sup> and $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ have sought each other out and annihilated each other in the neutralization reaction. The neutralization is driven by the large, negative free energy in the formation of water from $\mathrm { H _ { 3 } O ^ { + } + O H ^ { - } }$ . There is no buffering, no hydrolysis, and no partial dissociation. If we had begun with the KOH 0.1 M solution and proceeded to incrementally add acid instead, as shown in Figure 6.23, the titration curve, which by convention always proceeds from left to right, would have taken the form of Figure 6.23.
+As a result, at the equivalence point, $\mathrm { \ p H = - l o g \left[ H _ { 3 } O ^ { + } \right] = 7 } ;$ , just as it is for pure water. The OH<sup>-</sup> and $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ have sought each other out and annihilated each other in the neutralization reaction. The neutralization is driven by the large, negative free energy in the formation of water from $\mathrm { H _ { 3 } O ^ { + } + O H ^ { - } }$ . There is no buffering, no hydrolysis, and no partial dissociation. If we had begun with the KOH 0.1 M solution and proceeded to incrementally add acid instead, as shown in [Figure 6.23](#fig-p1-ch06-64), the titration curve, which by convention always proceeds from left to right, would have taken the form of [Figure 6.23](#fig-p1-ch06-64).
 
 :::{figure} ../images/fig-p1-ch06-64.jpg
 :name: fig-p1-ch06-64
 :alt: FIGURE 6.23 If we begin with a strong base and add a strong acid, the titration curve follows a path the reverse of that in Figure 6.22.
-FIGURE 6.23 If we begin with a strong base and add a strong acid, the titration curve follows a path the reverse of that in Figure 6.22.
+FIGURE 6.23 If we begin with a strong base and add a strong acid, the titration curve follows a path the reverse of that in [Figure 6.22](#fig-p1-ch06-63).
 :::
 
 
@@ -1696,7 +1699,7 @@ FIGURE 6.23 If we begin with a strong base and add a strong acid, the titration 
 
 Suppose, now, that we examine the titration curve of a weak acid by a strong base. Adopting our canonical acetic acid case, suppose we begin with a 0.1 M solution—we already know the pH of that solution from our previous examples—it is pH = 2.88.
 
-This establishes the initial point, (a), on our pH versus volume-of-baseadded titration diagram, as shown in Figure 6.24. Now we proceed with the titration, moving incrementally from left to right on the titration plot. Now the “counting” begins, with each OH<sup>-</sup> introduced seeking an acetic acid molecule and neutralizing it
+This establishes the initial point, (a), on our pH versus volume-of-baseadded titration diagram, as shown in [Figure 6.24](#fig-p1-ch06-65). Now we proceed with the titration, moving incrementally from left to right on the titration plot. Now the “counting” begins, with each OH<sup>-</sup> introduced seeking an acetic acid molecule and neutralizing it
 
 ```{math}
 :label: eq-p1-ch06-122
@@ -1735,9 +1738,9 @@ and
 ```
 
 
-at this point, we have reached the center of the “buffer region” of the titration curve, displayed by the vertical dotted line in Figure 6.24, point (b).
+at this point, we have reached the center of the “buffer region” of the titration curve, displayed by the vertical dotted line in [Figure 6.24](#fig-p1-ch06-65), point (b).
 
-As we move incrementally to the right as additional (strong) base is added, the next transition occurs as the point is reached where the added OH<sup>−</sup> equals the amount of CH COOH originally in solution before we began the titration. This point is the “equivalence point,” point (c) in Figure ${ 6 . 2 4 } ,$ and at that point extremely small increments of added base create very large changes in pH as Figure 6.24 demonstrates. At the equivalence point all the $\mathrm { C H _ { 3 } C O O H }$ has been converted to $\mathrm { C H _ { 3 } C O O ^ { - } }$ and any additional OH<sup>-</sup> will result in hydrolysis, a strong base in water:
+As we move incrementally to the right as additional (strong) base is added, the next transition occurs as the point is reached where the added OH<sup>−</sup> equals the amount of CH COOH originally in solution before we began the titration. This point is the “equivalence point,” point (c) in [Figure 6.24](#fig-p1-ch06-65) and at that point extremely small increments of added base create very large changes in pH as [Figure 6.24](#fig-p1-ch06-65) demonstrates. At the equivalence point all the $\mathrm { C H _ { 3 } C O O H }$ has been converted to $\mathrm { C H _ { 3 } C O O ^ { - } }$ and any additional OH<sup>-</sup> will result in hydrolysis, a strong base in water:
 
 ```{math}
 :label: eq-p1-ch06-126
@@ -1777,7 +1780,7 @@ Then
 
 Because $\mathrm { [ O H ^ { - } ] [ H _ { 3 } O ^ { + } ] } = 1 0 ^ { - 1 4 }$ , we know $\mathrm { { [ H _ { 3 } O ^ { + } ] = 1 . 3 3 \times 1 0 ^ { - 9 } } }$ . Therefore, pH $= 8 . 9$
 
-So, marching through the titration curve, we begin with pure acid (all $\mathrm { C H _ { 3 } C O O H ) }$ ; develop the buffer solution with the addition of the strong base until we reach the middle of the buffer zone, where $\mathrm { [ C H _ { 3 } C O O ^ { - } ] } \ =$ $\mathrm { \Delta ^ { 1 / 2 } [ C H _ { 3 } C O O H ] _ { i n i t i a l } ; }$ and then reach the equivalence point, where the original weak acid, $\mathrm { C H _ { 3 } C O O H }$ , has been converted to the conjugate base, $\mathrm { C H _ { 3 } C O O ^ { - } }$ 2 at which point each additional OH<sup>-</sup> added corresponds to the simple addition of a strong base to water. This sequence is sketched in Figure 6.25.
+So, marching through the titration curve, we begin with pure acid (all $\mathrm { C H _ { 3 } C O O H ) }$ ; develop the buffer solution with the addition of the strong base until we reach the middle of the buffer zone, where $\mathrm { [ C H _ { 3 } C O O ^ { - } ] } \ =$ $\mathrm { \Delta ^ { 1 / 2 } [ C H _ { 3 } C O O H ] _ { i n i t i a l } ; }$ and then reach the equivalence point, where the original weak acid, $\mathrm { C H _ { 3 } C O O H }$ , has been converted to the conjugate base, $\mathrm { C H _ { 3 } C O O ^ { - } }$ 2 at which point each additional OH<sup>-</sup> added corresponds to the simple addition of a strong base to water. This sequence is sketched in [Figure 6.25](#fig-p1-ch06-66).
 
 :::{figure} ../images/fig-p1-ch06-66.jpg
 :name: fig-p1-ch06-66
@@ -1970,7 +1973,7 @@ Thus, indeed the change in $[ ^ { \mathrm { C O _ { 3 } ^ { 2 - } } } ]$ resulti
 
 Note also that each $\mathrm { { H _ { 2 } C O _ { 3 } } }$ added is consumed such that $\Delta [ \mathrm { H _ { 2 } C O _ { 3 } } ] \approx 0$
 
-After the equivalence point is reached, the titration of a weak base by a strong acid is identical to the addition of a strong acid to water. One $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ enters the solution for each molecule of acid added. Tracing this progression on the titration curve is the same process, in principle, that we had for the titration of a weak acid by a strong base. Figure 6.26 traces the case for titration of a weak base by a strong acid.
+After the equivalence point is reached, the titration of a weak base by a strong acid is identical to the addition of a strong acid to water. One $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ enters the solution for each molecule of acid added. Tracing this progression on the titration curve is the same process, in principle, that we had for the titration of a weak acid by a strong base. [Figure 6.26](#fig-p1-ch06-67) traces the case for titration of a weak base by a strong acid.
 
 :::{figure} ../images/fig-p1-ch06-67.jpg
 :name: fig-p1-ch06-67
@@ -2283,7 +2286,7 @@ Which is governed by its own equilibrium constant, $\mathrm { K _ { s } }$
 
 where we assume that the solution is dilute enough that the concentration of water is near unity $\mathrm { ( [ H _ { 2 } O ] = \mathbf { 1 } ) }$
 
-As noted in the opening of this chapter, the carbon chemistry of the ocean is initiated by the equilibrium reaction between $\mathrm { C O } _ { 2 } ( \mathrm { g } )$ in the atmosphere and $\mathrm { C O } _ { 2 } ( \mathrm { a q } )$ in the ocean. The Gibbs free energy surface for this reaction is displayed in Figure CS6.1b.
+As noted in the opening of this chapter, the carbon chemistry of the ocean is initiated by the equilibrium reaction between $\mathrm { C O } _ { 2 } ( \mathrm { g } )$ in the atmosphere and $\mathrm { C O } _ { 2 } ( \mathrm { a q } )$ in the ocean. The Gibbs free energy surface for this reaction is displayed in [Figure CS6.1B](#fig-p1-ch06-88).
 
 :::{figure} ../images/fig-p1-ch06-88.jpg
 :name: fig-p1-ch06-88
@@ -2603,7 +2606,7 @@ The net result is the overall loss of carbon dioxide from the atmosphere due to 
 ```
 
 
-as displayed schematically in Figure CS6.1f.
+as displayed schematically in [Figure CS6.1F](#fig-p1-ch06-92).
 
 :::{figure} ../images/fig-p1-ch06-92.jpg
 :name: fig-p1-ch06-92
@@ -2612,7 +2615,7 @@ FIGURE CS6.1F The weathering of silicate minerals results in the net draw-down o
 :::
 
 
-Even though $\mathrm { C a C O _ { 3 } }$ plays an important role in maintaining the pH of the ocean, it is important to realize that the weathering of carbonate per se on land has no net effect on the sequestration of $\mathrm { C O } _ { 2 } ,$ as shown in Figure CS6.1g.
+Even though $\mathrm { C a C O _ { 3 } }$ plays an important role in maintaining the pH of the ocean, it is important to realize that the weathering of carbonate per se on land has no net effect on the sequestration of $\mathrm { C O } _ { 2 } ,$ as shown in [Figure CS6.1G](#fig-p1-ch06-93).
 
 :::{figure} ../images/fig-p1-ch06-93.jpg
 :name: fig-p1-ch06-93
@@ -2621,7 +2624,7 @@ FIGURE CS6.1G The weathering of carbonate minerals has no net effect on the draw
 :::
 
 
-Removal of $\mathrm { C O } _ { 2 }$ from the atmosphere requires the silicate content of crustal rocks on the Earth's surface. Over very long time scales, this is the process that controls atmospheric carbon dioxide removal, and is responsible for the draw down of carbon dioxide following the Eocene (35 to 55 million years ago), as shown in Figure CS6.1h.
+Removal of $\mathrm { C O } _ { 2 }$ from the atmosphere requires the silicate content of crustal rocks on the Earth's surface. Over very long time scales, this is the process that controls atmospheric carbon dioxide removal, and is responsible for the draw down of carbon dioxide following the Eocene (35 to 55 million years ago), as shown in [Figure CS6.1H](#fig-p1-ch06-94).
 
 :::{figure} ../images/fig-p1-ch06-94.jpg
 :name: fig-p1-ch06-94
@@ -2654,7 +2657,7 @@ However, since the rate of weathering is proportional to water content, atmosphe
 
 ## Introduction
 
-Carbon dioxide added to the atmosphere from the combustion of fossil fuel remains in the atmosphere for time scales of centuries to millennia. Therefore, once the mixing ratio of $\mathrm { C O } _ { 2 }$ has reached the level wherein irreversible changes to the Earth's climate structure are reached, the only avenue available to return to a stable climate is to extract $\mathrm { C O } _ { 2 }$ directly from the atmosphere. This process is referred to as Direct Air Capture or DAC. DAC has several important advantages. We review the scale of the issue of DAC for $\mathrm { C O } _ { 2 }$ removal and a potential method for doing so in this Case Study. The basic approach used in DAC is displayed schematically in Figure CS6.2a. Air high in $\mathrm { C O } _ { 2 }$ concentration is passed through a system that has a flowing liquid chemical solution that reacts preferentially with $\mathrm { C O } _ { 2 }$ in the atmosphere reducing its concentration by \~80%. The air reduced in $\mathrm { C O } _ { 2 }$ reenters the atmosphere on the backside of the air capture system.
+Carbon dioxide added to the atmosphere from the combustion of fossil fuel remains in the atmosphere for time scales of centuries to millennia. Therefore, once the mixing ratio of $\mathrm { C O } _ { 2 }$ has reached the level wherein irreversible changes to the Earth's climate structure are reached, the only avenue available to return to a stable climate is to extract $\mathrm { C O } _ { 2 }$ directly from the atmosphere. This process is referred to as Direct Air Capture or DAC. DAC has several important advantages. We review the scale of the issue of DAC for $\mathrm { C O } _ { 2 }$ removal and a potential method for doing so in this Case Study. The basic approach used in DAC is displayed schematically in [Figure CS6.2A](#fig-p1-ch06-95). Air high in $\mathrm { C O } _ { 2 }$ concentration is passed through a system that has a flowing liquid chemical solution that reacts preferentially with $\mathrm { C O } _ { 2 }$ in the atmosphere reducing its concentration by \~80%. The air reduced in $\mathrm { C O } _ { 2 }$ reenters the atmosphere on the backside of the air capture system.
 
 :::{figure} ../images/fig-p1-ch06-95.jpg
 :name: fig-p1-ch06-95
@@ -2773,7 +2776,7 @@ We will consider here one such example to establish basic parameters for a futur
 
 ## An Example of DAC Technology
 
-The example we will consider here is a “wet-scrubbing” technology that can be used to remove $\mathrm { C O } _ { 2 }$ from the atmosphere. A diagram of how the process works is shown in Figure CS6.2b.
+The example we will consider here is a “wet-scrubbing” technology that can be used to remove $\mathrm { C O } _ { 2 }$ from the atmosphere. A diagram of how the process works is shown in [Figure CS6.2B](#fig-p1-ch06-96).
 
 :::{figure} ../images/fig-p1-ch06-96.jpg
 :name: fig-p1-ch06-96
@@ -2782,7 +2785,7 @@ FIGURE CS6.2B Schematic of DAC using a hydroxide solution to react with the CO<s
 :::
 
 
-As seen in Figure CS6.2b, there are two main cycles to this DAC process: $\mathrm { C O } _ { 2 }$ precipitation in the air contactor, and hydroxide regeneration.
+As seen in [Figure CS6.2B](#fig-p1-ch06-96), there are two main cycles to this DAC process: $\mathrm { C O } _ { 2 }$ precipitation in the air contactor, and hydroxide regeneration.
 
 The first step of the $\mathrm { C O } _ { 2 }$ removal process involves pushing air through the “air-contactor,” a high-surface area passage containing an aqueous hydroxide solution that reacts with the $\mathrm { C O } _ { 2 }$ present in the air. The contactor typically has 10,000 $\mathrm { m } ^ { 2 }$ of surface area allowing for maximum contact of the hydroxide solution with the incoming air. Further, this air contactor surface must be engineered to have optimal air turbulence rates and continued solution refresh rate, in order to obtain constant $\mathrm { C O } _ { 2 }$ extraction. Moreover, the velocity at which the air travels through the contactor is directly proportional to the amount of $\mathrm { C O } _ { 2 }$ that can be extracted from the air per second. However, while increased air speed allows more $\mathrm { C O } _ { 2 }$ to come into contact with the hydroxide solution, the $\mathrm { C O } _ { 2 }$ must also have time to fully diffuse into the solution before it has passed through the contactor. Therefore, the actual hydroxide composition is important for determining an optimized airflow speed.
 
@@ -2820,7 +2823,7 @@ In kJ/mole:
 
 Therefore, we can see that at STP, the reaction of $\mathrm { C O } _ { 2 }$ with NaOH(aq) will occur spontaneously.
 
-The second phase of the cycle, after the $\mathrm { C O } _ { 2 }$ has been captured, involves the release of the $\mathrm { C O } _ { 2 }$ from the $\mathrm { N a _ { 2 } C O _ { 3 } }$ compound and the regeneration of the sodium hydroxide solution. As seen in Figure CS6.2c below, heat is required in order to free the $\mathrm { C O } _ { 2 }$ from the $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 } ,$ and both $\mathrm { H } _ { 2 } \mathrm { O }$ and $\mathrm { F e _ { 2 } O _ { 3 } }$ must be added in order for the regeneration process to go to completion.
+The second phase of the cycle, after the $\mathrm { C O } _ { 2 }$ has been captured, involves the release of the $\mathrm { C O } _ { 2 }$ from the $\mathrm { N a _ { 2 } C O _ { 3 } }$ compound and the regeneration of the sodium hydroxide solution. As seen in [Figure CS6.2C](#fig-p1-ch06-97) below, heat is required in order to free the $\mathrm { C O } _ { 2 }$ from the $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 } ,$ and both $\mathrm { H } _ { 2 } \mathrm { O }$ and $\mathrm { F e _ { 2 } O _ { 3 } }$ must be added in order for the regeneration process to go to completion.
 
 :::{figure} ../images/fig-p1-ch06-97.jpg
 :name: fig-p1-ch06-97
@@ -2871,7 +2874,7 @@ Just to verify these numbers, we can multiply 26.39 kg/s by $3 . 1 5 \times 1 0 
 
 In terms of spatial arrangements, it is important to note that the air coming out of the DAC units has a $\mathrm { C O } _ { 2 }$ concentration of \~100 ppm. Therefore, it is not possible for the DAC units to be arranged one in front of the next, as the low $\mathrm { C O } _ { 2 }$ exhaust air of one unit would be the intake air of the next unit. Over a distance of 2-3 km, however, the air returns to its well-mixed state of \~400 ppm, so it is possible to arrange thee units consecutively as long as there are a few kilometers between each row. One could imagine these 1 $\mathbf { M } \mathbf { t } / \mathbf { y } \mathbf { r }$ units placed into square of 10 km on each side, with 1 Mt units forming a 10 km “column” that is able to handle 5 Mt/yr, and 5 rows of these columns, with 2.5 km between each row. One of these combined systems would be 10 km × 10 km and would have a capacity of removing 25 Mt $\mathrm { C O _ { 2 } / y r }$ . Finally, it seems logical that these units could be located in regions with high wind velocity so that maximum amounts of air pass through the air contactor with the use of energy-hungry fans.
 
-A schematic of what a single unit would look like is displayed in Figure CS6.2d below.
+A schematic of what a single unit would look like is displayed in [Figure CS6.2D](#fig-p1-ch06-98) below.
 
 :::{figure} ../images/fig-p1-ch06-98.jpg
 :name: fig-p1-ch06-98
@@ -2910,7 +2913,7 @@ Now that we have established our basic parameters, we can examine what large-sca
 
 ## Introduction
 
-Concentrated solar power or CSP is a class of primary energy generation that uses the visible and near infrared radiation from the Sun in combination with a variety of optical systems to focus the Sun's radiation on collectors that convert those photons to heat that then, typically, produces steam to operate a turbine to produce electricity. Thus a conventional electricity generating plant that employs coal or natural gas is modified by simply replacing the chemically derived (fossil fuel) source of heat with the input of heat from the Sun, employing an optical collection system to concentrate the solar power to achieve the high temperatures required for thermodynamic efficiency in the steam turbine. An array of possible configurations of CSP is displayed in Figure CS6.3a.
+Concentrated solar power or CSP is a class of primary energy generation that uses the visible and near infrared radiation from the Sun in combination with a variety of optical systems to focus the Sun's radiation on collectors that convert those photons to heat that then, typically, produces steam to operate a turbine to produce electricity. Thus a conventional electricity generating plant that employs coal or natural gas is modified by simply replacing the chemically derived (fossil fuel) source of heat with the input of heat from the Sun, employing an optical collection system to concentrate the solar power to achieve the high temperatures required for thermodynamic efficiency in the steam turbine. An array of possible configurations of CSP is displayed in [Figure CS6.3A](#fig-p1-ch06-99).
 
 :::{figure} ../images/fig-p1-ch06-99.jpg
 :name: fig-p1-ch06-99
@@ -2929,7 +2932,7 @@ Thus the US will have some 1.7 GW of installed CSP by early 2016. Our objective 
 
 There are four principal methods for collecting energy from the Sun and concentrating that radiation to provide the high temperatures (500- 1000°C) required for efficient electricity generation using a conventional steam turbine.
 
-The first approach we discuss is the collection of solar radiation by a parabolic trough shown schematically in Figure CS6.3b. A parabolic mirror has the unique characteristic that it takes a parallel rays and focuses all of them at a single “focal point.”
+The first approach we discuss is the collection of solar radiation by a parabolic trough shown schematically in [Figure CS6.3B](#fig-p1-ch06-100). A parabolic mirror has the unique characteristic that it takes a parallel rays and focuses all of them at a single “focal point.”
 
 :::{figure} ../images/fig-p1-ch06-100.jpg
 :name: fig-p1-ch06-100
@@ -2938,7 +2941,7 @@ FIGURE CS6.3B The parabolic optical collector takes parallel rays from the Sun a
 :::
 
 
-Placed at that focal point is a linear tube that carries the circulating high temperature fluid along the axis of the trough and delivers that high temperature fluid either to a steam turbine for the direct generation of electric power or to a heat exchanger that transfers the heat to a second fluid that in turn drives the steam turbine. A typical modern steam turbine system is shown in Figure CS6.3c.
+Placed at that focal point is a linear tube that carries the circulating high temperature fluid along the axis of the trough and delivers that high temperature fluid either to a steam turbine for the direct generation of electric power or to a heat exchanger that transfers the heat to a second fluid that in turn drives the steam turbine. A typical modern steam turbine system is shown in [Figure CS6.3C](#fig-p1-ch06-101).
 
 :::{figure} ../images/fig-p1-ch06-101.jpg
 :name: fig-p1-ch06-101
@@ -2947,7 +2950,7 @@ FIGURE CS6.3C Then high temperature steam is collected from the trough array and
 :::
 
 
-The parabolic troughs are typically aligned in rows as shown in Figure CS6.3d to create a vast array of collection systems covering many acres. In a subsequent section we will consider the optimal location of these solar collection “forms” within the US.
+The parabolic troughs are typically aligned in rows as shown in [Figure CS6.3D](#fig-p1-ch06-102) to create a vast array of collection systems covering many acres. In a subsequent section we will consider the optimal location of these solar collection “forms” within the US.
 
 :::{figure} ../images/fig-p1-ch06-102.jpg
 :name: fig-p1-ch06-102
@@ -2958,7 +2961,7 @@ FIGURE CS6.3D The solar troughs are combined in large arrays covering many squar
 
 ## Compact Linear Fresnel Reflection
 
-A second approach to solar collection and concentration is the Compact Linear Fresnel Reflector (CLFR) that employs long thin segments of mirrors to focus solar photons on either one or multiple absorbers. The reflectors are aligned by a tracking system that optimizes the light intensity at the absorber using the geometry displayed in Figure CS6.3e panel A.
+A second approach to solar collection and concentration is the Compact Linear Fresnel Reflector (CLFR) that employs long thin segments of mirrors to focus solar photons on either one or multiple absorbers. The reflectors are aligned by a tracking system that optimizes the light intensity at the absorber using the geometry displayed in [Figure CS6.3E](#fig-p1-ch06-104) panel A.
 
 :::{figure} ../images/fig-p1-ch06-103.jpg
 :name: fig-p1-ch06-103
@@ -2972,7 +2975,7 @@ FIGURE CS6.3E The Fresnel mirror configuration uses multiple mirrors aligned par
 :::
 
 
-The long axis of the Fresnel collectors are typically aligned with the north-south axis and rotate about a single axis. The steam tubes that collect the focused solar radiation are installed in the linear absorber as shown in Figure CS6.3e panel B. This use of multiple absorbers shown in Figure CS6.3e panel A has some notable advantages:
+The long axis of the Fresnel collectors are typically aligned with the north-south axis and rotate about a single axis. The steam tubes that collect the focused solar radiation are installed in the linear absorber as shown in [Figure CS6.3E](#fig-p1-ch06-104) panel B. This use of multiple absorbers shown in [Figure CS6.3E](#fig-p1-ch06-104) panel A has some notable advantages:
 
 The alternating inclination of the Fresnel collectors minimize the effect of reflectors blocking adjacent reflectors access to sunlight. This significantly improves the collection efficiency over a diurnal cycle.
 
@@ -2982,7 +2985,7 @@ The multiple absorbers reduce the length of the steam lines in the absorbers, th
 
 ## Solar Power Tower
 
-A third approach that is gaining wide acceptance is the technique of using an array of individually directed mirrors, or heliostats, that direct the Sun's radiation to a central receiver as displayed schematically in Figure CS6.3f.
+A third approach that is gaining wide acceptance is the technique of using an array of individually directed mirrors, or heliostats, that direct the Sun's radiation to a central receiver as displayed schematically in [Figure CS6.3F](#fig-p1-ch06-105).
 
 :::{figure} ../images/fig-p1-ch06-105.jpg
 :name: fig-p1-ch06-105
@@ -2991,7 +2994,7 @@ FIGURE CS6.3F The “power tower” configuration uses multiple heliostats that 
 :::
 
 
-The working fluid in the central receiver, or tower, is heated to between 500°C and 1000°C and then used either directly to power a steam turbine for electric power generation or in conjunction with a heat exchanger from which high pressure steam is extracted for input to a steam turbine. The field of heliostats is typically two square miles in area arranged as shown in Figure CS6.3g.
+The working fluid in the central receiver, or tower, is heated to between 500°C and 1000°C and then used either directly to power a steam turbine for electric power generation or in conjunction with a heat exchanger from which high pressure steam is extracted for input to a steam turbine. The field of heliostats is typically two square miles in area arranged as shown in [Figure CS6.3G](#fig-p1-ch06-106).
 
 :::{figure} ../images/fig-p1-ch06-106.jpg
 :name: fig-p1-ch06-106
@@ -3006,7 +3009,7 @@ Modern designs using the power tower configuration are operating at a yield of 1
 
 ## Stirling Engine Dish Design
 
-A fourth configuration, displayed schematically in Figure CS6.3h, uses a parabolic dish design to focus the Sun's radiation at a single focal point. That focused solar radiation is then used to deliver heat to a unique heat engine called a Stirling engine after its inventor (in 1816!) Robert Stirling.
+A fourth configuration, displayed schematically in [Figure CS6.3H](#fig-p1-ch06-107), uses a parabolic dish design to focus the Sun's radiation at a single focal point. That focused solar radiation is then used to deliver heat to a unique heat engine called a Stirling engine after its inventor (in 1816!) Robert Stirling.
 
 :::{figure} ../images/fig-p1-ch06-107.jpg
 :name: fig-p1-ch06-107
@@ -3017,7 +3020,7 @@ FIGURE CS6.3H The collector for a Stirling engine dish design uses a parabolic d
 
 A Stirling engine in its original design is a heat engine that uses an external heat source such as burned coal, wood, or oil to create a cyclical expansion and compression of air at different temperature levels such that there is a net conversion of heat to mechanical work. This is distinct from internal combustion engines that we are familiar with in gasoline and diesel automobile and truck engines. The reason that Stirling engines have experienced a renewal is that the combustion of hydrocarbon fuels can be replaced by concentrated solar radiation or geothermal as an external heat source.
 
-The Stirling cycle of four trajectories on a pV graph is displayed in Figure CS6.3i.
+The Stirling cycle of four trajectories on a pV graph is displayed in [Figure CS6.3I](#fig-p1-ch06-108).
 
 :::{figure} ../images/fig-p1-ch06-108.jpg
 :name: fig-p1-ch06-108
@@ -3030,13 +3033,13 @@ FIGURE CS6.3I The pV cycle executed by the Stirling engine is the familiar combi
 
 Leg 1: The expansion occurs along an isothermal trajectory in response to the external heat supply by the concentrated solar radiation.
 
-Leg 2: The isochoric (constant volume) trajectory during which the gas is passed through the “regenerator” between the hot and cold cylinders in Figure CS6.3j that serves to extract heat for use in the next cycle.
+Leg 2: The isochoric (constant volume) trajectory during which the gas is passed through the “regenerator” between the hot and cold cylinders in [Figure CS6.3J](#original-fig-cs6-3j) that serves to extract heat for use in the next cycle.
 
 Leg 3: A second isothermal trajectory during which the gas undergoes compression.
 
 Leg 4: A final isochoric trajectory wherein the compressed air flows back through the regenerator and picks up heat as it enters the heated expansion space.
 
-The mechanical device that accomplishes this closed trajectory on the pV diagram is shown in Figure CS6.3j. It is ingenious and represents an important union between theoretical thermodynamics represented in Figure CS6.3i and the practical execution of the “external” heat engine.
+The mechanical device that accomplishes this closed trajectory on the pV diagram is shown in [Figure CS6.3J](#original-fig-cs6-3j). It is ingenious and represents an important union between theoretical thermodynamics represented in [Figure CS6.3I](#fig-p1-ch06-108) and the practical execution of the “external” heat engine.
 
 :::{figure} ../images/fig-p1-ch06-109.jpg
 :name: fig-p1-ch06-109
@@ -3064,9 +3067,10 @@ The mechanical device that accomplishes this closed trajectory on the pV diagram
 
 4. The gas reaches its minimum volume, and it will now expand in the hot cylinder where it will be heated once more, driving the hot piston in its power stroke.
 
+(original-fig-cs6-3j)=
 FIGURE CS6.3J The four primary strokes of the Stirling engine are displayed in order from the top left of the diagram.
 
-This configuration of the Stirling engine (termed the alpha Stirling) is constructed from two power pistons in separate cylinders with the high temperature side heated by concentrated solar thermal radiation and the low temperature side cooled by the atmosphere. This type of engine has a high power-to-volume ratio and is thus well suited to be placed at the focal point of a large solar collection mirror as displayed in Figure CS6.3k.
+This configuration of the Stirling engine (termed the alpha Stirling) is constructed from two power pistons in separate cylinders with the high temperature side heated by concentrated solar thermal radiation and the low temperature side cooled by the atmosphere. This type of engine has a high power-to-volume ratio and is thus well suited to be placed at the focal point of a large solar collection mirror as displayed in [Figure CS6.3K](#fig-p1-ch06-113).
 
 :::{figure} ../images/fig-p1-ch06-113.jpg
 :name: fig-p1-ch06-113
@@ -3077,7 +3081,7 @@ FIGURE CS6.3K As with the parabolic trough collection, the Fresnel collector and
 
 ## Available Resources for CSP
 
-We turn now to the analysis of the geographic distribution of available solar radiation in the US. The direct solar radiation in the US in kWh/m<sup>2</sup>·day is displayed in Figure CS6.3l, and the focus is on the southwestern sector of the US because there is a remarkable amount of available solar radiation available in this region. From the perspective of site selection for CSP, this is the most important consideration because power can be supplied to the rest of the country by a nation-wide power grid. As we will see, CSP has the potential for supplying a very significant fraction of the country's electricity generating capacity.
+We turn now to the analysis of the geographic distribution of available solar radiation in the US. The direct solar radiation in the US in kWh/m<sup>2</sup>·day is displayed in [Figure CS6.3L](#fig-p1-ch06-114), and the focus is on the southwestern sector of the US because there is a remarkable amount of available solar radiation available in this region. From the perspective of site selection for CSP, this is the most important consideration because power can be supplied to the rest of the country by a nation-wide power grid. As we will see, CSP has the potential for supplying a very significant fraction of the country's electricity generating capacity.
 
 :::{figure} ../images/fig-p1-ch06-114.jpg
 :name: fig-p1-ch06-114
@@ -3088,13 +3092,14 @@ FIGURE CS6.3L The solar radiation map of the U.S., designated here as a color di
 
 In order to estimate the available power that can be practically extracted from CSP, it is necessary to remove from consideration all areas with significant population density, all areas that are involved in supplying other resources such as water, etc., all land areas with greater than a 1% slope and all areas that have a contiguous area of less than 1 square kilometer.
 
-When this is done, we have left the following table, Table CS6.3a, of available land area, solar capacity, and solar generation capacity for a subset of seven states. We will use this table in problem #2.
+When this is done, we have left the following table, [Table CS6.3A](#original-table-cs6-3a), of available land area, solar capacity, and solar generation capacity for a subset of seven states. We will use this table in problem #2.
 
+(original-table-cs6-3a)=
 TABLE CS6.3A
 
 <table><tr><td>State</td><td>Land Area (mi2)</td><td>Solar Capacity (MW)</td><td>Solar Generation Capacity (GWh)</td></tr><tr><td>AZ</td><td>13,613</td><td>1,742,461</td><td>4,121,268</td></tr><tr><td>CA</td><td>6278</td><td>803,647</td><td>1,900,786</td></tr><tr><td>CO</td><td>6232</td><td>797,758</td><td>1,886,858</td></tr><tr><td>NV</td><td>11,090</td><td>1,419,480</td><td>3,357,355</td></tr><tr><td>NM</td><td>20,356</td><td>2,605,585</td><td>6,162,729</td></tr><tr><td>TX</td><td>6374</td><td>815,880</td><td>1,929,719</td></tr><tr><td>UT</td><td>23,288</td><td>2,980,823</td><td>7,050,242</td></tr><tr><td>Total</td><td>87,232</td><td>11,165,633</td><td>26,408,956</td></tr></table>
 
-Inspection of Table CS6.3a reveals that while California has the largest region of solar radiation exceeding 7.5 kWh/m<sup>2</sup>·day, Arizona, New Mexico, and Nevada have the largest solar generating capacity because of the flat terrain, low population density, and available land.
+Inspection of [Table CS6.3A](#original-table-cs6-3a) reveals that while California has the largest region of solar radiation exceeding 7.5 kWh/m<sup>2</sup>·day, Arizona, New Mexico, and Nevada have the largest solar generating capacity because of the flat terrain, low population density, and available land.
 
 ## Problem 1
 
@@ -3158,7 +3163,7 @@ We then have an explicit calculation for the overall efficiency
 
 2. If $\mathrm { F } = \mathrm { 1 0 0 0 ~ w / m ^ { 2 } , C } = 5 0 0 , \mathrm { T _ { H } } = \mathrm { 1 1 0 0 ~ K }$ , and $\mathrm { T _ { C } } = 3 0 0 \mathrm { K }$ calculate η<sub>coll</sub>, $\boldsymbol \eta _ { \mathrm { { S t e r } } }$ and $\boldsymbol { \mathrm { \ n } } _ { \mathrm { o v e r a l l } } .$
 
-1. From Table CS6.3a, determine the power generating capability of the seven listed states in TW (1 × 10<sup>12</sup> Watts).
+1. From [Table CS6.3A](#original-table-cs6-3a), determine the power generating capability of the seven listed states in TW (1 × 10<sup>12</sup> Watts).
 
 2. What is the approximate electricity generating capacity in the US in TWs? What is the total rate of primary energy generation capacity in the US in TWs?
 
@@ -3166,9 +3171,13 @@ We then have an explicit calculation for the overall efficiency
 
 4. If we wish to produce 1 TW of electric power, what fraction of the available land area would be needed if each state provided an amount of land area equal to the desired electrical energy generation divided by the total available power from all seven states combined?
 
-5. Table CS6.3b provides the total land area of each state. Calculate the fraction of land area needed for each state needed in order to provide the requisite electric energy generation capability for that state.
+5. [Table CS6.3B](#xref-visual-p1-ch06-equilibria-in-solution-3171) provides the total land area of each state. Calculate the fraction of land area needed for each state needed in order to provide the requisite electric energy generation capability for that state.
 
+:::{table} TABLE CS6.3B
+:label: xref-visual-p1-ch06-equilibria-in-solution-3171
+:enumerated: false
 <table><tr><td>State</td><td>Total Land Area of State</td></tr><tr><td>AZ</td><td>114,006</td></tr><tr><td>CA</td><td>163,707</td></tr><tr><td>CO</td><td>104,100</td></tr><tr><td>NV</td><td>110,567</td></tr><tr><td>NM</td><td>121,598</td></tr><tr><td>TX</td><td>268,820</td></tr><tr><td>UT</td><td>84,904</td></tr></table>
+:::
 
 6. Summarize this by providing:
 

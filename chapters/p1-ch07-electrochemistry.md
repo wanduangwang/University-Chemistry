@@ -17,13 +17,13 @@ title: "7 Electrochemistry"
 
 ## Framework
 
-The study of the union between chemistry and electricity—the flow of electrons driven spontaneously by free energy release in a chemical reaction—has provided a rich history of remarkable discoveries. These studies constitute the discipline of electrochemistry, a subject that has experienced a dramatic rebirth. That rebirth has been propelled by the emergence of energy production and storage as a dominant problem confronting both science and public policy. A key part of why the rebirth of electrochemistry has been sparked by efforts to advance key technologies associated with global demands for energy is contained in the third diagram in this text—Figure 1.3. That figure traces the flow of electrons, supplied to the power distribution grid by a combination of photovoltaics, wind, and concentrated solar thermal. That primary energy generation is coupled to a combination of batteries, electrolysis cells, fuel cells, and hydrogen storage systems by the power grid. In each of these cases, chemical transformations are coupled to the flow of electrons and visa versa. There is a clear implication that the energy contained in the chemical bond can be harnessed to generate the flow of electrons, and conversely that the flow of electrons, driven by an external voltage source, can enact chemical change.
+The study of the union between chemistry and electricity—the flow of electrons driven spontaneously by free energy release in a chemical reaction—has provided a rich history of remarkable discoveries. These studies constitute the discipline of electrochemistry, a subject that has experienced a dramatic rebirth. That rebirth has been propelled by the emergence of energy production and storage as a dominant problem confronting both science and public policy. A key part of why the rebirth of electrochemistry has been sparked by efforts to advance key technologies associated with global demands for energy is contained in the third diagram in this text—[Figure 1.3](#fig-p1-ch01-6). That figure traces the flow of electrons, supplied to the power distribution grid by a combination of photovoltaics, wind, and concentrated solar thermal. That primary energy generation is coupled to a combination of batteries, electrolysis cells, fuel cells, and hydrogen storage systems by the power grid. In each of these cases, chemical transformations are coupled to the flow of electrons and visa versa. There is a clear implication that the energy contained in the chemical bond can be harnessed to generate the flow of electrons, and conversely that the flow of electrons, driven by an external voltage source, can enact chemical change.
 
 We are already acutely aware, through our study of thermodynamics, that no chemical change occurs without bringing a requisite increase in disorder to the universe. There is always a cost, a cost to be paid in the currency of free energy, ΔG, such that:
 
 ## Reactants → Products + Free Energy
 
-With the release of free energy, ΔG, comes the ability to do work. If the flow of electrons is to produce work, we first need a difference in electrical potential between two points, just as we need a difference in gravitational potential energy between two points that can be converted to kinetic energy. Second, we need a source of electrons; third, a conducting path for those electrons; and fourth, a pump to raise electrons from a region of low electrical potential to a region of high electrical potential. For the case of gravitational potential energy, we can sketch such a cycle, shown in Figure 7.2, displaying a series of mass elements that move in a gravitational field. The “pump” that carries the mass elements to a position of higher gravitational potential energy requires work. When a mass acquires gravitational potential energy, work can be done. This has a direct analogy with the chemical potential shown in Figure 7.3 that drives reactants to products in a chemical reaction, releasing free energy. We can sketch a similar free energy diagram for an electrical potential that drives the flow of electrons through an electric motor, light bulb or electronic device. It was the recognition that the ability to extract useful work from either an electrical potential or from a chemical potential that lead to the conceptual linking of voltage (that is a measure of electrical potential) to the concept of free energy release, ΔG, of a chemical reaction. This constitutes one of many critically important contributions of electrochemistry to science and society as a whole.
+With the release of free energy, ΔG, comes the ability to do work. If the flow of electrons is to produce work, we first need a difference in electrical potential between two points, just as we need a difference in gravitational potential energy between two points that can be converted to kinetic energy. Second, we need a source of electrons; third, a conducting path for those electrons; and fourth, a pump to raise electrons from a region of low electrical potential to a region of high electrical potential. For the case of gravitational potential energy, we can sketch such a cycle, shown in [Figure 7.2](#fig-p1-ch07-3), displaying a series of mass elements that move in a gravitational field. The “pump” that carries the mass elements to a position of higher gravitational potential energy requires work. When a mass acquires gravitational potential energy, work can be done. This has a direct analogy with the chemical potential shown in [Figure 7.3](#fig-p1-ch07-4) that drives reactants to products in a chemical reaction, releasing free energy. We can sketch a similar free energy diagram for an electrical potential that drives the flow of electrons through an electric motor, light bulb or electronic device. It was the recognition that the ability to extract useful work from either an electrical potential or from a chemical potential that lead to the conceptual linking of voltage (that is a measure of electrical potential) to the concept of free energy release, ΔG, of a chemical reaction. This constitutes one of many critically important contributions of electrochemistry to science and society as a whole.
 
 :::{figure} ../images/fig-p1-ch07-2.jpg
 :name: fig-p1-ch07-2
@@ -46,7 +46,7 @@ FIGURE 7.3 As electrons flow from the anode (where oxidation occurs liberating t
 :::
 
 
-We can link the concepts of gravitational potential, chemical potential, and electrical potential in a single diagram. Figure 7.4 displays an electrochemical cell, which we will study in this chapter, where the electrochemical cell engages a chemical potential to deliver an electrical potential through an external circuit to an electric motor that in turn performs mechanical work by raising a mass, m, in a gravitational field. As we will see, it was Michael Faraday who used just such an experimental arrangement to quantitatively link free energy, the electrical potential, and the gravitational potential to the work done by an electrochemical cell. This provided the conceptual foundation to quantitatively link the vertical axes in each of the energy diagrams in Figure 7.4.
+We can link the concepts of gravitational potential, chemical potential, and electrical potential in a single diagram. [Figure 7.4](#fig-p1-ch07-5) displays an electrochemical cell, which we will study in this chapter, where the electrochemical cell engages a chemical potential to deliver an electrical potential through an external circuit to an electric motor that in turn performs mechanical work by raising a mass, m, in a gravitational field. As we will see, it was Michael Faraday who used just such an experimental arrangement to quantitatively link free energy, the electrical potential, and the gravitational potential to the work done by an electrochemical cell. This provided the conceptual foundation to quantitatively link the vertical axes in each of the energy diagrams in [Figure 7.4](#fig-p1-ch07-5).
 
 :::{figure} ../images/fig-p1-ch07-5.jpg
 :name: fig-p1-ch07-5
@@ -63,7 +63,7 @@ We consider first the energy requirements to propel a gasoline automobile using,
 
 Calculate the amount of energy in kWh required to propel a car 100 km. To begin the comparison, consider five representative cases:
 
-<table><tr><td>Example 1:</td><td>The energy required to propel an automobile that gets 20 mpg 100 km.</td></tr><tr><td>Example 2:</td><td>The energy required to propel an SUV in traffic, which gets 10 mpg.</td></tr><tr><td>Example 3:</td><td>The energy required to propel a hybrid electric such as the Toyota Prius, which gets 40 mpg.</td></tr><tr><td>Example 4:</td><td>The energy required to propel a large, all-electric sedan such as the Tesla Model S, shown in Figure 7.5, which requires 15 kWh per 100 km of driving.</td></tr><tr><td>Example 5:</td><td>The energy required to propel a 4-door, all-electric sedan such as the Citroen C-Zero, shown in Figure 7.6, which requires 10 kWh per 100 km of driving.</td></tr></table>
+<table><tr><td>Example 1:</td><td>The energy required to propel an automobile that gets 20 mpg 100 km.</td></tr><tr><td>Example 2:</td><td>The energy required to propel an SUV in traffic, which gets 10 mpg.</td></tr><tr><td>Example 3:</td><td>The energy required to propel a hybrid electric such as the Toyota Prius, which gets 40 mpg.</td></tr><tr><td>Example 4:</td><td>The energy required to propel a large, all-electric sedan such as the Tesla Model S, shown in <a href="#fig-p1-ch07-6">Figure 7.5</a>, which requires 15 kWh per 100 km of driving.</td></tr><tr><td>Example 5:</td><td>The energy required to propel a 4-door, all-electric sedan such as the Citroen C-Zero, shown in <a href="#fig-p1-ch07-7">Figure 7.6</a>, which requires 10 kWh per 100 km of driving.</td></tr></table>
 
 ## Example 1
 
@@ -101,13 +101,13 @@ A hybrid-electric such as the Toyota Prius or Honda Civic hybrid uses an electri
 
 ## Example 4
 
-Figure 7.5 displays a picture of the Tesla Model S that seats 5 adults and is powered by lithium-ion batteries. It is a large sedan and is allelectric which means that it has no gasoline engine, but it has a range of 300 miles or 480 km. With a battery capacity of 72 kWh of energy, the Model S uses
+[Figure 7.5](#fig-p1-ch07-6) displays a picture of the Tesla Model S that seats 5 adults and is powered by lithium-ion batteries. It is a large sedan and is allelectric which means that it has no gasoline engine, but it has a range of 300 miles or 480 km. With a battery capacity of 72 kWh of energy, the Model S uses
 
 [energy required to drive 100 km] = 72 kWh/480 km = 15 kWh/100 km
 
 ## Example 5
 
-Figure 7.6 shows the Citroen Model C-Zero which is a smaller 4-door family sedan. The C-Zero has a rating per 100 km of
+[Figure 7.6](#fig-p1-ch07-7) shows the Citroen Model C-Zero which is a smaller 4-door family sedan. The C-Zero has a rating per 100 km of
 
 [energy required to drive 100 km] = 10 kWh
 
@@ -127,7 +127,7 @@ FIGURE 7.6 The Citroen C-Zero represents a new generation of all electric 4-door
 
 Inspection of the five examples immediately raises the question: how can there be such a large discrepancy between the energy required to propel a gasoline powered automobile vs. an electric powered automobile? The answer to this question involves three primary considerations. First, a gasoline powered automobile, which is governed by the thermodynamics of a heat engine, is less than 15% efficient in the conversion of chemical energy contained in the gasoline to energy available for moving the automobile. The electric motor, in sharp contrast, is 95% efficient in converting energy stored in the battery to energy available for propelling the car. The second reason that the electric car (as well as the hybrid-electric) is more efficient is that it recaptures energy during braking and in going downhill. Finally, in traffic, neither the electric nor hybrid consume fuel when stopped. In contrast, the gasoline engine consumes a considerable amount of fuel at idle. Of course, for the all-electric car, the electric power must be supplied to the power socket used to charge the battery. If this is done through hydroelectric power or the use of renewables such as from wind, solar thermal, geothermal, photovoltaics, etc., there is no other energy source involved. If the electricity is generated by a coal or a natural gas fired power plant, then the amount of net energy required depends upon the efficiency of the power plant. In the case of older coal burning power plants this is approximately 35%. For modern gas burning power plants the efficiency approaches 50%.
 
-We can then compare the primary energy extracted from either coal or natural gas by simply multiplying the required amount of energy to go 100km by the inverse of the efficiency: 1/35% ≂ 3 for an old coal burning power plant and 1/50% ≂ 2 for a modern natural gas burning power plant. The result is displayed in Figure 7.7.
+We can then compare the primary energy extracted from either coal or natural gas by simply multiplying the required amount of energy to go 100km by the inverse of the efficiency: 1/35% ≂ 3 for an old coal burning power plant and 1/50% ≂ 2 for a modern natural gas burning power plant. The result is displayed in [Figure 7.7](#fig-p1-ch07-8).
 
 :::{figure} ../images/fig-p1-ch07-8.jpg
 :name: fig-p1-ch07-8
@@ -138,7 +138,7 @@ FIGURE 7.7 When comparing the energy consumed by various categories of automobil
 
 Notice in particular that the Tesla Model S, a large all-electric powered sedan, when charged from an old coal burning power plant increases from 15 kWh/100 km to 45 kWh/100 km, which is approximately 3/4 of the energy required by the hybrid. With electrical power generated by natural gas, the Model S requires 30 kWh/100 km, or approximately half that required by the hybrid, but one-quarter that of an average US automobile, and one-eighth that required by a large SUV in urban traffic. The Citroen powered by electricity from an aging coal burning power plant requires 30 kWh of (chemical) energy from coal and 20 kWh of energy from natural gas to go 100 km. That corresponds, respectively, to one-quarter the chemical energy consumption of an average U.S. gasoline powered automobile for a coal burning power plant and onesixth the chemical energy consumption for natural gas generated electricity.
 
-This raises the next question. We know that electricity in the U.S. is generated by a combination of coal and natural gas burning power plants, hydroelectric, geothermal, nuclear and renewables—wind, photovoltaics and concentrated solar thermal. The cost of electric power, as a result, varies significantly across the country. Costs per kWh of electricity for each of the states is displayed in Figure 7.8.
+This raises the next question. We know that electricity in the U.S. is generated by a combination of coal and natural gas burning power plants, hydroelectric, geothermal, nuclear and renewables—wind, photovoltaics and concentrated solar thermal. The cost of electric power, as a result, varies significantly across the country. Costs per kWh of electricity for each of the states is displayed in [Figure 7.8](#fig-p1-ch07-9).
 
 :::{figure} ../images/fig-p1-ch07-9.jpg
 :name: fig-p1-ch07-9
@@ -149,7 +149,7 @@ FIGURE 7.8 A remarkable fact in the United States is that the cost of electricit
 
 This information allows us to calculate the actual cost of driving the various categories of automobiles. We will take 10 cents per kWh for our average cost of electricity in the U.S. which is close to the national average in 2010, and in addition, this will make it easy to adjust for differences between states. Gasoline is currently about \$3.80/gallon, which translates conveniently to \$1/liter. With the energy content of gasoline at 10 kWh/liter, we can directly convert kWh to the cost of driving.
 
-We can take the kWh/100 km from Figure 7.7, and for the case of gasoline powered vehicles calculate cost per 100 km of driving from the expression
+We can take the kWh/100 km from [Figure 7.7](#fig-p1-ch07-8), and for the case of gasoline powered vehicles calculate cost per 100 km of driving from the expression
 
 ```{math}
 :label: eq-p1-ch07-4
@@ -200,7 +200,7 @@ The final calculation we consider is the total annual expenditure in the U.S. fo
 
 <table><tr><td>Example 1:</td><td> $(\$12.50/100 \text{ km}) 4.8 \times 10^{12} \text{ km} = \$600 \text{ billion}$ </td></tr><tr><td>Example 2:</td><td> $(\$25.00/100 \text{ km}) 4.8 \times 10^{12} \text{ km} = \$1.2 \text{ trillion}$ </td></tr><tr><td>Example 3:</td><td> $(\$6.25/100 \text{ km}) 4.8 \times 10^{12} \text{ km} = \$300 \text{ billion}$ </td></tr><tr><td>Example 4:</td><td> $(\$1.50/100 \text{ km}) 4.8 \times 10^{12} \text{ km} = \$72 \text{ billion}$ </td></tr><tr><td>Example 5:</td><td> $(\$1.00/100 \text{ km}) 4.8 \times 10^{12} \text{ km} = \$48 \text{ billion}$ </td></tr></table>
 
-This puts in place a very important question. Suppose the U.S. were to shift from (1) driving the current U.S. national average gasoline powered vehicle that gets 20 mpg, with gasoline costs of \$1/liter (\$3.80/gallon), to (2) a large all-electric sedan that requires 15 kWh of energy to go 100 km. How much would be saved on a national basis? We can determine this by subtracting the amount for Example 4 from the amount for Example $\bf 1 \colon \bf \ S 6 0 0 \times \bf 1 0 ^ { 1 2 } - 7 2 \times \bf 1 0 ^ { 1 2 } = \$ 5 2 8$ billion. That is 528 billion dollars each year in national fuel cost expenditures. To emphasize the point, we capture this annual savings graphically in Figure 7.9.
+This puts in place a very important question. Suppose the U.S. were to shift from (1) driving the current U.S. national average gasoline powered vehicle that gets 20 mpg, with gasoline costs of \$1/liter (\$3.80/gallon), to (2) a large all-electric sedan that requires 15 kWh of energy to go 100 km. How much would be saved on a national basis? We can determine this by subtracting the amount for Example 4 from the amount for Example $\bf 1 \colon \bf \ S 6 0 0 \times \bf 1 0 ^ { 1 2 } - 7 2 \times \bf 1 0 ^ { 1 2 } = \$ 5 2 8$ billion. That is 528 billion dollars each year in national fuel cost expenditures. To emphasize the point, we capture this annual savings graphically in [Figure 7.9](#fig-p1-ch07-11).
 
 :::{figure} ../images/fig-p1-ch07-11.jpg
 :name: fig-p1-ch07-11
@@ -220,7 +220,7 @@ Case Study 7.3 Electricity, Magnetism, and Electric Motors to Power the Transpor
 
 Shifting from petroleum to electrical energy to power the transportation sector places the energy debate and public policy strategy squarely in the field of electrochemistry for scientific and technical advances. While we have an effective option in lithium-ion batteries discussed in this chapter, how do we advance battery technology to increase the energy storage per unit mass and per unit volume of batteries used in the transportation sector? What are the implications for total electricity consumption if all automobiles and light trucks draw their energy from the electrical power grid? While we can eliminate the need for imported petroleum by switching to electrically powered vehicles, how do we take the next step and eliminate the release of $\mathrm { C O } _ { 2 }$ added to the atmosphere by fossil fuel combustion? If we respond to the constraints put in place by feedbacks in the climate structure, with its requisite requirements to reduce $\mathrm { C O } _ { 2 }$ emission, how do we control the balance between supply and demand on the national electricity power grid? An answer to these questions directly engages the study of electrochemistry.
 
-An inspection of Figure CS4.3E emphasizes that when we transition to an energy infrastructure based on sources of primary energy that would both free us of petroleum purchases from other countries and reduce the amount of carbon deposited in the atmosphere, a careful quantitative analysis is required. We must investigate in detail the scientific and technical underpinning of the relationship between the flow of electrons, the chemical storage of energy in batteries, and the generation of electron flow through a “load” by virtue of the energy in chemical bonds. We must also understand the mechanisms by which a flow of electrons can produce a chemical fuel that can store electrical energy reversibly, releasing it on demand. These are the questions that motivate this chapter on electrochemistry.
+An inspection of [Figure CS4.3E](#fig-p1-ch04-84) emphasizes that when we transition to an energy infrastructure based on sources of primary energy that would both free us of petroleum purchases from other countries and reduce the amount of carbon deposited in the atmosphere, a careful quantitative analysis is required. We must investigate in detail the scientific and technical underpinning of the relationship between the flow of electrons, the chemical storage of energy in batteries, and the generation of electron flow through a “load” by virtue of the energy in chemical bonds. We must also understand the mechanisms by which a flow of electrons can produce a chemical fuel that can store electrical energy reversibly, releasing it on demand. These are the questions that motivate this chapter on electrochemistry.
 
 The next segment in the development of “50 Questions on Global Scale Energy and Power” constitutes Case Study 7.4.
 
@@ -301,9 +301,9 @@ What makes electrochemistry both extremely potent as a source of energy for prac
 
 While electrochemistry does not deal exclusively with metals, it is safe to say that because of the ease with which electrons flow in metals and the relative ease with which electrons can be removed from metals, metals constitute the foundation for our understanding of electrochemistry.
 
-We can schematically represent the oxidation or reduction process at the interface of a metal immersed in a liquid containing cations (positive ions) of that metal. This is displayed graphically in Figures 7.10 and 7.11. The key interaction occurs at the metal-solution interface. For oxidation:
+We can schematically represent the oxidation or reduction process at the interface of a metal immersed in a liquid containing cations (positive ions) of that metal. This is displayed graphically in [Figures 7.10](#fig-p1-ch07-21) and [7.11](#fig-p1-ch07-22). The key interaction occurs at the metal-solution interface. For oxidation:
 
-a metal atom M(s) on the surface of the electrode may lose n electrons to the electrode, as shown at the atomic level in Figure 7.10, and enter the solution as the cation ${ { \bf { M } } ^ { { \bf { n + } } } }$ . The metal atom is oxidized in the process.
+a metal atom M(s) on the surface of the electrode may lose n electrons to the electrode, as shown at the atomic level in [Figure 7.10](#fig-p1-ch07-21), and enter the solution as the cation ${ { \bf { M } } ^ { { \bf { n + } } } }$ . The metal atom is oxidized in the process.
 
 ```{math}
 :label: eq-p1-ch07-7
@@ -313,7 +313,7 @@ a metal atom M(s) on the surface of the electrode may lose n electrons to the el
 
 Or for reduction:
 
-a metal ion ${ { \bf { M } } ^ { { \bf { n + } } } }$ from solution may collide with the electrode, gaining electrons from it, as shown in Figure 7.11, thereby converting the metal cation to a metal atom M(s),
+a metal ion ${ { \bf { M } } ^ { { \bf { n + } } } }$ from solution may collide with the electrode, gaining electrons from it, as shown in [Figure 7.11](#fig-p1-ch07-22), thereby converting the metal cation to a metal atom M(s),
 
 ```{math}
 :label: eq-p1-ch07-8
@@ -339,14 +339,14 @@ FIGURE 7.11 Reduction, when viewed at the atomic level occurs at the interface b
 
 ## Check Yourself 3
 
-Consider Figure 7.10 and 7.11 together. Suppose we connect the beaker in which oxidation occurs, Figure 7.10, to the beaker in which reduction occurs, Figure 7.11, with a conducting wire between the two electrodes.
+Consider [Figure 7.10](#fig-p1-ch07-21) and [7.11](#fig-p1-ch07-22) together. Suppose we connect the beaker in which oxidation occurs, [Figure 7.10](#fig-p1-ch07-21), to the beaker in which reduction occurs, [Figure 7.11](#fig-p1-ch07-22), with a conducting wire between the two electrodes.
 
 :::{figure} ../images/fig-p1-ch07-23.jpg
 :name: fig-p1-ch07-23
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Oxidation-reduction reactions, as displayed in Figures 7.10 and 7.11, lie at the heart of electrochemistry. Oxidation-reduction is a conceptual framework in chemistry wherein one or more electrons are transferred from one species to another. One species is the oxidant, or oxidizing agent, that takes electrons from the reductant, or reducing agent. Therefore, oxidation denotes a loss of electrons; reduction denotes a gain in electrons.
+Oxidation-reduction reactions, as displayed in [Figures 7.10](#fig-p1-ch07-21) and [7.11](#fig-p1-ch07-22), lie at the heart of electrochemistry. Oxidation-reduction is a conceptual framework in chemistry wherein one or more electrons are transferred from one species to another. One species is the oxidant, or oxidizing agent, that takes electrons from the reductant, or reducing agent. Therefore, oxidation denotes a loss of electrons; reduction denotes a gain in electrons.
 
 The oxidizing agent gains electrons causing oxidation to take place such that the oxidizing agent, acting as a recipient for the liberated electrons, undergoes reduction. Consider the case where the metal electrode is a copper rod. The reduction reaction is
 
@@ -404,7 +404,7 @@ Neutralize $\mathrm { H ^ { + } }$ by adding enough OH<sup>-</sup> to neutralize
 
 6. Verify that the reaction is balanced.
 
-Suppose we initiate an oxidation-reduction reaction by placing a coil of clean copper into a solution of silver nitrate. As the reaction proceeds, displayed in Figure 7.12, the clear solution of $\mathrm { A g ^ { + } ( a q ) }$ cations and $\mathrm { N O _ { ~ 3 ~ } ^ { - } }$ anions begins to turn a bluish color as copper cations, $\mathrm { C u ^ { 2 + } }$ , are released into solution. The reduction reaction occurs at the metal-solution interface converting $\mathrm { A g ^ { + } ( a q ) }$ cations in solution to $\operatorname { A g } ( \mathbf { s } )$ silver atoms on the surface of the copper coil.
+Suppose we initiate an oxidation-reduction reaction by placing a coil of clean copper into a solution of silver nitrate. As the reaction proceeds, displayed in [Figure 7.12](#fig-p1-ch07-26), the clear solution of $\mathrm { A g ^ { + } ( a q ) }$ cations and $\mathrm { N O _ { ~ 3 ~ } ^ { - } }$ anions begins to turn a bluish color as copper cations, $\mathrm { C u ^ { 2 + } }$ , are released into solution. The reduction reaction occurs at the metal-solution interface converting $\mathrm { A g ^ { + } ( a q ) }$ cations in solution to $\operatorname { A g } ( \mathbf { s } )$ silver atoms on the surface of the copper coil.
 
 ```{math}
 :label: eq-p1-ch07-12
@@ -451,7 +451,7 @@ FIGURE 7.12 When clean copper is placed in a solution of silver nitrate $( \math
 
 2. Although the (spontaneous) reaction is exothermic, no usable energy, other than the heat released, can be harnessed from the process resulting from the transfer of electrons in the chemical reaction.
 
-What is unique to electrochemistry is the strategy used to gain control over a process such as the reaction shown in Figure 7.12, that occurs when a metal such as copper is placed in a beaker of silver nitrate, $\mathrm { { A g N O } _ { 3 } . }$ Silver nitrate in solution produces an equilibrium resulting in the release of $\mathrm { A g ^ { + } }$ into solution.
+What is unique to electrochemistry is the strategy used to gain control over a process such as the reaction shown in [Figure 7.12](#fig-p1-ch07-26), that occurs when a metal such as copper is placed in a beaker of silver nitrate, $\mathrm { { A g N O } _ { 3 } . }$ Silver nitrate in solution produces an equilibrium resulting in the release of $\mathrm { A g ^ { + } }$ into solution.
 
 ```{math}
 :label: eq-p1-ch07-15
@@ -475,7 +475,7 @@ and $\mathrm { A g ^ { + } }$ is reduced
 ```
 
 
-We can also run an experiment where, instead of a solution of $\mathrm { \Delta A g N O _ { 3 } ( a q ) }$ we use zinc nitrate, $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } ( a q ) }$ , as contrasted in Figure 7.13. The beaker on the left is a repeat of the experiment depicted in Figure 7.12. A strip of clean copper sheet is inserted into a silver nitrate solution. $\mathrm { A g ^ { + } }$ cations are displaced from the clear silver nitrate solution as silver builds up on the copper surface. In the right-hand beaker of Figure 7.13, a distinctly different occurrence is observed. The same clean copper strip is placed in a beaker of zinc nitrate $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } ( a q ) }$ . But no reaction takes place. Since the zinc nitrate solution results in the existence of $\mathrm { Z n ^ { 2 + } ( a q ) }$ cations in solution, the fact that no chemical reaction occurs means that the reaction between the solid copper, Cu(s), and the zinc cations, $\mathrm { Z n ^ { 2 + } }$
+We can also run an experiment where, instead of a solution of $\mathrm { \Delta A g N O _ { 3 } ( a q ) }$ we use zinc nitrate, $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } ( a q ) }$ , as contrasted in [Figure 7.13](#original-fig-7-13). The beaker on the left is a repeat of the experiment depicted in [Figure 7.12](#fig-p1-ch07-26). A strip of clean copper sheet is inserted into a silver nitrate solution. $\mathrm { A g ^ { + } }$ cations are displaced from the clear silver nitrate solution as silver builds up on the copper surface. In the right-hand beaker of [Figure 7.13](#original-fig-7-13), a distinctly different occurrence is observed. The same clean copper strip is placed in a beaker of zinc nitrate $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } ( a q ) }$ . But no reaction takes place. Since the zinc nitrate solution results in the existence of $\mathrm { Z n ^ { 2 + } ( a q ) }$ cations in solution, the fact that no chemical reaction occurs means that the reaction between the solid copper, Cu(s), and the zinc cations, $\mathrm { Z n ^ { 2 + } }$
 
 ```{math}
 :label: eq-p1-ch07-18
@@ -498,6 +498,7 @@ simply does not occur. It is not spontaneous, it does not release free energy.
 :::
 
 (b)
+(original-fig-7-13)=
 FIGURE 7.13 Gibbs free energy dictates the direction of spontaneous chemical reactions in electrothermal processes just as with all chemical reactions. While silver can extract electrons from copper, zinc cannot so
 
 ```{math}
@@ -536,7 +537,7 @@ is nonspontaneous and $\Delta \mathrm { G } > 0$ for the reaction as written, an
 
 ## SPONTANEOUS PROCESS (ΔG < 0)
 
-Consider what you see in Figure 7.13. How is this observed contrast captured in a free energy diagram?
+Consider what you see in [Figure 7.13](#original-fig-7-13). How is this observed contrast captured in a free energy diagram?
 
 (a) Sketch the Gibbs free energy diagram qualitatively for the reaction in the left-hand beaker:
 
@@ -572,7 +573,7 @@ But the objective of electrochemistry is to develop strategies wherein electrica
 
 ## The Galvanic or Voltaic Cell
 
-The basic set up for electrochemistry is the union of Figures 7.10 and 7.11 shown in Figure 7.16: this is called a galvanic or voltaic cell. It consists of two electrodes. The first electrode, dipped in a solution, has the ability to release positive ions from its surface into the solution. A positive ion is an atom stripped of some (or all) of its valence electrons. Positive ions are called cations. The second electrode is also dipped in a (generally different) solution and has the ability to acquire cations from the solution. The electrode that releases cations is called the anode; the electrode that acquires cations is called the cathode. When a cation is released from the anode, there is an extra negative charge, one or more electrons, that remains behind. Similarly, when a cation is acquired by the cathode, there is an extra positive charge on the cathode. If the anode and the cathode are connected by a good conductor, the excess electrons leave the negatively charged anode and travel to the positively charged cathode to restore the charge balance. As long as the release of cations from the anode and the capture of cations by the cathode continue, there is a current of electrons traveling from the anode to the cathode. If we put a voltmeter into the circuit connecting the anode to the cathode, it will register a voltage. The voltage difference measured in this process is defined to be positive when electrons travel from the anode to the cathode. The architecture of the copper-zinc galvanic cell is shown in Figure 7.16.
+The basic set up for electrochemistry is the union of [Figures 7.10](#fig-p1-ch07-21) and [7.11](#fig-p1-ch07-22) shown in [Figure 7.16](#fig-p1-ch07-31): this is called a galvanic or voltaic cell. It consists of two electrodes. The first electrode, dipped in a solution, has the ability to release positive ions from its surface into the solution. A positive ion is an atom stripped of some (or all) of its valence electrons. Positive ions are called cations. The second electrode is also dipped in a (generally different) solution and has the ability to acquire cations from the solution. The electrode that releases cations is called the anode; the electrode that acquires cations is called the cathode. When a cation is released from the anode, there is an extra negative charge, one or more electrons, that remains behind. Similarly, when a cation is acquired by the cathode, there is an extra positive charge on the cathode. If the anode and the cathode are connected by a good conductor, the excess electrons leave the negatively charged anode and travel to the positively charged cathode to restore the charge balance. As long as the release of cations from the anode and the capture of cations by the cathode continue, there is a current of electrons traveling from the anode to the cathode. If we put a voltmeter into the circuit connecting the anode to the cathode, it will register a voltage. The voltage difference measured in this process is defined to be positive when electrons travel from the anode to the cathode. The architecture of the copper-zinc galvanic cell is shown in [Figure 7.16](#fig-p1-ch07-31).
 
 :::{figure} ../images/fig-p1-ch07-31.jpg
 :name: fig-p1-ch07-31
@@ -581,11 +582,11 @@ FIGURE 7.16 A complete electrothermal cell consists of: (1) an anode material th
 :::
 
 
-Figure 7.16 displays a typical “galvanic cell,” the key components of which consists of the following: the anode is made of zinc (Zn), the cathode is made of copper (Cu), and the solutions in each case are $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ and $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } } .$ . If we connect these two with a conducting wire and a voltmeter, and if the concentration of the $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ and $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } }$ are exactly 1 M at temperature 298 K (that is, ${ 2 5 } ^ { \circ } \mathrm { C } ,$ , or room temperature), the voltmeter will show 1.10 V. To sustain the current through the external circuit we have to close the loop, which is accomplished by the so called “salt bridge,” a tube containing a solution of $\mathrm { K N O } _ { 3 }$ that dissociates into $\mathrm { K ^ { + } }$ ions and $\breve { \mathrm { N O } } _ { 3 . } ^ { - }$ . This is connected by two semipermeable membranes to the $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ and $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } }$ solutions.
+[Figure 7.16](#fig-p1-ch07-31) displays a typical “galvanic cell,” the key components of which consists of the following: the anode is made of zinc (Zn), the cathode is made of copper (Cu), and the solutions in each case are $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ and $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } } .$ . If we connect these two with a conducting wire and a voltmeter, and if the concentration of the $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ and $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } }$ are exactly 1 M at temperature 298 K (that is, ${ 2 5 } ^ { \circ } \mathrm { C } ,$ , or room temperature), the voltmeter will show 1.10 V. To sustain the current through the external circuit we have to close the loop, which is accomplished by the so called “salt bridge,” a tube containing a solution of $\mathrm { K N O } _ { 3 }$ that dissociates into $\mathrm { K ^ { + } }$ ions and $\breve { \mathrm { N O } } _ { 3 . } ^ { - }$ . This is connected by two semipermeable membranes to the $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ and $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } }$ solutions.
 
 ## Check Yourself 6
 
-Consider Figure 7.16, a galvanic cell with a zinc anode and a copper cathode.
+Consider [Figure 7.16](#fig-p1-ch07-31), a galvanic cell with a zinc anode and a copper cathode.
 
 (a) Draw the oxidation step at the atomic scale that is occurring at the interface of the zinc electrode and the $\mathrm { Z n ( N O _ { 3 } ) _ { 2 } }$ solution. Include in your drawing the Zn atom, the $\mathrm { Z n ^ { 2 + } }$ cation, and the relevant electrons.
 
@@ -595,7 +596,7 @@ Now the whole system works as follows: $\mathrm { Z n ^ { 2 + } }$ cations are r
 
 ## Check Yourself 7
 
-Consider the salt bridge in Figure 7.16.
+Consider the salt bridge in [Figure 7.16](#fig-p1-ch07-31).
 
 (a) Sketch a picture of the species in the $\mathrm { K N O } _ { 3 } ( \mathrm { a q } )$ salt bridge including only the relevant potassium and nitrate species.
 
@@ -639,7 +640,7 @@ In the galvanic cell described by the net reaction (7.3), the first reaction $( 
 
 So let's review the specific processes that bring the electrochemistry (galvanic) cell to life:
 
-Free energy drives the process downhill wherein copper cations $\left( \mathrm { C u } ^ { 2 + } \right)$ in solution successfully extract electrons from Zn, oxidizing Zn to $\mathrm { Z n ^ { 2 + } }$ at the anode. This produces two electrons that flow through the external circuit connecting the anode to the cathode. The Gibbs free energy diagram for the process is displayed in Figure 7.17.
+Free energy drives the process downhill wherein copper cations $\left( \mathrm { C u } ^ { 2 + } \right)$ in solution successfully extract electrons from Zn, oxidizing Zn to $\mathrm { Z n ^ { 2 + } }$ at the anode. This produces two electrons that flow through the external circuit connecting the anode to the cathode. The Gibbs free energy diagram for the process is displayed in [Figure 7.17](#fig-p1-ch07-32).
 
 :::{figure} ../images/fig-p1-ch07-32.jpg
 :name: fig-p1-ch07-32
@@ -664,7 +665,7 @@ Electrons lost by Zn atoms pass through the wire linking the half cells to the c
 ```
 
 
-We construct our electrochemical cell, designating the anode (Zn) and cathode (Cu), as, respectively, the site of oxidation (anode) and of reduction (cathode) as shown in Figure 7.16.
+We construct our electrochemical cell, designating the anode (Zn) and cathode (Cu), as, respectively, the site of oxidation (anode) and of reduction (cathode) as shown in [Figure 7.16](#fig-p1-ch07-31).
 
 ## The Half-Cell Reactions
 
@@ -676,11 +677,11 @@ Cations (K<sup>+</sup>) from the $\mathrm { K N O } _ { 3 }$ salt bridge migrate
 
 As a result, no net charge builds up in either the anode solution nor the cathode solution.
 
-The key point is that electrons seek whatever pathway is available to them to find the lowest free energy state that they can, as displayed in Figure 7.17. This motive force to seek a lower free energy state generates a potential that serves to extract electrons from the anode and transport them through the external conductor (wire) to the cathode. Just as a mass in a gravitational field has a potential energy equal to mgh (where m is the mass, g is the acceleration of gravity, and h is the height above the “ground”), so too will the electron “fall through” the potential created by the free energy release producing useful work as displayed in Figure 7.17. From the perspective of energy and work, the principles are the same; only the names change.
+The key point is that electrons seek whatever pathway is available to them to find the lowest free energy state that they can, as displayed in [Figure 7.17](#fig-p1-ch07-32). This motive force to seek a lower free energy state generates a potential that serves to extract electrons from the anode and transport them through the external conductor (wire) to the cathode. Just as a mass in a gravitational field has a potential energy equal to mgh (where m is the mass, g is the acceleration of gravity, and h is the height above the “ground”), so too will the electron “fall through” the potential created by the free energy release producing useful work as displayed in [Figure 7.17](#fig-p1-ch07-32). From the perspective of energy and work, the principles are the same; only the names change.
 
 Electrons flow because there is an electrical potential difference generated between the two half cells of the electrochemical cell. That electrical potential difference is termed the cell voltage and it has the units of joule/coulomb, where the coulomb is the unit of charge—a unit we will explore more fully in the following sections.
 
-As noted in Figure 7.16, which depicts our $\mathrm { Z n / C u }$ electrochemical cell, if we place a voltmeter in our external circuit, that voltmeter (if it is accurate) will read 1.103 volts. That voltage is a measure of the relative ability of Cu to extract electrons from $\mathrm { Z n } .$ . This ability to extract electrons by one element in competition with another is expressed as a Reduction Potential for it is the measure of an element's ability to steal electrons (oxidation) from another element that serves as a reducing agent; thus the term reduction potential. The measured overall cell potential, determined by a voltmeter connected between the anode and cathode of the electrochemical cell, arises from a competition, a tug-of-war, between the two half cells for the electrons wherein Cu outduels $\mathrm { Z n }$ for the electrons and in the process oxidizes $\mathrm { Z n }$ at the anode and reduces $\mathrm { C u ^ { 2 + } }$ at the cathode. This competition for electrons, this tug-of-war to extract electrons, is shown in Figure 7.18. Note that it is the more powerful reducer that wins! Each element has a Standard Reduction Potential when measured under standard conditions $( 2 5 ^ { \circ } \mathrm { C } ,$ , 1 molar, 1 atm). We will, in the next section, tabulate these reduction potentials. In electrochemistry, we express the standard reduction potential as
+As noted in [Figure 7.16](#fig-p1-ch07-31), which depicts our $\mathrm { Z n / C u }$ electrochemical cell, if we place a voltmeter in our external circuit, that voltmeter (if it is accurate) will read 1.103 volts. That voltage is a measure of the relative ability of Cu to extract electrons from $\mathrm { Z n } .$ . This ability to extract electrons by one element in competition with another is expressed as a Reduction Potential for it is the measure of an element's ability to steal electrons (oxidation) from another element that serves as a reducing agent; thus the term reduction potential. The measured overall cell potential, determined by a voltmeter connected between the anode and cathode of the electrochemical cell, arises from a competition, a tug-of-war, between the two half cells for the electrons wherein Cu outduels $\mathrm { Z n }$ for the electrons and in the process oxidizes $\mathrm { Z n }$ at the anode and reduces $\mathrm { C u ^ { 2 + } }$ at the cathode. This competition for electrons, this tug-of-war to extract electrons, is shown in [Figure 7.18](#fig-p1-ch07-33). Note that it is the more powerful reducer that wins! Each element has a Standard Reduction Potential when measured under standard conditions $( 2 5 ^ { \circ } \mathrm { C } ,$ , 1 molar, 1 atm). We will, in the next section, tabulate these reduction potentials. In electrochemistry, we express the standard reduction potential as
 
 :::{figure} ../images/fig-p1-ch07-33.jpg
 :name: fig-p1-ch07-33
@@ -697,7 +698,7 @@ E _ {\text { cell }} ^ {\circ} = \left[ \begin{array}{c} \text { standard   redu
 ```
 
 
-as summarized in Figure 7.18 and Figure 7.19.
+as summarized in [Figure 7.18](#fig-p1-ch07-33) and [Figure 7.19](#original-fig-7-19).
 
 ## When two half cells are connected
 
@@ -756,11 +757,12 @@ E _ {\mathrm{cell}} ^ {\circ} = E _ {\mathrm {Cu^ {2 + }}} ^ {\circ} - E _ {\mat
 ```
 
 
+(original-fig-7-19)=
 FIGURE 7.19 When two half-cells (a half-cell consists of a metal electrode in solution) are connected with an external circuit (a wire) opening up a pathway for electrons to flow, the electrode with the greater reduction potential pulls electrons from the electrode with the lesser reduction potential in a tug-of-war. The cell potential, $\dot { E } _ { \mathrm { c e l l } } .$ , calculated from the individual reduction potentials by subtracting the smaller reduction potential from the larger.
 
 ## Check Yourself 8
 
-Suppose we consider the galvanic cell constructed from an electrode of silver and an electrode of copper. Examine the relationship between Figure 7.19 and Figure 7.14 to answer the following:
+Suppose we consider the galvanic cell constructed from an electrode of silver and an electrode of copper. Examine the relationship between [Figure 7.19](#original-fig-7-19) and [Figure 7.14](#fig-p1-ch07-29) to answer the following:
 
 1. Identify the cation with the greater ability to compete for electrons, and sketch a figure indicating the tug-of-war between the respective cation.
 
@@ -768,7 +770,7 @@ Suppose we consider the galvanic cell constructed from an electrode of silver an
 
 3. Write the half-cell reactions indicating which reaction occurs at the anode and which reaction occurs at the cathode.
 
-4. Write the equation for the cell voltage, $E _ { \mathrm { \ c e l l } } ^ { \circ }$ , as given by Equation 7.6. properly identifying the reduced and oxidized species as is done in the framed equation in Figure 7.19.
+4. Write the equation for the cell voltage, $E _ { \mathrm { \ c e l l } } ^ { \circ }$ , as given by [Equation 7.6](#eq-p1-ch07-31). properly identifying the reduced and oxidized species as is done in the framed equation in [Figure 7.19](#original-fig-7-19).
 
 ## The Standard Hydrogen Electrode
 
@@ -780,7 +782,7 @@ There are many possible combinations of anodes and cathodes that could make up a
 ```
 
 
-Since the free energy release of the reaction is affected by the concentration, the temperature and the pressure, the standard conditions are chosen to be 1 M concentration of $\mathrm { H ^ { + } }$ , a temperature of 298 K and a pressure of 1 atm of $\mathrm { H } _ { 2 } ( \mathbf { g } )$ . Also, because it is difficult (in fact impossible!) to have an electrode made of pure $\mathrm { H } _ { 2 }$ at standard conditions, the reaction is done on a Pt catalyst, using $\mathrm { H } _ { 2 }$ gas at the standard conditions of temperature and pressure. Relative to this potential, the potential of any other electrode is called the Standard Electrode Potential. The Standard Hydrogen Electrode is shown in Figure 7.20.
+Since the free energy release of the reaction is affected by the concentration, the temperature and the pressure, the standard conditions are chosen to be 1 M concentration of $\mathrm { H ^ { + } }$ , a temperature of 298 K and a pressure of 1 atm of $\mathrm { H } _ { 2 } ( \mathbf { g } )$ . Also, because it is difficult (in fact impossible!) to have an electrode made of pure $\mathrm { H } _ { 2 }$ at standard conditions, the reaction is done on a Pt catalyst, using $\mathrm { H } _ { 2 }$ gas at the standard conditions of temperature and pressure. Relative to this potential, the potential of any other electrode is called the Standard Electrode Potential. The Standard Hydrogen Electrode is shown in [Figure 7.20](#fig-p1-ch07-35).
 
 ## Standard Hydrogen Electrode
 
@@ -805,13 +807,14 @@ FIGURE 7.20 Given that what matters in a voltaic cell (a.k.a. galvanic cell) is 
 :::
 
 
-This standard hydrogen electrode potential provides the means to set a quantitative scale for a vast array of possible anode/cathode combinations and to thereby determine the cell potential and thus the spontaneous direction of electron flow in a wide array of anode and cathode materials to form an electrochemical cell. Table 7.1 lists an array of standard electrode potentials at $2 5 ^ { \circ } \mathrm { C }$ in order of decreasing reduction potential. Thus, the electrodes at the top of the chart have the greatest ability to attract electrons in a battle with electrodes of lower reduction potential, which appear at the bottom of the table.
+This standard hydrogen electrode potential provides the means to set a quantitative scale for a vast array of possible anode/cathode combinations and to thereby determine the cell potential and thus the spontaneous direction of electron flow in a wide array of anode and cathode materials to form an electrochemical cell. [Table 7.1](#original-table-7-1) lists an array of standard electrode potentials at $2 5 ^ { \circ } \mathrm { C }$ in order of decreasing reduction potential. Thus, the electrodes at the top of the chart have the greatest ability to attract electrons in a battle with electrodes of lower reduction potential, which appear at the bottom of the table.
 
+(original-table-7-1)=
 TABLE 7.1 Some selected Standard Electrode (Reduction) Potentials at $\mathtt { \rVert 5 ^ { \circ } C }$
 
 <table><tr><td>Reduction Half-Reaction</td><td> $E^{\circ}$ , V</td></tr><tr><td>Acidic Solution</td><td></td></tr><tr><td> $F_2(g) + 2e^- \rightarrow 2F^-(aq)$ </td><td>+2.866</td></tr><tr><td> $O_3(g) + 2H^+(aq) + 2e^- \rightarrow O_2(g) + H_2O(l)$ </td><td>+2.075</td></tr><tr><td> $S_2O_8^{2-}(aq) + 2e^- \rightarrow 2SO_4^{2-}(aq)$ </td><td>+2.01</td></tr><tr><td> $H_2O_2(aq) + 2H^+(aq) + 2e^- \rightarrow 2H_2O(l)$ </td><td>+1.763</td></tr><tr><td> $MnO_4^-(aq) + 8H^+(aq) + 5e^- \rightarrow Mn^{2+}(aq) + 4H_2O(l)$ </td><td>+1.51</td></tr><tr><td> $PbO_2(s) + 4H^+(aq) + 2e^- \rightarrow Pb^{2+}(aq) + 2H_2O(l)$ </td><td>+1.455</td></tr><tr><td> $Cl_2(g) + 2e^- \rightarrow 2Cl^-(aq)$ </td><td>+1.358</td></tr><tr><td> $Cr_2O_7^{2-}(aq) + 14H^+(aq) + 6e^- \rightarrow 2Cr^{3+}(aq) + 7H_2O(l)$ </td><td>+1.33</td></tr><tr><td> $MnO_2(s) + 4H^+(aq) + 2e^- \rightarrow Mn^{2+}(aq) + 2H_2O(l)$ </td><td>+1.23</td></tr><tr><td> $O_2(g) + 4H^+(aq) + 4e^- \rightarrow 2H_2O(l)$ </td><td>+1.229</td></tr><tr><td> $2IO_3^-(aq) + 12H^+(aq) + 10e^- \rightarrow I_2(s) + 2H_2O(l)$ </td><td>+1.20</td></tr><tr><td> $Br_2(l) + 2e^- \rightarrow 2Br^-(aq)$ </td><td>+1.065</td></tr><tr><td> $NO_3^-(aq) + 4H^+(aq) + 3e^- \rightarrow NO(g) + 2H_2O(l)$ </td><td>+0.956</td></tr><tr><td> $Ag^+(aq) + e^- \rightarrow Ag(s)$ </td><td>+0.800</td></tr><tr><td> $Fe^{3+}(aq) + e^- \rightarrow Fe^{2+}(aq)$ </td><td>+0.771</td></tr><tr><td> $O_2(g) + 2H^+(aq) + 2e^- \rightarrow H_2O_2(aq)$ </td><td>+0.695</td></tr><tr><td> $I_2(s) + 2e^- \rightarrow 2I^-(aq)$ </td><td>+0.535</td></tr><tr><td> $Cu^{2+}(aq) + 2e^- \rightarrow Cu(s)$ </td><td>+0.340</td></tr><tr><td> $SO_4^{2-}(aq) + 4H^+(aq) + 2e^- \rightarrow 2H_2O(l) + SO_2(g)$ </td><td>+0.17</td></tr><tr><td> $Sn^{4+}(aq) + 2e^- \rightarrow Sn^{2+}(aq)$ </td><td>+0.154</td></tr><tr><td> $S(s) + 2H^+(aq) + 2e^- \rightarrow H_2S(g)$ </td><td>+0.14</td></tr><tr><td> $2H^+(aq) + 2e^- \rightarrow H_2(g)$ </td><td>0</td></tr><tr><td> $Pb^{2+}(aq) + 2e^- \rightarrow Pb(s)$ </td><td>-0.125</td></tr><tr><td> $Sn^{2+}(aq) + 2e^- \rightarrow Sn(s)$ </td><td>-0.137</td></tr><tr><td> $Cd^{2+}(aq) + 2e^- \rightarrow Cd(s)$ </td><td>-0.403</td></tr><tr><td> $Fe^{2+}(aq) + 2e^- \rightarrow Fe(s)$ </td><td>-0.440</td></tr><tr><td> $Zn^{2+}(aq) + 2e^- \rightarrow Zn(s)$ </td><td>-0.763</td></tr><tr><td> $Al^{3+}(aq) + 3e^- \rightarrow Al(s)$ </td><td>-1.676</td></tr><tr><td> $Mg^{2+}(aq) + 2e^- \rightarrow Mg(s)$ </td><td>-2.356</td></tr><tr><td> $Na^+(aq) + e^- \rightarrow Na(s)$ </td><td>-2.713</td></tr><tr><td> $Ca^{2+}(aq) + 2e^- \rightarrow Ca(s)$ </td><td>-2.84</td></tr><tr><td> $K^+(aq) + e^- \rightarrow K(s)$ </td><td>-2.924</td></tr><tr><td> $Li^+(aq) + e^- \rightarrow Li(s)$ </td><td>-3.040</td></tr><tr><td>Basic Solution</td><td></td></tr><tr><td> $O_3(g) + H_2O(l) + 2e^- \rightarrow O_2(g) + 2OH^-(aq)$ </td><td>+1.246</td></tr><tr><td> $OCl^-(aq) + H_2O(l) + 2e^- \rightarrow Cl^-(aq) + 2OH^-(aq)$ </td><td>+0.890</td></tr><tr><td> $O_2(g) + 2H_2O(l) + 4e^- \rightarrow 4OH^-(aq)$ </td><td>+0.401</td></tr><tr><td> $2H_2O(l) + 2e^- \rightarrow H_2(g) + 2OH^-(aq)$ </td><td>-0.828</td></tr></table>
 
-However, before we proceed to discuss the design of electrochemical cells, it is important to visualize in detail what occurs at the platinum electrode interface with the solution. This is shown with atomic level resolution in Figure 7.21. Specifically, the platinum electrode plays no chemical role in the reaction. It is chemically inert—it serves only as a stable physical interface through which electrons readily move. As such, it constitutes an important class of inert electrodes, a topic we will develop in more detail. However, carefully follow the sequence of events displayed in Figure 7.21. The $\mathrm { H ^ { + } }$ cations, which we express as $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ following Chapter 7, extract electrons from the platinum surface producing $\mathrm { H } _ { 2 } ( \mathbf { g } )$ that creates a bubble of hydrogen at the surface of two electrodes. The other product, $_ \mathrm { H _ { 2 } O }$ , enters the solution.
+However, before we proceed to discuss the design of electrochemical cells, it is important to visualize in detail what occurs at the platinum electrode interface with the solution. This is shown with atomic level resolution in [Figure 7.21](#fig-p1-ch07-36). Specifically, the platinum electrode plays no chemical role in the reaction. It is chemically inert—it serves only as a stable physical interface through which electrons readily move. As such, it constitutes an important class of inert electrodes, a topic we will develop in more detail. However, carefully follow the sequence of events displayed in [Figure 7.21](#fig-p1-ch07-36). The $\mathrm { H ^ { + } }$ cations, which we express as $\mathrm { H } _ { 3 } \mathrm { O } ^ { + }$ following Chapter 7, extract electrons from the platinum surface producing $\mathrm { H } _ { 2 } ( \mathbf { g } )$ that creates a bubble of hydrogen at the surface of two electrodes. The other product, $_ \mathrm { H _ { 2 } O }$ , enters the solution.
 
 :::{figure} ../images/fig-p1-ch07-36.jpg
 :name: fig-p1-ch07-36
@@ -820,7 +823,7 @@ FIGURE 7.21 While ${ \sf H } _ { 2 } ( { \sf g } )$ does not constitute a physic
 :::
 
 
-The patterns evident in the tabulation of Standard Electrode Potentials in Table 7.1 emerge from the pattern of electronegativities across the periodic table reviewed in Figure 7.22. The highly electronegative elements and compounds have the greatest reduction potentials. The halogen compounds, oxygen, and oxides dominate the higher reduction potentials, while the alkali metals and alkaline earth metals with extremely low electronegativity possess the lowest reduction potentials. Just as fluorine, oxygen, chlorine, and nitrogen draw electrons to them in chemical bonds, so too do these species act as excellent cathodes, vying very successfully for electrons. In a similar vein, just as lithium, sodium, potassium, etc., donate electrons to ionic bonds, so too do these species readily give up electrons in an electrochemical cell, thereby constituting an excellent anode material where they undergo oxidation. When viewed from the perspective of electronegativity, the periodic table takes the form shown in Figure 7.22.
+The patterns evident in the tabulation of Standard Electrode Potentials in [Table 7.1](#original-table-7-1) emerge from the pattern of electronegativities across the periodic table reviewed in [Figure 7.22](#original-fig-7-22). The highly electronegative elements and compounds have the greatest reduction potentials. The halogen compounds, oxygen, and oxides dominate the higher reduction potentials, while the alkali metals and alkaline earth metals with extremely low electronegativity possess the lowest reduction potentials. Just as fluorine, oxygen, chlorine, and nitrogen draw electrons to them in chemical bonds, so too do these species act as excellent cathodes, vying very successfully for electrons. In a similar vein, just as lithium, sodium, potassium, etc., donate electrons to ionic bonds, so too do these species readily give up electrons in an electrochemical cell, thereby constituting an excellent anode material where they undergo oxidation. When viewed from the perspective of electronegativity, the periodic table takes the form shown in [Figure 7.22](#original-fig-7-22).
 
 :::{figure} ../images/fig-p1-ch07-37.jpg
 :name: fig-p1-ch07-37
@@ -829,11 +832,12 @@ The patterns evident in the tabulation of Standard Electrode Potentials in Table
 
 Electronegativity (tendency of atoms to “grab” electrons) is related to electrochemical potential—relative to H!
 
+(original-fig-7-22)=
 FIGURE 7.22 Different elements have varying abilities to draw electrons to them. The relative ability of individual elements in the periodic table to attract electrons is quantified by a scale called the electronegativity scale. The pattern of electronegativity that occurs in the periodic table is shown here. The elements with the greatest electronegativity appear in the upper right of the periodic table (F, O, N, Cl, Br, C, etc.) and the elements with the lowest electronegativity appear in the lower left of the periodic table. Electronegativity of the individual elements is related to the reduction potential of those elements in an electrochemical cell.
 
 ## Calculation of the Cell Potential
 
-It is important to examine the behavior of a number of electrodes in an electrochemical cell when one of those electrodes is a standard hydrogen electrode. To analyze the behavior of such a cell we must first establish which electrode is the anode, the site of oxidation (where electrons are lost), and which electrode is the cathode, the site of reduction (where electrons are gained). We can determine this experimentally using a voltmeter inserted into the external circuit. If we attach the positive lead of the voltmeter to the anode, the meter will read a positive value. If we make a mistake and connect the voltmeter the wrong way, the voltmeter will read a negative voltage. Alternatively, we can consult our table of standard electrode potentials to determine which of the two electrodes has the higher reduction potential. If, for example, we choose Cu as the companion electrode to the standard hydrogen electrode, we see that $E _ { \mathrm { C u } } ^ { \circ } = + 0 . { \dot { 3 } } 4 0$ volts. Because ${ \cal E } _ { \mathrm { H } _ { 2 } } ^ { \circ } = 0 . 0$ volts, we know that the Cu electrode will successfully extract electrons from the hydrogen electrode. This cell is diagramed in Figure 7.23.
+It is important to examine the behavior of a number of electrodes in an electrochemical cell when one of those electrodes is a standard hydrogen electrode. To analyze the behavior of such a cell we must first establish which electrode is the anode, the site of oxidation (where electrons are lost), and which electrode is the cathode, the site of reduction (where electrons are gained). We can determine this experimentally using a voltmeter inserted into the external circuit. If we attach the positive lead of the voltmeter to the anode, the meter will read a positive value. If we make a mistake and connect the voltmeter the wrong way, the voltmeter will read a negative voltage. Alternatively, we can consult our table of standard electrode potentials to determine which of the two electrodes has the higher reduction potential. If, for example, we choose Cu as the companion electrode to the standard hydrogen electrode, we see that $E _ { \mathrm { C u } } ^ { \circ } = + 0 . { \dot { 3 } } 4 0$ volts. Because ${ \cal E } _ { \mathrm { H } _ { 2 } } ^ { \circ } = 0 . 0$ volts, we know that the Cu electrode will successfully extract electrons from the hydrogen electrode. This cell is diagramed in [Figure 7.23](#fig-p1-ch07-38).
 
 ## Check Yourself 9
 
@@ -852,9 +856,9 @@ FIGURE 7.23 With the standard reduction potential of the hydrogen electrode set 
 :::
 
 
-It is instructive to analyze the hydrogen-copper galvanic cell in some detail. Figure 7.23, in the upper panel, represents the two half-cells on an energy diagram before they are connected. Because the copper electrode has a higher reduction potential, it has a greater ability to draw electrons to it than does the hydrogen electrode. Thus the copper electrode lies at a lower energy than does the hydrogen electrode. If the half-cells are connected by an external circuit consisting of a conducting wire between the hydrogen half-cell and the copper half-cell, and a salt bridge joins the two half-cells, electrons will flow downhill in energy. This is displayed in the lower panel of Figure 7.23.
+It is instructive to analyze the hydrogen-copper galvanic cell in some detail. [Figure 7.23](#fig-p1-ch07-38), in the upper panel, represents the two half-cells on an energy diagram before they are connected. Because the copper electrode has a higher reduction potential, it has a greater ability to draw electrons to it than does the hydrogen electrode. Thus the copper electrode lies at a lower energy than does the hydrogen electrode. If the half-cells are connected by an external circuit consisting of a conducting wire between the hydrogen half-cell and the copper half-cell, and a salt bridge joins the two half-cells, electrons will flow downhill in energy. This is displayed in the lower panel of [Figure 7.23](#fig-p1-ch07-38).
 
-We can also condense the complete picture presented in Figure 7.23 and place just the half-reactions on an energy diagram
+We can also condense the complete picture presented in [Figure 7.23](#fig-p1-ch07-38) and place just the half-reactions on an energy diagram
 
 :::{figure} ../images/fig-p1-ch07-39.jpg
 :name: fig-p1-ch07-39
@@ -914,7 +918,7 @@ Calculate the standard reduction potential for $\mathrm { A g ^ { + } }$ if the 
 
 ## Solution
 
-This requires that we identify the substance oxidized and the substance reduced. Silver changes from $\mathrm { A g ^ { + } }$ to $\operatorname { A g } ;$ its oxidation number decreases from +1 to 0, so $\mathrm { A g ^ { + } }$ is reduced. Similar reasoning tells us that copper is oxidized from Cu to $\mathrm { C u ^ { 2 + } }$ . Therefore, according to Equation 7.6,
+This requires that we identify the substance oxidized and the substance reduced. Silver changes from $\mathrm { A g ^ { + } }$ to $\operatorname { A g } ;$ its oxidation number decreases from +1 to 0, so $\mathrm { A g ^ { + } }$ is reduced. Similar reasoning tells us that copper is oxidized from Cu to $\mathrm { C u ^ { 2 + } }$ . Therefore, according to [Equation 7.6](#eq-p1-ch07-31),
 
 :::{figure} ../images/fig-p1-ch07-41.jpg
 :name: fig-p1-ch07-41
@@ -933,9 +937,9 @@ The standard reduction potential of silver ion is therefore +0.80 V.
 
 ## Does the answer seem reasonable?
 
-We know the cell potential is the difference between the two reduction potentials. The difference between +0.80 V and +0.34 V (subtracting the smaller from the larger) is 0.46 V. Our calculated reduction potential for $\mathrm { A g ^ { + } }$ appears to be correct. We can, of course, cross check our answer against Table 7.1!
+We know the cell potential is the difference between the two reduction potentials. The difference between +0.80 V and +0.34 V (subtracting the smaller from the larger) is 0.46 V. Our calculated reduction potential for $\mathrm { A g ^ { + } }$ appears to be correct. We can, of course, cross check our answer against [Table 7.1](#original-table-7-1)!
 
-If, on the other hand, we pair a Zn electrode with our standard hydrogen electrode, the analysis demonstrates that ${ \cal E } _ { \mathrm { H } _ { 2 } } ^ { \circ } = 0 . 0$ volts, but $E _ { \mathrm { Z n } ^ { 2 + } } ^ { \circ } = - \mathbf { 0 } . 7 6$ volts. Therefore, we know that, because $E _ { \mathrm { H } _ { 2 } } ^ { \circ } > E _ { \mathrm { Z n } ^ { 2 + } } ^ { \circ }$ , electrons will be extracted from Zn by the $\mathrm { H } _ { 2 }$ electrode so that the Zn electrode is the anode, the $\mathrm { H } _ { 2 }$ electrode is the cathode; oxidation occurs at the Zn electrode, and reduction occurs at the Hydrogen electrode. Figure 7.24 sets out the electrochemical cell comprised of Zn as the anode and $\mathrm { H } _ { 2 }$ as the cathode. The cell voltage is
+If, on the other hand, we pair a Zn electrode with our standard hydrogen electrode, the analysis demonstrates that ${ \cal E } _ { \mathrm { H } _ { 2 } } ^ { \circ } = 0 . 0$ volts, but $E _ { \mathrm { Z n } ^ { 2 + } } ^ { \circ } = - \mathbf { 0 } . 7 6$ volts. Therefore, we know that, because $E _ { \mathrm { H } _ { 2 } } ^ { \circ } > E _ { \mathrm { Z n } ^ { 2 + } } ^ { \circ }$ , electrons will be extracted from Zn by the $\mathrm { H } _ { 2 }$ electrode so that the Zn electrode is the anode, the $\mathrm { H } _ { 2 }$ electrode is the cathode; oxidation occurs at the Zn electrode, and reduction occurs at the Hydrogen electrode. [Figure 7.24](#fig-p1-ch07-42) sets out the electrochemical cell comprised of Zn as the anode and $\mathrm { H } _ { 2 }$ as the cathode. The cell voltage is
 
 ```{math}
 :label: eq-p1-ch07-46
@@ -972,7 +976,7 @@ E _ {\text { cell }} ^ {\mathrm{o}} = E _ {\text { winner }} ^ {\mathrm{o}} - E 
 ```
 
 
-As we discussed in the presentation of Figure 7.17, electrochemical systems are driven in their spontaneous direction toward the release of free energy that in turn is established by the difference in the standard reduction potential between the cathode and the anode with the larger reduction potential drawing electrons “downhill” to the cathode. By the same argument, the calculated cell potential,
+As we discussed in the presentation of [Figure 7.17](#fig-p1-ch07-32), electrochemical systems are driven in their spontaneous direction toward the release of free energy that in turn is established by the difference in the standard reduction potential between the cathode and the anode with the larger reduction potential drawing electrons “downhill” to the cathode. By the same argument, the calculated cell potential,
 
 ```{math}
 :label: eq-p1-ch07-48
@@ -994,7 +998,7 @@ Determine whether the following reaction is spontaneous as written. If it is not
 
 ## Analysis
 
-First we must determine the standard reduction potential for each element or compound involved in the half-cell reaction of the electrochemical cell. We recognize, by the definition of the standard reduction potential that it is the ability of an electrode material to extract electrons that determines the reduction potential. Thus we can write, based on an inspection of Table 7.1, that $\mathrm { C u } ^ { 2 + } ( a q )$ has the greater standard reduction potential so we write to half-cell reaction as
+First we must determine the standard reduction potential for each element or compound involved in the half-cell reaction of the electrochemical cell. We recognize, by the definition of the standard reduction potential that it is the ability of an electrode material to extract electrons that determines the reduction potential. Thus we can write, based on an inspection of [Table 7.1](#original-table-7-1), that $\mathrm { C u } ^ { 2 + } ( a q )$ has the greater standard reduction potential so we write to half-cell reaction as
 
 ```{math}
 :label: eq-p1-ch07-50
@@ -1031,7 +1035,7 @@ Inspection of our original chemical reaction reveals that, as written, the react
 
 At this point it may appear that the metal from which the electrodes are made must match the cation in solution—namely that in the zinc-copper electrochemical cell the anode must be zinc and the cathode must be copper.
 
-However, consider first what the zinc anode and copper cathode look like after an electrochemical cell has operated for a period of time. This is displayed in Figure 7.25. The anode is decidedly eroded away because the reaction
+However, consider first what the zinc anode and copper cathode look like after an electrochemical cell has operated for a period of time. This is displayed in [Figure 7.25](#fig-p1-ch07-44). The anode is decidedly eroded away because the reaction
 
 ```{math}
 :label: eq-p1-ch07-53
@@ -1058,7 +1062,7 @@ Inspection of the cathode reveals that copper metal, Cu(s), has built up on the 
 
 This immediately raises the question: is it necessary that the cathode be composed of the same materials as the metal that plates out on the cathode surface? Must copper metal compose the cathode in order for copper cations to be successfully reduced at the electrode-solution interface? The answer is that the cathode material need not be identical to the metal that plates out on the electrode surface.
 
-The conclusion that the cathode material need not be the same as the metal that plates out on it has important implications. What the cathode electrode must provide is (1) a conductive path for electrons coming from the anode through the external circuit, (2) a solid interface at the electrodesolution interface, and (3) the absence of any chemical activity that would impede the union of the cation-electron reduction at the surface. Two cathode materials are particularly good at achieving these objectives. One is platinum and the other carbon. We can depict what happens in a galvanic cell constructed from a zinc anode and a platinum cathode, with the platinum cathode placed in a solution of $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ in Figure 7.26.
+The conclusion that the cathode material need not be the same as the metal that plates out on it has important implications. What the cathode electrode must provide is (1) a conductive path for electrons coming from the anode through the external circuit, (2) a solid interface at the electrodesolution interface, and (3) the absence of any chemical activity that would impede the union of the cation-electron reduction at the surface. Two cathode materials are particularly good at achieving these objectives. One is platinum and the other carbon. We can depict what happens in a galvanic cell constructed from a zinc anode and a platinum cathode, with the platinum cathode placed in a solution of $\mathrm { C u ( N O _ { 3 } ) _ { 2 } }$ in [Figure 7.26](#fig-p1-ch07-45).
 
 :::{figure} ../images/fig-p1-ch07-45.jpg
 :name: fig-p1-ch07-45
@@ -1069,18 +1073,18 @@ FIGURE 7.26 At the interface between the platinum cathode and the ${ \mathsf { C
 
 ## Active vs. Inactive Electrodes
 
-It is important to recognize the role taken by an electrode that is not explicitly involved in an electrochemical half-reaction. An electrode that is not explicitly involved in a half reaction is not oxidized or reduced. It therefore does not appear in the half-reactions that establish oxidation at the anode or reduction at the cathode. In practice the role an inert electrode can play in electrochemistry dramatically widens the array of possible electrochemical reactions. The most ubiquitous example of an inert electrode is that of the standard hydrogen electrode. It is obvious that hydrogen, $\mathrm { H } _ { 2 } ( \mathbf { g } )$ , does not constitute a physically viable electrode material. Rather, as we discussed, platinum is used as a mechanically stable, chemically inert interface with the flowing hydrogen gas and the protons, $\mathrm { H ^ { + } }$ , in solution as depicted in the atomic level schematic in Figure 7.21.
+It is important to recognize the role taken by an electrode that is not explicitly involved in an electrochemical half-reaction. An electrode that is not explicitly involved in a half reaction is not oxidized or reduced. It therefore does not appear in the half-reactions that establish oxidation at the anode or reduction at the cathode. In practice the role an inert electrode can play in electrochemistry dramatically widens the array of possible electrochemical reactions. The most ubiquitous example of an inert electrode is that of the standard hydrogen electrode. It is obvious that hydrogen, $\mathrm { H } _ { 2 } ( \mathbf { g } )$ , does not constitute a physically viable electrode material. Rather, as we discussed, platinum is used as a mechanically stable, chemically inert interface with the flowing hydrogen gas and the protons, $\mathrm { H ^ { + } }$ , in solution as depicted in the atomic level schematic in [Figure 7.21](#fig-p1-ch07-36).
 
-What about other oxidation-reduction reactions that appear in Table 7.1 that do not possess viable electrode materials in their half-reaction? For example the reaction:
+What about other oxidation-reduction reactions that appear in [Table 7.1](#original-table-7-1) that do not possess viable electrode materials in their half-reaction? For example the reaction:
 
 :::{figure} ../images/fig-p1-ch07-46.jpg
 :name: fig-p1-ch07-46
 :alt: Figure from the University Chemistry source textbook
 :::
 
-This is clearly an aqueous phase oxidation-reduction reaction with a standard reduction potential of +1.51 volts defined in Table 7.1. However, what is the electrode material? There does not appear to be any viable physically stable electrode material in the half-reaction.
+This is clearly an aqueous phase oxidation-reduction reaction with a standard reduction potential of +1.51 volts defined in [Table 7.1](#original-table-7-1). However, what is the electrode material? There does not appear to be any viable physically stable electrode material in the half-reaction.
 
-Another example from Table 7.1 is the reaction
+Another example from [Table 7.1](#original-table-7-1) is the reaction
 
 ```{math}
 :label: eq-p1-ch07-55
@@ -1098,7 +1102,7 @@ Anode: Oxidation half-reaction: 2I−(aq) → I2(s) + 2e−
 
 Net overall cell reaction: $2 \mathrm { M n O } _ { 4 } ^ { - } + 1 6 \mathrm { H } ^ { + } ( \mathrm { a q ) } + 1 0 \mathrm { I } ^ { - } ( \mathrm { a q ) }  2 \mathrm { M n } ^ { 2 + } ( \mathrm { a q ) } + 5 \mathrm { I } _ { 2 } ^ { } ( \mathrm { s ) } + 8 \mathrm { H } _ { 2 } \mathrm { O } ( \mathrm { l } )$
 
-But how is it possible to construct a viable electrochemical cell when there is no participant in the reduction half-reaction that is a solid? Also in this case the oxidation half-reaction involves the solid $\mathrm { I } _ { 2 } ,$ which lacks the strength to serve as physically stable electrode. In cases such as this, an inert material such as graphite or platinum is used as an electrode. The inert graphite or platinum serves to deliver electrons and provide a stable interface with the solution. In the anode half cell, I<sup>-</sup>(aq) is oxidized to $\mathrm { I } _ { 2 } ( s )$ on a graphite rod as shown in Figure 7.27. Electrons so released flow to the cathode, which is also an inert graphite electrode. Electrons flow through the graphite reducing $\mathrm { M n O _ { 4 } } ^ { - } ( a q )$ to $\mathbf { M } \mathbf { n } ^ { 2 + } ( a q )$ at the interface between the graphite and the solution. A salt bridge of $\mathrm { K N O } _ { 3 }$ is used to maintain charge neutrality with $\mathrm { N O _ { 3 } } ^ { - }$ entering the anode half-reaction and $\mathrm { K ^ { + } }$ entering the cathode halfreaction. The design of the complete electrochemical cell is displayed in Figure 7.27.
+But how is it possible to construct a viable electrochemical cell when there is no participant in the reduction half-reaction that is a solid? Also in this case the oxidation half-reaction involves the solid $\mathrm { I } _ { 2 } ,$ which lacks the strength to serve as physically stable electrode. In cases such as this, an inert material such as graphite or platinum is used as an electrode. The inert graphite or platinum serves to deliver electrons and provide a stable interface with the solution. In the anode half cell, I<sup>-</sup>(aq) is oxidized to $\mathrm { I } _ { 2 } ( s )$ on a graphite rod as shown in [Figure 7.27](#fig-p1-ch07-47). Electrons so released flow to the cathode, which is also an inert graphite electrode. Electrons flow through the graphite reducing $\mathrm { M n O _ { 4 } } ^ { - } ( a q )$ to $\mathbf { M } \mathbf { n } ^ { 2 + } ( a q )$ at the interface between the graphite and the solution. A salt bridge of $\mathrm { K N O } _ { 3 }$ is used to maintain charge neutrality with $\mathrm { N O _ { 3 } } ^ { - }$ entering the anode half-reaction and $\mathrm { K ^ { + } }$ entering the cathode halfreaction. The design of the complete electrochemical cell is displayed in [Figure 7.27](#fig-p1-ch07-47).
 
 :::{figure} ../images/fig-p1-ch07-47.jpg
 :name: fig-p1-ch07-47
@@ -1109,13 +1113,13 @@ FIGURE 7.27 When the reactants and products of an oxidation-reduction reaction r
 
 The idea of using inert electrodes represents a major advance in extending the field of electrochemistry to a far broader compliment of redox reactions. This becomes particularly important in the design of new batteries, as we will see in the Case Studies at the end of the Chapter.
 
-An inspection of Table 7.1 reveals how important the use of inert electrodes is to modern electrochemistry. Nearly half of the reactions listed in Table 7.1 require inert electrodes to function.
+An inspection of [Table 7.1](#original-table-7-1) reveals how important the use of inert electrodes is to modern electrochemistry. Nearly half of the reactions listed in [Table 7.1](#original-table-7-1) require inert electrodes to function.
 
 ## Notation for an Electrochemical Cell: A Shorthand Technique
 
 To this point in the chapter, we have taken pains to present for each case a complete drawing of an electrochemical cell showing explicitly the oxidation at the anode, the external circuit, the reduction at the cathode, the direction of electron movement and the salt bridge that maintains charge neutrality. Once the operation of the electrochemical cell is mastered, the focus turns to breaking the voltaic cell down to just represent the species oxidized and the species reduced.
 
-Consider the voltaic cell in Figure 7.28 which uses an inert platinum cathode to mediate the reduction of $\mathrm { M n O _ { 4 } ^ { - } ( a q ) _ { \ t o } \mathrm { M n ^ { 2 + } ( a q ) } }$ and an iron anode that is sacrificed in the oxidation reaction $\mathrm { F e } ( \mathrm { s } )  \mathrm { F e } ^ { 2 + } ( \mathrm { a q } ) + 2 \mathrm { e } ^ { - }$ . The overall redox reaction is
+Consider the voltaic cell in [Figure 7.28](#fig-p1-ch07-48) which uses an inert platinum cathode to mediate the reduction of $\mathrm { M n O _ { 4 } ^ { - } ( a q ) _ { \ t o } \mathrm { M n ^ { 2 + } ( a q ) } }$ and an iron anode that is sacrificed in the oxidation reaction $\mathrm { F e } ( \mathrm { s } )  \mathrm { F e } ^ { 2 + } ( \mathrm { a q } ) + 2 \mathrm { e } ^ { - }$ . The overall redox reaction is
 
 ```{math}
 :label: eq-p1-ch07-56
@@ -1130,13 +1134,13 @@ FIGURE 7.28 It is very important to become familiar with both (1) the architectu
 :::
 
 
-While this is a rather complex reaction that occurs in the two chambers of the voltaic cell in Figure $_ { - 7 . 2 8 }$ the entire structure of the voltaic cell, the anode half-reaction, the cathode half-reaction, the salt bridge, and the inert electrode, can be captured in the electrochemical cell notation displayed below the cell with each segment of the cell notation coupled by an arrow to the corresponding segment of the voltaic cell itself. In this condensed notation, the following protocol is used:
+While this is a rather complex reaction that occurs in the two chambers of the voltaic cell in [Figure 7.28](#fig-p1-ch07-48) the entire structure of the voltaic cell, the anode half-reaction, the cathode half-reaction, the salt bridge, and the inert electrode, can be captured in the electrochemical cell notation displayed below the cell with each segment of the cell notation coupled by an arrow to the corresponding segment of the voltaic cell itself. In this condensed notation, the following protocol is used:
 
 1. In keeping with the convention of placing the oxidation half-reaction cell on the left and the reduction half-reaction on the right, so too does the condensed cell notation retain this convention. The double vertical line separating the anode and cathode designates the salt bridge.
 
-2. The species oxidized at the anode are separated by a single vertical line to indicate the change in phase. For example in Figure 7.28 the Fe(s) and ${ \mathrm { F e } } ^ { 2 + } ( \mathsf { a q } )$ are separated by a vertical line.
+2. The species oxidized at the anode are separated by a single vertical line to indicate the change in phase. For example in [Figure 7.28](#fig-p1-ch07-48) the Fe(s) and ${ \mathrm { F e } } ^ { 2 + } ( \mathsf { a q } )$ are separated by a vertical line.
 
-3. For the important example of redox reactions for which species within a given half cell remain in the same phase, reactants and products are distinguished from each other with a comma as is the case with $\mathbf { M n O _ { 4 } } ^ { - }$ $( \mathrm { a q } ) , \mathrm { H ^ { + } ( a q ) }$ , and $\mathbf { M } \mathbf { n } ^ { 2 + } ( \mathbf { a q } )$ in the cathode side of voltaic cell notation in Figure 7.28.
+3. For the important example of redox reactions for which species within a given half cell remain in the same phase, reactants and products are distinguished from each other with a comma as is the case with $\mathbf { M n O _ { 4 } } ^ { - }$ $( \mathrm { a q } ) , \mathrm { H ^ { + } ( a q ) }$ , and $\mathbf { M } \mathbf { n } ^ { 2 + } ( \mathbf { a q } )$ in the cathode side of voltaic cell notation in [Figure 7.28](#fig-p1-ch07-48).
 
 4. The Pt(s) on the far right of the voltaic cell notation designates the inert electrode material. If an inert electrode material is used on the anode side, that electrode appears at the far left extremity of the condensed notation separated by a vertical line before listing the reagents in the anode half cell.
 
@@ -1146,7 +1150,7 @@ A $\mathrm { C l } _ { 2 } | \mathrm { C l } ^ { - }$ half-cell can be built by 
 
 ## Solution
 
-For $\mathrm { C l } _ { 2 } | \mathrm { C l } ^ { - }$ combined with $\mathrm { H } ^ { + } | \mathrm { H } _ { 2 } ,$ we find and record the half reactions and their reduction potentials from Table 7.1, and subtract the one with the lower voltage from that with the higher, in accord with Equation 7.6:
+For $\mathrm { C l } _ { 2 } | \mathrm { C l } ^ { - }$ combined with $\mathrm { H } ^ { + } | \mathrm { H } _ { 2 } ,$ we find and record the half reactions and their reduction potentials from [Table 7.1](#original-table-7-1), and subtract the one with the lower voltage from that with the higher, in accord with [Equation 7.6](#eq-p1-ch07-31):
 
 ```{math}
 :label: eq-p1-ch07-57
@@ -1208,11 +1212,11 @@ For this cell the line notation is $\mathrm { \ A l | A l ^ { 3 + } | | C l ^ { 
 
 ## Maximum Work from a Cell: Gibbs Free Energy
 
-With the ability to calculate the cell voltage for a wide variety of redox reactions, we are in a position to calculate the amount of work, the amount of energy, that can be extracted from an electrochemical cell. Before we do that, however, recall from Chapter 1 how we expressed the potential energy of a mass, m, in a gravitational field, and how that potential energy is released as the mass falls through the gravitational field, releasing potential energy in the form of kinetic energy. This sequence was depicted in Figures 7.2 and 7.4.
+With the ability to calculate the cell voltage for a wide variety of redox reactions, we are in a position to calculate the amount of work, the amount of energy, that can be extracted from an electrochemical cell. Before we do that, however, recall from Chapter 1 how we expressed the potential energy of a mass, m, in a gravitational field, and how that potential energy is released as the mass falls through the gravitational field, releasing potential energy in the form of kinetic energy. This sequence was depicted in [Figures 7.2](#fig-p1-ch07-3) and [7.4](#fig-p1-ch07-5).
 
-Notice in Figure 7.2 that we could just as easily label the vertical axis “available work” or “kinetic energy released” because, indeed, the maximum amount of work, w, that this mechanical system can deliver is $w = m g h$ . Any friction or dissipation forces intrinsic to the system will remove an amount of available work by converting some of that potential energy + kinetic energy into thermal energy (heat) that is unavailable to do mechanical work, as we discussed in Chapter 3.
+Notice in [Figure 7.2](#fig-p1-ch07-3) that we could just as easily label the vertical axis “available work” or “kinetic energy released” because, indeed, the maximum amount of work, w, that this mechanical system can deliver is $w = m g h$ . Any friction or dissipation forces intrinsic to the system will remove an amount of available work by converting some of that potential energy + kinetic energy into thermal energy (heat) that is unavailable to do mechanical work, as we discussed in Chapter 3.
 
-Embodied in this mechanical system is a gravitational force that is the genesis of the potential energy and of the system's ability to convert potential energy into available work. Likewise, embodied in the oxidation-reduction reaction that constitutes the motive force in the electrochemical cell is an electromotive force. This electromotive force provides the capacity to do purposeful work through the external circuit linking the anode to the cathode: to pump water, move an automobile, heat a building, or light a lecture hall. To understand this release of purposeful energy by an electrochemical system, we seek to formulate how the electromotive force in such a system is related to the force (i.e., mg) in our mechanical system. While there are a number of ways of developing the quantitative parallel between work and energy release in a mechanical system versus work and energy release in an electrochemical system, the most straightforward way is to recognize that we can simply replace the “potential energy” label on the vertical axis of Figure 7.2 with the free energy label, G, for the electrochemical cell, thus creating the free energy diagram that was introduced in Figures 7.3 and 7.4.
+Embodied in this mechanical system is a gravitational force that is the genesis of the potential energy and of the system's ability to convert potential energy into available work. Likewise, embodied in the oxidation-reduction reaction that constitutes the motive force in the electrochemical cell is an electromotive force. This electromotive force provides the capacity to do purposeful work through the external circuit linking the anode to the cathode: to pump water, move an automobile, heat a building, or light a lecture hall. To understand this release of purposeful energy by an electrochemical system, we seek to formulate how the electromotive force in such a system is related to the force (i.e., mg) in our mechanical system. While there are a number of ways of developing the quantitative parallel between work and energy release in a mechanical system versus work and energy release in an electrochemical system, the most straightforward way is to recognize that we can simply replace the “potential energy” label on the vertical axis of [Figure 7.2](#fig-p1-ch07-3) with the free energy label, G, for the electrochemical cell, thus creating the free energy diagram that was introduced in [Figures 7.3](#fig-p1-ch07-4) and [7.4](#fig-p1-ch07-5).
 
 We now see a key link between the mechanical (gravitational) system and the electrochemical system because the maximum amount of work that can be extracted from the mechanical system is equal to mgh, and in the case of the electrochemical system, the maximum amount of work that can be extracted is the free energy, G (under conditions of constant pressure and temperature).
 
@@ -1226,7 +1230,7 @@ E _ {\mathrm{cell}} ^ {\mathrm{o}} = E _ {\mathrm{cathode}} ^ {\mathrm{o}} - E _
 
 But how do we calculate the number of joules released in an electrochemical system?
 
-So, as has been demonstrated in countless carefully executed experiments based upon the coupled system displayed in Figure $. 7 . 4$ dating back to the experiments of Michael Faraday, Figure 7.29, the number of joules is equal to the maximum work available resulting from electrons sliding down the free energy surface from the anode to the cathode. But the charge of the electron, e, in combination with the number of electrons, n, and the cell voltage, $E _ { \mathrm { c e l l } } .$ is what determines the force on the electrons, -n e $E _ { \mathrm { c e l l } } ,$ in the presence of a voltage difference between two electrodes. Thus we know that the free energy available to do work will be equal to the product of the charge on the electron, the number of electrons, and the electromotive force between the two electrodes, $E _ { \mathrm { c e l l } }$
+So, as has been demonstrated in countless carefully executed experiments based upon the coupled system displayed in [Figure 7.4](#fig-p1-ch07-5) dating back to the experiments of Michael Faraday, [Figure 7.29](#fig-p1-ch07-49), the number of joules is equal to the maximum work available resulting from electrons sliding down the free energy surface from the anode to the cathode. But the charge of the electron, e, in combination with the number of electrons, n, and the cell voltage, $E _ { \mathrm { c e l l } } .$ is what determines the force on the electrons, -n e $E _ { \mathrm { c e l l } } ,$ in the presence of a voltage difference between two electrodes. Thus we know that the free energy available to do work will be equal to the product of the charge on the electron, the number of electrons, and the electromotive force between the two electrodes, $E _ { \mathrm { c e l l } }$
 
 :::{figure} ../images/fig-p1-ch07-49.jpg
 :name: fig-p1-ch07-49
@@ -1269,7 +1273,7 @@ However, Faraday showed that the maximum amount of work that could be extracted 
 
 That provides the quantitative basis for linking a change in chemical energy, $\Delta G ,$ , with a matching change in electrical energy, $- n F E _ { \mathrm { c e l l } }$
 
-We can now tie these concepts together in a single plot, shown in Figure 7.30, of Gibbs free energy, $\Delta G _ { \mathrm { \Omega } }$ , for an electrochemical cell, in the case for the reaction
+We can now tie these concepts together in a single plot, shown in [Figure 7.30](#fig-p1-ch07-50), of Gibbs free energy, $\Delta G _ { \mathrm { \Omega } }$ , for an electrochemical cell, in the case for the reaction
 
 ```{math}
 :label: eq-p1-ch07-71
@@ -1288,7 +1292,7 @@ FIGURE 7.30 Faraday succeeded in measuring the amount of work done by a voltaic 
 
 ## Check Yourself 13
 
-We have been careful to keep the concepts of energy, work, and power clearly defined and frequently applied. Equation 7.8 equates the maximum amount of work, $\mathbf { W _ { \mathrm { m a x } } } ,$ with $\Delta \mathbf { G }$ and the product of total charge $\left( - \mathbf { n } \mathbf { F } = \mathbf { Q } \right)$ and the cell voltage, $E _ { \mathrm { c e l l } }$
+We have been careful to keep the concepts of energy, work, and power clearly defined and frequently applied. [Equation 7.8](#eq-p1-ch07-70) equates the maximum amount of work, $\mathbf { W _ { \mathrm { m a x } } } ,$ with $\Delta \mathbf { G }$ and the product of total charge $\left( - \mathbf { n } \mathbf { F } = \mathbf { Q } \right)$ and the cell voltage, $E _ { \mathrm { c e l l } }$
 
 ```{math}
 :label: eq-p1-ch07-72
@@ -1384,7 +1388,7 @@ E _ {\mathrm{cell}} ^ {\circ} = \frac {R T}{n F} \ln K _ {\mathrm{eq}} \tag{7.12
 ```
 
 
-where $R = { \mathrm { g a s } }$ constant = 8.3 J/mole·K, F = Faraday constant $\mathbf { \tau } = 9 . 6 5 \times 1 0 ^ { 4 }$ coulomb/mole, and n = number of moles of electrons transferred. This expression for $E _ { \mathrm { c e l l } } ^ { \circ }$ in terms of the equilibrium constant, $K _ { \mathrm { e q } } ,$ immediately implies that from a measured equilibrium constant we can calculate the cell voltage or cell reduction potential. But, because $E _ { \mathrm { c e l l } } ^ { \circ }$ is usually far easier to measure (it only requires a voltmeter), the equilibrium constant can be calculated from the cell voltage, $E _ { \mathrm { c e l l } } ^ { \circ } ,$ at standard conditions. Taking the antilog of each side of Equation 7.12, we have
+where $R = { \mathrm { g a s } }$ constant = 8.3 J/mole·K, F = Faraday constant $\mathbf { \tau } = 9 . 6 5 \times 1 0 ^ { 4 }$ coulomb/mole, and n = number of moles of electrons transferred. This expression for $E _ { \mathrm { c e l l } } ^ { \circ }$ in terms of the equilibrium constant, $K _ { \mathrm { e q } } ,$ immediately implies that from a measured equilibrium constant we can calculate the cell voltage or cell reduction potential. But, because $E _ { \mathrm { c e l l } } ^ { \circ }$ is usually far easier to measure (it only requires a voltmeter), the equilibrium constant can be calculated from the cell voltage, $E _ { \mathrm { c e l l } } ^ { \circ } ,$ at standard conditions. Taking the antilog of each side of [Equation 7.12](#eq-p1-ch07-81), we have
 
 ```{math}
 :label: eq-p1-ch07-82
@@ -1453,7 +1457,7 @@ We now have equations linking $K _ { \mathrm { e q } } , \Delta G ^ { \circ }$ ,
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Thus we can summarize these key relationships with a “master diagram” linking $\Delta G ^ { \circ } , { \cal E } _ { \mathrm { c e l l } } ^ { \circ } ,$ and $K _ { \mathrm { e q } } ,$ as shown in Figure 7.31.
+Thus we can summarize these key relationships with a “master diagram” linking $\Delta G ^ { \circ } , { \cal E } _ { \mathrm { c e l l } } ^ { \circ } ,$ and $K _ { \mathrm { e q } } ,$ as shown in [Figure 7.31](#fig-p1-ch07-52).
 
 :::{figure} ../images/fig-p1-ch07-52.jpg
 :name: fig-p1-ch07-52
@@ -1484,7 +1488,7 @@ First, recall the relationship between the signs of $K _ { \mathrm { e q } } , \
 
 <table><tr><td> $\Delta G^{\circ}$ </td><td>K</td><td> $E_{\text{cell}}^{\text{o}}$ </td><td>Reaction at standard state condition</td></tr><tr><td></td><td></td><td></td><td>spontaneous</td></tr><tr><td></td><td></td><td></td><td>at equilibrium</td></tr><tr><td></td><td></td><td></td><td>nonspontaneous</td></tr></table>
 
-Using values of $E ^ { \circ }$ from Table 7.1, write the half-reactions:
+Using values of $E ^ { \circ }$ from [Table 7.1](#original-table-7-1), write the half-reactions:
 
 <table><tr><td> $\mathrm{Ag}^{+}(aq) + e^{-} \rightarrow \mathrm{Ag}(s)$ </td><td> $E^{\circ} = 0.80 \, \mathrm{V}$ </td></tr><tr><td> $\mathrm{Pb}^{2+}(aq) + 2e^{-} \rightarrow \mathrm{Pb}(s)$ </td><td> $E^{\circ} = -0.13 \, \mathrm{V}$ </td></tr></table>
 
@@ -1528,7 +1532,7 @@ E _ {\mathrm{cell}} ^ {\circ} = 0. 8 0 \mathrm{V} - (- 0. 1 3 \mathrm{V}) = 0. 9
 ```
 
 
-From our master diagram in Figure 7.31
+From our master diagram in [Figure 7.31](#fig-p1-ch07-52)
 
 ```{math}
 :label: eq-p1-ch07-97
@@ -1566,9 +1570,9 @@ Next we calculate $\Delta G ^ { \mathbf { o } }$
 
 ## The Death of an Electrochemical Cell: The Nernst Equation
 
-We typically create an electrochemical cell from fresh components. For example, we can assemble a fresh Cu cathode, a fresh $\mathrm { Z n }$ anode, fresh 1 M solution of $Z _ { \mathrm { { n } } } ( \mathrm { { N O } _ { 3 } ) _ { 2 } , }$ fresh 1 M solution of $\mathrm { C u ( N O _ { 3 } ) _ { 2 } } ,$ and a fresh $\mathrm { K N O } _ { 3 }$ salt bridge, as shown in Figure 7.16. We read the voltage produced by this new cell at $2 5 ^ { \circ } \mathrm { C }$ and it reads 1.10 volts. But we also recognize that, as is the case for all cells (a.k.a. batteries, which we will study in the following sections), these energy sources that power our iPods, iPhones, computers, flashlights, automobile starter motors, cordless power tools, etc., slowly (or rapidly) “go dead” and must be discarded or unless they are “recharged” by some external source of power. How does this process of “going dead” happen?
+We typically create an electrochemical cell from fresh components. For example, we can assemble a fresh Cu cathode, a fresh $\mathrm { Z n }$ anode, fresh 1 M solution of $Z _ { \mathrm { { n } } } ( \mathrm { { N O } _ { 3 } ) _ { 2 } , }$ fresh 1 M solution of $\mathrm { C u ( N O _ { 3 } ) _ { 2 } } ,$ and a fresh $\mathrm { K N O } _ { 3 }$ salt bridge, as shown in [Figure 7.16](#fig-p1-ch07-31). We read the voltage produced by this new cell at $2 5 ^ { \circ } \mathrm { C }$ and it reads 1.10 volts. But we also recognize that, as is the case for all cells (a.k.a. batteries, which we will study in the following sections), these energy sources that power our iPods, iPhones, computers, flashlights, automobile starter motors, cordless power tools, etc., slowly (or rapidly) “go dead” and must be discarded or unless they are “recharged” by some external source of power. How does this process of “going dead” happen?
 
-We know from our discussion of Gibbs free energy that the electrochemical cell operates by virtue of the fact that the difference in the reduction potentials of the cathode and anode establish a downhill path from reactants higher in free energy to products lower in free energy. The electrochemical cell's capability to execute work depends upon the fact that the reactants and products are not in equilibrium—just as the cells in your body that sustain you are far from equilibrium. Were your cells in equilibrium, you would not be alive. But an electrochemical cell, in the process of releasing free energy, expends its (high free energy) reactants and moves inexorably toward a state of equilibrium. As the cell approaches equilibrium, its ledge or hill of high chemical potential, initially separating fresh reactants from products, is eroded away by the conversion of reactants to products until the driving force, which depends on the height differential, $\Delta G ,$ , of that potential surface, is eliminated. This is shown schematically in Figure 7.32. The free energy surface becomes flat, equilibrium is attained, and the electrochemical cell is exhausted—the battery is dead, $\Delta G = 0$
+We know from our discussion of Gibbs free energy that the electrochemical cell operates by virtue of the fact that the difference in the reduction potentials of the cathode and anode establish a downhill path from reactants higher in free energy to products lower in free energy. The electrochemical cell's capability to execute work depends upon the fact that the reactants and products are not in equilibrium—just as the cells in your body that sustain you are far from equilibrium. Were your cells in equilibrium, you would not be alive. But an electrochemical cell, in the process of releasing free energy, expends its (high free energy) reactants and moves inexorably toward a state of equilibrium. As the cell approaches equilibrium, its ledge or hill of high chemical potential, initially separating fresh reactants from products, is eroded away by the conversion of reactants to products until the driving force, which depends on the height differential, $\Delta G ,$ , of that potential surface, is eliminated. This is shown schematically in [Figure 7.32](#fig-p1-ch07-53). The free energy surface becomes flat, equilibrium is attained, and the electrochemical cell is exhausted—the battery is dead, $\Delta G = 0$
 
 :::{figure} ../images/fig-p1-ch07-53.jpg
 :name: fig-p1-ch07-53
@@ -1623,7 +1627,7 @@ E _ {\mathrm{cell}} = E _ {\mathrm{cell}} ^ {\circ} - \frac {R T}{n F} \ln Q \ta
 
 The Nernst equation relates the cell potential, $E _ { \mathrm { c e l l } }$ , to the progress of the reaction, expressed by $Q .$ .
 
-Before we move on to apply this Nernst equation to specific problems, let's review some important points using our $\mathrm { Z n / C u }$ electrochemical cell shown in Figure 7.26 as an explicit example.
+Before we move on to apply this Nernst equation to specific problems, let's review some important points using our $\mathrm { Z n / C u }$ electrochemical cell shown in [Figure 7.26](#fig-p1-ch07-45) as an explicit example.
 
 The zinc-copper electrochemical cell, operating at standard conditions $( 2 5 ^ { \circ } \mathrm { C } ,$ 1 M, 1 atm), yields a cell voltage, $E _ { \mathrm { c e l l } } ^ { \circ } ,$ of 1.103 volts, as shown in the diagram. Because the volt is a joule/coulomb, that voltage difference, generated between the anode and cathode, imparts 1.103 joules of energy to each coulomb of charge transferred from Zn metal to the $\mathrm { C u ^ { 2 + } }$ ions (recall that one coulomb is $6 \times 1 0 ^ { 1 7 }$ electrons!). That means that if 1 coulomb of electrons moves from the anode to the cathode, the maximum work available is 1.10 joules, the change in Gibbs free energy, $\Delta G$ . If two coulombs of charge pass from the anode to the cathode, 2.20 joules are available to execute work via the external circuit. But the voltage, $\dot { E _ { \mathrm { c e l l } } ^ { \mathrm { v } } } ,$ measured in joules per coulomb does not depend on the size of the cell. $\dot { E } _ { \mathrm { c e l l } } ^ { \circ }$ depends on the concentrations, not on the cell size. $E _ { \mathrm { c e l l } } ^ { \circ }$ is identical to $\Delta G ^ { \mathbf { o } }$ within a constant, $E ^ { \mathrm { o } } = - \Delta G / n F _ { \mathrm { : } }$ , and $E _ { \mathrm { c e l l } } ^ { \circ }$ is therefore simply related to the equilibrium constant, $K \colon$
 
@@ -1768,9 +1772,9 @@ We are now in a position to link three major domains of modern chemistry using a
 
 3. Electrical measurements of $E ^ { \circ }$ and $E _ { \mathrm { c e l l } } ^ { \circ }$ establish the power delivery and storage capabilities for innovative new battery technology, fuel cells, etc.
 
-But we can join these ostensibly separate domains of chemistry by extending our master diagram of Figure 7.31 to include the analysis of how electrochemical cells behave as they “run down” through the process of extracting usable work from the cell.
+But we can join these ostensibly separate domains of chemistry by extending our master diagram of [Figure 7.31](#fig-p1-ch07-52) to include the analysis of how electrochemical cells behave as they “run down” through the process of extracting usable work from the cell.
 
-Thus we assemble our diagram linking $K _ { \mathrm { e q } } , \Delta G ^ { \mathrm { o } } , \Delta G , E _ { \mathrm { c e l l } } ^ { \mathrm { o } } .$ , and $E _ { \mathrm { c e l l } }$ using our network of equations, as shown in Figure 7.33.
+Thus we assemble our diagram linking $K _ { \mathrm { e q } } , \Delta G ^ { \mathrm { o } } , \Delta G , E _ { \mathrm { c e l l } } ^ { \mathrm { o } } .$ , and $E _ { \mathrm { c e l l } }$ using our network of equations, as shown in [Figure 7.33](#fig-p1-ch07-55).
 
 :::{figure} ../images/fig-p1-ch07-55.jpg
 :name: fig-p1-ch07-55
@@ -1806,7 +1810,7 @@ We mentioned earlier that nonspontaneous reactions can be driven by applying an 
 
 The source (an external battery) would have to be strong enough (i.e. have a large enough cell potential) to overcome the natural tendency of the system to produce electrical current from the spontaneous chemical reaction. We know that the potential for this reaction is 1.10 V, so the external battery would have to have higher voltage than that. In addition, the battery must be connected in a way that will drive the current in the opposite direction from that of the spontaneous reaction. Recall that in the $\mathrm { Z n / C u }$ voltaic cell, electrons are leaving the anode (Zn) to travel to the cathode (Cu), which implies that Zn acts as the negative pole and Cu acts as the positive pole. In order to drive the reaction backward, the external battery should be connected with its positive pole to Cu and its negative pole to Zn: in this way, the battery will draw electrons from the Cu electrode and send electrons toward the Zn electrode, exactly the opposite of what was happening in the two half reactions involved in the $\mathrm { Z n / C u }$ voltaic cell. The result of this process is that the net reaction $( 7 . 3 )$ will be reversed, with Cu dissolving as $\mathrm { C u ^ { 2 + } }$ cations into the solution and $\mathrm { Z n ^ { 2 + } }$ cations from the solution being incorporated into the Zn electrode. All this would take place at the expense of energy provided by the external battery.
 
-There is one case in particular where this kind of reverse reaction is of great importance: the process called electrolysis, displayed in Figure 7.34. This is the breakdown of water into oxygen and hydrogen gas using electricity. We can imagine a cell in which the following two reactions take place:
+There is one case in particular where this kind of reverse reaction is of great importance: the process called electrolysis, displayed in [Figure 7.34](#fig-p1-ch07-57). This is the breakdown of water into oxygen and hydrogen gas using electricity. We can imagine a cell in which the following two reactions take place:
 
 Reduction:
 
@@ -1838,7 +1842,7 @@ Net reaction:
 ```
 
 
-where, in the third step, four OH<sup>-</sup> and four $\mathrm { H ^ { + } }$ have combined to form four $\mathrm { H } _ { 2 } \mathrm { O }$ molecules. From Table 7.1, we find that the potential for this reaction is:
+where, in the third step, four OH<sup>-</sup> and four $\mathrm { H ^ { + } }$ have combined to form four $\mathrm { H } _ { 2 } \mathrm { O }$ molecules. From [Table 7.1](#original-table-7-1), we find that the potential for this reaction is:
 
 ```{math}
 :label: eq-p1-ch07-127
@@ -1859,7 +1863,7 @@ Pursuing our desire to understand, and thereby simplify, all processes by defini
 
 When we allow an electrochemical cell to fully discharge such that it can supply no additional work to an external circuit, it remains “dead,” with products and reactants in a specific ratio such that $Q = K _ { \mathrm { e q } }$ and with equal free energies for reactants and products; i.e., $\Delta G = 0$ . However, we are not out of options. If we can harness an external energy source to drive the electrochemical cell back up the free energy “hill” to reestablish a difference in free energy between reactants and products, we can thereby bring new life to an old, spent, electrochemical cell.
 
-We can express this coupling of spontaneous and nonspontaneous systems in the free energy diagram of Figure 7.35. This coupled free energy diagram applies equally well to the electrolysis of water to form $\mathrm { H } _ { 2 } ( \mathbf { g } )$ and $\mathrm { O } _ { 2 } ( \mathrm { g } )$
+We can express this coupling of spontaneous and nonspontaneous systems in the free energy diagram of [Figure 7.35](#fig-p1-ch07-58). This coupled free energy diagram applies equally well to the electrolysis of water to form $\mathrm { H } _ { 2 } ( \mathbf { g } )$ and $\mathrm { O } _ { 2 } ( \mathrm { g } )$
 
 :::{figure} ../images/fig-p1-ch07-58.jpg
 :name: fig-p1-ch07-58
@@ -1894,9 +1898,9 @@ We can summarize the designations, contrasting the voltaic cell versus the elect
 
 Electrolysis plays a central role in a vast array of industrial processes. The applications range from the electroplating of chromium onto steel for decoration, to the industrial production of aluminum, to the refining of copper, and to the production of chlorine gas from seawater.
 
-Electroplating is a particularly straightforward example of electrolysis. Figure 7.36a displays the chromium plated components of a motorcycle, which both add cosmetic appeal and serve to suppress the corrosion of the steel used to construct the valve covers, exhaust system, air cleaner, and engine block of the cycle. Figure 7.36b demonstrates how electroplating is accomplished in an electrochemical cell driven “backwards” by the application of an external voltage.
+Electroplating is a particularly straightforward example of electrolysis. [Figure 7.36A](#fig-p1-ch07-59) displays the chromium plated components of a motorcycle, which both add cosmetic appeal and serve to suppress the corrosion of the steel used to construct the valve covers, exhaust system, air cleaner, and engine block of the cycle. [Figure 7.36B](#fig-p1-ch07-59) demonstrates how electroplating is accomplished in an electrochemical cell driven “backwards” by the application of an external voltage.
 
-Referring to the electroplating cell in panel B of Figure 7.36, the silver cations in solution are reduced at the cathode, leaving a thin coating of silver metal on the surface of the fork. At the anode, electrons are extracted from the silver electrode releasing $\mathrm { A g ^ { + } ( a q ) }$ into solution. Thus silver atoms are transferred from the solid silver anode to the surface of the steel fork, which is the cathode. This results in a fork that appears to be solid silver and a fork that does not easily corrode. Both of these attributes raise the value of the fork with a minimal amount of silver—thus constituting a viable industry! For the case of the chromium (“chrome”) trim on motorcycles, automobiles, etc., the anode is a bar of chromium and the steel part to be plated is lowered into solution as the cathode.
+Referring to the electroplating cell in panel B of [Figure 7.36](#fig-p1-ch07-59), the silver cations in solution are reduced at the cathode, leaving a thin coating of silver metal on the surface of the fork. At the anode, electrons are extracted from the silver electrode releasing $\mathrm { A g ^ { + } ( a q ) }$ into solution. Thus silver atoms are transferred from the solid silver anode to the surface of the steel fork, which is the cathode. This results in a fork that appears to be solid silver and a fork that does not easily corrode. Both of these attributes raise the value of the fork with a minimal amount of silver—thus constituting a viable industry! For the case of the chromium (“chrome”) trim on motorcycles, automobiles, etc., the anode is a bar of chromium and the steel part to be plated is lowered into solution as the cathode.
 
 :::{figure} ../images/fig-p1-ch07-59.jpg
 :name: fig-p1-ch07-59
@@ -1907,7 +1911,7 @@ FIGURE 7.36 A form of electrolysis termed electroplating is commonly used to pro
 
 ## Production of Aluminum by Electrolysis
 
-Perhaps the most famous example of industrial electrolysis is that of aluminum extraction from the oxide form $\mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } ( s ) } }$ . Aluminum is the third most abundant element in the Earth's crust after oxygen and silicon. It is a metal of great strength-to-weight ratio and it is a metal that does not continue to corrode because the $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ surface oxidation layer is both very hard and very inert chemically. But the inertness of $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ combined with the fact that most of the available aluminum occurs in this form made its extraction from aluminum ore very difficult—until a young student at Oberlin College, Charles Hall, discovered how to employ electrolysis! Hall discovered that by heating the mineral cryolite, $\mathrm { N a } _ { 3 } \mathrm { A l F } _ { 6 } ,$ to above its melting point, $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ would dissolve in the cryolite producing a mixture that conducts electricity, but more importantly, the process could be used to extract pure aluminum. Figure 7.37 diagrams the design of the electrolysis cell. The $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 } ,$ , which dissolves in molten cryolite, dissociates to form $\mathrm { A l ^ { 3 ^ { + } } }$ and $\mathrm { O ^ { 2 - } }$ . The cathode reaction is the reduction of aluminum cations to produce pure aluminum, Al(s):
+Perhaps the most famous example of industrial electrolysis is that of aluminum extraction from the oxide form $\mathrm { { A l } _ { 2 } \mathrm { { O } _ { 3 } ( s ) } }$ . Aluminum is the third most abundant element in the Earth's crust after oxygen and silicon. It is a metal of great strength-to-weight ratio and it is a metal that does not continue to corrode because the $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ surface oxidation layer is both very hard and very inert chemically. But the inertness of $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ combined with the fact that most of the available aluminum occurs in this form made its extraction from aluminum ore very difficult—until a young student at Oberlin College, Charles Hall, discovered how to employ electrolysis! Hall discovered that by heating the mineral cryolite, $\mathrm { N a } _ { 3 } \mathrm { A l F } _ { 6 } ,$ to above its melting point, $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ would dissolve in the cryolite producing a mixture that conducts electricity, but more importantly, the process could be used to extract pure aluminum. [Figure 7.37](#fig-p1-ch07-60) diagrams the design of the electrolysis cell. The $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 } ,$ , which dissolves in molten cryolite, dissociates to form $\mathrm { A l ^ { 3 ^ { + } } }$ and $\mathrm { O ^ { 2 - } }$ . The cathode reaction is the reduction of aluminum cations to produce pure aluminum, Al(s):
 
 ```{math}
 :label: eq-p1-ch07-128
@@ -1940,7 +1944,7 @@ FIGURE 7.37 Aluminum was a very expensive metal until the late $1 9 ^ { \mathrm 
 
 ## Corrosion: A Redox Reaction That Causes Problems
 
-As we have emphasized many times in the book, the chemistry of oxygen and the chemistry of water are of central importance to virtually every branch of chemistry. However, we now have a new and important perspective on the role of $\mathrm { O } _ { 2 }$ and of $\mathrm { H } _ { 2 } \mathrm { O }$ in an important class of oxidation-reduction reactions. Consider the reduction of oxygen in the presence of neutral water in Table 7.1
+As we have emphasized many times in the book, the chemistry of oxygen and the chemistry of water are of central importance to virtually every branch of chemistry. However, we now have a new and important perspective on the role of $\mathrm { O } _ { 2 }$ and of $\mathrm { H } _ { 2 } \mathrm { O }$ in an important class of oxidation-reduction reactions. Consider the reduction of oxygen in the presence of neutral water in [Table 7.1](#original-table-7-1)
 
 ```{math}
 :label: eq-p1-ch07-131
@@ -1948,7 +1952,7 @@ As we have emphasized many times in the book, the chemistry of oxygen and the ch
 ```
 
 
-Also listed in Table 7.1 is the reduction of oxygen in the presence of acidic water
+Also listed in [Table 7.1](#original-table-7-1) is the reduction of oxygen in the presence of acidic water
 
 ```{math}
 :label: eq-p1-ch07-132
@@ -1966,7 +1970,7 @@ which has a markedly higher standard reduction potential, +1.23 V vs. + 0.40 V. 
 
 This is a large free energy release. Even the reduction of water in the absence of an acid has a free energy release of $\Delta G ^ { \mathrm { o } } = - 1 5 0 \mathrm { k J }$ for each mole of $\mathrm { O } _ { 2 }$
 
-The next point to notice is that the reduction potentials of all the metals in Table 7.1 are less than that of oxygen reduction in neutral water except for silver, $\mathrm { A g ^ { + } ( a q ) + e ^ { - }  A g ( s ) ( + 0 . 8 0 0 \ V ) }$ and iron, $\mathrm { F e ^ { 3 + } ( a q ) + e ^ { - } \to F e ^ { 2 + } ( a q ) }$ $\left( + \mathbf { 0 . 7 7 1 \ V } \right)$ . For the case of $\mathrm { O } _ { 2 }$ reduction in an acidic solution, all reduction potentials of metals lie below that of $\mathrm { O } _ { 2 }$ reduction in water. As a result the oxidation of all metals listed in Table 7.1 will be spontaneous when paired with the reduction of $\mathrm { O } _ { 2 }$ in water that is in contact with air because the $\mathrm { C O } _ { 2 }$ in the atmosphere reacts in water to form carbonic acid. The process of oxidation of metals is termed corrosion, and it is a serious problem for objects constructed from common metals except aluminum that reside outside in the presence of water and oxygen: bridges, cars, light fixtures, buildings, etc.
+The next point to notice is that the reduction potentials of all the metals in [Table 7.1](#original-table-7-1) are less than that of oxygen reduction in neutral water except for silver, $\mathrm { A g ^ { + } ( a q ) + e ^ { - }  A g ( s ) ( + 0 . 8 0 0 \ V ) }$ and iron, $\mathrm { F e ^ { 3 + } ( a q ) + e ^ { - } \to F e ^ { 2 + } ( a q ) }$ $\left( + \mathbf { 0 . 7 7 1 \ V } \right)$ . For the case of $\mathrm { O } _ { 2 }$ reduction in an acidic solution, all reduction potentials of metals lie below that of $\mathrm { O } _ { 2 }$ reduction in water. As a result the oxidation of all metals listed in [Table 7.1](#original-table-7-1) will be spontaneous when paired with the reduction of $\mathrm { O } _ { 2 }$ in water that is in contact with air because the $\mathrm { C O } _ { 2 }$ in the atmosphere reacts in water to form carbonic acid. The process of oxidation of metals is termed corrosion, and it is a serious problem for objects constructed from common metals except aluminum that reside outside in the presence of water and oxygen: bridges, cars, light fixtures, buildings, etc.
 
 Some metals, such as aluminum, form impermeable oxides that protect the metal against further corrosion. Aluminum in the presence of oxygen, acid, and water forms a surface layer of $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ that is chemically inert and a durable surface coating. The oxides of iron, however, are not mechanically stable, forming flakes of $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } \cdot \mathrm { n H } _ { 2 } \mathrm { O }$ that is commonly called “rust,” the hydrated form of $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$
 
@@ -1978,7 +1982,7 @@ Rusting is a redox reaction that is initiated by the simple oxidation of iron:
 ```
 
 
-But this is where the corrosion of iron becomes an intriguing story. The oxidation step of solid iron occurs in small defects of the metal, as shown in Figure 7.38. Because it is these sites that initiate the oxidation step, these defects are termed the anodic domain of what will become a coupled electrochemical cell.
+But this is where the corrosion of iron becomes an intriguing story. The oxidation step of solid iron occurs in small defects of the metal, as shown in [Figure 7.38](#fig-p1-ch07-61). Because it is these sites that initiate the oxidation step, these defects are termed the anodic domain of what will become a coupled electrochemical cell.
 
 :::{figure} ../images/fig-p1-ch07-61.jpg
 :name: fig-p1-ch07-61
@@ -2005,7 +2009,7 @@ Combining these two half-reactions results in the net conversion of Fe(s) to $\m
 ```
 
 
-What happens next is that from the anodic domain, sketched schematically below in Figure 7.38, the ${ \mathrm { F e } } ^ { 2 + } ( \mathsf { a q } )$ cations diffuse through the water film on the metal surface to the cathodic domain where they undergo the next stage in oxidation from $\mathrm { F e ^ { 2 + } }$ to $\mathrm { F e ^ { 3 ^ { + } } }$ in the form of $\mathrm { F e _ { 2 } O _ { 3 } \cdot n H _ { 2 } O }$ via reaction with oxygen
+What happens next is that from the anodic domain, sketched schematically below in [Figure 7.38](#fig-p1-ch07-61), the ${ \mathrm { F e } } ^ { 2 + } ( \mathsf { a q } )$ cations diffuse through the water film on the metal surface to the cathodic domain where they undergo the next stage in oxidation from $\mathrm { F e ^ { 2 + } }$ to $\mathrm { F e ^ { 3 ^ { + } } }$ in the form of $\mathrm { F e _ { 2 } O _ { 3 } \cdot n H _ { 2 } O }$ via reaction with oxygen
 
 ```{math}
 :label: eq-p1-ch07-137
@@ -2015,7 +2019,7 @@ What happens next is that from the anodic domain, sketched schematically below i
 
 The “rust” is the structurally weak $\mathrm { 2 F e _ { 2 } O _ { 3 } \cdot n H _ { 2 } O }$ material whose molecular form is a hydrate with the number of bound water molecules dependent on the amount of moisture present.
 
-The right-hand panel in Figure 7.38 deserves careful consideration because it involves important categories of chemical reactions. In particular, notice the combined roles that oxygen and water play in both the chemical changes and the physical construct of the corrosion “cell.” While oxygen is the dominant oxidizing agent, water (with $\mathrm { H ^ { + } }$ added from carbonic acid formed from reaction of $\mathrm { C O } _ { 2 }$ with water), is necessary to provide a pathway for the flow of charge from the anode to the cathode. Water is also important as a reagent in the second stage of reaction that oxidizes ${ \mathrm { F e } } ^ { 2 + } ( a q )$ to $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ Because pure water is not a good conductor of electricity, the addition of either a salt or an acid speeds the rate of corrosion. Thus salt added to roadways in the winter accelerates the corrosion of metals in the structure of automobiles and acidity in rain accelerates the weakness of bridge structures.
+The right-hand panel in [Figure 7.38](#fig-p1-ch07-61) deserves careful consideration because it involves important categories of chemical reactions. In particular, notice the combined roles that oxygen and water play in both the chemical changes and the physical construct of the corrosion “cell.” While oxygen is the dominant oxidizing agent, water (with $\mathrm { H ^ { + } }$ added from carbonic acid formed from reaction of $\mathrm { C O } _ { 2 }$ with water), is necessary to provide a pathway for the flow of charge from the anode to the cathode. Water is also important as a reagent in the second stage of reaction that oxidizes ${ \mathrm { F e } } ^ { 2 + } ( a q )$ to $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ Because pure water is not a good conductor of electricity, the addition of either a salt or an acid speeds the rate of corrosion. Thus salt added to roadways in the winter accelerates the corrosion of metals in the structure of automobiles and acidity in rain accelerates the weakness of bridge structures.
 
 Given what we know about electrochemical cells, in many instances corrosion of valuable structural parts can be slowed by the use of sacrificed metals attached to the desired part of the structure or by plating a layer of a metal such as zinc over the metal to be protected.
 
@@ -2040,7 +2044,7 @@ A view of the bow and railing of the RMS Titanic. Image copyright Emory Kristof/
 
 Summary Concepts
 
-<table><tr><td>1. Electrochemistry is the subject that links the concepts of stoichiometry, thermodynamics, oxidation-reduction reactions, chemical potentials, Gibbs free energy, acid-base behavior, and photochemistry within a single framework. In addition, electrochemistry connects the principles of chemical reactivity to the forefront of modern technology in an era strongly influenced by demand for greater production of primary energy, energy storage, and efficient energy transformations displayed in of Figure CS4.3E to support modern society. The quantitative relationship between  $\Delta G$ ,  $\Delta G^{\circ}$ ,  $K_{eq}$ ,  $E_{cell}$ , and  $E^{\circ}_{cell}$  can be summarized in a single coupled diagram.</td><td colspan="2">The Master Diagram Linking  $K_{eq}$ ,  $\Delta G^{\circ}$ , and  $E^{\circ}_{cell}$ <img src="../images/fig-p1-ch07-63.jpg" alt="Source textbook figure"/></td></tr><tr><td>An understanding of Electrochemistry is built upon a foundation of the following concepts:2. Oxidation-reduction reactions, which can be balanced by the half-reaction approach wherein the oxidation half-reaction is analyzed separately from the reduction half-reaction and then the half-reactions are added, balancing the number of electrons such that the net reaction neither produces nor destroys electrons. Redox reactions in acidic or basic media can also be balanced using the sequence given here.</td><td colspan="2">1. Assign oxidation states2. Separate the overall redox reaction into two half-reactions, one of oxidation the other for reduction3. Balance each half-reaction: balance all elements except H and O, balance O with  $H_2O$ , balance H by adding  $H^+$  (for a basic solution neutralize  $H^+$  by adding enough OH- to neutralize each  $H^+$ )4. Balance each half-reaction with respect to charge5. Balance number of electrons6. Add the half-reactions</td></tr><tr><td>3. Analysis of the oxidation and reduction reactions at the atomic level at the anode and cathode respectively of an electrochemical cell. This atomic level visualization underpins the concepts defining how a spontaneous overall reaction comprised of the sum of an oxidizing half-reaction and a reducing half-reaction can release electrical energy through an external circuit.</td><td><img src="../images/fig-p1-ch07-64.jpg" alt="Source textbook figure"/></td><td><img src="../images/fig-p1-ch07-65.jpg" alt="Source textbook figure"/></td></tr><tr><td>4. The design of a voltaic cell that employs a separated anode and cathode joined by a salt bridge to maintain charge neutrality and an external circuit to deliver the flow of electrons to a specific load to produce light or accomplish work. The flow of electrons is measured in amperes whereone ampere is one coulomb of electrons per second. The voltage generated by the cell is measured in units of the volt, which is equal to one joule per coulomb.</td><td colspan="2"><img src="../images/fig-p1-ch07-66.jpg" alt="Source textbook figure"/></td></tr><tr><td>5. The quantitative voltage scale that is set by definition to be 0.00 volts for a standard hydrogen electrode for the reaction $2H^{+}(aq) + 2e \rightarrow H_{2}(g)$ All cell voltages are measured against this half-reaction. The cell voltage,  $E^{\circ}_{cell}$ , under standard conditions (298 K, 1 atm, 1 molar concentrations) is determined by the standard reduction potential listed for each half-reaction inTable 7.1.This establishes the cathode reduction potential,  $E^{\circ}_{\text{cathode}}$ , and the anode reduction potential,  $E^{\circ}_{\text{anode}}$ . The cell voltage is calculated by subtracting the half-reaction reduction potential at the anode from the half-reaction reduction potential at the cathode: $E^{\circ}_{\text{cell}} = E^{\circ}_{\text{cathode}} - E^{\circ}_{\text{anode}}$ </td><td colspan="2"><img src="../images/fig-p1-ch07-67.jpg" alt="Source textbook figure"/></td></tr><tr><td>6. The key link between the free energy change of a spontaneous chemical reaction under standard conditions,  $\Delta G^{\circ}$ , and the maximum work that can be extracted from an electrochemical cell,  $-nFE^{\circ}_{cell}$ , establishes the equality  $\Delta G^{\circ} = -nFE^{\circ}_{cell}$ But because, from our studies of thermodynamics inChapter 4, we know $\Delta G^{\circ} = -RT \ln K_{eq}$ so we can link the cell voltage directly to the equilibrium constant  $K_{eq}$  $E^{\circ}_{\text{cell}} = \frac{RT}{nF} \ln K_{eq} = \frac{0.0592}{n} \log K$ using the values for R, T, and F and the identity ln x = 2.303 log x.</td><td colspan="2"><img src="../images/fig-p1-ch07-68.jpg" alt="Source textbook figure"/></td></tr></table>
+<table><tr><td>1. Electrochemistry is the subject that links the concepts of stoichiometry, thermodynamics, oxidation-reduction reactions, chemical potentials, Gibbs free energy, acid-base behavior, and photochemistry within a single framework. In addition, electrochemistry connects the principles of chemical reactivity to the forefront of modern technology in an era strongly influenced by demand for greater production of primary energy, energy storage, and efficient energy transformations displayed in of <a href="../p1-ch04-entropy-second-law/#fig-p1-ch04-84">Figure CS4.3E</a> to support modern society. The quantitative relationship between  $\Delta G$ ,  $\Delta G^{\circ}$ ,  $K_{eq}$ ,  $E_{cell}$ , and  $E^{\circ}_{cell}$  can be summarized in a single coupled diagram.</td><td colspan="2">The Master Diagram Linking  $K_{eq}$ ,  $\Delta G^{\circ}$ , and  $E^{\circ}_{cell}$ <img src="../images/fig-p1-ch07-63.jpg" alt="Source textbook figure"/></td></tr><tr><td>An understanding of Electrochemistry is built upon a foundation of the following concepts:2. Oxidation-reduction reactions, which can be balanced by the half-reaction approach wherein the oxidation half-reaction is analyzed separately from the reduction half-reaction and then the half-reactions are added, balancing the number of electrons such that the net reaction neither produces nor destroys electrons. Redox reactions in acidic or basic media can also be balanced using the sequence given here.</td><td colspan="2">1. Assign oxidation states2. Separate the overall redox reaction into two half-reactions, one of oxidation the other for reduction3. Balance each half-reaction: balance all elements except H and O, balance O with  $H_2O$ , balance H by adding  $H^+$  (for a basic solution neutralize  $H^+$  by adding enough OH- to neutralize each  $H^+$ )4. Balance each half-reaction with respect to charge5. Balance number of electrons6. Add the half-reactions</td></tr><tr><td>3. Analysis of the oxidation and reduction reactions at the atomic level at the anode and cathode respectively of an electrochemical cell. This atomic level visualization underpins the concepts defining how a spontaneous overall reaction comprised of the sum of an oxidizing half-reaction and a reducing half-reaction can release electrical energy through an external circuit.</td><td><img src="../images/fig-p1-ch07-64.jpg" alt="Source textbook figure"/></td><td><img src="../images/fig-p1-ch07-65.jpg" alt="Source textbook figure"/></td></tr><tr><td>4. The design of a voltaic cell that employs a separated anode and cathode joined by a salt bridge to maintain charge neutrality and an external circuit to deliver the flow of electrons to a specific load to produce light or accomplish work. The flow of electrons is measured in amperes whereone ampere is one coulomb of electrons per second. The voltage generated by the cell is measured in units of the volt, which is equal to one joule per coulomb.</td><td colspan="2"><img src="../images/fig-p1-ch07-66.jpg" alt="Source textbook figure"/></td></tr><tr><td>5. The quantitative voltage scale that is set by definition to be 0.00 volts for a standard hydrogen electrode for the reaction $2H^{+}(aq) + 2e \rightarrow H_{2}(g)$ All cell voltages are measured against this half-reaction. The cell voltage,  $E^{\circ}_{cell}$ , under standard conditions (298 K, 1 atm, 1 molar concentrations) is determined by the standard reduction potential listed for each half-reaction inTable 7.1.This establishes the cathode reduction potential,  $E^{\circ}_{\text{cathode}}$ , and the anode reduction potential,  $E^{\circ}_{\text{anode}}$ . The cell voltage is calculated by subtracting the half-reaction reduction potential at the anode from the half-reaction reduction potential at the cathode: $E^{\circ}_{\text{cell}} = E^{\circ}_{\text{cathode}} - E^{\circ}_{\text{anode}}$ </td><td colspan="2"><img src="../images/fig-p1-ch07-67.jpg" alt="Source textbook figure"/></td></tr><tr><td>6. The key link between the free energy change of a spontaneous chemical reaction under standard conditions,  $\Delta G^{\circ}$ , and the maximum work that can be extracted from an electrochemical cell,  $-nFE^{\circ}_{cell}$ , establishes the equality  $\Delta G^{\circ} = -nFE^{\circ}_{cell}$ But because, from our studies of thermodynamics inChapter 4, we know $\Delta G^{\circ} = -RT \ln K_{eq}$ so we can link the cell voltage directly to the equilibrium constant  $K_{eq}$  $E^{\circ}_{\text{cell}} = \frac{RT}{nF} \ln K_{eq} = \frac{0.0592}{n} \log K$ using the values for R, T, and F and the identity ln x = 2.303 log x.</td><td colspan="2"><img src="../images/fig-p1-ch07-68.jpg" alt="Source textbook figure"/></td></tr></table>
 
 7. For nonstandard conditions, we can employ the thermodynamic expression from Chapter 6 to write $\Delta G = \Delta G ^ { \circ } + R T$ ln Q
 
@@ -2067,13 +2071,13 @@ Changes in $\pmb { \varepsilon } _ { \mathrm { c e l l } }$ and Concentration
 
 ## CASE STUDY 7.1 The Electrochemistry of Batteries
 
-Battery design constitutes a top priority in chemical research today. One of the most challenging aspects of modern energy distribution systems such as that displayed in of Figure CS4.3E is the storage of energy. Energy storage that optimizes energy content per unit mass and per unit volume is extremely important for electrification of the transportation sector- particularly for automobiles and light trucks. Energy storage that optimizes energy content per unit of cost is important for balancing production and demand on the power grid.
+Battery design constitutes a top priority in chemical research today. One of the most challenging aspects of modern energy distribution systems such as that displayed in of [Figure CS4.3E](#fig-p1-ch04-84) is the storage of energy. Energy storage that optimizes energy content per unit mass and per unit volume is extremely important for electrification of the transportation sector- particularly for automobiles and light trucks. Energy storage that optimizes energy content per unit of cost is important for balancing production and demand on the power grid.
 
 Fuel cells are important for converting chemical fuels—for example hydrogen—directly to electricity. Fuel cell technology provides, thereby, an important option for storing energy by using excess electrical power to produce hydrogen by electrolysis, storing the hydrogen, and then producing electricity from that stored hydrogen with a fuel cell to supply the power grid during periods of peak demand.
 
 We will explore the frontiers of battery technology in a subsequent chapter, but we must first explore current battery technology.
 
-Batteries, that date back to the 19th century as shown in Figure CS7.1a, consist of electrochemical cells that involve a spontaneous net reaction. There are various type of batteries, many employed in various common devices and applications. They are classified in two categories: primary cells in which the reaction is not reversible, and when the reactants have been completely transformed into products, the cell is dead; and secondary cells, in which the chemical reaction can be reversed by passing electrons through the cell in the opposite direction, thus “recharging” the battery.
+Batteries, that date back to the 19th century as shown in [Figure CS7.1A](#fig-p1-ch07-70), consist of electrochemical cells that involve a spontaneous net reaction. There are various type of batteries, many employed in various common devices and applications. They are classified in two categories: primary cells in which the reaction is not reversible, and when the reactants have been completely transformed into products, the cell is dead; and secondary cells, in which the chemical reaction can be reversed by passing electrons through the cell in the opposite direction, thus “recharging” the battery.
 
 :::{figure} ../images/fig-p1-ch07-70.jpg
 :name: fig-p1-ch07-70
@@ -2084,7 +2088,7 @@ FIGURE CS7.1A Batteries are devices that store electrochemical energy. They are 
 
 ## Lead-Acid Storage Battery
 
-As a first example, we look at the so-called lead-acid storage battery displayed in Figure CS7.1b, in which the cathode is lead oxide, $\mathrm { P b O } _ { 2 } ( \mathbf { s } )$ and the anode is lead, Pb(s), with a sulfuric acid, $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ solution (about 35% by mass sulfuric acid in water). The acidic nature of the electrolyte produces $\mathrm { H S O _ { 4 } } ^ { - } ( \mathrm { a q } )$ which is involved in both the reduction and oxidation half reactions:
+As a first example, we look at the so-called lead-acid storage battery displayed in [Figure CS7.1B](#fig-p1-ch07-71), in which the cathode is lead oxide, $\mathrm { P b O } _ { 2 } ( \mathbf { s } )$ and the anode is lead, Pb(s), with a sulfuric acid, $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ solution (about 35% by mass sulfuric acid in water). The acidic nature of the electrolyte produces $\mathrm { H S O _ { 4 } } ^ { - } ( \mathrm { a q } )$ which is involved in both the reduction and oxidation half reactions:
 
 ```{math}
 :label: eq-p1-ch07-139
@@ -2117,7 +2121,7 @@ The advantage of this cell is that the reaction can be run backwards when connec
 
 ## Alkaline Battery
 
-Alkaline batteries, shown in Figure $\underline { { \mathbf { C S } } } 7 . 1 \mathbf { c } .$ , dominate the primary cell market. They are sold in AAA, AA, C, and D cell sizes for everything from flashlights to radios. In alkaline batteries, the following reactions take place:
+Alkaline batteries, shown in [Figure CS7.1C](#fig-p1-ch07-72) , dominate the primary cell market. They are sold in AAA, AA, C, and D cell sizes for everything from flashlights to radios. In alkaline batteries, the following reactions take place:
 
 <div class="mineru-algorithm" style="white-space: pre-wrap; font-family:monospace;">
 Reduction: $2\mathrm{MnO}_2(s) + \mathrm{H}_2\mathrm{O} + 2\mathrm{e}^- \rightarrow \mathrm{Mn}_2\mathrm{O}_3(s) + 2\mathrm{OH}^-(aq)$ Oxidation: $\mathrm{Zn(s)} + 2\mathrm{OH}^-(aq) \rightarrow \mathrm{ZnO(s)} + \mathrm{H}_2\mathrm{O} + 2\mathrm{e}^-$ Net reaction: $\mathrm{MnO}_2(s) + \mathrm{Zn(s)} \rightarrow \mathrm{ZnO(s)} + \mathrm{Mn}_2\mathrm{O}_3(s)$
@@ -2164,7 +2168,7 @@ While lead-acid, alkaline, and Ni-Cd batteries have dominated the battery market
 ```
 
 
-where MH(s) is a solid hydride of some metal, M. The electrolyte is a solution of KOH. As in the nickel-cadmium battery, Ni is reduced at the cathode from an oxidation state of +3 to one of +2. At the anode, the reactant is hydrogen, which is removed from the hydride MH. This is a secondary cell used in many devices such as cell phones and computers. The great advantage of these batteries is that they can store 50% more energy per unit volume than other cells, such as the nickel-cadmium battery. This important class of battery is diagrammed and described in Figure CS7.1d.
+where MH(s) is a solid hydride of some metal, M. The electrolyte is a solution of KOH. As in the nickel-cadmium battery, Ni is reduced at the cathode from an oxidation state of +3 to one of +2. At the anode, the reactant is hydrogen, which is removed from the hydride MH. This is a secondary cell used in many devices such as cell phones and computers. The great advantage of these batteries is that they can store 50% more energy per unit volume than other cells, such as the nickel-cadmium battery. This important class of battery is diagrammed and described in [Figure CS7.1D](#fig-p1-ch07-73).
 
 ## Modern High Performance Batteries
 
@@ -2185,7 +2189,7 @@ FIGURE CS7.1D Major efforts and financial resources are now being invested in ad
 :::
 
 
-The nickel metal hydride cell is the energy storage technology used in the Toyota Prius and Honda Civic hybrid automobiles, as described in Figure CS7.1e.
+The nickel metal hydride cell is the energy storage technology used in the Toyota Prius and Honda Civic hybrid automobiles, as described in [Figure CS7.1E](#fig-p1-ch07-75).
 
 :::{figure} ../images/fig-p1-ch07-74.jpg
 :name: fig-p1-ch07-74
@@ -2203,7 +2207,7 @@ FIGURE CS7.1E During the 1980s and 1990s the Japanese automakers Toyota and Hond
 
 Perhaps the most important category of battery technology sitting on the cusp of full scale acceptance is the lithium-ion battery. We have seen before that Li is the element with the lowest value of standard electrode potential (-3.05 V). In this sense, it is an ideal candidate for an anode. It is also rather light in weight, which always is a desirable feature in batteries. Its main drawback is that Li reacts with water strongly, so it cannot be used in the usual type of battery cell that involves a water electrolyte solution.
 
-In lithium batteries, as shown in cross section in Figure CS7.1f, instead of the standard design, there is transport of Li ions through a porous medium. A typical porous medium is graphite, which consists of layers of atoms strongly bonded among themselves within each layer, but weakly interacting across layers. This makes it possible for the Li ions to be stored between the layers, a process called intercalation. Another material in which Li ions can intercalate is $\mathrm { L i C o O } _ { 2 } .$ In a lithium battery during charging, $\mathrm { L i ^ { + } }$ ions leave $\mathrm { L i C o O _ { 2 } }$ and travel through the electrolyte (liquid $\mathrm { L i P F } _ { 6 } = \mathrm { L i } ^ { + } + \mathrm { P F } _ { 6 } ^ { - } )$ to the graphite electrode. In the discharging phase, the reverse takes place. The charging-discharging process simply moves $\mathrm { L i ^ { + } }$ ions between the two electrodes. The two reactions can be described as follows:
+In lithium batteries, as shown in cross section in [Figure CS7.1F](#original-fig-cs7-1f), instead of the standard design, there is transport of Li ions through a porous medium. A typical porous medium is graphite, which consists of layers of atoms strongly bonded among themselves within each layer, but weakly interacting across layers. This makes it possible for the Li ions to be stored between the layers, a process called intercalation. Another material in which Li ions can intercalate is $\mathrm { L i C o O } _ { 2 } .$ In a lithium battery during charging, $\mathrm { L i ^ { + } }$ ions leave $\mathrm { L i C o O _ { 2 } }$ and travel through the electrolyte (liquid $\mathrm { L i P F } _ { 6 } = \mathrm { L i } ^ { + } + \mathrm { P F } _ { 6 } ^ { - } )$ to the graphite electrode. In the discharging phase, the reverse takes place. The charging-discharging process simply moves $\mathrm { L i ^ { + } }$ ions between the two electrodes. The two reactions can be described as follows:
 
 ```{math}
 :label: eq-p1-ch07-145
@@ -2228,16 +2232,17 @@ In lithium batteries, as shown in cross section in Figure CS7.1f, instead of the
 
 • Examples: graphite, LiCoO{2
 
+(original-fig-cs7-1f)=
 FIGURE CS7.1F The lithium-ion battery is the focus of major efforts to refine the technology for an array of applications extending from computers to plug-in hybrid automobiles and light trucks. The large improvement in energy storage per kg of battery mass over the nickel-metal hydride battery opens the possibility of propelling an automobile for up to 60 miles without recharging—the socalled plug in hybrid. This technology alone offers the opportunity to eliminate up to 60% of US imports of petroleum.
 
-This is an efficient process for generating electrical current but cannot go on forever, because at each discharging step a small fraction of the available $\mathrm { L i ^ { + } }$ ions is lost $( x \neq y$ in the second reaction above). These features of the Li battery are summarized in Figure CS7.1g.
+This is an efficient process for generating electrical current but cannot go on forever, because at each discharging step a small fraction of the available $\mathrm { L i ^ { + } }$ ions is lost $( x \neq y$ in the second reaction above). These features of the Li battery are summarized in [Figure CS7.1G](#fig-p1-ch07-77).
 
 :::{figure} ../images/fig-p1-ch07-77.jpg
 :name: fig-p1-ch07-77
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Lithium-ion batteries are a critical part of the emerging technology for the coming era of “plug-in hybrids,” which are capable of operating for some 40 to 60 miles unassisted by recharging from an internal combustion engine. An example of a plug-in hybrid is the Chevy Volt—a car released for production in 2012, and shown in Figure CS7.1h.
+Lithium-ion batteries are a critical part of the emerging technology for the coming era of “plug-in hybrids,” which are capable of operating for some 40 to 60 miles unassisted by recharging from an internal combustion engine. An example of a plug-in hybrid is the Chevy Volt—a car released for production in 2012, and shown in [Figure CS7.1H](#fig-p1-ch07-78).
 
 :::{figure} ../images/fig-p1-ch07-78.jpg
 :name: fig-p1-ch07-78
@@ -2328,7 +2333,7 @@ Electrochemistry is critical to the ability of the cell to create membrane struc
 
 We analyze this step in terms of the cell as an electrochemical model.
 
-Coupling Bond Energy to Electrochemical Potential. We know from our “Master Diagram,” Figure 7.33, that the Gibbs free energy release, $\Delta G _ { \mathrm { \Omega } }$ , is related to the cell potential via the equation
+Coupling Bond Energy to Electrochemical Potential. We know from our “Master Diagram,” [Figure 7.33](#fig-p1-ch07-55), that the Gibbs free energy release, $\Delta G _ { \mathrm { \Omega } }$ , is related to the cell potential via the equation
 
 ```{math}
 :label: eq-p1-ch07-151
@@ -2336,7 +2341,7 @@ Coupling Bond Energy to Electrochemical Potential. We know from our “Master Di
 ```
 
 
-where the superscript on $E ^ { \circ \prime }$ is used to denote standard conditions within biological systems, specifically at $\mathrm { p H } = 7$ The cell employs a controlled energy release by passing electrons along the electron-transport chain (ETC) that is situated along the inner membrane of the mitochondrion—a subunit of the cell that produces the cell's energy. The sequence linking the cell structure to the mitochondrion to the membrane containing the ETC sequence is shown in Figure CS7.2a.
+where the superscript on $E ^ { \circ \prime }$ is used to denote standard conditions within biological systems, specifically at $\mathrm { p H } = 7$ The cell employs a controlled energy release by passing electrons along the electron-transport chain (ETC) that is situated along the inner membrane of the mitochondrion—a subunit of the cell that produces the cell's energy. The sequence linking the cell structure to the mitochondrion to the membrane containing the ETC sequence is shown in [Figure CS7.2A](#fig-p1-ch07-79).
 
 :::{figure} ../images/fig-p1-ch07-79.jpg
 :name: fig-p1-ch07-79
@@ -2361,7 +2366,7 @@ But, as we saw, $\mathrm { H } _ { 2 }$ does not exist in the cell, but rather n
 ```
 
 
-At the mitochondrial inner membrane (Figure CS7.2a), the NADH(aq) and $\mathrm { H ^ { + } }$ (aq) transfer the two electrons to the first redox couple of the ETC and release two protons.
+At the mitochondrial inner membrane ([Figure CS7.2A)](#fig-p1-ch07-79), the NADH(aq) and $\mathrm { H ^ { + } }$ (aq) transfer the two electrons to the first redox couple of the ETC and release two protons.
 
 ```{math}
 :label: eq-p1-ch07-154
@@ -2401,7 +2406,7 @@ Turning to the role of ATP in powering living organisms, the variety of living f
 
 While this release of free energy is not large on the scale of all chemical reactions (the release of free energy in the combustion of octane is $\Delta G ^ { \circ } =$ -10,000 kJ), within the manifold of chemical reactions that take place within living organisms, -30 kJ of free energy release is indeed large. So what aspects of the ATP bond structure relative to ADP yield this large free energy difference—thus making ATP a uniquely potent supplier of free energy? The answer lies in the phosphate portions of ATP, ADP, and $\mathrm { H P O } _ { 4 } ^ { 2 - }$
 
-Figure CS7.2b diagrams the bonding structure of ATP, ADP, and the phosphate anion. The first reason for the large energy release is that at pH ${ \sim } 7 .$ the triphosphate portion of ATP has four negative charges grouped closely together. Because of this, ATP has a large charge repulsion intrinsic to its structure. This charge repulsion is reduced in ADP, as shown in Figure CS7.2b in the upper panel.
+[Figure CS7.2B](#fig-p1-ch07-80) diagrams the bonding structure of ATP, ADP, and the phosphate anion. The first reason for the large energy release is that at pH ${ \sim } 7 .$ the triphosphate portion of ATP has four negative charges grouped closely together. Because of this, ATP has a large charge repulsion intrinsic to its structure. This charge repulsion is reduced in ADP, as shown in [Figure CS7.2B](#fig-p1-ch07-80) in the upper panel.
 
 :::{figure} ../images/fig-p1-ch07-80.jpg
 :name: fig-p1-ch07-80
@@ -2432,7 +2437,7 @@ If the hydrolysis of ATP is coupled to this glucose-phosphate reaction, the net 
 
 But in the case of the ATP → ADP net reaction, there is more involved in guiding the course of the reaction than simply occupying common physical proximity. The reaction converting ATP to ADP is so slow under those conditions that it is not of biochemical interest.
 
-What must be added to the process is a way of “docking” the glucose and the ATP in a geometrically optimal configuration to instigate reaction. This process of enzyme catalyzed reactions can be viewed at a number of levels of molecular complexity. On the strictly diagrammatic level, shown in Figure CS7.2c, the catalyst (in this case the enzyme hexose kinase) provides the required docking site.
+What must be added to the process is a way of “docking” the glucose and the ATP in a geometrically optimal configuration to instigate reaction. This process of enzyme catalyzed reactions can be viewed at a number of levels of molecular complexity. On the strictly diagrammatic level, shown in [Figure CS7.2C](#fig-p1-ch07-81), the catalyst (in this case the enzyme hexose kinase) provides the required docking site.
 
 :::{figure} ../images/fig-p1-ch07-81.jpg
 :name: fig-p1-ch07-81
@@ -2443,7 +2448,7 @@ FIGURE CS7.2C The relationship between the enzyme-substrate complex and the gluc
 
 When ATP is properly positioned, the glucose is retained in position such that the [glucose-phosphate]<sup>-</sup> anion forms as the ADP product forms, and both products decouple from the enzyme. If the enzyme were not present, the reactants (ATP and glucose) would be largely isolated in their respective solvent “cages.” With the presence of the enzyme active site (the “docking” site), the reaction is fostered by a combination of proximity, orientation, bond distance, and, in many cases, the correct site specific acid or base characteristic.
 
-At one step greater detail, the interaction of the enzyme active site and the ATP-ADP-[glucose-phosphate]<sup>2-</sup> interaction is shown in Figure CS7.2d. In this more detailed view, the ATP molecule (shown here as $\mathrm { A D P \mathrm { \mathrm { - O \mathrm { - P O _ { 3 } H ) } } } }$ is (weakly) bonded to the enzyme in such a way that the cavity of the enzyme active site contains the glucose. The terminal hydrogen on the glucose transfers to the terminal oxygen on the ADP as the phosphate group replaces the terminal hydrogen on the glucose, forming the [glucose-phosphate $] ^ { 2 - }$ anion.
+At one step greater detail, the interaction of the enzyme active site and the ATP-ADP-[glucose-phosphate]<sup>2-</sup> interaction is shown in [Figure CS7.2D](#fig-p1-ch07-82). In this more detailed view, the ATP molecule (shown here as $\mathrm { A D P \mathrm { \mathrm { - O \mathrm { - P O _ { 3 } H ) } } } }$ is (weakly) bonded to the enzyme in such a way that the cavity of the enzyme active site contains the glucose. The terminal hydrogen on the glucose transfers to the terminal oxygen on the ADP as the phosphate group replaces the terminal hydrogen on the glucose, forming the [glucose-phosphate $] ^ { 2 - }$ anion.
 
 :::{figure} ../images/fig-p1-ch07-82.jpg
 :name: fig-p1-ch07-82
@@ -2533,7 +2538,7 @@ CASE STUDY 7.3 Electricity, Magnetism, and Electric Motors to Power the Transpor
 
 As the implications of continued use of fossil fuels to meet primary energy generation demands becomes more widely understood, there will be a rapidly increasing demand for the generation of electric power. This increased demand for electric power means that the sources of primary energy generation will shift to the incorporation of wind power generation, concentrated solar thermal power generation, and geothermal power generation into the nation's power grid. All these primary energy sources involve the conversion of mechanical energy or thermal energy to electric power through the use of generators that are very similar to the large generators currently used in coal and natural gas burning power plants as well as in nuclear and hydroelectric power plants. The ubiquitous application of electric generators begs the question: how do they work? What are the principles of electricity and magnetism upon which their performance depends? Electric motors are required to convert an electrical potential into mechanical work to propel automobiles, high speed rail systems, and other modes of transport. How do electric motors work? How are they different from generators? How are they similar?
 
-This combination of energy generation and energy end use is summarized in Figure CS7.3a, with the top row of figure panels focused on energy production and the bottom row focused on energy uses.
+This combination of energy generation and energy end use is summarized in [Figure CS7.3A](#fig-p1-ch07-86), with the top row of figure panels focused on energy production and the bottom row focused on energy uses.
 
 :::{figure} ../images/fig-p1-ch07-86.jpg
 :name: fig-p1-ch07-86
@@ -2544,7 +2549,7 @@ FIGURE CS7.3A As the consequences of burning fossil fuels are more widely unders
 
 The interaction of a magnetic field with a moving charge or the creation of a magnetic field by a moving charge establishes an intimate linkage between electric fields, magnetic fields, and associated forces that challenge any effort at clearly separating cause and effect. Thus, we choose to begin by examining the force exerted on a moving charge by a time independent magnetic field.
 
-We will assume, therefore, that we have a magnetic field with both a magnitude and direction that is invariant with time, such as that established between the pole pieces of a permanent magnet as shown in Figure CS7.3b. By direct experimentation we can determine the net force on a charge q passing through a magnetic field B. The force exerted by the magnetic field B on the charge q turns out to depend not only on the charge q, but also on both the direction of motion of the charge with respect to the magnetic field and the velocity of the charge. As displayed in Figure CS7.3b, a positive charge moving across magnetic field lines, B, experiences a force perpendicular to both the velocity of the particle, v, and the direction of the magnetic field. The direction of the force on a positive charge, +q, is determined by the right-hand rule: if the fingers of the right hand are extended in the direction of the particle's velocity and the fingers are rotated into the direction of the magnetic field, the positively charged particle will experience a force, f, in the direction in which the thumb is extended. For a negative charge, the force is in the opposite direction as is also shown in Figure CS7.3b.
+We will assume, therefore, that we have a magnetic field with both a magnitude and direction that is invariant with time, such as that established between the pole pieces of a permanent magnet as shown in [Figure CS7.3B](#fig-p1-ch07-87). By direct experimentation we can determine the net force on a charge q passing through a magnetic field B. The force exerted by the magnetic field B on the charge q turns out to depend not only on the charge q, but also on both the direction of motion of the charge with respect to the magnetic field and the velocity of the charge. As displayed in [Figure CS7.3B](#fig-p1-ch07-87), a positive charge moving across magnetic field lines, B, experiences a force perpendicular to both the velocity of the particle, v, and the direction of the magnetic field. The direction of the force on a positive charge, +q, is determined by the right-hand rule: if the fingers of the right hand are extended in the direction of the particle's velocity and the fingers are rotated into the direction of the magnetic field, the positively charged particle will experience a force, f, in the direction in which the thumb is extended. For a negative charge, the force is in the opposite direction as is also shown in [Figure CS7.3B](#fig-p1-ch07-87).
 
 :::{figure} ../images/fig-p1-ch07-87.jpg
 :name: fig-p1-ch07-87
@@ -2553,7 +2558,7 @@ FIGURE CS7.3B The application of the right-hand rule to determine the direction 
 :::
 
 
-Figure CS7.3c displays the result of three experiments. In the left panel of Figure CS7.3c the charge is moving parallel to the magnetic field and that charge experiences no net force. When the charge moves perpendicular to the magnetic field, as shown in the right panel of Figure CS7.3c, the force is a maximum and is equal in magnitude to the product q ν B and in a direction perpendicular to the direction of the B field—the case reviewed in Figure CS7.3b. In the center panel of Figure CS7.3c, the direction of the particle is movement is at an angle α with respect to the B field. In this case the magnitude of the force on the charge q is qνB sin α and the direction is perpendicular to the plane containing the B field direction and the direction of motion of the charged particle.
+[Figure CS7.3C](#fig-p1-ch07-88) displays the result of three experiments. In the left panel of [Figure CS7.3C](#fig-p1-ch07-88) the charge is moving parallel to the magnetic field and that charge experiences no net force. When the charge moves perpendicular to the magnetic field, as shown in the right panel of [Figure CS7.3C](#fig-p1-ch07-88), the force is a maximum and is equal in magnitude to the product q ν B and in a direction perpendicular to the direction of the B field—the case reviewed in [Figure CS7.3B](#fig-p1-ch07-87). In the center panel of [Figure CS7.3C](#fig-p1-ch07-88), the direction of the particle is movement is at an angle α with respect to the B field. In this case the magnitude of the force on the charge q is qνB sin α and the direction is perpendicular to the plane containing the B field direction and the direction of motion of the charged particle.
 
 :::{figure} ../images/fig-p1-ch07-88.jpg
 :name: fig-p1-ch07-88
@@ -2572,11 +2577,11 @@ The magnetic field B exerts a force on a moving charge q, and the magnitude of t
 
 4. If the charge q is negative, the direction of the force applied to the charge by the magnetic field is opposite of the case for a positive charge.
 
-5. The most convenient way of defining the relationship between the velocity v, the magnetic field B, and the force applied to the charged particle is to use the “right-hand rule.” As displayed in Figure CS7.3b, if you extend the fingers of the right hand in the direction of the motion of the charge, q, and you rotate the fingers into the direction of the magnetic field, B, then the force is aligned with the direction of the thumb.
+5. The most convenient way of defining the relationship between the velocity v, the magnetic field B, and the force applied to the charged particle is to use the “right-hand rule.” As displayed in [Figure CS7.3B](#fig-p1-ch07-87), if you extend the fingers of the right hand in the direction of the motion of the charge, q, and you rotate the fingers into the direction of the magnetic field, B, then the force is aligned with the direction of the thumb.
 
 ## Magnetic Force on a Current-Carrying Wire
 
-We can easily determine the force exerted on a current carrying wire by an externally applied magnetic field by a straightforward application of the principle outlined above for the forces on a single charge. To begin, we calculate the force that a uniform magnetic field exerts on a long straight wire that carries a current I through a magnetic field B. As we can deduce from our experiments with single charges, if the wire is parallel to the magnetic field, no force will be exerted on the wire. If the wire is perpendicular to the magnetic field, as shown in Figure CS7.3d, with the magnetic field pointing into the plane of the figure (as designated by the Xs in the figure), each charge has a force qνB on it as a result of the motion of the charges through the field B. With no current flowing, as shown in the left panel, there is no force exerted on the wire. With a current I flowing in the wire, there is a force, F, exerted in the plane of the figure in the direction defined by the right-hand rule—the force is to the left as displayed in the right panel of Figure CS7.3d.
+We can easily determine the force exerted on a current carrying wire by an externally applied magnetic field by a straightforward application of the principle outlined above for the forces on a single charge. To begin, we calculate the force that a uniform magnetic field exerts on a long straight wire that carries a current I through a magnetic field B. As we can deduce from our experiments with single charges, if the wire is parallel to the magnetic field, no force will be exerted on the wire. If the wire is perpendicular to the magnetic field, as shown in [Figure CS7.3D](#fig-p1-ch07-89), with the magnetic field pointing into the plane of the figure (as designated by the Xs in the figure), each charge has a force qνB on it as a result of the motion of the charges through the field B. With no current flowing, as shown in the left panel, there is no force exerted on the wire. With a current I flowing in the wire, there is a force, F, exerted in the plane of the figure in the direction defined by the right-hand rule—the force is to the left as displayed in the right panel of [Figure CS7.3D](#fig-p1-ch07-89).
 
 :::{figure} ../images/fig-p1-ch07-89.jpg
 :name: fig-p1-ch07-89
@@ -2611,7 +2616,7 @@ The force is proportional to the strength of the magnetic field
 
 The force depends on the angle between the B field and the current direction
 
-As a result, we can write the proportionality: F α I ℓ B sinΘ where Θ is defined in Figure CS7.3e.
+As a result, we can write the proportionality: F α I ℓ B sinΘ where Θ is defined in [Figure CS7.3E](#fig-p1-ch07-90).
 
 :::{figure} ../images/fig-p1-ch07-90.jpg
 :name: fig-p1-ch07-90
@@ -2626,7 +2631,7 @@ Because the field strength, B, is defined in SI units by the force exerted on a 
 
 A key objective of this Case Study is to understand the principles underpinning the operation of an electric motor, so we now explore how this calculated force on a wire carrying a current I through a magnetic field can be used to develop the torque required to propel a car, drive a water pump or otherwise provide the mechanical means for doing work.
 
-The key idea that transforms the simple force on a segment of wire that carries a current through a magnetic field, to a torque is that of a current loop, as displayed in Figure CS7.3f.
+The key idea that transforms the simple force on a segment of wire that carries a current through a magnetic field, to a torque is that of a current loop, as displayed in [Figure CS7.3F](#fig-p1-ch07-93).
 
 The remarkable result of combining a current loop with a magnetic field: a torque is created.
 
@@ -2647,11 +2652,11 @@ FIGURE CS7.3F The torque on a current loop within an externally imposed magnetic
 :::
 
 
-When a current flows in a closed loop of wire immersed in an externally imposed magnetic field, the magnetic force on the moving charge carried by the wire loop can produce a torque as shown in panel A of Figure CS7.3f. With the B field in the plane of the diagram pointing to the right, the current moving through the wire, also in the plane of the diagram, will create a force $\mathbf { F } = \mathbf { I } \{ \mathbf { B } = \mathbf { I } \mathbf { a B }$ where a is the length of the current loop perpendicular to the B field in panel A. The direction of the force will be into the plane of the diagram, as indicated in panel A. The current segment of length b that is parallel to the B field exerts no force because the current carried by the wire is parallel to the B field. The segment of the loop of length a carrying current from top to bottom in panel A will have a force of magnitude IaB, but the direction of that force will be out of the plane of the diagram, in the opposite direction to that of the wire segment on the left-hand side carrying current from the bottom to the top of panel A.
+When a current flows in a closed loop of wire immersed in an externally imposed magnetic field, the magnetic force on the moving charge carried by the wire loop can produce a torque as shown in panel A of [Figure CS7.3F](#fig-p1-ch07-93). With the B field in the plane of the diagram pointing to the right, the current moving through the wire, also in the plane of the diagram, will create a force $\mathbf { F } = \mathbf { I } \{ \mathbf { B } = \mathbf { I } \mathbf { a B }$ where a is the length of the current loop perpendicular to the B field in panel A. The direction of the force will be into the plane of the diagram, as indicated in panel A. The current segment of length b that is parallel to the B field exerts no force because the current carried by the wire is parallel to the B field. The segment of the loop of length a carrying current from top to bottom in panel A will have a force of magnitude IaB, but the direction of that force will be out of the plane of the diagram, in the opposite direction to that of the wire segment on the left-hand side carrying current from the bottom to the top of panel A.
 
-Because the force created by the current flowing through the loop in a uniform magnetic field is equal but opposite in direction on each side of the loop, the oppositely directed forces apply a net torque on the current loop about the axis of rotation shown in panel A. Panel B defines the force vectors operating on the current loop as viewed along the axis of rotation and perpendicular to the B field. If the current loop is allowed to rotate by an angle θ in the B field, the direction of the force vectors and their magnitude is still perpendicular to the B field but the torque is reduced. The reason is that torque is defined by the product of the length of the moment arm, $\mathbf { r } ,$ from the center of rotation to the point at which the force is applied perpendicular to the vector connecting that point to the center of rotation as displayed in Figure CS7.3f.
+Because the force created by the current flowing through the loop in a uniform magnetic field is equal but opposite in direction on each side of the loop, the oppositely directed forces apply a net torque on the current loop about the axis of rotation shown in panel A. Panel B defines the force vectors operating on the current loop as viewed along the axis of rotation and perpendicular to the B field. If the current loop is allowed to rotate by an angle θ in the B field, the direction of the force vectors and their magnitude is still perpendicular to the B field but the torque is reduced. The reason is that torque is defined by the product of the length of the moment arm, $\mathbf { r } ,$ from the center of rotation to the point at which the force is applied perpendicular to the vector connecting that point to the center of rotation as displayed in [Figure CS7.3F](#fig-p1-ch07-93).
 
-We can calculate the torque on the current loop in Figure CS7.3f by calculating the torque for each segment of wire (of length a) perpendicular to the magnetic field multiplied by the moment arm (length b/2) from the point of force to center of rotation. Thus the force on each segment is
+We can calculate the torque on the current loop in [Figure CS7.3F](#fig-p1-ch07-93) by calculating the torque for each segment of wire (of length a) perpendicular to the magnetic field multiplied by the moment arm (length b/2) from the point of force to center of rotation. Thus the force on each segment is
 
 ```{math}
 :label: eq-p1-ch07-170
@@ -2693,7 +2698,7 @@ If there are N turns in the current loop, then the torque is increased in propor
 
 because for each turn, the current is increased by I.
 
-As panel C of Figure CS7.3f makes clear, as the current loop rotates about the axis of rotation in the fixed magnetic field, the moment arm decreases as the angle θ decreases so the moment arm b/2 must be replaced by $\left( \mathrm { b } / { 2 } \right)$ sin θ, and thus $\pmb { \tau } _ { \Theta } = \pmb { \tau } _ { \mathrm { T } }$ sin θ = NIAB sin θ. As a result, when the current loop rotates to the point where the plane of the current loop aligns with the magnetic field, B, the torque on the loop $\tau _ { \theta } = \mathrm { N I A B }$ sin $\theta = \sigma$ because $\boldsymbol \theta = \boldsymbol 0 ^ { \circ }$ and thus sin $\theta = \sigma$
+As panel C of [Figure CS7.3F](#fig-p1-ch07-93) makes clear, as the current loop rotates about the axis of rotation in the fixed magnetic field, the moment arm decreases as the angle θ decreases so the moment arm b/2 must be replaced by $\left( \mathrm { b } / { 2 } \right)$ sin θ, and thus $\pmb { \tau } _ { \Theta } = \pmb { \tau } _ { \mathrm { T } }$ sin θ = NIAB sin θ. As a result, when the current loop rotates to the point where the plane of the current loop aligns with the magnetic field, B, the torque on the loop $\tau _ { \theta } = \mathrm { N I A B }$ sin $\theta = \sigma$ because $\boldsymbol \theta = \boldsymbol 0 ^ { \circ }$ and thus sin $\theta = \sigma$
 
 Therefore, while we have solved the problem of how to generate a torque using a loop of wire immersed in a magnetic field, we have a device that only supplies torque for ½ a rotation. We need to modify the design such that the shaft of the device rotates continuously. This requires a device known as a “commutator” which is displayed in CS7.3g.
 
@@ -2704,7 +2709,7 @@ FIGURE CS7.3G A “commutator” is a very important device in an electric motor
 :::
 
 
-The commutator provides two crucial functions. First, it supplies the required voltage to the current loop(s) as the current loop rotates in the magnetic field so the wires do not “wind-up” as the current loop continues to rotate. This is accomplished by having the ends of the current loop slide, with minimal friction, inside the curved metal electrodes that are split so as to apply the positive side of the applied voltage to one electrode and the negative side of the applied voltage to the other electrode as shown in Figure CS7.3h.
+The commutator provides two crucial functions. First, it supplies the required voltage to the current loop(s) as the current loop rotates in the magnetic field so the wires do not “wind-up” as the current loop continues to rotate. This is accomplished by having the ends of the current loop slide, with minimal friction, inside the curved metal electrodes that are split so as to apply the positive side of the applied voltage to one electrode and the negative side of the applied voltage to the other electrode as shown in [Figure CS7.3H](#fig-p1-ch07-95).
 
 Linking an external magnetic field with a current loop and a commutator yields a remarkable device: an electric motor.
 :::{figure} ../images/fig-p1-ch07-95.jpg
@@ -2714,9 +2719,9 @@ FIGURE CS7.3H We can assemble the components of an electric motor into a single 
 :::
 
 
-Second, and equally important, the commutator serves to systematically reverse the polarity of the applied voltage just as the current loop reaches the point where the plane of the current loop is perpendicular to the direction of the magnetic field. It is at that point where the force imparted but the magnetic field on the current loop is perpendicular to the axis of rotation (as displayed in Figure CS7.3h) and thus it is the point of zero torque. If the current is reversed through the current loop at that point, then the force vectors on each side of the wire loop are reversed and a torque is then applied in the same direction as the rotation. That torque then increases as θ increases from $0 ^ { \circ }$ toward $9 0 ^ { \circ }$ such that τ = NIAB sin θ. The polarity of the voltage and thus the direction of the current is then fixed for the next $1 8 0 ^ { \circ }$ of rotation to keep the direction of the torque the same, although the magnitude of the torque varies as sin θ of the angle between the plane of the current loop and the direction of the magnetic field.
+Second, and equally important, the commutator serves to systematically reverse the polarity of the applied voltage just as the current loop reaches the point where the plane of the current loop is perpendicular to the direction of the magnetic field. It is at that point where the force imparted but the magnetic field on the current loop is perpendicular to the axis of rotation (as displayed in [Figure CS7.3H)](#fig-p1-ch07-95) and thus it is the point of zero torque. If the current is reversed through the current loop at that point, then the force vectors on each side of the wire loop are reversed and a torque is then applied in the same direction as the rotation. That torque then increases as θ increases from $0 ^ { \circ }$ toward $9 0 ^ { \circ }$ such that τ = NIAB sin θ. The polarity of the voltage and thus the direction of the current is then fixed for the next $1 8 0 ^ { \circ }$ of rotation to keep the direction of the torque the same, although the magnitude of the torque varies as sin θ of the angle between the plane of the current loop and the direction of the magnetic field.
 
-The configuration of the commutator and the “brushes” between which the commutator rotates are displayed in panel A of Figure CS7.3i along with the torque, τ, as a function of time as the wire loop rotates in the magnetic field.
+The configuration of the commutator and the “brushes” between which the commutator rotates are displayed in panel A of [Figure CS7.3I](#fig-p1-ch07-96) along with the torque, τ, as a function of time as the wire loop rotates in the magnetic field.
 
 :::{figure} ../images/fig-p1-ch07-96.jpg
 :name: fig-p1-ch07-96
@@ -2729,7 +2734,7 @@ As we observed above, the torque delivered by the motor with a single plane of w
 
 ## τ = NIAB sin θ
 
-A motor with a single plane of “windings” on the armature would provide a very uneven torque as a function of shaft angle as shown in panel (a) and would thus deliver very uneven power to the motor shaft. This problem is dramatically reduced by using a design that uses many “sectors” of windings, as displayed in panel (b) of Figure CS7.3i. Each sector is, in this design, supplied with the full current to its individual winding when the plane of that winding is nearly perpendicular to the magnetic field such that the torque is very near the maximum $\mathbf { \tau } _ { \mathrm { T } } = \mathrm { N I A B }$ sin θ ≈ NIAB because $\theta \ : \approx \ : 9 0 ^ { \circ }$ and sin $\boldsymbol \theta \approx \mathbf 1$ This results in a torque delivered by the motor shaft that is far smoother as shown in panel (b) of Figure CS7.3i.
+A motor with a single plane of “windings” on the armature would provide a very uneven torque as a function of shaft angle as shown in panel (a) and would thus deliver very uneven power to the motor shaft. This problem is dramatically reduced by using a design that uses many “sectors” of windings, as displayed in panel (b) of [Figure CS7.3I](#fig-p1-ch07-96). Each sector is, in this design, supplied with the full current to its individual winding when the plane of that winding is nearly perpendicular to the magnetic field such that the torque is very near the maximum $\mathbf { \tau } _ { \mathrm { T } } = \mathrm { N I A B }$ sin θ ≈ NIAB because $\theta \ : \approx \ : 9 0 ^ { \circ }$ and sin $\boldsymbol \theta \approx \mathbf 1$ This results in a torque delivered by the motor shaft that is far smoother as shown in panel (b) of [Figure CS7.3I](#fig-p1-ch07-96).
 
 ## Problem 1
 
@@ -2834,6 +2839,7 @@ FIGURE CS7.4E We can compare the mass and the volume of ${ \mathsf { C O } } _ {
 
 How much energy in kWh is contained in a liter of gasoline? In a liter of ethanol? What is the ratio of the energy content per kg in TNT vs. gasoline? Ratio of energy content per kg in a lead-acid battery to that of gasoline?
 
+(original-table-cs7-4a)=
 TABLE CS7.4A Energy per kg for various objects and substances.
 
 <table><tr><td></td><td>Kilowatt-hours</td><td>Compared to TNT</td><td>kJ</td></tr><tr><td>Bullet (1000 ft/s)</td><td>0.005</td><td>0.015</td><td> $1.8 \times 10^{1}$ </td></tr><tr><td>Auto battery</td><td>0.016</td><td>0.046</td><td> $5.8 \times 10^{1}$ </td></tr><tr><td>Computer battery</td><td>0.053</td><td>0.15</td><td> $1.9 \times 10^{2}$ </td></tr><tr><td>Alkaline battery</td><td>0.079</td><td>0.23</td><td> $2.8 \times 10^{2}$ </td></tr><tr><td>TNT</td><td>0.343</td><td>1</td><td> $1.2 \times 10^{3}$ </td></tr><tr><td>High explosive (PETN)</td><td>0.528</td><td>1.5</td><td> $1.9 \times 10^{3}$ </td></tr><tr><td>Chocolate chip cookies</td><td>2.6</td><td>7.7</td><td> $9.4 \times 10^{3}$ </td></tr><tr><td>Coal</td><td>3.2</td><td>9.2</td><td> $1.2 \times 10^{4}$ </td></tr><tr><td>Butter</td><td>3.7</td><td>11</td><td> $1.3 \times 10^{4}$ </td></tr><tr><td>Ethanol</td><td>3.2</td><td>9</td><td> $1.2 \times 10^{4}$ </td></tr><tr><td>Gasoline</td><td>5.3</td><td>15</td><td> $1.9 \times 10^{4}$ </td></tr><tr><td>Natural gas (methane)</td><td>6.9</td><td>20</td><td> $2.5 \times 10^{4}$ </td></tr><tr><td>Hydrogen</td><td>14</td><td>40</td><td> $5.0 \times 10^{4}$ </td></tr><tr><td>Asteroid (30 km/s)</td><td>57</td><td>165</td><td> $2.1 \times 10^{5}$ </td></tr><tr><td> $^{235}\text{U}$ </td><td>11 million</td><td>32 million</td><td> $4.0 \times 10^{10}$ </td></tr></table>
@@ -2852,6 +2858,7 @@ FIGURE CS7.4F It is important to know the ratios of the energy content per kg of
 How many watt-hours (Wh) of energy per kg are contained in a full charged lead-acid battery? In a NiMH battery? In a state-of-the-art lithium-ion battery? What is the range of a Tesla Model S with current
 
 production Li<sup>+</sup> batteries? By what fraction is that predicted to increase over the next few years?
+(original-table-cs7-4b)=
 TABLE CS7.4B
 
 <table><tr><td>Battery type</td><td>Cost $ per Wh</td><td>Wh / kg</td><td>Joules / kg</td><td>Wh / liter</td></tr><tr><td>Lithium-ion</td><td>$0.47</td><td>180</td><td>460,000</td><td>230</td></tr><tr><td>Alkaline long-life</td><td>$0.19</td><td>110</td><td>400,000</td><td>320</td></tr><tr><td>NiMH</td><td>$0.99</td><td>95</td><td>340,000</td><td>300</td></tr><tr><td>Lead-acid</td><td>$0.17</td><td>41</td><td>146,000</td><td>100</td></tr><tr><td>NiCad</td><td>$1.50</td><td>39</td><td>140,000</td><td>140</td></tr><tr><td>Carbon-zinc</td><td>$0.31</td><td>36</td><td>130,000</td><td>92</td></tr></table>
@@ -2932,7 +2939,7 @@ E _ {\mathrm{cell}} ^ {\circ} = E _ {\mathrm{PbO} _ {2} / \mathrm{PbSO} _ {4}} ^
 
 7. The bisulfate anion, $\mathrm { H S O } _ { 4 } ^ { - }$ , is involved as a reactant in both the oxidation and reduction reactions.
 
-Before we analyze the behavior of the lead-acid battery under nonstandard conditions, we consider first the oxidation-reduction reactions that take place, respectively, at the anode and cathode. Consider the graphical representation of what occurs within the lead-acid battery in Figure CS7.5a.
+Before we analyze the behavior of the lead-acid battery under nonstandard conditions, we consider first the oxidation-reduction reactions that take place, respectively, at the anode and cathode. Consider the graphical representation of what occurs within the lead-acid battery in [Figure CS7.5A](#fig-p1-ch07-110).
 
 :::{figure} ../images/fig-p1-ch07-110.jpg
 :name: fig-p1-ch07-110
@@ -2949,9 +2956,10 @@ We first analyze the change in oxidation state of Pb in $\mathrm { P b } { \cal 
 ```
 
 
-In $\mathrm { P b O } _ { 2 } ,$ the oxidation state of Pb is determined by applying our rules outlined in Case Study 2.4 (shown here as Table CS7.5a).
+In $\mathrm { P b O } _ { 2 } ,$ the oxidation state of Pb is determined by applying our rules outlined in Case Study 2.4 (shown here as [Table CS7.5A)](#original-table-cs7-5a).
 
-## TABLE CS7.5A (From Case Study 2.4, Table CS2.4a)
+(original-table-cs7-5a)=
+## [TABLE CS7.5A](#original-table-cs7-5a) (From Case Study 2.4, [Table CS2.4A)](#original-table-cs2-4a)
 
 ## Rules of oxidation states
 

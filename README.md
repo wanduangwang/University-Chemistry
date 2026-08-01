@@ -63,9 +63,10 @@ npm.cmd run start -- --port 3000
 ## Quality policy
 
 The automated QA fails on missing or orphan images, duplicate labels, missing
-image alternative text, unprocessed MinerU paths, combining OCR marks, or any
-MyST build warning/error. It also reports non-blocking limitations such as the
-lack of authored cross-references and extremely long generated table lines.
+image alternative text, unprocessed MinerU paths, combining OCR marks,
+unresolved or regressed cross-references, or any MyST build warning/error. It
+also reports non-blocking limitations such as extremely long generated table
+lines.
 
 Machine extraction is not a substitute for subject-matter review. Equations,
 chemical structures, numerical tables, captions, and OCR-damaged prose require

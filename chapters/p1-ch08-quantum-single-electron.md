@@ -16,7 +16,7 @@ title: "8 Quantum Mechanics, Wave-Particle Duality, and the Single Electron Atom
 
 ## Framework
 
-Figure 8.1 displays a pattern of individual iron atoms on a copper surface by imaging the electron density with a sharpened tip of tungsten used to map the topography of the electron density surrounding individual atoms. If Figure 8.1 shows the position of individual atoms made of electrons, protons, and neutrons, all of which are particles, where does the apparent wave pattern come from? The image looks like a pond into which a stone has been thrown. How can this be?
+[Figure 8.1](#fig-p1-ch08-2) displays a pattern of individual iron atoms on a copper surface by imaging the electron density with a sharpened tip of tungsten used to map the topography of the electron density surrounding individual atoms. If [Figure 8.1](#fig-p1-ch08-2) shows the position of individual atoms made of electrons, protons, and neutrons, all of which are particles, where does the apparent wave pattern come from? The image looks like a pond into which a stone has been thrown. How can this be?
 
 :::{figure} ../images/fig-p1-ch08-2.jpg
 :name: fig-p1-ch08-2
@@ -27,9 +27,9 @@ FIGURE 8.1 The observed position of individual iron atoms on flat copper arrange
 
 Atomic structure and the relationship between the spatial distribution of electrons in separated atoms vs. those same atoms in a molecular structure has always been a central challenge for chemistry. While we will develop an understanding of atomic structure, and the remarkable interplay between the wave properties of electrons and that of electromagnetic radiation, we move first to the forefront of research that is rapidly revealing revolutionary new developments in visualizing, imaging, and the physical manipulation of individual atoms.
 
-Within the last few years, techniques have been developed that are capable of detailing the position of individual atoms as well as the distribution of electron density that constitutes the bonding geometry that establishes the structure of exotic new materials related to energy generation, nanoscale computing, memory storage devices, and drug delivery. Figure 8.1 is an image of individual iron atoms arranged on the surface of flat copper. The specific position of the “corral” of iron atoms was arranged by moving individual iron atoms with the tip of an extremely sharp needle.
+Within the last few years, techniques have been developed that are capable of detailing the position of individual atoms as well as the distribution of electron density that constitutes the bonding geometry that establishes the structure of exotic new materials related to energy generation, nanoscale computing, memory storage devices, and drug delivery. [Figure 8.1](#fig-p1-ch08-2) is an image of individual iron atoms arranged on the surface of flat copper. The specific position of the “corral” of iron atoms was arranged by moving individual iron atoms with the tip of an extremely sharp needle.
 
-Figure 8.2 displays the sequence by which the corral of iron atoms was assembled one by one. The technique is called scanning tunneling microscopy (STM). While the iron atoms form the circle or corral, the wave pattern of electron density confined within the corral represents direct evidence of the wave nature of electrons. Specifically, while electrons are viewed as identifiable particles, they possess a waveparticle duality that constitutes the foundation of quantum mechanics— the scientific foundation that underpins our understanding of atomic structure and of molecular bonding.
+[Figure 8.2](#fig-p1-ch08-3) displays the sequence by which the corral of iron atoms was assembled one by one. The technique is called scanning tunneling microscopy (STM). While the iron atoms form the circle or corral, the wave pattern of electron density confined within the corral represents direct evidence of the wave nature of electrons. Specifically, while electrons are viewed as identifiable particles, they possess a waveparticle duality that constitutes the foundation of quantum mechanics— the scientific foundation that underpins our understanding of atomic structure and of molecular bonding.
 
 :::{figure} ../images/fig-p1-ch08-3.jpg
 :name: fig-p1-ch08-3
@@ -42,7 +42,7 @@ While it is both remarkable and counterintuitive, a major component in the solut
 
 When we come to understand and to utilize the principles that dictate the behavior of electrons and atoms in molecular bonding—the domain of quantum mechanics—we open new technologies that can very effectively and inexpensively generate electrical power from sunlight, and can create new materials capable of significantly reducing energy demand through far more efficient automobiles, high speed train systems and buildings. Technologies based on the principles of quantum mechanics can bring hundreds to thousands of people into meetings linked by the movement of electrons rather than the transport of materials or of people.
 
-Thus we extend our exploration to the realm of the individual atom. From the principles that govern the structure of the individual atom, we will gain remarkable insight into the world of “nanomaterials” that constitute structures on the scale of $1 0 ^ { - 9 }$ meters where the principles of quantum mechanics play a central role. Figure 8.3 displays the image of a device developed to convert solar photons to electrons and to then collect those electrons with “wires” only ${ \sim } 1 0 ^ { - 6 } \mathrm { m }$ in width.
+Thus we extend our exploration to the realm of the individual atom. From the principles that govern the structure of the individual atom, we will gain remarkable insight into the world of “nanomaterials” that constitute structures on the scale of $1 0 ^ { - 9 }$ meters where the principles of quantum mechanics play a central role. [Figure 8.3](#fig-p1-ch08-4) displays the image of a device developed to convert solar photons to electrons and to then collect those electrons with “wires” only ${ \sim } 1 0 ^ { - 6 } \mathrm { m }$ in width.
 
 :::{figure} ../images/fig-p1-ch08-4.jpg
 :name: fig-p1-ch08-4
@@ -53,13 +53,13 @@ FIGURE 8.3 Image of a microscopic array of the top side of a silicon wafer based
 
 In Chapter 2 we reviewed the development of the atomic view of matter by John Dalton. But humans could not actually “see” individual atoms until the early 1980s. Then with the development of the STM— individual atoms of iron manipulated on a surface of copper opened a new era of visualization at the atomic level.
 
-An inspection of Figure 8.1, taken by an STM, immediately raises three questions: (1) What are the waves that appear between the central point within the corral of iron atoms, (2) Why does the name of the device that made the observation contain the word “tunneling,” and (3) Why does the apparent wave pattern within the corral of iron atoms virtually mimic the waves created by throwing a stone into a pond, resulting in concentric rings of waves in water?
+An inspection of [Figure 8.1](#fig-p1-ch08-2), taken by an STM, immediately raises three questions: (1) What are the waves that appear between the central point within the corral of iron atoms, (2) Why does the name of the device that made the observation contain the word “tunneling,” and (3) Why does the apparent wave pattern within the corral of iron atoms virtually mimic the waves created by throwing a stone into a pond, resulting in concentric rings of waves in water?
 
 With the discovery of the electron by J. J. Thomson in 1897, electrons were viewed as particles. With the development of electromagnetic theory in the 19th century and the observed behavior of light, it was taken as a fundamental tenet of physics that electromagnetic radiation was a wave phenomenon. Electrons were particles, light was a wave. Any student of the physical world knew that to be true!
 
 But as we will see, the behavior of an electron on the scale of an atom has far more in common with a violin string than it does with a particle such as the stone thrown into a pond that creates waves. But, as we will also see, the wave nature of the electron allows it to penetrate into places forbidden by what we know in our macroscopic world—such as how when an object strikes a wall of concrete it will stop, unable to penetrate the barrier.
 
-Electrons, in sharp contrast, can penetrate into barriers without damaging themselves or the barrier they penetrate. This is called “tunneling”—an electron passing through a barrier and appearing on the other side unscathed. On the macroscopic scale it is as if we were riding on a roller coaster, as shown in Figure $\underline { { 8 . 4 } } ,$ and instead of moving from point A, with initial potential energy of mgh and kinetic energy of zero that would carry us (in the absence of friction) to point C, we actually “tunneled” through from point C to point E on the other side of the (energy) barrier! This phenomenon is treated in Case Study 8.1.
+Electrons, in sharp contrast, can penetrate into barriers without damaging themselves or the barrier they penetrate. This is called “tunneling”—an electron passing through a barrier and appearing on the other side unscathed. On the macroscopic scale it is as if we were riding on a roller coaster, as shown in [Figure 8.4](#fig-p1-ch08-5) and instead of moving from point A, with initial potential energy of mgh and kinetic energy of zero that would carry us (in the absence of friction) to point C, we actually “tunneled” through from point C to point E on the other side of the (energy) barrier! This phenomenon is treated in Case Study 8.1.
 
 :::{figure} ../images/fig-p1-ch08-5.jpg
 :name: fig-p1-ch08-5
@@ -81,7 +81,7 @@ In 1986 Gerd Binnig and Heinrich Rohrer were awarded the Nobel prize in physics 
 
 Although it took Binnig and Rhorer three years of intensive work to develop the extremely sharp metal tips required and to develop extremely precise positional control (both vertically and horizontally), their new scanning (movement of the tip) tunneling (electron tunneling) microscope (ability to see small objects) or STM proved to be exquisitely sensitive to features at the atomic scale. A new era was born. Not only could science now resolve spatial features at the atomic level, science could dream of new objects to construct at the atomic scale and to then view the handiwork directly.
 
-Figure 8.5 shows a computer reconstruction of an STM needle point fabricated to achieve atomic level resolution. The operation of the STM is depicted in Figure 8.6, wherein the tip of the probe approaches the array of atoms on the surface and, by virtue of the voltage difference between the tip and the surface, electrons flow from the tip to the surface. The tunneling of the electrons is extremely sensitive to the potential barrier, which is controlled at a fixed voltage difference by the distance between the probe tip and the electron cloud of the atom on the surface. Thus, as the STM tip is moved across the surface, the flow of the electrons from the tip to the surface rises sharply when passing over the top of an atom. As the tip moves to a position between two atoms on the surface, the current decreases sharply because of the increased distance between the probe and any surface atom. By systematically observing the current through the STM tip as a function of horizontal position, the surface topography is determined.
+[Figure 8.5](#fig-p1-ch08-7) shows a computer reconstruction of an STM needle point fabricated to achieve atomic level resolution. The operation of the STM is depicted in [Figure 8.6](#fig-p1-ch08-8), wherein the tip of the probe approaches the array of atoms on the surface and, by virtue of the voltage difference between the tip and the surface, electrons flow from the tip to the surface. The tunneling of the electrons is extremely sensitive to the potential barrier, which is controlled at a fixed voltage difference by the distance between the probe tip and the electron cloud of the atom on the surface. Thus, as the STM tip is moved across the surface, the flow of the electrons from the tip to the surface rises sharply when passing over the top of an atom. As the tip moves to a position between two atoms on the surface, the current decreases sharply because of the increased distance between the probe and any surface atom. By systematically observing the current through the STM tip as a function of horizontal position, the surface topography is determined.
 
 :::{figure} ../images/fig-p1-ch08-7.jpg
 :name: fig-p1-ch08-7
@@ -93,11 +93,11 @@ FIGURE 8.5 A computer image of the tungsten tip of an STM approaching within ato
 :::{figure} ../images/fig-p1-ch08-8.jpg
 :name: fig-p1-ch08-8
 :alt: FIGURE 8.6 The operation of the STM employs not only the sharpened tungsten tip shown in Figure 8.5, but also the use of piezoelectric crystals that either expand or contract depending on the voltage applied to the crystal. This provides th
-FIGURE 8.6 The operation of the STM employs not only the sharpened tungsten tip shown in Figure 8.5, but also the use of piezoelectric crystals that either expand or contract depending on the voltage applied to the crystal. This provides the ability to very precisely control the vertical and horizontal position of the tip by simply changing the voltage across the piezoelectric crystals controlling the horizontal and vertical position of the tungsten tip with respect to the surface.
+FIGURE 8.6 The operation of the STM employs not only the sharpened tungsten tip shown in [Figure 8.5](#fig-p1-ch08-7), but also the use of piezoelectric crystals that either expand or contract depending on the voltage applied to the crystal. This provides the ability to very precisely control the vertical and horizontal position of the tip by simply changing the voltage across the piezoelectric crystals controlling the horizontal and vertical position of the tungsten tip with respect to the surface.
 :::
 
 
-The STM, and variations of the STM, have become both the “eyes” and the “hands” of cutting edge research because the high spatial resolution images carry information heretofore inaccessible to science and the ability to manipulate the position of individual atoms on a surface has opened a new field of atomic level architecture. We consider first the development of high density data storage and the remarkable potential increase in the density of stored information using atomic level nanostructures. Figure 8.7 displays an STM image of atom manipulation with STM tip. Bi adatoms are moved to form the “0” and “1” patterns on the surface of CeBi displayed in panel (a). The term “adatom” is commonly used in surface science to refer to an atom that lies on a crystal surface. Those patterns of adatoms in panel (a) can be used to store information on the surface at very high density serving the important objective of markedly increasing the amount of information storage per unit area. The distance between individual Bi atom centers is approximately 1 nm in the image, defining the remarkable spatial resolution of the STM. Panel (b) demonstrates the ability of STM to execute atom manipulation to construct a variety of functional structures on the surface for a range of applications in this rapidly developing field of research.
+The STM, and variations of the STM, have become both the “eyes” and the “hands” of cutting edge research because the high spatial resolution images carry information heretofore inaccessible to science and the ability to manipulate the position of individual atoms on a surface has opened a new field of atomic level architecture. We consider first the development of high density data storage and the remarkable potential increase in the density of stored information using atomic level nanostructures. [Figure 8.7](#fig-p1-ch08-9) displays an STM image of atom manipulation with STM tip. Bi adatoms are moved to form the “0” and “1” patterns on the surface of CeBi displayed in panel (a). The term “adatom” is commonly used in surface science to refer to an atom that lies on a crystal surface. Those patterns of adatoms in panel (a) can be used to store information on the surface at very high density serving the important objective of markedly increasing the amount of information storage per unit area. The distance between individual Bi atom centers is approximately 1 nm in the image, defining the remarkable spatial resolution of the STM. Panel (b) demonstrates the ability of STM to execute atom manipulation to construct a variety of functional structures on the surface for a range of applications in this rapidly developing field of research.
 
 :::{figure} ../images/fig-p1-ch08-9.jpg
 :name: fig-p1-ch08-9
@@ -106,7 +106,7 @@ FIGURE 8.7 STM image of atom manipulation with an STM tip. In panel (a) Bi adato
 :::
 
 
-Another domain that atomic level visualization using STM technology has opened up is in the area of carbon nanotubes, which can be formed with a range of diameters and lengths, creating the ability to “wire up” circuits on the scale of the atomic dimension. Figure 8.8 displays an STM image of these nanotubes of different diameters on a gold (Au) surface. The ability to both synthesize carbon nanotubes and to manipulate them on metal as well as electrically insulating surfaces has lead to the ability to tailor these carbon nanotubes into molecular scale nanowires with increasingly effective control over nanowire growth and geometry. Figure 8.9 displays nanowires with triangular joints linked to straight sections of controllable length. This provides the technological foundation for the fabrication of molecular scale nanocircuits that will revolutionize electronic circuit design.
+Another domain that atomic level visualization using STM technology has opened up is in the area of carbon nanotubes, which can be formed with a range of diameters and lengths, creating the ability to “wire up” circuits on the scale of the atomic dimension. [Figure 8.8](#fig-p1-ch08-10) displays an STM image of these nanotubes of different diameters on a gold (Au) surface. The ability to both synthesize carbon nanotubes and to manipulate them on metal as well as electrically insulating surfaces has lead to the ability to tailor these carbon nanotubes into molecular scale nanowires with increasingly effective control over nanowire growth and geometry. [Figure 8.9](#fig-p1-ch08-11) displays nanowires with triangular joints linked to straight sections of controllable length. This provides the technological foundation for the fabrication of molecular scale nanocircuits that will revolutionize electronic circuit design.
 
 :::{figure} ../images/fig-p1-ch08-10.jpg
 :name: fig-p1-ch08-10
@@ -122,7 +122,7 @@ FIGURE 8.9 It is now possible to create nanotubes with articulated geometries to
 :::
 
 
-With an increasing level of sophistication in the fabrication of nanowires, it is now possible to create radially layered tubes for a new generation of photovoltaic devices for converting sunlight to electrical power. These devices, shown in Figure 8.10, are capable of higher collection efficiency and they have a potentially lower cost of fabrication. This opens up the possibility of developing low cost techniques for converting sunlight to electrical power. The fundamentals of energy generation by solar radiation is treated in Case Study 8.2.
+With an increasing level of sophistication in the fabrication of nanowires, it is now possible to create radially layered tubes for a new generation of photovoltaic devices for converting sunlight to electrical power. These devices, shown in [Figure 8.10](#fig-p1-ch08-12), are capable of higher collection efficiency and they have a potentially lower cost of fabrication. This opens up the possibility of developing low cost techniques for converting sunlight to electrical power. The fundamentals of energy generation by solar radiation is treated in Case Study 8.2.
 
 :::{figure} ../images/fig-p1-ch08-12.jpg
 :name: fig-p1-ch08-12
@@ -153,7 +153,7 @@ In the core of this chapter we thus explore the concepts displayed here.
 
 ## Separation of the Concepts of Waves and Particles
 
-As observing creatures we are guided by what we see and what we experience. We first experiment by throwing stones into a lake, observing that the impact of the stone leaves a circular pattern of waves emanating from the point where the stone struck the water as shown in Figure 8.11. Obviously, while the impact of the stone resulted in the genesis of the wave pattern, they—the particle and the wave—are clearly independent and fully distinguishable at the spatial scale of our direct observation, the macroscopic world.
+As observing creatures we are guided by what we see and what we experience. We first experiment by throwing stones into a lake, observing that the impact of the stone leaves a circular pattern of waves emanating from the point where the stone struck the water as shown in [Figure 8.11](#fig-p1-ch08-25). Obviously, while the impact of the stone resulted in the genesis of the wave pattern, they—the particle and the wave—are clearly independent and fully distinguishable at the spatial scale of our direct observation, the macroscopic world.
 
 :::{figure} ../images/fig-p1-ch08-25.jpg
 :name: fig-p1-ch08-25
@@ -207,7 +207,7 @@ Practice Example A: The light from red LEDs (light-emitting diodes) is commonly 
 
 Practice Example B: An FM radio station broadcasts on a frequency of 91.5 megahertz (MHz). What is the wavelength of these radio waves in meters?
 
-Prior to and during the intensifying study of blackbody radiation leading to Planck's highly controversial conclusion, Heinrich Hertz (for whom the unit of frequency is named) was carrying out a series of experiments using light of different wavelengths incident on metal surfaces with the apparatus shown in Figure 8.13. These observations investigated the emission of electrons from the metal surfaces as Figure 8.13 shows. These emitted electrons were called “photoelectrons” because they were electrons liberated from the metal surface by light. The concept of light as a wave would imply that, with the impinging radiation, energy would be imparted to the metal surface until sufficient energy was “stored up” to release the photoelectron from the surface of the metal. With this wave picture of light there would be a delay as the energy was stored in the metal. That delay would decrease as the intensity of light increased, and radiation with longer wavelengths could release a photoelectron simply by increasing the delay between when the radiation first impinged on the surface and when the electron was released.
+Prior to and during the intensifying study of blackbody radiation leading to Planck's highly controversial conclusion, Heinrich Hertz (for whom the unit of frequency is named) was carrying out a series of experiments using light of different wavelengths incident on metal surfaces with the apparatus shown in [Figure 8.13](#fig-p1-ch08-27). These observations investigated the emission of electrons from the metal surfaces as [Figure 8.13](#fig-p1-ch08-27) shows. These emitted electrons were called “photoelectrons” because they were electrons liberated from the metal surface by light. The concept of light as a wave would imply that, with the impinging radiation, energy would be imparted to the metal surface until sufficient energy was “stored up” to release the photoelectron from the surface of the metal. With this wave picture of light there would be a delay as the energy was stored in the metal. That delay would decrease as the intensity of light increased, and radiation with longer wavelengths could release a photoelectron simply by increasing the delay between when the radiation first impinged on the surface and when the electron was released.
 
 :::{figure} ../images/fig-p1-ch08-27.jpg
 :name: fig-p1-ch08-27
@@ -216,7 +216,7 @@ FIGURE 8.13 The apparatus for observing the photoelectric effect consists of an 
 :::
 
 
-Yet this is not what was observed. Rather than a threshold for photoelectron release determined by the total amount of energy added to the metal surface by the impinging electromagnetic wave, the threshold for photoelectron release was determined by the frequency of the radiation. Below a threshold frequency, ${ \bf { \delta } } _ { v _ { 0 } } ,$ , no photoelectrons were emitted, no matter how long the light impinged on the metal surface. Each metal possessed a different threshold frequency, $\nu _ { 0 } .$ . In addition, when that threshold frequency, $\mathbf { v } _ { 0 } ,$ was reached, there was no delay before photoelectrons were ejected from the surface. It was as though a single “particle” of light knocked a single photoelectron from the surface of the metal. When the photoelectron's kinetic energy was plotted against the frequency of the impinging light, as shown in Figure 8.14, there was an intercept, $\mathbf { v } _ { 0 } ,$ and a slope that represented a linear increase in the relationship between maximum kinetic energy of the photoelectron and the frequency of the incident radiation. Furthermore, if the intensity of the radiation was increased but the frequency was kept constant, a greater number of photoelectrons was emitted from the surface, but the maximum kinetic energy of the photoelectrons was proportional to the frequency of that radiation.
+Yet this is not what was observed. Rather than a threshold for photoelectron release determined by the total amount of energy added to the metal surface by the impinging electromagnetic wave, the threshold for photoelectron release was determined by the frequency of the radiation. Below a threshold frequency, ${ \bf { \delta } } _ { v _ { 0 } } ,$ , no photoelectrons were emitted, no matter how long the light impinged on the metal surface. Each metal possessed a different threshold frequency, $\nu _ { 0 } .$ . In addition, when that threshold frequency, $\mathbf { v } _ { 0 } ,$ was reached, there was no delay before photoelectrons were ejected from the surface. It was as though a single “particle” of light knocked a single photoelectron from the surface of the metal. When the photoelectron's kinetic energy was plotted against the frequency of the impinging light, as shown in [Figure 8.14](#original-fig-8-14), there was an intercept, $\mathbf { v } _ { 0 } ,$ and a slope that represented a linear increase in the relationship between maximum kinetic energy of the photoelectron and the frequency of the incident radiation. Furthermore, if the intensity of the radiation was increased but the frequency was kept constant, a greater number of photoelectrons was emitted from the surface, but the maximum kinetic energy of the photoelectrons was proportional to the frequency of that radiation.
 
 :::{figure} ../images/fig-p1-ch08-28.jpg
 :name: fig-p1-ch08-28
@@ -225,6 +225,7 @@ Yet this is not what was observed. Rather than a threshold for photoelectron rel
 
 The kinetic energy of the emitted photoelectron is directly proportional to the frequency of light striking the surface of the metal.
 
+(original-fig-8-14)=
 FIGURE 8.14 The photoelectric effect provided key evidence that electromagnetic radiation had particle properties as well as wave properties. Experiments done by shining light on the surface of metals and measuring the energy of the electrons emergent from the surface demonstrated that no electrons were released by the surface unless the light had a frequency higher than a threshold frequency $\mathsf { v } _ { 0 }$ . Moreover, the energy of the “photoelectron” released was proportional to the frequency of light above that threshold $\mathsf { v } _ { 0 } .$ . No amount of light intensity when the frequency of the light was less than $\mathsf { v } _ { 0 }$ resulted in the release of a photoelectron.
 
 The observation that the emission of the electrons from the surface of the metal was independent of the intensity of radiation falling on the surface of the metal was in direct conflict with Maxwell's theory of light, which was built upon the wave nature of electromagnetic radiation. That wave-based theory of radiation stipulated that the energy delivered by electromagnetic radiation was proportioned to the intensity of the light. Thus, given this wave formulation of light, how could both the threshold for photoelectron emission and the kinetic energy of the emitted electrons be independent of the intensity of light impinging on the metal surface?
@@ -273,7 +274,7 @@ Practice Example A: The protective action of ozone in the atmosphere comes throu
 
 Practice Example B: Chlorophyll absorbs light at energies of $3 . 0 5 6 \times$ 10<sup>-19</sup> J/photon and $\mathbf { 4 . 4 1 4 \times 1 0 ^ { - 1 9 } }$ J/photon. To what color and frequency do these absorptions correspond?
 
-We can sketch this confluence of ideas by asking another question: What did the combination of the photoelectric effect and blackbody radiation tell us? This linkage is diagrammed in Figure 8.15. It was Einstein in 1905 who put these lines of evidence together and postulated that these quanta of energy, E = hν, implied that the energy of light was delivered to the metal surface as particles of light energy, which he termed photons. This interpretation by Einstein created a direct link between the collision of a single photon with energy E = hν, and a single electron within the metal, releasing that electron at any energy above the threshold energy $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ Any photon with energy less than $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ was unable to release the electron. Any photon with energy greater than $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ could release an electron from the surface of the metal and if an electron was released, it would leave the surface with kinetic energy equal to the difference between the original energy of the incident photon, E = hν, and the threshold energy $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ required to free the electron. Thus, with KE = kinetic energy of the liberated electron, we can write
+We can sketch this confluence of ideas by asking another question: What did the combination of the photoelectric effect and blackbody radiation tell us? This linkage is diagrammed in [Figure 8.15](#fig-p1-ch08-29). It was Einstein in 1905 who put these lines of evidence together and postulated that these quanta of energy, E = hν, implied that the energy of light was delivered to the metal surface as particles of light energy, which he termed photons. This interpretation by Einstein created a direct link between the collision of a single photon with energy E = hν, and a single electron within the metal, releasing that electron at any energy above the threshold energy $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ Any photon with energy less than $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ was unable to release the electron. Any photon with energy greater than $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ could release an electron from the surface of the metal and if an electron was released, it would leave the surface with kinetic energy equal to the difference between the original energy of the incident photon, E = hν, and the threshold energy $\mathrm { E } _ { 0 } = \mathrm { h v } _ { 0 }$ required to free the electron. Thus, with KE = kinetic energy of the liberated electron, we can write
 
 ```{math}
 :label: eq-p1-ch08-7
@@ -291,7 +292,7 @@ FIGURE 8.15 It was Einstein, in 1905, who combined evidence from Planck's quanti
 
 This quantity $\begin{array} { r } { \mathrm { ~ E } _ { 0 } ~ = ~ \mathrm { h v } _ { \mathrm { o } } , } \end{array}$ the minimum energy required to release an electron from the metal surface, is different for each metal and is termed the work function of the metal.
 
-Thus we have the energy level diagram for the interaction of the photon, hν, with the electron bound to the surface of the metal by an energy hν<sub>0</sub> as shown in Figure 8.16.
+Thus we have the energy level diagram for the interaction of the photon, hν, with the electron bound to the surface of the metal by an energy hν<sub>0</sub> as shown in [Figure 8.16](#fig-p1-ch08-30).
 
 :::{figure} ../images/fig-p1-ch08-30.jpg
 :name: fig-p1-ch08-30
@@ -412,7 +413,7 @@ The momentum of the photon is mc so
 
 So while the rest mass of the photon is zero, this calculation of the momentum of the photon suggests that the momentum of the photon is not only nonzero, but should be a measurable quantity.
 
-The momentum of the photon was measured in 1923 by Compton, using a beam of x-rays (photons) incident on a sample of graphite as shown in Figure 8.17a. When photons were observed after they passed through the graphite block, there were some photons with an identical wavelength as those incidents on the graphite block. Those photons had passed through the graphite block without colliding with any material. However, there was another group of photons emergent from the back side of the graphite block that were characterized by a longer wavelength. Those photons, Compton hypothesized, had a longer wavelength because they had lost energy by collision with electrons in the graphite. Compton designated those photons (those with lower energy) as scattered photons with wavelength $\lambda _ { \mathrm { s } }$ as shown in Figure 8.17b.
+The momentum of the photon was measured in 1923 by Compton, using a beam of x-rays (photons) incident on a sample of graphite as shown in [Figure 8.17A](#fig-p1-ch08-31). When photons were observed after they passed through the graphite block, there were some photons with an identical wavelength as those incidents on the graphite block. Those photons had passed through the graphite block without colliding with any material. However, there was another group of photons emergent from the back side of the graphite block that were characterized by a longer wavelength. Those photons, Compton hypothesized, had a longer wavelength because they had lost energy by collision with electrons in the graphite. Compton designated those photons (those with lower energy) as scattered photons with wavelength $\lambda _ { \mathrm { s } }$ as shown in [Figure 8.17B](#fig-p1-ch08-31).
 
 :::{figure} ../images/fig-p1-ch08-31.jpg
 :name: fig-p1-ch08-31
@@ -431,7 +432,7 @@ If we assume that we have a simple system of a photon (with energy hν and momen
 ```
 
 
-where the geometry of the collision is displayed in Figure 8.17a. In our expression for $\varDelta \lambda _ { \mathrm { { \scriptsize ; } } }$ , the wavelength shift between the incident and scattered photon is $\Delta \lambda , \mathrm { m _ { e } }$ is the mass of the electron, θ is the angle measured from the incident direction, h is Planck's constant, and c is the speed of light. But the key point is this: the observed wavelength shift $\Delta \lambda = \lambda _ { \mathrm { s } } - \lambda _ { \mathrm { i } }$ was in excellent agreement with the calculated wavelength shift when the momentum of the x-ray photon was taken to be $\mathrm { h } / \lambda$ . This was compelling evidence that the photon indeed carries a momentum of ${ \mathrm { p } } = { \mathrm { h } } / \lambda$
+where the geometry of the collision is displayed in [Figure 8.17A](#fig-p1-ch08-31). In our expression for $\varDelta \lambda _ { \mathrm { { \scriptsize ; } } }$ , the wavelength shift between the incident and scattered photon is $\Delta \lambda , \mathrm { m _ { e } }$ is the mass of the electron, θ is the angle measured from the incident direction, h is Planck's constant, and c is the speed of light. But the key point is this: the observed wavelength shift $\Delta \lambda = \lambda _ { \mathrm { s } } - \lambda _ { \mathrm { i } }$ was in excellent agreement with the calculated wavelength shift when the momentum of the x-ray photon was taken to be $\mathrm { h } / \lambda$ . This was compelling evidence that the photon indeed carries a momentum of ${ \mathrm { p } } = { \mathrm { h } } / \lambda$
 
 The fact that a photon of zero rest mass has a defined momentum that is directly observable held great importance for the development of the idea of wave-particle duality of photons.
 
@@ -495,7 +496,7 @@ It can be seen that the momenta of the electron and the X-ray photon have simila
 
 ## Spectroscopy and the Study of Light Emission from Atoms
 
-While human sentiment gave grudgingly to the idea that light could somehow exhibit the characteristics of a particle, no one believed in the early part of the $2 0 ^ { \mathrm { { t h } } }$ century that particles could exhibit wave character. But information was pouring in from yet another domain, that of spectroscopy—the study of light emitted by atoms and molecules and separated into specific wavelengths by devices such as a prism as shown in Figure 8.18.
+While human sentiment gave grudgingly to the idea that light could somehow exhibit the characteristics of a particle, no one believed in the early part of the $2 0 ^ { \mathrm { { t h } } }$ century that particles could exhibit wave character. But information was pouring in from yet another domain, that of spectroscopy—the study of light emitted by atoms and molecules and separated into specific wavelengths by devices such as a prism as shown in [Figure 8.18](#fig-p1-ch08-32).
 
 :::{figure} ../images/fig-p1-ch08-32.jpg
 :name: fig-p1-ch08-32
@@ -510,7 +511,7 @@ This spectroscopic evidence was extracted from a variety of systems—some using
 
 The spectrum of atomic hydrogen was the first to yield a simple relationship between the wavelength of emitted light from the atom and a mathematical expression linking all the observed lines in the spectrum to a single simple equation. These lines in the spectrum of atomic hydrogen extend from the infrared to the visible region to the “vacuum ultraviolet” so named because, as we will see, molecular oxygen absorbs radiation between 100 and 200 nm. Thus $\mathrm { O } _ { 2 }$ must be pumped out of any system observing radiation in this wavelength interval. For that reason a vacuum is used to study radiation in the region between 100 and 200 nm, thereby creating the term vacuum ultraviolet.
 
-The full spectrum of atomic hydrogen is displayed in Figure 8.19 showing the “ultraviolet series” in the vicinity of 100nm, the “visible series” from 400 to 750 nm and the “infrared series” from 800 to 2000 nm.
+The full spectrum of atomic hydrogen is displayed in [Figure 8.19](#fig-p1-ch08-33) showing the “ultraviolet series” in the vicinity of 100nm, the “visible series” from 400 to 750 nm and the “infrared series” from 800 to 2000 nm.
 
 :::{figure} ../images/fig-p1-ch08-33.jpg
 :name: fig-p1-ch08-33
@@ -535,7 +536,7 @@ A young Danish physicist, Niels Bohr, went to England immediately after receivin
 
 From those distinct lines of evidence Bohr put forward a radically new model of the atom with the following assertions:
 
-1. The hydrogen atom consists of a negatively charged electron that can occupy one of several circular orbits about the central, positively charged nucleus, as shown in Figure 8.20.
+1. The hydrogen atom consists of a negatively charged electron that can occupy one of several circular orbits about the central, positively charged nucleus, as shown in [Figure 8.20](#fig-p1-ch08-34).
 
 :::{figure} ../images/fig-p1-ch08-34.jpg
 :name: fig-p1-ch08-34
@@ -566,7 +567,7 @@ However, because $\Delta \mathrm { E }$ is negative for emission, in order to ca
 ```
 
 
-where ν is the frequency of the absorbed or emitted photon as displayed in Figure 8.21.
+where ν is the frequency of the absorbed or emitted photon as displayed in [Figure 8.21](#fig-p1-ch08-35).
 
 :::{figure} ../images/fig-p1-ch08-35.jpg
 :name: fig-p1-ch08-35
@@ -575,7 +576,7 @@ where ν is the frequency of the absorbed or emitted photon as displayed in Figu
 
 6. Atoms will seek the lowest energy state, emitting a photon in each transition from a higher energy stationary state to a lower energy stationary state until the lowest, or ground state, energy level is reached.
 
-While Bohr's model was based fundamentally on Rutherford's nuclear model of the atom, the Bohr model added two new and important ideas. The first is that only certain electron orbits (the “stationary states”) can exist. The second linked Einstein's photon with the energy of the jump of the electron from one orbit to another. Moreover, these emitted (or absorbed) photons of energy hν corresponded to the frequency of light emitted from the atoms that appear in the Rydberg relationship between the wavelength of the light and the integers designating the series in the hydrogen atom's emission. This critically important link between the electron orbits, the spectroscopic data, the Rydberg equation, and the concept of the photon set a new course for scientific understanding. This union is displayed in Figure 8.22.
+While Bohr's model was based fundamentally on Rutherford's nuclear model of the atom, the Bohr model added two new and important ideas. The first is that only certain electron orbits (the “stationary states”) can exist. The second linked Einstein's photon with the energy of the jump of the electron from one orbit to another. Moreover, these emitted (or absorbed) photons of energy hν corresponded to the frequency of light emitted from the atoms that appear in the Rydberg relationship between the wavelength of the light and the integers designating the series in the hydrogen atom's emission. This critically important link between the electron orbits, the spectroscopic data, the Rydberg equation, and the concept of the photon set a new course for scientific understanding. This union is displayed in [Figure 8.22](#fig-p1-ch08-36).
 
 :::{figure} ../images/fig-p1-ch08-36.jpg
 :name: fig-p1-ch08-36
@@ -598,7 +599,7 @@ The specific data for the Rydberg equation are $n _ { \mathrm { i } } = 5$ and $
 
 Practice Example A: Determine the wavelength of light absorbed in an electron transition from n = 2 to $n = 4$ in a hydrogen atom.
 
-Practice Example B: Consider Figure 8.22 and determine which transition produces the longest wavelength line in the Lyman series of the hydrogen spectrum. What is the wavelength of this line in nanometers and in angstroms?
+Practice Example B: Consider [Figure 8.22](#fig-p1-ch08-36) and determine which transition produces the longest wavelength line in the Lyman series of the hydrogen spectrum. What is the wavelength of this line in nanometers and in angstroms?
 
 What Bohr's model of the hydrogen atom did was provide a basis for applying the laws of physics to the motion of the electron in these circular orbits. Specifically the total energy, E, of the electron with velocity v moving in the potential energy created by the Coulomb attraction of the nucleus is: E = Kinetic Energy + Potential Energy = KE + PE
 
@@ -624,7 +625,7 @@ balance the centripetal force, $\operatorname { m v } ^ { 2 } / \mathrm { r } ,$
 ```
 
 
-as displayed in Figure 8.23.
+as displayed in [Figure 8.23](#fig-p1-ch08-37).
 
 The key elements of the Bohr atom that provides the physical basis for calculating the energy of an electron "stationary state"
 
@@ -663,7 +664,7 @@ must be quantized in analogy with the photon such that
 
 where the allowed velocities are ${ \bf v _ { n } }$ and the allowed orbital radii are $\mathbf { r } _ { \mathrm { n } } .$ . The quantity $\hbar = \mathrm { h } / 2 \pi$ appears so frequently that we introduce it here for future use.
 
-The balance of Coulomb and centrifuged forces (Figure 8.23) provided the expression for the quantized velocities for a given quantum number, n:
+The balance of Coulomb and centrifuged forces ([Figure 8.23)](#fig-p1-ch08-37) provided the expression for the quantized velocities for a given quantum number, n:
 
 ```{math}
 :label: eq-p1-ch08-36
@@ -875,7 +876,7 @@ For hydrogen $Z = 1$ and, for the energy of the ground state, n = 1, and we have
 
 But notice the sign convention of the ground state energy: it is negative. This is an important convention in defining the energy of electrons in an atomic structure $o r$ in a chemical bond. An electron free from the attractive Coulomb potential of the proton, with no kinetic energy, is taken to have a total energy, $\mathrm { E , }$ of zero. As the electron is drawn into the attractive electrostatic field of the nucleus, the energy decreases. It is as though we defined the potential energy of a mass m to be zero at ground level, which we typically do, and then lowered that mass into a well of depth h and assigned the energy of the mass
 
-lowered into the well to be at a potential energy of -mgh, as shown in the left panel Figure 8.24. The mass at a “well depth” of h meters is thus at a negative potential energy and only when the mass is raised to the surface is its energy equal to zero. In direct analogy, any electron with energy less than zero is captured within the “potential well” by the Coulomb attraction between the nucleus and the electron as shown in the right-hand panel of Figure 8.24.
+lowered into the well to be at a potential energy of -mgh, as shown in the left panel [Figure 8.24](#fig-p1-ch08-38). The mass at a “well depth” of h meters is thus at a negative potential energy and only when the mass is raised to the surface is its energy equal to zero. In direct analogy, any electron with energy less than zero is captured within the “potential well” by the Coulomb attraction between the nucleus and the electron as shown in the right-hand panel of [Figure 8.24](#fig-p1-ch08-38).
 :::{figure} ../images/fig-p1-ch08-38.jpg
 :name: fig-p1-ch08-38
 :alt: FIGURE 8.24 The potential energy of a mass, m, within a well of depth h in a gravitational field is V = - mgh. The potential energy of an electron of charge -e in the Coulomb field of a nucleus of charge +Ze is mathematical notation . The f
@@ -887,11 +888,11 @@ Notice that for the Bohr model of the hydrogen atom, as the electron jumps from 
 
 ## Problem with the Bohr Model
 
-While the quantitative prediction of the Bohr model for the absolute value of the energy differences between quantum states of the hydrogen atom represented a triumph of science at the time, the very idea of a stationary state raised a major problem for scientific thought because the electron, in its orbit about the nucleus, was accelerating (moving in a curved orbit, as shown in Figure 8.23), so, by the laws of electromagnetism, that electron must continually emit electromagnetic radiation. If the electron emits electromagnetic radiation, then by the law of conservation of energy it must spiral into the nucleus as it loses energy, leading to the collapse of the atom. The ad hoc and highly arbitrary postulate of Bohr that such stationary states exist was unacceptable within the laws of electromagnetic radiation. It was not a satisfying state of affairs.
+While the quantitative prediction of the Bohr model for the absolute value of the energy differences between quantum states of the hydrogen atom represented a triumph of science at the time, the very idea of a stationary state raised a major problem for scientific thought because the electron, in its orbit about the nucleus, was accelerating (moving in a curved orbit, as shown in [Figure 8.23)](#fig-p1-ch08-37), so, by the laws of electromagnetism, that electron must continually emit electromagnetic radiation. If the electron emits electromagnetic radiation, then by the law of conservation of energy it must spiral into the nucleus as it loses energy, leading to the collapse of the atom. The ad hoc and highly arbitrary postulate of Bohr that such stationary states exist was unacceptable within the laws of electromagnetic radiation. It was not a satisfying state of affairs.
 
 But here human intuition, built upon our experience with objects approximately our own size, proves inadequate to step into the world of the atomic scale. In order to cross over to the “other side,” to the scale of the atom, it was necessary to be presented with a hypothesis that violated the fundamentals of our intuition.
 
-Returning to Figure CS1.4c, we recall that the analysis of blackbody radiation and then the photoelectric effect forced Planck and Einstein to conclude that electromagnetic waves were actually comprised of photons of light—that there was an intrinsic duality of wave and particle behavior associated with light. This was a preamble for the reassessment of the behavior of electrons confined on the spatial scale of the atom.
+Returning to [Figure CS1.4C](#fig-p1-ch01-99), we recall that the analysis of blackbody radiation and then the photoelectric effect forced Planck and Einstein to conclude that electromagnetic waves were actually comprised of photons of light—that there was an intrinsic duality of wave and particle behavior associated with light. This was a preamble for the reassessment of the behavior of electrons confined on the spatial scale of the atom.
 
 ## The de Broglie Wavelength of the Electron
 
@@ -940,7 +941,7 @@ where the momentum of the photon is $\mathrm { \Delta p _ { p h o t o n } = \ m 
 
 De Broglie proposed in his PhD thesis in 1924 that “matter waves,” with $\lambda _ { \mathrm { e l } }$ $= \mathrm { h / p _ { e l } } .$ , described the electron. While experts close to the problem had tried unsuccessfully to reconcile Newton, Maxwell, and Einstein based on scientifically held views of the time, de Broglie was young and not so constrained.
 
-His hypothesis, even before it was substantiated experimentally three years later, had an immediate and, it turned out, irreversible impact. De Broglie's standing “electron wave” linked to the orbits of Bohr with the simplest of analogies. Each “stationary state” of Bohr corresponds to a standing wave of the electron, confined to the circumference of the orbit. Only certain orbits fulfill the condition of the standing wave, which in turn demands that an integer number of wavelengths fit into the circumference of the orbit such that $\mathrm { n } \lambda _ { \mathrm { e } } = 2 \pi \mathrm { r }$ with n = 1, 2, 3. This union of the Bohr model of the atom with the de Broglie hypothesis of the wave property of the electron is displayed in Figure 8.25.
+His hypothesis, even before it was substantiated experimentally three years later, had an immediate and, it turned out, irreversible impact. De Broglie's standing “electron wave” linked to the orbits of Bohr with the simplest of analogies. Each “stationary state” of Bohr corresponds to a standing wave of the electron, confined to the circumference of the orbit. Only certain orbits fulfill the condition of the standing wave, which in turn demands that an integer number of wavelengths fit into the circumference of the orbit such that $\mathrm { n } \lambda _ { \mathrm { e } } = 2 \pi \mathrm { r }$ with n = 1, 2, 3. This union of the Bohr model of the atom with the de Broglie hypothesis of the wave property of the electron is displayed in [Figure 8.25](#fig-p1-ch08-40).
 
 :::{figure} ../images/fig-p1-ch08-40.jpg
 :name: fig-p1-ch08-40
@@ -971,11 +972,11 @@ Practice Example B: To what velocity (speed) must a beam of protons be accelerat
 
 ## Nature of Waves and the Wave Equation
 
-Two key aspects emerged from de Broglie's hypothesis that the electron possessed an intrinsic wavelength, $\lambda _ { \mathrm { e l } } = \mathrm { h } / \mathrm { p _ { e l } } .$ , and that this wavelength was confined to the spatial domain surrounding the nucleus, as shown in Figure 8.25. This combination of wave properties and confinement, while never applied in the context of a particle, was a mathematics problem treated rigorously by the developing mathematics of the ${ \bf { 1 9 } } ^ { \mathrm { { t h } } }$ century, decades before de Broglie put forward his hypothesis. What happened following de Broglie's contention that the electron had an integer wavelength was an explosion of work that engaged previously developed mathematics with the application associated with the properties of the electron in the context of atomic structure.
+Two key aspects emerged from de Broglie's hypothesis that the electron possessed an intrinsic wavelength, $\lambda _ { \mathrm { e l } } = \mathrm { h } / \mathrm { p _ { e l } } .$ , and that this wavelength was confined to the spatial domain surrounding the nucleus, as shown in [Figure 8.25](#fig-p1-ch08-40). This combination of wave properties and confinement, while never applied in the context of a particle, was a mathematics problem treated rigorously by the developing mathematics of the ${ \bf { 1 9 } } ^ { \mathrm { { t h } } }$ century, decades before de Broglie put forward his hypothesis. What happened following de Broglie's contention that the electron had an integer wavelength was an explosion of work that engaged previously developed mathematics with the application associated with the properties of the electron in the context of atomic structure.
 
 Before we treat the hydrogen atom explicitly with this new “wave mechanics,” it is well worth examining the character of waves confined by physical boundaries that establish the characteristics of the wave properties of the electron.
 
-We all know a wave when we see it; ocean waves, waves in a jump rope, waves in a field of grass, waves in an oscillating string on a concert bass. We also know the shape of a sine function in mathematics. It, in fact, reflects rather accurately what we know a wave to be: a repetitive oscillation with an ordered sequence of peaks and valleys. The wave has an amplitude, A, and a wavelength, λ, as shown in Figure 8.26.
+We all know a wave when we see it; ocean waves, waves in a jump rope, waves in a field of grass, waves in an oscillating string on a concert bass. We also know the shape of a sine function in mathematics. It, in fact, reflects rather accurately what we know a wave to be: a repetitive oscillation with an ordered sequence of peaks and valleys. The wave has an amplitude, A, and a wavelength, λ, as shown in [Figure 8.26](#fig-p1-ch08-41).
 
 :::{figure} ../images/fig-p1-ch08-41.jpg
 :name: fig-p1-ch08-41
@@ -990,7 +991,7 @@ FIGURE 8.26 The mathematical sine function represents a wave with an amplitude A
 ```
 
 
-We can represent that wave by a mathematical function, which we call a wavefunction, that connects what we know a wave looks like with the mathematical function that quantitatively represents the amplitude, A, the wavelength, λ, and the displacement, x, along the direction of propagation as displayed in Figure 8.27.
+We can represent that wave by a mathematical function, which we call a wavefunction, that connects what we know a wave looks like with the mathematical function that quantitatively represents the amplitude, A, the wavelength, λ, and the displacement, x, along the direction of propagation as displayed in [Figure 8.27](#fig-p1-ch08-42).
 
 :::{figure} ../images/fig-p1-ch08-42.jpg
 :name: fig-p1-ch08-42
@@ -1005,7 +1006,7 @@ The question is, if $\psi ( \mathbf { x } ) = \mathbf { A }$ sin kx is the wavef
 
 We can, of course, try guessing at an equation for which wavefunction ψ(x) = A sin kx is a solution, but we consider first what the functional form of that wave equation must be to mathematically generate the oscillating behavior in the wavefunction.
 
-If we begin at $\mathbf { X } = \mathbf { X } _ { 0 } = \mathbf { 0 }$ in Figure 8.28, we see that the gradient in $\psi ( \mathbf { x } )$ , d $\psi ( \mathbf { x } ) / \mathrm { d } \mathbf { x } .$ , is positive, but that as we progress along x to $\mathbf { X } = \mathbf { X } _ { 1 } ,$ the gradient decreases such that
+If we begin at $\mathbf { X } = \mathbf { X } _ { 0 } = \mathbf { 0 }$ in [Figure 8.28](#fig-p1-ch08-43), we see that the gradient in $\psi ( \mathbf { x } )$ , d $\psi ( \mathbf { x } ) / \mathrm { d } \mathbf { x } .$ , is positive, but that as we progress along x to $\mathbf { X } = \mathbf { X } _ { 1 } ,$ the gradient decreases such that
 
 ```{math}
 :label: eq-p1-ch08-67
@@ -1091,7 +1092,7 @@ We can check this by noting that
 ```
 
 
-in Figure 8.28.
+in [Figure 8.28](#fig-p1-ch08-43).
 
 When $\psi _ { \mathrm { ( x ) } }$ passes through zero and becomes negative, d $\psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x }$ begins to increase from its maximum negative value and
 
@@ -1211,7 +1212,7 @@ Where again ħ $= \operatorname { h } / 2 \pi$ . We can multiply our new wave eq
 ```
 
 
-This wave equation expresses mathematically a very important physical relationship between the curvature of the wavefunction, $\mathrm { d } ^ { 2 } \psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x } ^ { 2 } $ , and the kinetic energy of the electron, $\mathrm { E _ { k } } ;$ specifically that as the curvature of the wavefunction increases, the kinetic energy of the electron increases. Increasing curvature also means, of course, that more wavelengths fit into the same spatial dimensions. More curvature, more energy, and more wavelengths per unit distance as shown graphically in Figure 8.29.
+This wave equation expresses mathematically a very important physical relationship between the curvature of the wavefunction, $\mathrm { d } ^ { 2 } \psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x } ^ { 2 } $ , and the kinetic energy of the electron, $\mathrm { E _ { k } } ;$ specifically that as the curvature of the wavefunction increases, the kinetic energy of the electron increases. Increasing curvature also means, of course, that more wavelengths fit into the same spatial dimensions. More curvature, more energy, and more wavelengths per unit distance as shown graphically in [Figure 8.29](#fig-p1-ch08-47).
 
 :::{figure} ../images/fig-p1-ch08-47.jpg
 :name: fig-p1-ch08-47
@@ -1226,7 +1227,7 @@ Before we answer this question, we consider a very important example for which t
 
 ## Particle-in-a-Box: An Important Example
 
-To consider this problem of an electron confined to physical boundaries within which the potential energy, V, is zero, and the resulting wave properties associated therewith, we consider an electron captured in a potential energy well with walls infinitely high in potential such that the electron cannot escape from the confinement. We further assume that the potential energy between the walls of the potential well (one wall located at x = 0 and the other at $\mathbf { X } = \mathbf { L } )$ is zero. This potential is sketched in Figure 8.30.
+To consider this problem of an electron confined to physical boundaries within which the potential energy, V, is zero, and the resulting wave properties associated therewith, we consider an electron captured in a potential energy well with walls infinitely high in potential such that the electron cannot escape from the confinement. We further assume that the potential energy between the walls of the potential well (one wall located at x = 0 and the other at $\mathbf { X } = \mathbf { L } )$ is zero. This potential is sketched in [Figure 8.30](#fig-p1-ch08-48).
 
 :::{figure} ../images/fig-p1-ch08-48.jpg
 :name: fig-p1-ch08-48
@@ -1431,7 +1432,7 @@ and the associated quantized energies
 ```
 
 
-in the square well potential as shown in Figure 8.31.
+in the square well potential as shown in [Figure 8.31](#fig-p1-ch08-49).
 
 :::{figure} ../images/fig-p1-ch08-49.jpg
 :name: fig-p1-ch08-49
@@ -1456,12 +1457,12 @@ This would mean, because ${ \psi _ { \mathrm { n } } } ^ { 2 } ( \mathbf { x } )
 ```
 
 
-We can, as displayed in Figure 8.32, show both the wavefunctions $\psi _ { \mathrm { { n } } } ( \mathbf { x } )$ and the probability ${ \psi _ { \mathrm { n } } } ^ { 2 } ( \mathbf { x } )$ for finding the particle (the electron) at any position x within the potential well of the box.
+We can, as displayed in [Figure 8.32](#fig-p1-ch08-50), show both the wavefunctions $\psi _ { \mathrm { { n } } } ( \mathbf { x } )$ and the probability ${ \psi _ { \mathrm { n } } } ^ { 2 } ( \mathbf { x } )$ for finding the particle (the electron) at any position x within the potential well of the box.
 
 :::{figure} ../images/fig-p1-ch08-50.jpg
 :name: fig-p1-ch08-50
 :alt: FIGURE 8.32 Displayed in the left panel are the wavefunctions from Figure 8.31 and on the right the probability mathematical notation for finding the particle at position x within the box.
-FIGURE 8.32 Displayed in the left panel are the wavefunctions from Figure 8.31 and on the right the probability $\boldsymbol { \Psi } ^ { 2 } ( \boldsymbol { \mathsf { x } } )$ for finding the particle at position x within the box.
+FIGURE 8.32 Displayed in the left panel are the wavefunctions from [Figure 8.31](#fig-p1-ch08-49) and on the right the probability $\boldsymbol { \Psi } ^ { 2 } ( \boldsymbol { \mathsf { x } } )$ for finding the particle at position x within the box.
 :::
 
 
@@ -1507,7 +1508,7 @@ Also of great importance is the dependence of the energy of the quantized levels
 ```
 
 
-Thus the energy of each quantized level has decreased by a factor of 4 by increasing the well width by a factor of 2 as shown in Figure 8.33. This, as it turns out, is related to why a molecular bond forms when two atoms combine to form a molecule; the wavefunction of the electrons “spreads out” and the energy of the ensemble of electrons and protons decreases such that the molecule is more stable than the individual atoms.
+Thus the energy of each quantized level has decreased by a factor of 4 by increasing the well width by a factor of 2 as shown in [Figure 8.33](#fig-p1-ch08-51). This, as it turns out, is related to why a molecular bond forms when two atoms combine to form a molecule; the wavefunction of the electrons “spreads out” and the energy of the ensemble of electrons and protons decreases such that the molecule is more stable than the individual atoms.
 
 :::{figure} ../images/fig-p1-ch08-51.jpg
 :name: fig-p1-ch08-51
@@ -1600,7 +1601,7 @@ we have
 
 reflecting the fact that we don't know the direction of particle motion.
 
-There is also uncertainty in the position of the particle because we cannot accurately locate the particle within the envelope of its wavefunction. We can adopt a number of assumptions regarding the particle's position, say within half the width of the box, or $\mathrm { L } / 2 .$ , but this is somewhat arbitrary. The fundamental point is that the wave nature of the particle prevents locating it exactly along the x-axis of the potential well in Figure 8.32. If the uncertainty in momentum along the x-axis is $\Delta \mathfrak { p } _ { \mathrm { x } } ,$ then for the lowest energy state $\Delta \mathrm { p } _ { \mathrm { x } } =$ (h/2L) the uncertainty in the product of momentum and position is given by
+There is also uncertainty in the position of the particle because we cannot accurately locate the particle within the envelope of its wavefunction. We can adopt a number of assumptions regarding the particle's position, say within half the width of the box, or $\mathrm { L } / 2 .$ , but this is somewhat arbitrary. The fundamental point is that the wave nature of the particle prevents locating it exactly along the x-axis of the potential well in [Figure 8.32](#fig-p1-ch08-50). If the uncertainty in momentum along the x-axis is $\Delta \mathfrak { p } _ { \mathrm { x } } ,$ then for the lowest energy state $\Delta \mathrm { p } _ { \mathrm { x } } =$ (h/2L) the uncertainty in the product of momentum and position is given by
 
 ```{math}
 :label: eq-p1-ch08-127
@@ -1676,7 +1677,7 @@ The uncertainty in momentum in this case influences only the 32nd decimal place 
 ```
 
 
-2. Because n can take on only integer values, the energy of the particle (the electron) is quantized. That is, the energy of the particle is restricted to a series of discrete values called energy levels (Figure 8.32).
+2. Because n can take on only integer values, the energy of the particle (the electron) is quantized. That is, the energy of the particle is restricted to a series of discrete values called energy levels ([Figure 8.32)](#fig-p1-ch08-50).
 
 3. The shape of the wavefunction of a confined particle contains important information. Consider the wavefunction for the first two allowed energy levels, n = 1 and n = 2.
 
@@ -1686,7 +1687,7 @@ The uncertainty in momentum in this case influences only the 32nd decimal place 
 ```
 
 
-And ${ \psi _ { 1 } } ^ { 2 } ( \mathrm { x } )$ , the probability of finding the particle at x, peaks in the center of the box as shown by the shaded area in Figure 8.32.
+And ${ \psi _ { 1 } } ^ { 2 } ( \mathrm { x } )$ , the probability of finding the particle at x, peaks in the center of the box as shown by the shaded area in [Figure 8.32](#fig-p1-ch08-50).
 
 ```{math}
 :label: eq-p1-ch08-135
@@ -1704,7 +1705,7 @@ And ${ \psi } _ { 2 } ^ { ~ 2 } ( \mathrm { x } )$ reaches a maximum on either s
 
 To this point we have combined two lines of reasoning to arrive at the point where we can mathematically describe the behavior of an electron in a confined one-dimensional box. Those two lines of reasoning are (1) the de Broglie hypothesis that the electron has a wavelength $\lambda _ { \mathrm { e l } } = \mathrm { h } / \mathrm { p _ { e l } }$ and (2) the application of the mathematics developed to formulate both a wave equation and the associated wavefunctions that are a solution to that wave equation. The allowed, quantized, energies of the electron result from the boundary conditions imposed on the solution by the square-well potential $\mathbf { \left( V ( x ) \right) } = \mathbf { 0 }$ between x = 0 and $\mathbf { \delta X } = \mathrm { L } , \mathbf { V } ( \mathbf { \delta X } ) = \infty$ elsewhere).
 
-Development of the new “wave mechanics” to describe the behavior of these new “matter waves” occurred remarkably quickly following the hypothesis put forward by de Broglie in 1924. In the winter of 1925, Erwin Schrödinger, a mathematical physicist, pictured in Figure 8.34, gave a lecture discussing some of the implications of de Broglie's hypothesis. At that meeting Peter Debye, a well-known physical chemist, rose at the end of Schrödinger's talk and remarked, “What is this foolishness? If there are waves they must obey a wave equation!” The reaction by Schrödinger was swift and decisive. He recognized the truth in Debye's words and turned full time to working out the wave equation for electrons confined in the Coulomb potential of the proton.
+Development of the new “wave mechanics” to describe the behavior of these new “matter waves” occurred remarkably quickly following the hypothesis put forward by de Broglie in 1924. In the winter of 1925, Erwin Schrödinger, a mathematical physicist, pictured in [Figure 8.34](#fig-p1-ch08-52), gave a lecture discussing some of the implications of de Broglie's hypothesis. At that meeting Peter Debye, a well-known physical chemist, rose at the end of Schrödinger's talk and remarked, “What is this foolishness? If there are waves they must obey a wave equation!” The reaction by Schrödinger was swift and decisive. He recognized the truth in Debye's words and turned full time to working out the wave equation for electrons confined in the Coulomb potential of the proton.
 
 :::{figure} ../images/fig-p1-ch08-52.jpg
 :name: fig-p1-ch08-52
@@ -1833,7 +1834,7 @@ In fact, from our solution of the Bohr atom, we can write the potential energy o
 ```
 
 
-where r is the distance from the electron to the nucleus and $\mathfrak { \varepsilon } _ { 0 }$ is the permeability of space. We can diagram this potential in three dimensions as displayed in Figure 8.35.
+where r is the distance from the electron to the nucleus and $\mathfrak { \varepsilon } _ { 0 }$ is the permeability of space. We can diagram this potential in three dimensions as displayed in [Figure 8.35](#fig-p1-ch08-53).
 
 :::{figure} ../images/fig-p1-ch08-53.jpg
 :name: fig-p1-ch08-53
@@ -1854,7 +1855,7 @@ While we could use our Schrödinger equation in Cartesian coordinates, by expres
 ```
 
 
-it turns out to be more mathematically convenient (in the long run!) to write the potential energy in terms of $\mathrm {  ~ r , \nabla ~ } \mathrm { V } ( \mathrm { r } ) = - { \mathrm e } ^ { 2 } / 4 \pi { \bf \mathfrak { c } } _ { 0 } \mathrm { \bf r } .$ and to convert the wave equation from Cartesian coordinates to polar coordinates. Figure 8.36 shows explicitly the coordinate conversion: x = r sin θ cos $\phi$ and z = r cos θ.
+it turns out to be more mathematically convenient (in the long run!) to write the potential energy in terms of $\mathrm {  ~ r , \nabla ~ } \mathrm { V } ( \mathrm { r } ) = - { \mathrm e } ^ { 2 } / 4 \pi { \bf \mathfrak { c } } _ { 0 } \mathrm { \bf r } .$ and to convert the wave equation from Cartesian coordinates to polar coordinates. [Figure 8.36](#fig-p1-ch08-54) shows explicitly the coordinate conversion: x = r sin θ cos $\phi$ and z = r cos θ.
 
 :::{figure} ../images/fig-p1-ch08-54.jpg
 :name: fig-p1-ch08-54
@@ -1949,7 +1950,7 @@ When Schrödinger applied the boundary conditions that in turn selected the corr
 ```
 
 
-where the integers n, ℓ, m<sub>ℓ</sub> specified or imposed the standing wave boundary conditions on motions in three dimensions. The three dimensions defined by the polar coordinates r, θ, and $\phi$ in Figure 8.36 for the Coulomb potential displayed in Figure 9.35.
+where the integers n, ℓ, m<sub>ℓ</sub> specified or imposed the standing wave boundary conditions on motions in three dimensions. The three dimensions defined by the polar coordinates r, θ, and $\phi$ in [Figure 8.36](#fig-p1-ch08-54) for the Coulomb potential displayed in [Figure 9.35](#original-fig-9-35).
 
 As it turns out, these integers n, ℓ, m , which specify the explicit functional form of the wavefunctions that are solutions to the Schrödinger equation for the hydrogen atom, each have an important physical interpretation.
 
@@ -2010,7 +2011,7 @@ As noted above, the energy E that Schrödinger determined from his wave equation
 ```
 
 
-which is identical to the formula determined by Bohr. This is made explicit in Figure 8.38. As is the case with Bohr's expression, n can take the values n = 1,
+which is identical to the formula determined by Bohr. This is made explicit in [Figure 8.38](#fig-p1-ch08-56). As is the case with Bohr's expression, n can take the values n = 1,
 
 :::{figure} ../images/fig-p1-ch08-56.jpg
 :name: fig-p1-ch08-56
@@ -2025,15 +2026,16 @@ As we will see, the three quantum numbers $\mathrm { n } , \ell ,$ and $\mathbf 
 
 The third quantum number, $\mathbf { m } _ { \ell } ,$ , is called the magnetic quantum number because it defines the behavior of the hydrogen atom in a magnetic field. The value of $\textrm { m } _ { \ell }$ is limited by the value of the angular momentum quantum number, ℓ, such that $\mathrm { m } = - \ell , - \ell + 1 , - \ell + 2 , \ldots - 1 , 0 , 1 , \ldots \ell - 1 , \ell$ . Thus $\mathrm { m } _ { \ell } ,$ for a given value of ℓ, spans from -ℓ to + ℓ in integer steps through zero.
 
-Before discussing the spatial shapes of $\mathrm { \sf R } _ { \mathrm { n } , \mathrm { ~ \ell ~ } } ( \mathrm { \bf r } )$ , and $\mathrm { Y } _ { \ell , \mathrm { m } \ell } ( \theta , \phi )$ we summarize the nested nature of these three quantum numbers in Figure $8 . 3 8$ . The key point is that for a given value of the principal quantum number, n, the allowed values of ℓ and $\mathbf { m } _ { \ell }$ are determined because ℓ is limited to values of $0 , 1 , 2 , . . . 1 - 1$ . Thus if ${ \bf n } = 3$ then ℓ is limited to ℓ = 0, 1, 2, etc. as shown in Figure 8.38. Once the value of ℓ is set, the range of $\mathbf { m } _ { \ell }$ is also set. This is the reason $\mathbf { m } _ { \ell }$ is given the subscript ℓ, such that $\mathbf { m } _ { \ell }$ ranges from -ℓ through zero to +ℓ as shown in the Figure 8.38.
+Before discussing the spatial shapes of $\mathrm { \sf R } _ { \mathrm { n } , \mathrm { ~ \ell ~ } } ( \mathrm { \bf r } )$ , and $\mathrm { Y } _ { \ell , \mathrm { m } \ell } ( \theta , \phi )$ we summarize the nested nature of these three quantum numbers in [Figure 8.38](#fig-p1-ch08-56) . The key point is that for a given value of the principal quantum number, n, the allowed values of ℓ and $\mathbf { m } _ { \ell }$ are determined because ℓ is limited to values of $0 , 1 , 2 , . . . 1 - 1$ . Thus if ${ \bf n } = 3$ then ℓ is limited to ℓ = 0, 1, 2, etc. as shown in [Figure 8.38](#fig-p1-ch08-56). Once the value of ℓ is set, the range of $\mathbf { m } _ { \ell }$ is also set. This is the reason $\mathbf { m } _ { \ell }$ is given the subscript ℓ, such that $\mathbf { m } _ { \ell }$ ranges from -ℓ through zero to +ℓ as shown in the [Figure 8.38](#fig-p1-ch08-56).
 
-For example, with n = 3, ℓ can take the values ℓ = 0, 1, 2. For each value of ℓ, $\mathbf { m } _ { \ell }$ can assume a range of values from -ℓ through zero to +ℓ. For example, as Figure 8.39 delineates, for n = 3, ℓ = 2, m <sub>ℓ</sub> ranges from -2 to +2 in integer increments.
+For example, with n = 3, ℓ can take the values ℓ = 0, 1, 2. For each value of ℓ, $\mathbf { m } _ { \ell }$ can assume a range of values from -ℓ through zero to +ℓ. For example, as [Figure 8.39](#original-fig-8-39) delineates, for n = 3, ℓ = 2, m <sub>ℓ</sub> ranges from -2 to +2 in integer increments.
 
 <table><tr><td colspan="5">Quantum Numbers for Electrons in Atoms</td></tr><tr><td>Name</td><td>Symbol</td><td>Values</td><td>Specifics</td><td>Indicates</td></tr><tr><td>principal</td><td>n</td><td>1, 2, . . .</td><td>shell</td><td>size</td></tr><tr><td>orbital angular momentum*</td><td>l</td><td>0, 1, . . ., n - 1</td><td>subshell: l = 0, 1, 2, 3, 4, . . . s, p, d, f, g, . . .</td><td>shape</td></tr><tr><td>magnetic</td><td>ml</td><td>l, l - 1, . . ., -l</td><td>orbitals of subshell</td><td>orientation</td></tr><tr><td>spin magnetic</td><td>ms</td><td>+1⁄2, -1⁄2</td><td>spin state</td><td>spin direction</td></tr><tr><td colspan="5">*Also called the azimuthal quantum number.</td></tr></table>
 
+(original-fig-8-39)=
 FIGURE 8.39 We can summarize the quantum numbers n, ℓ, and ${ \sf m } _ { \ell }$ with respect to name, symbol, allowed range of values, shell/subshell/orbital designation, and the geometric or physical characterization indicated for each quantum number.
 
-Moreover, in the language of atomic structure, the shell is designated by n, the subshell is designated by the value of ℓ with ℓ = 0 referred to as the $^ { 6 6 } \mathrm { \bf S }$ subshell,” $\ell = 1$ referred to as the $^ { \mathfrak { s } } \mathfrak { p }$ subshell” and ℓ = 2 referred to as the “d subshell.” For each value of $\ell ,$ the value of $\mathbf { m } _ { \ell }$ designates the particular orbital within which the electron resides. We can summarize the nested relationship between n, ℓ and $\mathbf { m } _ { \ell }$ as displayed in Figure 8.38, and we can tabulate the relationship between these quantum numbers as shown in the table in Figure 8.39.
+Moreover, in the language of atomic structure, the shell is designated by n, the subshell is designated by the value of ℓ with ℓ = 0 referred to as the $^ { 6 6 } \mathrm { \bf S }$ subshell,” $\ell = 1$ referred to as the $^ { \mathfrak { s } } \mathfrak { p }$ subshell” and ℓ = 2 referred to as the “d subshell.” For each value of $\ell ,$ the value of $\mathbf { m } _ { \ell }$ designates the particular orbital within which the electron resides. We can summarize the nested relationship between n, ℓ and $\mathbf { m } _ { \ell }$ as displayed in [Figure 8.38](#fig-p1-ch08-56), and we can tabulate the relationship between these quantum numbers as shown in the table in [Figure 8.39](#original-fig-8-39).
 
 In summary, the principal quantum number designates the shell size; the angular momentum quantum number, ℓ, designates the subshell shape; and the magnetic quantum number, m , designates the individual orbital's orientation.
 
@@ -2049,7 +2051,7 @@ Using the preceding ℓ-rule, for n = 2, ℓ can be 0 or 1; using the mℓ-rule 
 
 ## Geometry and Spatial Characteristics of the Three-Dimensional Waves of the Hydrogen Atom
 
-We build up our knowledge of the geometry of the atomic orbitals by beginning with the lowest energy atomic orbital, for which the corresponding quantum numbers are ${ \bf { n } } = { \bf { 1 } } , { \bf { \ell } } = { \bf { 0 } }$ , and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ . We can define the geometry of this lowest energy orbital by systematically presenting the dependence of the radial and angular parts of the wavefunction $\psi _ { \mathrm { n } , \ell , \mathrm { m } _ { p } } ( \mathrm { r } , \forall , \phi ) = \mathrm { R } _ { \mathrm { n } , \ell } ^ { \bullet } ( \mathrm { r } ) \psi _ { \ell , \mathrm { m } _ { \ell } } ( \theta , \phi )$ in three dimensions. For the case n = 1, ℓ = 0, and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ , the wavefunction is thus $\psi _ { \mathrm { n } , \ell , \mathrm { m } _ { \ell } } ( \mathrm { r } , \theta , \phi ) _ { } = \psi _ { \mathrm { 1 0 0 } } ( \mathrm { r } , \theta , \phi ) _ { } = \mathrm { R } _ { \mathrm { 1 , 0 } } ( \mathrm { r } ) \mathrm { Y } _ { \mathrm { 0 , 0 } } ( \theta , \phi )$ . We can represent $\psi _ { 1 0 0 }$ as a function of ${ \bf r , }$ the distance from the nucleus as shown in Figure $8 . 4 0 \mathrm { a }$ . If this function $\psi _ { 1 0 0 }$ is rotated about the vertical axis it forms a cone as shown in Figure $\underline { { 8 . 4 0 \mathrm { b } } } .$ , and the projection of this cone when viewed from the top is displayed in Figure $8 . 4 0 \mathrm { c }$ . The three-dimensional representation is displayed in Figure $8 . 4 0 \mathrm { d }$ as a cloud of points with the density of points representing the amplitude of the wavefunction $\psi _ { 1 0 0 }$ . This cloud of points is represented in Figure $8 . 4 0 \mathrm { e }$ by the boundary to $\psi _ { 1 0 0 }$ within which 90% of the density of points resides.
+We build up our knowledge of the geometry of the atomic orbitals by beginning with the lowest energy atomic orbital, for which the corresponding quantum numbers are ${ \bf { n } } = { \bf { 1 } } , { \bf { \ell } } = { \bf { 0 } }$ , and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ . We can define the geometry of this lowest energy orbital by systematically presenting the dependence of the radial and angular parts of the wavefunction $\psi _ { \mathrm { n } , \ell , \mathrm { m } _ { p } } ( \mathrm { r } , \forall , \phi ) = \mathrm { R } _ { \mathrm { n } , \ell } ^ { \bullet } ( \mathrm { r } ) \psi _ { \ell , \mathrm { m } _ { \ell } } ( \theta , \phi )$ in three dimensions. For the case n = 1, ℓ = 0, and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ , the wavefunction is thus $\psi _ { \mathrm { n } , \ell , \mathrm { m } _ { \ell } } ( \mathrm { r } , \theta , \phi ) _ { } = \psi _ { \mathrm { 1 0 0 } } ( \mathrm { r } , \theta , \phi ) _ { } = \mathrm { R } _ { \mathrm { 1 , 0 } } ( \mathrm { r } ) \mathrm { Y } _ { \mathrm { 0 , 0 } } ( \theta , \phi )$ . We can represent $\psi _ { 1 0 0 }$ as a function of ${ \bf r , }$ the distance from the nucleus as shown in [Figure 8.40A](#fig-p1-ch08-57) . If this function $\psi _ { 1 0 0 }$ is rotated about the vertical axis it forms a cone as shown in [Figure 8.40B](#fig-p1-ch08-57) , and the projection of this cone when viewed from the top is displayed in [Figure 8.40C](#fig-p1-ch08-57) . The three-dimensional representation is displayed in [Figure 8.40D](#fig-p1-ch08-57) as a cloud of points with the density of points representing the amplitude of the wavefunction $\psi _ { 1 0 0 }$ . This cloud of points is represented in [Figure 8.40E](#fig-p1-ch08-57) by the boundary to $\psi _ { 1 0 0 }$ within which 90% of the density of points resides.
 
 :::{figure} ../images/fig-p1-ch08-57.jpg
 :name: fig-p1-ch08-57
@@ -2058,7 +2060,7 @@ FIGURE 8.40 There are a number of important ways to graphically represent the 1s
 :::
 
 
-As we will see when we begin to use these orbitals to understand how atoms interact with photons and how these atomic orbitals combine to form molecular bonds, the spatial geometry of each orbital that corresponds to a unique set of quantum numbers n, ℓ, m<sub>ℓ</sub>, is of critical importance. At the same time, it is important to realize that the solution to the Schrödinger equation provides the explicit mathematical function $\psi _ { 1 0 0 } ( \mathbf { r } , \theta , \phi )$ describing the radial and angular dependence of the orbital for each set of quantum numbers. In particular, for the orbital in Figure $\underline { { 8 . 4 0 } }$ for which n = 1, ℓ = 0, and $\mathbf { m } _ { \ell } = \mathbf { 0 } _ { : }$ the solution to the Schrödinger equation is
+As we will see when we begin to use these orbitals to understand how atoms interact with photons and how these atomic orbitals combine to form molecular bonds, the spatial geometry of each orbital that corresponds to a unique set of quantum numbers n, ℓ, m<sub>ℓ</sub>, is of critical importance. At the same time, it is important to realize that the solution to the Schrödinger equation provides the explicit mathematical function $\psi _ { 1 0 0 } ( \mathbf { r } , \theta , \phi )$ describing the radial and angular dependence of the orbital for each set of quantum numbers. In particular, for the orbital in [Figure 8.40](#fig-p1-ch08-57) for which n = 1, ℓ = 0, and $\mathbf { m } _ { \ell } = \mathbf { 0 } _ { : }$ the solution to the Schrödinger equation is
 
 ```{math}
 :label: eq-p1-ch08-161
@@ -2082,11 +2084,11 @@ which is the radius of the lowest energy orbit of the Bohr hydrogen atom. The se
 ```
 
 
-that for the specific case of $\ell = 0$ and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ is a constant, independent of θ and $\phi .$ . Since $\psi _ { 1 0 0 }$ is independent of θ and $\Phi _ { : }$ , it is spherically symmetric. This spherical symmetry reflects the fact that at any particular distance r from the nucleus, $\psi ( \mathbf { r } , \theta , \phi )$ does not depend on $\theta$ or $\phi$ . In the (history based) jargon of orbital designations, this $\psi _ { 1 0 0 }$ orbital is termed the 1s orbital corresponding to n = 1 and the s representing $\ell = 0$ as indicated in Figure 8.39.
+that for the specific case of $\ell = 0$ and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ is a constant, independent of θ and $\phi .$ . Since $\psi _ { 1 0 0 }$ is independent of θ and $\Phi _ { : }$ , it is spherically symmetric. This spherical symmetry reflects the fact that at any particular distance r from the nucleus, $\psi ( \mathbf { r } , \theta , \phi )$ does not depend on $\theta$ or $\phi$ . In the (history based) jargon of orbital designations, this $\psi _ { 1 0 0 }$ orbital is termed the 1s orbital corresponding to n = 1 and the s representing $\ell = 0$ as indicated in [Figure 8.39](#original-fig-8-39).
 
-Before moving on to sequentially higher values of n, with the corresponding options for ℓ and $\mathbf { m } _ { \ell } ,$ it is important to note that the 1s orbital has, in addition to spherical symmetry, the characteristic that (1) it is a decaying exponential with respect to the distance r from the nucleus, and (2) the wavefunction $\psi _ { 1 0 0 }$ has no nodes (where a node represents the passage of the wavefunction ψ through zero). Recall that the same was true of the lowest energy level of the one-dimensional particle-in-a-box, Figure 8.31.
+Before moving on to sequentially higher values of n, with the corresponding options for ℓ and $\mathbf { m } _ { \ell } ,$ it is important to note that the 1s orbital has, in addition to spherical symmetry, the characteristic that (1) it is a decaying exponential with respect to the distance r from the nucleus, and (2) the wavefunction $\psi _ { 1 0 0 }$ has no nodes (where a node represents the passage of the wavefunction ψ through zero). Recall that the same was true of the lowest energy level of the one-dimensional particle-in-a-box, [Figure 8.31](#fig-p1-ch08-49).
 
-As we progress to increasing values of n, and therefore to a widening manifold of corresponding ℓ and $\textrm { m } _ { \ell }$ values, the allowed array of orbital geometries, with each orbital corresponding to a specific set of $\mathbf { n } , \ell ,$ and $\mathbf { m } _ { \ell }$ values, expands accordingly. When we consider the allowed geometries for n $= 2 .$ , we have allowed values of $\ell = 0$ and $\ell = 1$ . For $\ell = 0$ we have only one allowed value of $\mathbf { m } _ { \ell }$ , that of m $_ { \ell } = 0$ . This corresponds to the wavefunction $\psi _ { 2 0 0 } ( \mathrm { r } , \theta , \phi ) \ = \ \mathrm { R } _ { 2 , 0 } ( \mathrm { r } ) \mathrm { Y } _ { 0 , 0 } ( \theta , \phi )$ shown in Figure $8 . 4 1$ on the top row. This graphical representation demonstrates that $\mathrm { R _ { 2 , 0 } ( r ) }$ has a node where $\mathtt { R } _ { 2 , 0 } ( \mathrm { r } )$ equals zero at a distance $\mathbf { r } = 2 \mathbf { a } _ { 0 }$ from the nucleus. The angular dependence, $\mathrm { Y } _ { 0 , 0 } ( \theta , \phi )$ is spherically symmetric and thus $\mathtt { Y _ { 0 , 0 } }$ is a constant, independent of angle around the nucleus.
+As we progress to increasing values of n, and therefore to a widening manifold of corresponding ℓ and $\textrm { m } _ { \ell }$ values, the allowed array of orbital geometries, with each orbital corresponding to a specific set of $\mathbf { n } , \ell ,$ and $\mathbf { m } _ { \ell }$ values, expands accordingly. When we consider the allowed geometries for n $= 2 .$ , we have allowed values of $\ell = 0$ and $\ell = 1$ . For $\ell = 0$ we have only one allowed value of $\mathbf { m } _ { \ell }$ , that of m $_ { \ell } = 0$ . This corresponds to the wavefunction $\psi _ { 2 0 0 } ( \mathrm { r } , \theta , \phi ) \ = \ \mathrm { R } _ { 2 , 0 } ( \mathrm { r } ) \mathrm { Y } _ { 0 , 0 } ( \theta , \phi )$ shown in [Figure 8.41](#fig-p1-ch08-59) on the top row. This graphical representation demonstrates that $\mathrm { R _ { 2 , 0 } ( r ) }$ has a node where $\mathtt { R } _ { 2 , 0 } ( \mathrm { r } )$ equals zero at a distance $\mathbf { r } = 2 \mathbf { a } _ { 0 }$ from the nucleus. The angular dependence, $\mathrm { Y } _ { 0 , 0 } ( \theta , \phi )$ is spherically symmetric and thus $\mathtt { Y _ { 0 , 0 } }$ is a constant, independent of angle around the nucleus.
 
 :::{figure} ../images/fig-p1-ch08-58.jpg
 :name: fig-p1-ch08-58
@@ -2100,7 +2102,7 @@ FIGURE 8.41 Graphical representation of the n = 2 orbitals for atomic hydrogen. 
 :::
 
 
-With $\mathbf { n } = \mathbf { 2 }$ and $\ell = 1$ , we open the options of $ { \bf m } _ { \ell } = - { \bf 1 } , { \bf o } _ { \mathrm { { } } }$ , and +1, which correspond to three orbitals that share the same shape (determined by $\ell = 1 )$ but have three different orientations (determined by $\mathbf { m } _ { \ell } = \mathbf { o } , \pm \mathbf { 1 } )$ . The three resulting orbitals are displayed in Figure $8 . 4 1$ in the second, third, and fourth rows.
+With $\mathbf { n } = \mathbf { 2 }$ and $\ell = 1$ , we open the options of $ { \bf m } _ { \ell } = - { \bf 1 } , { \bf o } _ { \mathrm { { } } }$ , and +1, which correspond to three orbitals that share the same shape (determined by $\ell = 1 )$ but have three different orientations (determined by $\mathbf { m } _ { \ell } = \mathbf { o } , \pm \mathbf { 1 } )$ . The three resulting orbitals are displayed in [Figure 8.41](#fig-p1-ch08-59) in the second, third, and fourth rows.
 
 ## Check Yourself 12
 
@@ -2140,7 +2142,7 @@ Practice Example B: Calculate the same ratio but for a point at $3 \mathbf { a }
 
 Just as was the case for the wavefunction $\psi _ { 1 0 0 } ,$ for each specific set of quantum numbers $\operatorname { n } , \ell , \operatorname { m } _ { \ell }$ , there is a unique atomic orbital and a unique wavefunction. Therefore for each $\mathbf { n } , \ell , \mathbf { m } _ { \ell }$ , there is a specific mathematical function defining the radial and angular dependence of that orbital.
 
-While our intuition for how electrons are distributed in space around the atom's nucleus is built primarily on the shape (defined by ℓ) and orientation (defined by $\textbf { m } _ { \ell } )$ , we can write down the mathematical function that corresponds to each of the orbitals shown in Figure $\underline { { 8 . 4 1 } }$
+While our intuition for how electrons are distributed in space around the atom's nucleus is built primarily on the shape (defined by ℓ) and orientation (defined by $\textbf { m } _ { \ell } )$ , we can write down the mathematical function that corresponds to each of the orbitals shown in [Figure 8.41](#fig-p1-ch08-59)
 
 For the quantum numbers $\mathbf { n } = \mathbf { 2 } , \mathbf { \ell } = \mathbf { 0 }$ , and $\mathbf { m } _ { \ell } = \mathbf { 0 }$ the wavefunction is
 
@@ -2150,9 +2152,9 @@ For the quantum numbers $\mathbf { n } = \mathbf { 2 } , \mathbf { \ell } = \mat
 ```
 
 
-This mathematical function, the wavefunction, corresponds to the $\mathrm { p } _ { \mathrm { Z } }$ orbital in the second row of Figure 8.41. It has lobes in $\theta$ and $\phi$ oriented along the $\mathbf { Z } ^ { - }$ axis. However, note that the wavefunction is independent of $\phi ,$ , the azimuthal angle, and is, as a consequence, cylindrically symmetric. This wavefunction is designated the ${ \displaystyle 2 \mathrm { p } _ { \mathrm { Z } } }$ orbital.
+This mathematical function, the wavefunction, corresponds to the $\mathrm { p } _ { \mathrm { Z } }$ orbital in the second row of [Figure 8.41](#fig-p1-ch08-59). It has lobes in $\theta$ and $\phi$ oriented along the $\mathbf { Z } ^ { - }$ axis. However, note that the wavefunction is independent of $\phi ,$ , the azimuthal angle, and is, as a consequence, cylindrically symmetric. This wavefunction is designated the ${ \displaystyle 2 \mathrm { p } _ { \mathrm { Z } } }$ orbital.
 
-This leaves us with two more wavefunctions, namely the two orbitals corresponding to $\textbf { n } = \textbf { 2 } , \ \ell \ = \textbf { 1 }$ , and $\mathbf { m } _ { \ell } = \pm \mathbf { 1 }$ . The geometry of these two wavefunctions are displayed in the next-to-last and last row of Figure $\underline { { 8 . 4 1 } }$ The ${ 2 \mathrm { p } _ { \mathrm { x } } }$ orbital has lobes aligned along the x axis, and the ${ } ^ { 2 } \mathrm { p } _ { \mathrm { y } }$ orbital has lobes aligned along the y axis. The corresponding wavefunctions are, for $\mathrm { p _ { x } }$
+This leaves us with two more wavefunctions, namely the two orbitals corresponding to $\textbf { n } = \textbf { 2 } , \ \ell \ = \textbf { 1 }$ , and $\mathbf { m } _ { \ell } = \pm \mathbf { 1 }$ . The geometry of these two wavefunctions are displayed in the next-to-last and last row of [Figure 8.41](#fig-p1-ch08-59) The ${ 2 \mathrm { p } _ { \mathrm { x } } }$ orbital has lobes aligned along the x axis, and the ${ } ^ { 2 } \mathrm { p } _ { \mathrm { y } }$ orbital has lobes aligned along the y axis. The corresponding wavefunctions are, for $\mathrm { p _ { x } }$
 
 ```{math}
 :label: eq-p1-ch08-167
@@ -2168,24 +2170,24 @@ and for $\mathsf { p } _ { \mathrm { y } }$
 ```
 
 
-Note that, as the graphical representation in Figure $8 . 4 1$ suggests, $\mathrm { p _ { x } }$ and $\mathsf { p } _ { \mathrm { y } }$ differ only in their orientation expressed in the angular factor.
+Note that, as the graphical representation in [Figure 8.41](#fig-p1-ch08-59) suggests, $\mathrm { p _ { x } }$ and $\mathsf { p } _ { \mathrm { y } }$ differ only in their orientation expressed in the angular factor.
 
 While it may seem peculiar to revert to Cartesian coordinates for both the graphical visualization of the various orbitals and the orbital designations $( \mathrm { p } _ { \mathrm { x } } ,$ $\mathrm { { p _ { y } , p _ { z } ) } }$ , when the geometry of the orbitals is visualized, this turns out to be the most useful form, and it is virtually universal in both chemistry and physics. The reason the $\mathrm { p _ { x } }$ orbital is so designated comes from the fact that x = r sin $\theta$ cos $\phi$ in the conversion between Cartesian and polar coordinates and the angular dependence of $\mathrm { Y } _ { \ell , \mathrm { m } \ell } ( \theta , \phi )$ for the $\mathrm { p _ { x } }$ orbital has the same functional form. The same analogy holds for the $\mathsf { p } _ { \mathtt { y } }$ and $\mathrm { p } _ { \mathrm { z } }$ orbitals.
 
 Sketch radial wavefunctions $R _ { n l } ( r )$ on a single set of labeled axes for 1s, 2s, and 3s orbitals, explicitly calculating and indicating the values of r (in units of $a _ { 0 }$ and in angstroms) at the nodal positions. How are these nodes manifested in the $3 ^ { - \mathrm { D } }$ orbitals?
 
-When we consider the orbitals that arise for $\mathbf { n } = 3 \mathrm { : }$ , we again refer back to Figure 8.38. With ${ \bf n } = 3$ , we have three subshells: $\ell = 0$ or the s subshell, $\ell = 1$ or the p subshell, and $\ell = 2$ or the d subshell. For each of these values of ℓ, there are the corresponding values of $\mathbf { m } _ { \ell }$ . Specifically for $\ell = 0$ , there is only one option, $\mathrm { ~ { ~ m ~ } ~ } _ { \ell } ~ = ~ 0$ . For $\ell \ = \ 1$ , there are 3 possibilities: m $\mathbf { \Lambda } _ { \ell } ~ = ~ \mathbf { O } , \mathbf { \Lambda } _ { \pm 1 }$ corresponding to the $3 \mathrm { p } _ { \mathrm { x } } , ~ 3 \mathrm { p } _ { \mathrm { y } } ,$ , and $3 \mathrm { p } _ { \mathrm { z } }$ orbitals. For $\ell ~ = ~ 2 .$ , there are 5 possibilities: $\mathfrak { m } _ { \ell } = 0 , \pm 1 , \pm 2$ corresponding to the $3 \mathrm { d _ { z } ^ { 2 } , 3 \mathrm { d _ { x z } , 3 \mathrm { d _ { y z } , 3 \mathrm { d _ { x y } } } } }$ , and $3 { \mathrm { d } } _ { \mathrm { x } } ^ { \ 2 } - { \mathrm { \Sigma } } _ { \mathrm { y } } ^ { \ 2 }$ . All of these are displayed in Figure 8.42.
+When we consider the orbitals that arise for $\mathbf { n } = 3 \mathrm { : }$ , we again refer back to [Figure 8.38](#fig-p1-ch08-56). With ${ \bf n } = 3$ , we have three subshells: $\ell = 0$ or the s subshell, $\ell = 1$ or the p subshell, and $\ell = 2$ or the d subshell. For each of these values of ℓ, there are the corresponding values of $\mathbf { m } _ { \ell }$ . Specifically for $\ell = 0$ , there is only one option, $\mathrm { ~ { ~ m ~ } ~ } _ { \ell } ~ = ~ 0$ . For $\ell \ = \ 1$ , there are 3 possibilities: m $\mathbf { \Lambda } _ { \ell } ~ = ~ \mathbf { O } , \mathbf { \Lambda } _ { \pm 1 }$ corresponding to the $3 \mathrm { p } _ { \mathrm { x } } , ~ 3 \mathrm { p } _ { \mathrm { y } } ,$ , and $3 \mathrm { p } _ { \mathrm { z } }$ orbitals. For $\ell ~ = ~ 2 .$ , there are 5 possibilities: $\mathfrak { m } _ { \ell } = 0 , \pm 1 , \pm 2$ corresponding to the $3 \mathrm { d _ { z } ^ { 2 } , 3 \mathrm { d _ { x z } , 3 \mathrm { d _ { y z } , 3 \mathrm { d _ { x y } } } } }$ , and $3 { \mathrm { d } } _ { \mathrm { x } } ^ { \ 2 } - { \mathrm { \Sigma } } _ { \mathrm { y } } ^ { \ 2 }$ . All of these are displayed in [Figure 8.42](#fig-p1-ch08-60).
 
 :::{figure} ../images/fig-p1-ch08-60.jpg
 :name: fig-p1-ch08-60
 :alt: FIGURE 8.42 The graphical display of the radial wavefunction, R(r), and the angular wavefunction Y(θ, ϕ) for the principal quantum number mathematical notation . The figures follow from the designation in Figure 8.41. (a) Displays the surfa
-FIGURE 8.42 The graphical display of the radial wavefunction, R(r), and the angular wavefunction Y(θ, ϕ) for the principal quantum number ${ \mathsf n } = 3 .$ . The figures follow from the designation in Figure 8.41. (a) Displays the surfaces that include 90% of the wave amplitude for the 3s, 3p, and 3d orbitals. The phase of the wave is designated by the color. (b) Displays the two-dimensional cuts through the threedimensional amplitude clouds.
+FIGURE 8.42 The graphical display of the radial wavefunction, R(r), and the angular wavefunction Y(θ, ϕ) for the principal quantum number ${ \mathsf n } = 3 .$ . The figures follow from the designation in [Figure 8.41](#fig-p1-ch08-59). (a) Displays the surfaces that include 90% of the wave amplitude for the 3s, 3p, and 3d orbitals. The phase of the wave is designated by the color. (b) Displays the two-dimensional cuts through the threedimensional amplitude clouds.
 :::
 
 
 While we will not write down the mathematical functions for the $\mathbf { n } ~ = ~ 3$ wavefunctions (they become increasingly complex) it is very important to identify the emerging patterns in the geometry of those s, p, and d orbitals. Consider first the ${ \mathbf n } = 3$ orbitals with respect to the n = 1 and n = 2 cases. The 3s orbital has two radial nodes, compared to zero radial nodes for the 1s orbital and one radial node for the 2s orbital. This is a pattern: an ns orbital has n - 1 radial nodes. As ℓ increases from 0 to n - 1, the number of nodes (n $^ { - 1 ) }$ remains the same, but in the progression from $\ell = 0$ to $\ell = \mathbf { n } - \mathbf { 1 }$ , ℓ of the radial nodes are exchanged for angular nodes. Thus, for example, the 3p orbitals have 2 total nodes with one radial node and one angular node. The 3d orbitals have 2 total nodes with zero radial nodes and 2 angular nodes.
 
-A second and equally important pattern emerges when we compare the spatial extent of the orbitals. This is done in Figure $\underline { { 8 . 4 3 } }$ , which displays, with the same spatial scale, the relative sizes of the 1s; 2s and 2p; and 3s, 3p, and 3d orbitals. The first conclusion from inspecting this figure is that the principal quantum number, n, controls, to first order, the size of the orbitals. This reflects what the simple Bohr orbits represented: that the orbital radii were proportional to $\mathrm { n } ^ { 2 }$ . Second, as noted earlier, ℓ controls the angular shape of the orbitals and $\mathbf { m } _ { \ell }$ controls the orientation of the orbitals.
+A second and equally important pattern emerges when we compare the spatial extent of the orbitals. This is done in [Figure 8.43](#fig-p1-ch08-61) , which displays, with the same spatial scale, the relative sizes of the 1s; 2s and 2p; and 3s, 3p, and 3d orbitals. The first conclusion from inspecting this figure is that the principal quantum number, n, controls, to first order, the size of the orbitals. This reflects what the simple Bohr orbits represented: that the orbital radii were proportional to $\mathrm { n } ^ { 2 }$ . Second, as noted earlier, ℓ controls the angular shape of the orbitals and $\mathbf { m } _ { \ell }$ controls the orientation of the orbitals.
 
 :::{figure} ../images/fig-p1-ch08-61.jpg
 :name: fig-p1-ch08-61
@@ -2222,7 +2224,7 @@ To emphasize the point, $\mathrm { P } ( \mathrm { r } , \theta , \phi ) \ : = \
 
 In Cartesian coordinates $\begin{array} { r } { \begin{array} { r c l } { \mathbf { d v } } & { = } & { \mathbf { d x d y d z } . } \end{array} } \end{array}$ . In polar coordinates $\mathrm { ~ \bf ~ d v ~ } = \mathrm { ~ \bf ~ r ^ { 2 } ~ }$ sin<sup>2</sup>θdrdθdϕ.
 
-We can represent $\psi ^ { 2 } ( \mathbf { r } , \mathbf { \boldsymbol { \theta } } , \ \boldsymbol { \Phi } )$ graphically for a single electron in a given orbital (that is for a given value of $\mathbf { n } , \ell , \mathbf { m } _ { \ell } )$ as shown in Figure $\underline { { 8 . 4 4 } }$ . That figure represents both $\psi ( { \bf r } , \theta , \phi )$ and $\psi ^ { 2 } ( \mathbf { r } , \theta , \phi )$ as probability clouds where the density of points represents the magnitude of $\psi$ on the left-hand column and $\psi ^ { 2 }$ on the right-hand column. Three cases are shown, the 1s, 2p, and 3d orbitals. Note that while the nodes in $\psi ( \mathbf { r } , \theta , \phi )$ are preserved in $\psi ^ { 2 } ( \mathbf { r } , \theta , \phi )$ 2 the phase of the wavefunction is lost when the probability density $\psi ^ { 2 } ( \mathbf { r } , \theta , \phi )$ is calculated. This will turn out to be important when we add atomic orbitals together.
+We can represent $\psi ^ { 2 } ( \mathbf { r } , \mathbf { \boldsymbol { \theta } } , \ \boldsymbol { \Phi } )$ graphically for a single electron in a given orbital (that is for a given value of $\mathbf { n } , \ell , \mathbf { m } _ { \ell } )$ as shown in [Figure 8.44](#fig-p1-ch08-62) . That figure represents both $\psi ( { \bf r } , \theta , \phi )$ and $\psi ^ { 2 } ( \mathbf { r } , \theta , \phi )$ as probability clouds where the density of points represents the magnitude of $\psi$ on the left-hand column and $\psi ^ { 2 }$ on the right-hand column. Three cases are shown, the 1s, 2p, and 3d orbitals. Note that while the nodes in $\psi ( \mathbf { r } , \theta , \phi )$ are preserved in $\psi ^ { 2 } ( \mathbf { r } , \theta , \phi )$ 2 the phase of the wavefunction is lost when the probability density $\psi ^ { 2 } ( \mathbf { r } , \theta , \phi )$ is calculated. This will turn out to be important when we add atomic orbitals together.
 
 :::{figure} ../images/fig-p1-ch08-62.jpg
 :name: fig-p1-ch08-62
@@ -2231,7 +2233,7 @@ FIGURE 8.44 A comparison between the densities of the orbitals and the densities
 :::
 
 
-When we investigate the chemical behavior of various multielectron atoms in the next chapter, it will turn out that the probability that an electron (in a given orbital) is found a certain distance from the nucleus is very important. This probability is called the radial distribution function and it is calculated by multiplying the probability density (the square of the wavefunction, $\psi ^ { 2 } ( \mathbf { r } ,$ θ, ϕ)) by the volume of the spherical shell, $\psi \pi \mathrm { r } ^ { 2 } \mathrm { d } \mathbf { r } .$ , and then averaging over θ and $\phi .$ . This is displayed graphically in Figure 8.45.
+When we investigate the chemical behavior of various multielectron atoms in the next chapter, it will turn out that the probability that an electron (in a given orbital) is found a certain distance from the nucleus is very important. This probability is called the radial distribution function and it is calculated by multiplying the probability density (the square of the wavefunction, $\psi ^ { 2 } ( \mathbf { r } ,$ θ, ϕ)) by the volume of the spherical shell, $\psi \pi \mathrm { r } ^ { 2 } \mathrm { d } \mathbf { r } .$ , and then averaging over θ and $\phi .$ . This is displayed graphically in [Figure 8.45](#fig-p1-ch08-63).
 
 :::{figure} ../images/fig-p1-ch08-63.jpg
 :name: fig-p1-ch08-63
@@ -2248,7 +2250,7 @@ The averaging over $\theta$ and $\phi$ cancels the $4 \pi$ from the volume eleme
 ```
 
 
-Examples of the radial distribution function for n = 1, n = 2, n = 3, and $\mathbf { n } =$ 4 are displayed in Figure $\underline { { 8 . 4 6 } }$ . There are several important things to recognize in this figure.
+Examples of the radial distribution function for n = 1, n = 2, n = 3, and $\mathbf { n } =$ 4 are displayed in [Figure 8.46](#fig-p1-ch08-64) . There are several important things to recognize in this figure.
 
 :::{figure} ../images/fig-p1-ch08-64.jpg
 :name: fig-p1-ch08-64
@@ -2257,7 +2259,7 @@ FIGURE 8.46 As we will see in the next chapter, the radial distribution function
 :::
 
 
-First, note that $\mathrm { r ^ { 2 } R ^ { 2 } } _ { 1 , 0 } ( \mathrm { r } )$ peaks at $\bf { r } = \bf { a } _ { 0 } , \Delta \mathrm { { r } ^ { 2 } \mathrm { { R } ^ { 2 } { } _ { 2 , 0 } ( \mathrm { r } ) ^ { 2 } } }$ peaks at $\mathrm { \Delta r = 4 a _ { o } , }$ and $\mathrm { r ^ { 2 } R ^ { 2 } } _ { 3 , 0 } ( \mathrm { r } ) ^ { 2 }$ peaks at $\mathbf { r } = 9 \mathbf { a } _ { 0 }$ . This was true for the Bohr model of circular orbits for the electron trajectory in the hydrogen atom, specifically that ${ \bf r } _ { \mathrm { n } } = { \bf n } ^ { 2 } { \bf a } _ { 0 } .$ where ${ \bf { a } } _ { 0 }$ is the Bohr radius. However, in the Schrödinger model of the atom, rather that a specific orbital trajectory for the electron as a particle, the distribution of the electron is smeared out over a considerable range in radius as a result of the wave nature of the electron. Second, because the magnitude of the radial distribution function defines the amount of time the electron spends at a given radius, the electron spends most of its time in the outer lobe of the distribution. Third, it is the s orbital that penetrates most closely into the nucleus. This, it will turn out, is important for determining the effective (positive) charge of the nucleus that an electron “sees” when it is one of many electrons in a multielectron atom. Finally, notice how the most probable radius increases rapidly (by $\mathbf { n } ^ { 2 } )$ with increasing n. This is clearly revealed when we superimpose the radial distribution function for the 1s, 2s, and 3s electrons as shown in Figure 8.47.
+First, note that $\mathrm { r ^ { 2 } R ^ { 2 } } _ { 1 , 0 } ( \mathrm { r } )$ peaks at $\bf { r } = \bf { a } _ { 0 } , \Delta \mathrm { { r } ^ { 2 } \mathrm { { R } ^ { 2 } { } _ { 2 , 0 } ( \mathrm { r } ) ^ { 2 } } }$ peaks at $\mathrm { \Delta r = 4 a _ { o } , }$ and $\mathrm { r ^ { 2 } R ^ { 2 } } _ { 3 , 0 } ( \mathrm { r } ) ^ { 2 }$ peaks at $\mathbf { r } = 9 \mathbf { a } _ { 0 }$ . This was true for the Bohr model of circular orbits for the electron trajectory in the hydrogen atom, specifically that ${ \bf r } _ { \mathrm { n } } = { \bf n } ^ { 2 } { \bf a } _ { 0 } .$ where ${ \bf { a } } _ { 0 }$ is the Bohr radius. However, in the Schrödinger model of the atom, rather that a specific orbital trajectory for the electron as a particle, the distribution of the electron is smeared out over a considerable range in radius as a result of the wave nature of the electron. Second, because the magnitude of the radial distribution function defines the amount of time the electron spends at a given radius, the electron spends most of its time in the outer lobe of the distribution. Third, it is the s orbital that penetrates most closely into the nucleus. This, it will turn out, is important for determining the effective (positive) charge of the nucleus that an electron “sees” when it is one of many electrons in a multielectron atom. Finally, notice how the most probable radius increases rapidly (by $\mathbf { n } ^ { 2 } )$ with increasing n. This is clearly revealed when we superimpose the radial distribution function for the 1s, 2s, and 3s electrons as shown in [Figure 8.47](#fig-p1-ch08-65).
 
 :::{figure} ../images/fig-p1-ch08-65.jpg
 :name: fig-p1-ch08-65
@@ -2513,7 +2515,7 @@ Because atomic behavior is so unlike ordinary experience, it is very difficult t
 
 —Richard Feynman, The Feynman Lectures on Physics
 
-Perhaps nowhere is this both (1) a more appropriate admonition yet (2) of immense practical importance to modern science and technology than in the case of “tunneling” in quantum mechanical systems. One of the most startling consequences of the de Broglie wave hypothesis for the electron when incorporated with the mathematics of the Schrödinger equation, was the realization that electrons can tunnel through a potential energy barrier that is forbidden to classical motion of macroscopic objects. Some graphical examples of what we will explore in this Case Study are displayed in Figure CS8.1a.
+Perhaps nowhere is this both (1) a more appropriate admonition yet (2) of immense practical importance to modern science and technology than in the case of “tunneling” in quantum mechanical systems. One of the most startling consequences of the de Broglie wave hypothesis for the electron when incorporated with the mathematics of the Schrödinger equation, was the realization that electrons can tunnel through a potential energy barrier that is forbidden to classical motion of macroscopic objects. Some graphical examples of what we will explore in this Case Study are displayed in [Figure CS8.1A](#fig-p1-ch08-79).
 
 :::{figure} ../images/fig-p1-ch08-79.jpg
 :name: fig-p1-ch08-79
@@ -2522,9 +2524,9 @@ FIGURE CS8.1A A vast array of new scientific and technical advances are based on
 :::
 
 
-We received our first glimpse of this in the somewhat whimsical display in Figure 8.4 wherein if we released our roller coaster at point A, and ignored small frictional losses, the car would pass over the barrier at B and ascend the next grade (potential barrier) to point C. At that point, the conservation of mechanical energy dictates that the car would reverse direction, having insufficient energy to pass over the barrier. Because of this barrier, the region from C through D to E is “classically forbidden.”
+We received our first glimpse of this in the somewhat whimsical display in [Figure 8.4](#fig-p1-ch08-5) wherein if we released our roller coaster at point A, and ignored small frictional losses, the car would pass over the barrier at B and ascend the next grade (potential barrier) to point C. At that point, the conservation of mechanical energy dictates that the car would reverse direction, having insufficient energy to pass over the barrier. Because of this barrier, the region from C through D to E is “classically forbidden.”
 
-However, at the molecular scale, because of the intrinsic wave property of electrons, there is a finite probability that the electron will tunnel through a repulsive barrier. We can contrast the classical picture by considering the case of an electron colliding with a barrier in which the kinetic energy of the electron is insufficient to overcome the potential energy barrier created by an electric field as shown in the upper panel of Figure CS8.1b. In the classical picture, the barrier region and the region to the right-hand side of the barrier is forbidden by the laws of energy conservation.
+However, at the molecular scale, because of the intrinsic wave property of electrons, there is a finite probability that the electron will tunnel through a repulsive barrier. We can contrast the classical picture by considering the case of an electron colliding with a barrier in which the kinetic energy of the electron is insufficient to overcome the potential energy barrier created by an electric field as shown in the upper panel of [Figure CS8.1B](#fig-p1-ch08-80). In the classical picture, the barrier region and the region to the right-hand side of the barrier is forbidden by the laws of energy conservation.
 
 :::{figure} ../images/fig-p1-ch08-80.jpg
 :name: fig-p1-ch08-80
@@ -2537,7 +2539,7 @@ In the quantum picture, in sharp contrast, the wave property of the electron mea
 
 ## An Electron In-A-Box: Transitioning from a Box with Infinite Potential Walls to Finite Potential Walls
 
-We have already solved for the quantized energy levels for an electron trapped in a potential energy well with walls of infinitely high energy in the chapter core. Recall that well was characterized as shown in Figure CS8.1c with the potential V = 0 between x = 0 and x = L and the potential V = ∞ outside the “walls” of the box.
+We have already solved for the quantized energy levels for an electron trapped in a potential energy well with walls of infinitely high energy in the chapter core. Recall that well was characterized as shown in [Figure CS8.1C](#fig-p1-ch08-81) with the potential V = 0 between x = 0 and x = L and the potential V = ∞ outside the “walls” of the box.
 
 :::{figure} ../images/fig-p1-ch08-81.jpg
 :name: fig-p1-ch08-81
@@ -2562,7 +2564,7 @@ and the energy levels are
 ```
 
 
-We consider next what happens when the potential, $\mathrm { V } ( \mathbf { x } )$ , is again zero between x = 0 and x = L, but that outside the potential well, the potential energy is finite. This configuration is shown in Figure CS8.1d.
+We consider next what happens when the potential, $\mathrm { V } ( \mathbf { x } )$ , is again zero between x = 0 and x = L, but that outside the potential well, the potential energy is finite. This configuration is shown in [Figure CS8.1D](#fig-p1-ch08-82).
 
 :::{figure} ../images/fig-p1-ch08-82.jpg
 :name: fig-p1-ch08-82
@@ -2631,7 +2633,7 @@ This is a very important result. While the wavefunction is sinusoidal inside the
 
 The next consideration we apply in our solution of joining the domains inside and outside the potential well is a very interesting one. First $\psi ( \ x )$ and d $\Psi ^ { \mathrm { ( x ) / d x } }$ must be continuous at $\mathbf { X } = \mathbf { O }$ and at $\mathbf { X } = \mathbf { L }$ . If either $\psi ( \ x )$ or d $\Psi ^ { \mathrm { ( x ) / d x } }$ were to change discontinuously at the edge of the potential well, $\mathrm { d } ^ { 2 } \Psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x } ^ { 2 }$ would be infinite at that point. But we know the energy of the electron is proportional to $\mathrm { d } ^ { 2 } \ \Psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x } ^ { 2 } ;$ so the energy of the electron would be infinite at that point in space—a physically unacceptable situation. Thus both ψ(x) and d $\Psi ^ { \mathrm { ( x ) / d x } }$ must be smoothly varying and continuous at the potential energy wall.
 
-But the matching of both ψ and d $\psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x }$ at the boundaries between the domain where ${ \bf V } = { \bf 0 }$ and $\mathrm { V } = \mathrm { V } _ { 0 }$ is possible only for certain values of the total energy E. This is a somewhat more complicated manifestation of the simple quantization we saw for the infinite square well (Figure CS8.1c) where we had only to match the wavelength of the electron, $\lambda ,$ to the well width, L. This gave us the relationship
+But the matching of both ψ and d $\psi ( \mathrm { x } ) / \mathrm { d } \mathrm { x }$ at the boundaries between the domain where ${ \bf V } = { \bf 0 }$ and $\mathrm { V } = \mathrm { V } _ { 0 }$ is possible only for certain values of the total energy E. This is a somewhat more complicated manifestation of the simple quantization we saw for the infinite square well ([Figure CS8.1C)](#fig-p1-ch08-81) where we had only to match the wavelength of the electron, $\lambda ,$ to the well width, L. This gave us the relationship
 
 ```{math}
 :label: eq-p1-ch08-195
@@ -2649,7 +2651,7 @@ and from the de Broglie wavelength $\lambda _ { \mathrm { e } } = \mathrm { h } 
 
 However, while the wavefunction of the electron in a finite potential well looks very much like the electron wavefunction for the infinite well, there is no simple formula for the energy levels corresponding to the simple formula for the infinite square well.
 
-However, we can graphically display the solutions of the electron wave in the finite potential well. Thus is displayed in Figure CS8.1e in panel a. The center panel of Figure CS8.1e displays the energies of the quantized levels for the case where $\mathrm { V } _ { 0 }$ is six times the value of the lowest energy level for the infinite potential well case. The probability distribution, $\Psi ^ { 2 } ( \mathbf { x } )$ is displayed in panel c on the far right of Figure CS8.1e. An inspection of Figure CS8.1e reveals the following: first, qualitatively, the shape of the wavefunction within the well, where $\mathrm { { \bf V } } = { \bf O } ,$ is very similar to the wavefunction for the infinite potential well case. The wavefunction for the lowest energy, $\mathrm { E } _ { \mathrm { 1 } } ,$ has a single maximum at the center of the well and dies off in magnitude toward the wall of the potential. The wavefunction corresponding to the next higher energy level has a node in the middle of the well with two maxima of opposite phase on either side of the center node and the amplitude dies off toward the well.
+However, we can graphically display the solutions of the electron wave in the finite potential well. Thus is displayed in [Figure CS8.1E](#fig-p1-ch08-85) in panel a. The center panel of [Figure CS8.1E](#fig-p1-ch08-85) displays the energies of the quantized levels for the case where $\mathrm { V } _ { 0 }$ is six times the value of the lowest energy level for the infinite potential well case. The probability distribution, $\Psi ^ { 2 } ( \mathbf { x } )$ is displayed in panel c on the far right of [Figure CS8.1E](#fig-p1-ch08-85). An inspection of [Figure CS8.1E](#fig-p1-ch08-85) reveals the following: first, qualitatively, the shape of the wavefunction within the well, where $\mathrm { { \bf V } } = { \bf O } ,$ is very similar to the wavefunction for the infinite potential well case. The wavefunction for the lowest energy, $\mathrm { E } _ { \mathrm { 1 } } ,$ has a single maximum at the center of the well and dies off in magnitude toward the wall of the potential. The wavefunction corresponding to the next higher energy level has a node in the middle of the well with two maxima of opposite phase on either side of the center node and the amplitude dies off toward the well.
 
 :::{figure} ../images/fig-p1-ch08-83.jpg
 :name: fig-p1-ch08-83
@@ -2674,7 +2676,7 @@ Before developing these ideas further, let's compare the finite and infinite squ
 
 ## Contrasting Infinite and Finite Square Well Solutions
 
-The recognition that the wavefunction for the finite potential square well is not zero at $\mathbf { X } = \mathbf { O }$ and $\mathbf { x } = \mathbf { L }$ means that the wavelength of the sinusoidal part of each wavefunction is longer than is the case for the infinite square well potential. This in turn means that the curvature of the wavefunction is reduced for the finite square well when compared with the comparable energy level for the infinite potential square well. If the curvature is reduced, so too is the energy reduced for a given quantum number. This is immediately evident on the inspection of Figure CS8.1e, panel b. A similar conclusion can be drawn immediately from the de Broglie relation $\mathrm { { p _ { e } } = h / }$ $\lambda _ { \mathrm { e } } . \mathrm { A s } \lambda _ { \mathrm { e } }$ increases, the momentum of the of the electron decreases, and so too does the energy. The result is that each energy level, including the ground state, is lower for the finite potential square well in comparison to the infinite potential square well of the same width L for a given quantum number n.
+The recognition that the wavefunction for the finite potential square well is not zero at $\mathbf { X } = \mathbf { O }$ and $\mathbf { x } = \mathbf { L }$ means that the wavelength of the sinusoidal part of each wavefunction is longer than is the case for the infinite square well potential. This in turn means that the curvature of the wavefunction is reduced for the finite square well when compared with the comparable energy level for the infinite potential square well. If the curvature is reduced, so too is the energy reduced for a given quantum number. This is immediately evident on the inspection of [Figure CS8.1E](#fig-p1-ch08-85), panel b. A similar conclusion can be drawn immediately from the de Broglie relation $\mathrm { { p _ { e } } = h / }$ $\lambda _ { \mathrm { e } } . \mathrm { A s } \lambda _ { \mathrm { e } }$ increases, the momentum of the of the electron decreases, and so too does the energy. The result is that each energy level, including the ground state, is lower for the finite potential square well in comparison to the infinite potential square well of the same width L for a given quantum number n.
 
 A second important distinction between the finite potential case and the infinite potential case is that the finite potential case has only a finite number of bound states and thus a finite number of energy levels. The number of bound states depends on $\mathrm { V } _ { 0 }$ and thus on the depth of the well. A very useful way of quantifying the energy levels for a finite well of depth $\mathrm { { V } } _ { 0 } ,$ without doing the complicated mathematics associated with the finite potential case, is to scale the comparison to the ground state (lowest energy level) for the infinite potential case
 
@@ -2694,9 +2696,9 @@ No matter how shallow the well, how small $\mathrm { V } _ { 0 } .$ , there is a
 
 As the well becomes shallower, the electron wave penetrates more deeply into the wall of the potential.
 
-Referring again to Figure CS8.1e, the case for which $\mathrm { V } _ { 0 } = 6 \mathrm { E } _ { \infty }$ is a case in point. There are three bound states, all displayed in panel a. For each quantum number n, the energy of each bound state is expressed in terms of $\mathrm { V } _ { 0 }$ and in terms of $\mathrm { E } _ { \infty }$ as shown in panel b.
+Referring again to [Figure CS8.1E](#fig-p1-ch08-85), the case for which $\mathrm { V } _ { 0 } = 6 \mathrm { E } _ { \infty }$ is a case in point. There are three bound states, all displayed in panel a. For each quantum number n, the energy of each bound state is expressed in terms of $\mathrm { V } _ { 0 }$ and in terms of $\mathrm { E } _ { \infty }$ as shown in panel b.
 
-For the finite potential well case, there are states for which E is greater than $\mathrm { V } _ { 0 } .$ . In this domain the electron is not bound but is $f r e e$ to move through all values of x. These free particle states form a continuum of states rather than a discrete set of states with definite energy levels. In practice, those are important states, and they have important characteristics displayed in Figure CS8.1f.
+For the finite potential well case, there are states for which E is greater than $\mathrm { V } _ { 0 } .$ . In this domain the electron is not bound but is $f r e e$ to move through all values of x. These free particle states form a continuum of states rather than a discrete set of states with definite energy levels. In practice, those are important states, and they have important characteristics displayed in [Figure CS8.1F](#fig-p1-ch08-86).
 
 :::{figure} ../images/fig-p1-ch08-86.jpg
 :name: fig-p1-ch08-86
@@ -2705,15 +2707,15 @@ FIGURE CS8.1F Graphical display of the electron wavefunction for the condition o
 :::
 
 
-The wavefunction for the free electrons where $\mathrm { { E } > V _ { 0 } }$ is sensitive to the shape of the potential that it “sees” below it as is clear from Figure CS8.1f.
+The wavefunction for the free electrons where $\mathrm { { E } > V _ { 0 } }$ is sensitive to the shape of the potential that it “sees” below it as is clear from [Figure CS8.1F](#fig-p1-ch08-86).
 
-In particular, in domain I and III in Figure CS8.1f, the wavelength of the electron is greater than in domain II because the kinetic energy of the electron, equal to $\mathrm { E - V _ { o } , }$ is greater in domain II and thus the curvature of the wavelength in domain II is greater, decreasing the wavelength of the electron.
+In particular, in domain I and III in [Figure CS8.1F](#fig-p1-ch08-86), the wavelength of the electron is greater than in domain II because the kinetic energy of the electron, equal to $\mathrm { E - V _ { o } , }$ is greater in domain II and thus the curvature of the wavelength in domain II is greater, decreasing the wavelength of the electron.
 
 ## Application of Tunneling: The Scanning Tunneling Microscope
 
-We have already seen the remarkable ability of the scanning tunneling microscope (STM) to observe the position of individual atoms—such a display is shown in Figure 8.1. The resolution of the STM is approximately 0.1 nm. The insight afforded by the STM replaced standard optical imaging techniques using visible light that could only resolve objects of dimension equal to or larger than the wavelength of light—about 500 nm. With a dimension for a typical atom of about .5 nm, optical techniques in the visible have a resolution 1000 times less than that required to image an individual atom. Electron microscopes are limited by the de Broglie wavelength of a free electron—about 10 times the dimension of the atom.
+We have already seen the remarkable ability of the scanning tunneling microscope (STM) to observe the position of individual atoms—such a display is shown in [Figure 8.1](#fig-p1-ch08-2). The resolution of the STM is approximately 0.1 nm. The insight afforded by the STM replaced standard optical imaging techniques using visible light that could only resolve objects of dimension equal to or larger than the wavelength of light—about 500 nm. With a dimension for a typical atom of about .5 nm, optical techniques in the visible have a resolution 1000 times less than that required to image an individual atom. Electron microscopes are limited by the de Broglie wavelength of a free electron—about 10 times the dimension of the atom.
 
-With the invention of the STM in 1981, the situation changed dramatically. For the first time the positioning of single atoms could by determined in remarkable detail. An example of the geometry of the STM is displayed in Figure CS8.1g. The microscope tip, made of a drawn point of tungsten, is positioned approximately 0.5 nm above the position of an atom on a metal surface. The position of the STM probe tip is moved both vertically and horizontally using a material that lengthens or contracts depending on the voltage applied. A voltage is applied between the tip and an individual atom on the surface and the current flow from the tip to the surface that is proportioned to the probability of electrons tunneling through the air gap between the tip and the atoms on the surface.
+With the invention of the STM in 1981, the situation changed dramatically. For the first time the positioning of single atoms could by determined in remarkable detail. An example of the geometry of the STM is displayed in [Figure CS8.1G](#fig-p1-ch08-87). The microscope tip, made of a drawn point of tungsten, is positioned approximately 0.5 nm above the position of an atom on a metal surface. The position of the STM probe tip is moved both vertically and horizontally using a material that lengthens or contracts depending on the voltage applied. A voltage is applied between the tip and an individual atom on the surface and the current flow from the tip to the surface that is proportioned to the probability of electrons tunneling through the air gap between the tip and the atoms on the surface.
 
 :::{figure} ../images/fig-p1-ch08-87.jpg
 :name: fig-p1-ch08-87
@@ -2722,7 +2724,7 @@ FIGURE CS8.1G STM image of carbon atoms on the surface of graphite.
 :::
 
 
-The image in Figure CS8.1G displays the STM image of carbon atoms residing on a surface of graphite. Many different combinations of atoms and base materials can be imaged because the STM uses the tunneling current between the metal tip and the electron orbitals of the atoms on the surface—and all atoms have electrons in orbitals. Figure CS8.1H shows an STM image of bismuth strontium calcium copper oxide (BSCCO) imaged with atomic resolution. BSCCO is a cuprate superconductor, an important category of high-temperature superconductors sharing a two-dimensional layered structure. The structure of BSCCO provides the basis for high temperature superconductivity up to 108K, making these structures important for advances in the application of superconductors.
+The image in [Figure CS8.1G](#fig-p1-ch08-87) displays the STM image of carbon atoms residing on a surface of graphite. Many different combinations of atoms and base materials can be imaged because the STM uses the tunneling current between the metal tip and the electron orbitals of the atoms on the surface—and all atoms have electrons in orbitals. [Figure CS8.1H](#fig-p1-ch08-88) shows an STM image of bismuth strontium calcium copper oxide (BSCCO) imaged with atomic resolution. BSCCO is a cuprate superconductor, an important category of high-temperature superconductors sharing a two-dimensional layered structure. The structure of BSCCO provides the basis for high temperature superconductivity up to 108K, making these structures important for advances in the application of superconductors.
 
 :::{figure} ../images/fig-p1-ch08-88.jpg
 :name: fig-p1-ch08-88
@@ -2733,7 +2735,7 @@ FIGURE CS8.1H STM image of BSCCO, which is a high temperature superconductor wit
 
 So in the context of our analysis of quantum mechanical barrier tunneling, how does the STM work?
 
-As shown in Figure CS8.1i, panel a, a conducting needle with a (very) sharp tip that is just a few atoms across is brought within approximately 0.5 nm of the surface to be imaged. A great deal of development and refinement has gone into preparing the needle tips and controlling the dimensional adjustment of the needle tip over the surface to be imaged. However, these practical problems have been overcome to the point where images such as those in Figures 8.1, CS8.1a, and CS8.1g have become marquee displays of modern scientific prowess. So we turn to the issue of how the STM works.
+As shown in [Figure CS8.1I](#fig-p1-ch08-89), panel a, a conducting needle with a (very) sharp tip that is just a few atoms across is brought within approximately 0.5 nm of the surface to be imaged. A great deal of development and refinement has gone into preparing the needle tips and controlling the dimensional adjustment of the needle tip over the surface to be imaged. However, these practical problems have been overcome to the point where images such as those in [Figures 8.1](#fig-p1-ch08-2), [CS8.1A](#fig-p1-ch08-79), and CS8.1g have become marquee displays of modern scientific prowess. So we turn to the issue of how the STM works.
 
 :::{figure} ../images/fig-p1-ch08-89.jpg
 :name: fig-p1-ch08-89
@@ -2742,9 +2744,9 @@ FIGURE CS8.1I The configuration of an STM probe tip in proximity with a metal su
 :::
 
 
-To analyze the principles behind the STM, recall first our analysis of the photoelectric effect (Figure 8.16) wherein an electron, bound to the surface of a metal by an amount of energy, $\mathrm { E } _ { \mathrm { o } } ,$ the work function, is liberated from the metal surface by a photon. Typically, the work function is between 4 and 5 eV. The energy of the electron in the metal is thus an amount $\mathrm { E } _ { \mathrm { o } }$ less than what its energy would be just outside the metal surface. We can capture this in the context of our probe (or needle) tips brought to the vicinity of metal surface by drawing a potential energy diagram that includes the metal surface, the air gap, and the probe tip as shown in panel b of Figure CS8.1i. The key point is that the air gap represents a potential energy barrier—the energy of the electron on the metal surface is 4 eV less than the energy of the electron on the air gap. We could liberate the electron by using a photon with energy hν equal to or greater than 4 eV, to lift the electron over the barrier. Or, we could use the quantum mechanical wave property of the electron to tunnel through the barrier (the air gap), provided that the dimension of the air gap is sufficiently small to yield a measurable current flow.
+To analyze the principles behind the STM, recall first our analysis of the photoelectric effect ([Figure 8.16)](#fig-p1-ch08-30) wherein an electron, bound to the surface of a metal by an amount of energy, $\mathrm { E } _ { \mathrm { o } } ,$ the work function, is liberated from the metal surface by a photon. Typically, the work function is between 4 and 5 eV. The energy of the electron in the metal is thus an amount $\mathrm { E } _ { \mathrm { o } }$ less than what its energy would be just outside the metal surface. We can capture this in the context of our probe (or needle) tips brought to the vicinity of metal surface by drawing a potential energy diagram that includes the metal surface, the air gap, and the probe tip as shown in panel b of [Figure CS8.1I](#fig-p1-ch08-89). The key point is that the air gap represents a potential energy barrier—the energy of the electron on the metal surface is 4 eV less than the energy of the electron on the air gap. We could liberate the electron by using a photon with energy hν equal to or greater than 4 eV, to lift the electron over the barrier. Or, we could use the quantum mechanical wave property of the electron to tunnel through the barrier (the air gap), provided that the dimension of the air gap is sufficiently small to yield a measurable current flow.
 
-In operation, the probe tip is biased slightly positive in voltage, shown in Figure CS8.1j, and the current is recorded as the probe tip is scanned across the surface.
+In operation, the probe tip is biased slightly positive in voltage, shown in [Figure CS8.1J](#fig-p1-ch08-90), and the current is recorded as the probe tip is scanned across the surface.
 
 :::{figure} ../images/fig-p1-ch08-90.jpg
 :name: fig-p1-ch08-90
@@ -2781,7 +2783,7 @@ As we saw in Chapter 1 (see pages 17-20), the Sun produces some 1.2 × 10<sup>37
 
 ## (1) The amount of solar energy incident on the Earth.
 
-We know from experience that if we were to place a card with a hole in it 1 meter from a light bulb, as shown in Figure CS8.2a, and then we increased the distance from the card to the light bulb, the fraction of light emitted by the bulb that passed through the hole would decrease.
+We know from experience that if we were to place a card with a hole in it 1 meter from a light bulb, as shown in [Figure CS8.2A](#fig-p1-ch08-91), and then we increased the distance from the card to the light bulb, the fraction of light emitted by the bulb that passed through the hole would decrease.
 
 :::{figure} ../images/fig-p1-ch08-91.jpg
 :name: fig-p1-ch08-91
@@ -2790,7 +2792,7 @@ FIGURE CS8.2A Radiation (visible light in this case) emitted from the light bulb
 :::
 
 
-Suppose we were to move the card with the hole in it to a distance of 10 meters from the bulb—by how much would the fraction of energy per unit time emitted by the bulb that passes through the hole decrease? We can deduce this from a very simple “thought experiment” that goes like this: Suppose we begin with our light bulb modeled as a glowing sphere with an output of $P _ { 0 }$ joules/sec $( P _ { 0 }$ is the power in watts!) and suppose we construct a series of concentric spheres with different radii about that glowing sphere, as shown in Figure CS8.2b.
+Suppose we were to move the card with the hole in it to a distance of 10 meters from the bulb—by how much would the fraction of energy per unit time emitted by the bulb that passes through the hole decrease? We can deduce this from a very simple “thought experiment” that goes like this: Suppose we begin with our light bulb modeled as a glowing sphere with an output of $P _ { 0 }$ joules/sec $( P _ { 0 }$ is the power in watts!) and suppose we construct a series of concentric spheres with different radii about that glowing sphere, as shown in [Figure CS8.2B](#fig-p1-ch08-92).
 
 :::{figure} ../images/fig-p1-ch08-92.jpg
 :name: fig-p1-ch08-92
@@ -2865,7 +2867,7 @@ S = S _ {0} (r _ {0} / r) ^ {2}
 
 This “inverse square law” dependence provides a very simple way to calculate energy (joules) per unit area $( \mathrm { m } ^ { 2 } )$ at any distance from a source. We can also calculate power (joules/sec) per unit area (m<sup>2</sup>) at any distance from a source using the identical approach. The energy per unit time per unit area $( \mathrm { j o u l e s } / \mathrm { s e c } \cdot \mathrm { m } ^ { 2 }$ or $\mathrm { w a t t s } / \mathrm { m } ^ { 2 } )$ is often referred to as the flux of energy.
 
-From Chapter 1 we know that the Sun generates $3 . 9 \times 1 0 ^ { 2 6 }$ watts and we know from above that this same amount of energy per unit time passes through the surface of concentric spheres with the Sun at the center, no matter what the radius of the sphere. Thus, the fraction of that total number of watts intercepted by the Earth is equal to the area intercepted by the Earth, as shown in Figure CS8.2c, divided by the area of the sphere with radius equal to this distance from the Sun to the Earth $( \bf { 1 . 5 \times 1 0 ^ { 1 1 } m } )$
+From Chapter 1 we know that the Sun generates $3 . 9 \times 1 0 ^ { 2 6 }$ watts and we know from above that this same amount of energy per unit time passes through the surface of concentric spheres with the Sun at the center, no matter what the radius of the sphere. Thus, the fraction of that total number of watts intercepted by the Earth is equal to the area intercepted by the Earth, as shown in [Figure CS8.2C](#fig-p1-ch08-93), divided by the area of the sphere with radius equal to this distance from the Sun to the Earth $( \bf { 1 . 5 \times 1 0 ^ { 1 1 } m } )$
 
 :::{figure} ../images/fig-p1-ch08-93.jpg
 :name: fig-p1-ch08-93
@@ -2890,7 +2892,7 @@ where $R _ { \mathrm { S \to E } }$ is the radius from the Sun to the Earth. Thu
 
 ## (2) The fraction of the solar energy reflected from the Earth back to space.
 
-When Earth is viewed from space, what we see is a spectacular image of oceans, continents, ice caps, clouds, and a stunning blue luminescence that blend to create one of the most remarkable photogenic sights in our collective experience, as shown in Figure CS8.2d.
+When Earth is viewed from space, what we see is a spectacular image of oceans, continents, ice caps, clouds, and a stunning blue luminescence that blend to create one of the most remarkable photogenic sights in our collective experience, as shown in [Figure CS8.2D](#fig-p1-ch08-94).
 
 :::{figure} ../images/fig-p1-ch08-94.jpg
 :name: fig-p1-ch08-94
@@ -2899,7 +2901,7 @@ FIGURE CS8.2D The Earth appears from Space as a bright orb of blue, white, green
 :::
 
 
-That image is created by a fraction of the incoming solar energy reflected back from Earth to space in the visible region of the spectrum. Consider what happens to the incoming shortwave solar radiation in the visible. The 179 PW of incident radiation received from the Sun is first broken down into a component reflected back by clouds and the atmosphere. This removes 50 PW that is returned directly to space. In addition, 7 PW is reflected by the surface and returned directly to space. The combination of cloud, atmosphere, and surface reflection is the image you see when looking at Earth from space. After reflection of 50 PW from the cloud/atmosphere component and 7 PW from the surface, we have 179 PW - (50 + 7) PW = 122 PW of energy entering the climate system, as summarized in Figure CS8.2e. Of this 122 PW, 80 PW is absorbed by the surface comprised of the land and ocean, and 42 PW is absorbed by the clouds and atmosphere. That is, within this model defining the input of heat to each of the component reservoirs, all of the incoming energy from the Sun is accounted for.
+That image is created by a fraction of the incoming solar energy reflected back from Earth to space in the visible region of the spectrum. Consider what happens to the incoming shortwave solar radiation in the visible. The 179 PW of incident radiation received from the Sun is first broken down into a component reflected back by clouds and the atmosphere. This removes 50 PW that is returned directly to space. In addition, 7 PW is reflected by the surface and returned directly to space. The combination of cloud, atmosphere, and surface reflection is the image you see when looking at Earth from space. After reflection of 50 PW from the cloud/atmosphere component and 7 PW from the surface, we have 179 PW - (50 + 7) PW = 122 PW of energy entering the climate system, as summarized in [Figure CS8.2E](#fig-p1-ch08-95). Of this 122 PW, 80 PW is absorbed by the surface comprised of the land and ocean, and 42 PW is absorbed by the clouds and atmosphere. That is, within this model defining the input of heat to each of the component reservoirs, all of the incoming energy from the Sun is accounted for.
 
 :::{figure} ../images/fig-p1-ch08-95.jpg
 :name: fig-p1-ch08-95
@@ -2918,9 +2920,9 @@ When we account for the amount of power reflected back to space by the Earth—t
 
 But what does this mean in terms of the power delivered per unit area $\mathrm { ( W / m ^ { 2 } ) }$ if we live in New York City or Seattle or Minneapolis or Denver or Phoenix?
 
-First, to get a global view, we note that this total power delivered must be divided by the area of the Earth to calculate the average amount of energy received per unit area. The area of the Earth is $5 . 1 \times 1 0 ^ { 8 } \mathrm { k m ^ { 2 } } = 5 . 1$ $\times \ 1 0 ^ { 1 4 } \ \mathrm { m } ^ { 2 }$ Thus the average power delivered by the sun per unit area is $\mathbf { 1 . 2 2 \times 1 0 ^ { 1 7 } }$ watts $/ 5 . 1 \times 1 0 ^ { 1 4 } \mathrm { ~ m } ^ { 2 } = 2 3 9 \mathrm { ~ W } / \mathrm { m } ^ { 2 }$ This is an important number because it gives us an idea of the average amount of power received from the sun per unit area on the Earth's surface. However, in order to convert this to actual power received in specific locations by actual solar receptors we must account for such factors as cloud cover, the angle of the sun, the season, etc. It is also important to recognize that direct sunshine at midday on a cloudless day is approximately 1000 $\mathrm { W } / \mathrm { m } ^ { 2 }$ We can immediately calculate this to reasonable accuracy by recognizing that with \~1350 watts $/ \mathrm { m } ^ { 2 }$ falling in the disc of Figure CS8.2c, and an albedo of 33%, this gives us $( 1 3 5 0 ) ( 1 - 0 . 3 3 ) = 9 5 0 \mathrm { W } / \mathrm { m } ^ { 2 }$
+First, to get a global view, we note that this total power delivered must be divided by the area of the Earth to calculate the average amount of energy received per unit area. The area of the Earth is $5 . 1 \times 1 0 ^ { 8 } \mathrm { k m ^ { 2 } } = 5 . 1$ $\times \ 1 0 ^ { 1 4 } \ \mathrm { m } ^ { 2 }$ Thus the average power delivered by the sun per unit area is $\mathbf { 1 . 2 2 \times 1 0 ^ { 1 7 } }$ watts $/ 5 . 1 \times 1 0 ^ { 1 4 } \mathrm { ~ m } ^ { 2 } = 2 3 9 \mathrm { ~ W } / \mathrm { m } ^ { 2 }$ This is an important number because it gives us an idea of the average amount of power received from the sun per unit area on the Earth's surface. However, in order to convert this to actual power received in specific locations by actual solar receptors we must account for such factors as cloud cover, the angle of the sun, the season, etc. It is also important to recognize that direct sunshine at midday on a cloudless day is approximately 1000 $\mathrm { W } / \mathrm { m } ^ { 2 }$ We can immediately calculate this to reasonable accuracy by recognizing that with \~1350 watts $/ \mathrm { m } ^ { 2 }$ falling in the disc of [Figure CS8.2C](#fig-p1-ch08-93), and an albedo of 33%, this gives us $( 1 3 5 0 ) ( 1 - 0 . 3 3 ) = 9 5 0 \mathrm { W } / \mathrm { m } ^ { 2 }$
 
-If we are considering the power per unit area delivered to a flat panel - for example a solar thermal panel on a roof to heat water or a photovoltaic (PV) panel we must calculate the amount of power lost by the fact that the angle between the direction to the Sun and the plane of the panel is not $9 0 ^ { \circ }$ but some smaller angle. Figure CS8.2g gives some examples. The latitude of New York City is $\mathrm { ~ N ~ } 4 0 ^ { \circ } 4 7 ^ { \prime }$ ; the latitude of Denver, CO is N $3 9 ^ { \circ } 4 5 ^ { \prime }$ ; the latitude of Seattle is N $4 7 ^ { \circ } 3 7 ^ { \prime }$ ; the latitude of Phoenix, AZ is N $3 3 ^ { \circ } 2 9 ^ { \prime }$ ; and the latitude of Los Angeles is N $3 4 ^ { \circ } 3 ^ { \prime }$ ʹ. The latitude of Nairobi, Kenya is $\bf N _ { 1 } \mathrm { \mathrm { \Omega } ^ { o } \mathrm { \mathbf { 1 6 } ^ { \prime } } }$ ; the latitude of Mogadishu, Somalia is $\mathbf { N _ { \lambda ^ { 2 } } } ^ { \mathbf { o _ { 2 } } }$ ; the latitude of Rio de Janeiro, Brazil is S $2 2 ^ { \circ } 5 7 ^ { \prime }$ ; the latitude of London is N $5 1 ^ { \circ } 3 2 ^ { \prime }$ and the latitude of Shanghai, China is N $3 1 ^ { \circ } 1 0 ^ { \prime }$ . We can display graphically the impact of latitude on power received per unit area by a flat solar panel parallel to the ground in CS8.2f, choosing the examples of Seattle and Nairobi.
+If we are considering the power per unit area delivered to a flat panel - for example a solar thermal panel on a roof to heat water or a photovoltaic (PV) panel we must calculate the amount of power lost by the fact that the angle between the direction to the Sun and the plane of the panel is not $9 0 ^ { \circ }$ but some smaller angle. [Figure CS8.2G](#fig-p1-ch08-97) gives some examples. The latitude of New York City is $\mathrm { ~ N ~ } 4 0 ^ { \circ } 4 7 ^ { \prime }$ ; the latitude of Denver, CO is N $3 9 ^ { \circ } 4 5 ^ { \prime }$ ; the latitude of Seattle is N $4 7 ^ { \circ } 3 7 ^ { \prime }$ ; the latitude of Phoenix, AZ is N $3 3 ^ { \circ } 2 9 ^ { \prime }$ ; and the latitude of Los Angeles is N $3 4 ^ { \circ } 3 ^ { \prime }$ ʹ. The latitude of Nairobi, Kenya is $\bf N _ { 1 } \mathrm { \mathrm { \Omega } ^ { o } \mathrm { \mathbf { 1 6 } ^ { \prime } } }$ ; the latitude of Mogadishu, Somalia is $\mathbf { N _ { \lambda ^ { 2 } } } ^ { \mathbf { o _ { 2 } } }$ ; the latitude of Rio de Janeiro, Brazil is S $2 2 ^ { \circ } 5 7 ^ { \prime }$ ; the latitude of London is N $5 1 ^ { \circ } 3 2 ^ { \prime }$ and the latitude of Shanghai, China is N $3 1 ^ { \circ } 1 0 ^ { \prime }$ . We can display graphically the impact of latitude on power received per unit area by a flat solar panel parallel to the ground in CS8.2f, choosing the examples of Seattle and Nairobi.
 
 :::{figure} ../images/fig-p1-ch08-96.jpg
 :name: fig-p1-ch08-96
@@ -2948,7 +2950,7 @@ As noted, in the language of solar energy technology, “solar thermal” is tak
 
 ## Concentrated Solar Thermal
 
-The term “concentrated solar thermal” in the jargon of global energy technology refers to the use of large reflectors that concentrate solar radiation to produce high temperature steam to drive turbines for electrical power generation. A diagram of a typical system is displayed in Figure CS8.2h. There are a number of options for converting the concentrated solar power to electricity, notably including pressurized water driving a steam turbine, shown in Figure CS8.2h. In general, concentrated solar thermal is a technology that operates at large scale as shown in the two panels of Figure CS8.2i.
+The term “concentrated solar thermal” in the jargon of global energy technology refers to the use of large reflectors that concentrate solar radiation to produce high temperature steam to drive turbines for electrical power generation. A diagram of a typical system is displayed in [Figure CS8.2H](#fig-p1-ch08-98). There are a number of options for converting the concentrated solar power to electricity, notably including pressurized water driving a steam turbine, shown in [Figure CS8.2H](#fig-p1-ch08-98). In general, concentrated solar thermal is a technology that operates at large scale as shown in the two panels of [Figure CS8.2I](#fig-p1-ch08-100).
 
 :::{figure} ../images/fig-p1-ch08-98.jpg
 :name: fig-p1-ch08-98
@@ -2979,7 +2981,7 @@ We will develop a thorough understanding of photovoltaics as the text progresses
 
 ## Problem 1
 
-The calculation of the average power for low temperature solar thermal for two examples: Chicago and Los Angeles. We will assume the solar thermal panels are mounted on the south facing roof and that the angle of that roof gives us approximately the delivered power per unit area given in Figure CS8.2g. We take the efficiency of conversion of solar power to heated water of 60%, and that we have solar panels with an area of 10 m<sup>2</sup> per person in the house. In Chicago how much power would we net as a yearly average? In Los Angeles?
+The calculation of the average power for low temperature solar thermal for two examples: Chicago and Los Angeles. We will assume the solar thermal panels are mounted on the south facing roof and that the angle of that roof gives us approximately the delivered power per unit area given in [Figure CS8.2G](#fig-p1-ch08-97). We take the efficiency of conversion of solar power to heated water of 60%, and that we have solar panels with an area of 10 m<sup>2</sup> per person in the house. In Chicago how much power would we net as a yearly average? In Los Angeles?
 
 We next need to convert this to our preferred units—the number of kWh per person per day delivered to the home. Since a watt is one joule/sec and there are 3.1 × 10<sup>7</sup> seconds/year and there are 365 days/yr, for Chicago how many kWh/p · d would we generate? For Los Angeles?
 
@@ -2999,7 +3001,7 @@ c. Of course it is our objective to keep track of what this means in terms of kW
 
 ## Problem 3
 
-Typical solar panels have efficiencies of between 10% and 30% depending on the technology and cost. Calculate using Figure CS8.2g the average power delivered by a 20% efficiency south-facing solar panel on a residential home, assuming 100 $\mathrm { m } ^ { 2 }$ of solar panels for the following cities:
+Typical solar panels have efficiencies of between 10% and 30% depending on the technology and cost. Calculate using [Figure CS8.2G](#fig-p1-ch08-97) the average power delivered by a 20% efficiency south-facing solar panel on a residential home, assuming 100 $\mathrm { m } ^ { 2 }$ of solar panels for the following cities:
 
 Anchorage:
 

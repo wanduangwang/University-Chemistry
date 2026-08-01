@@ -6,10 +6,14 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+from audit_crossrefs import audit as audit_crossrefs
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTERS = ROOT / "chapters"
 IMAGES = ROOT / "images"
+EXPECTED_AUTHORED_CROSSREFS = 1333
+EXPECTED_SOURCE_DEFECTS = 1
 
 # Stable reconstruction baseline. A count change is allowed only after the
 # corresponding source comparison has been reviewed and this baseline updated.
@@ -64,6 +68,7 @@ def main() -> int:
         errors.append(f"orphan image files: {', '.join(orphaned[:10])}")
 
     labels = re.findall(r"(?m)^:(?:label|name):\s+(\S+)", combined)
+    labels.extend(re.findall(r"(?m)^\(([^)]+)\)=\s*$", combined))
     duplicates = sorted(name for name, count in Counter(labels).items() if count > 1)
     if duplicates:
         errors.append(f"duplicate labels: {', '.join(duplicates[:10])}")
@@ -99,9 +104,26 @@ def main() -> int:
         if required_text and required_text not in text:
             errors.append(f"{path.name}: required restored heading/text is missing")
 
-    explicit_refs = len(re.findall(r"\{(?:eq|ref|numref)\}`", combined))
-    if explicit_refs == 0:
-        warnings.append("no explicit MyST equation/figure cross-references are authored")
+    crossrefs = audit_crossrefs()
+    crossref_summary = crossrefs["summary"]
+    if crossref_summary["unresolved"]:
+        errors.append(
+            f"{crossref_summary['unresolved']} printed cross-references are unresolved"
+        )
+    if (
+        crossref_summary["authored_reference_occurrences"]
+        != EXPECTED_AUTHORED_CROSSREFS
+    ):
+        errors.append(
+            "expected "
+            f"{EXPECTED_AUTHORED_CROSSREFS} authored cross-references, found "
+            f"{crossref_summary['authored_reference_occurrences']}"
+        )
+    if crossref_summary["source_defects"] != EXPECTED_SOURCE_DEFECTS:
+        errors.append(
+            f"expected {EXPECTED_SOURCE_DEFECTS} documented source defect, found "
+            f"{crossref_summary['source_defects']}"
+        )
     long_lines = sum(1 for line in combined.splitlines() if len(line) > 1000)
     if long_lines:
         warnings.append(f"{long_lines} generated lines exceed 1000 characters")
@@ -109,7 +131,8 @@ def main() -> int:
     print(
         "QA summary: "
         f"{len(chapter_files)} files, {len(labels)} labels, "
-        f"{len(image_files)} images, {len(image_refs)} image references"
+        f"{len(image_files)} images, {len(image_refs)} image references, "
+        f"{crossref_summary['authored_reference_occurrences']} cross-references"
     )
     for warning in warnings:
         print(f"WARNING: {warning}")

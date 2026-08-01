@@ -19,9 +19,13 @@
    representative visual review.
 5. Publication remains prohibited until written permission is documented.
 
-## Known semantic limitation
+## Cross-reference status
 
-MinerU retained very few original equation numbers, and explicit MyST
-cross-references have not yet been authored. Generated equation labels are
-stable internal identifiers, not a reconstruction of the book's printed
-equation numbering.
+All 1,334 printed figure, table, and equation-reference occurrences in the 13
+chapters have been audited. 1,333 are authored as resolvable links, with no
+unresolved targets. The sole documented source defect is the book's reference
+to Figure CS10.3M, for which no target figure exists in the source chapter PDF.
+
+Generated equation labels remain stable internal identifiers. Where the source
+retains a printed equation number, references target that numbered display;
+otherwise no printed numbering is invented.

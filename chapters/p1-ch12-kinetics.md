@@ -51,7 +51,7 @@ To understand the mechanism by which a photon of light interacts with the orbita
 
 The first step in breaking the molecular bond in $\mathrm { O } _ { 2 }$ by the absorption of light involves the “promotion” of one of the valence electrons of $\mathrm { O } _ { 2 }$ to a molecular orbital of higher energy—specifically a nonbonding orbital.
 
-To understand this, we return to the molecular orbital structure of $\mathrm { O } _ { 2 } .$ This molecular orbital architecture is summarized in Figure 12.2. To briefly review, we have the configuration of MOs into which the twelve valence electrons for molecular oxygen must be inserted. Thus the first four, with opposite spins, ${ \bf g 0 }$ into the ${ \sigma } _ { \mathrm { s } } ^ { \mathrm { b } }$ and ${ \sigma _ { \mathrm { s } } } ^ { * }$ orbitals. This leaves eight electrons. The next two with opposite spins go into the $\sigma _ { \mathrm { x } } ^ { \mathrm { ~ b ~ } }$ MO. The next four go into the degenerate $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ b ~ } }$ and $\pi _ { \mathrm { y } } ^ { \mathrm { ~ b ~ } }$ MOs. This leaves two remaining electrons. The next open MOs are the $\pi _ { \mathrm { z } } ^ { \ast }$ and $\pi _ { \mathrm { y } } ^ { * }$ , each of which could hold two electrons of opposite spin. Thus we could either insert one electron in each of the $\pi _ { \mathrm { z } } ^ { * }$ and $\pi _ { \mathrm { y } } ^ { * }$ MOs or both electrons in one or the other of the $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ * ~ } }$ or $\pi _ { \mathrm { y } } ^ { * }$ antibonding orbitals.
+To understand this, we return to the molecular orbital structure of $\mathrm { O } _ { 2 } .$ This molecular orbital architecture is summarized in [Figure 12.2](#fig-p1-ch12-3). To briefly review, we have the configuration of MOs into which the twelve valence electrons for molecular oxygen must be inserted. Thus the first four, with opposite spins, ${ \bf g 0 }$ into the ${ \sigma } _ { \mathrm { s } } ^ { \mathrm { b } }$ and ${ \sigma _ { \mathrm { s } } } ^ { * }$ orbitals. This leaves eight electrons. The next two with opposite spins go into the $\sigma _ { \mathrm { x } } ^ { \mathrm { ~ b ~ } }$ MO. The next four go into the degenerate $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ b ~ } }$ and $\pi _ { \mathrm { y } } ^ { \mathrm { ~ b ~ } }$ MOs. This leaves two remaining electrons. The next open MOs are the $\pi _ { \mathrm { z } } ^ { \ast }$ and $\pi _ { \mathrm { y } } ^ { * }$ , each of which could hold two electrons of opposite spin. Thus we could either insert one electron in each of the $\pi _ { \mathrm { z } } ^ { * }$ and $\pi _ { \mathrm { y } } ^ { * }$ MOs or both electrons in one or the other of the $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ * ~ } }$ or $\pi _ { \mathrm { y } } ^ { * }$ antibonding orbitals.
 
 :::{figure} ../images/fig-p1-ch12-3.jpg
 :name: fig-p1-ch12-3
@@ -62,12 +62,12 @@ FIGURE 12.2 Diagram of the energy ordering of the molecular orbitals formed from
 
 Our intuition tells us that, given the strong repulsion between electrons in a chemical bond, the lowest energy configuration would place the last two electrons in different MOs because that would maximize the distance between them thereby minimizing their Coulomb repulsion. Thus we would place each of the last two electrons in the $\bar { \mathfrak { N } } _ { \mathrm { z } } ^ { * }$ and $\pi _ { \mathrm { y } } ^ { * }$ antibonding MOs.
 
-Also, there is direct experimental verification that this is the correct MO assignment because with one each of the last two electrons in the antibonding $\pi _ { \mathrm { y } } ^ { * }$ and $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ * ~ } }$ orbitals, this leaves the $\mathrm { O } _ { 2 }$ molecule with two unpaired electrons, each of which have a magnetic moment. An unpaired electron, by virtue of the magnetic moment of the electron, will be attracted by a magnetic field, a phenomenon known as paramagnetism. Thus if $\mathrm { O } _ { 2 }$ has two such unpaired electrons it would be strongly attracted by a magnetic field, and this is indeed the case, as Figure 12.3 shows. Had the final two electrons been placed, with opposite spins, into one or the other of the $\pi _ { \mathrm { x } } ^ { * }$ and $\pi _ { \mathrm { y } } ^ { * }$ antibonding orbitals, the spin pair would not interact strongly with the external magnetic field as the $\mathrm { O } _ { 2 }$ molecule would not be attracted to the magnetic field.
+Also, there is direct experimental verification that this is the correct MO assignment because with one each of the last two electrons in the antibonding $\pi _ { \mathrm { y } } ^ { * }$ and $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ * ~ } }$ orbitals, this leaves the $\mathrm { O } _ { 2 }$ molecule with two unpaired electrons, each of which have a magnetic moment. An unpaired electron, by virtue of the magnetic moment of the electron, will be attracted by a magnetic field, a phenomenon known as paramagnetism. Thus if $\mathrm { O } _ { 2 }$ has two such unpaired electrons it would be strongly attracted by a magnetic field, and this is indeed the case, as [Figure 12.3](#fig-p1-ch12-4) shows. Had the final two electrons been placed, with opposite spins, into one or the other of the $\pi _ { \mathrm { x } } ^ { * }$ and $\pi _ { \mathrm { y } } ^ { * }$ antibonding orbitals, the spin pair would not interact strongly with the external magnetic field as the $\mathrm { O } _ { 2 }$ molecule would not be attracted to the magnetic field.
 
 :::{figure} ../images/fig-p1-ch12-4.jpg
 :name: fig-p1-ch12-4
 :alt: FIGURE 12.3 Unpaired electron spins are held by (attracted to) a magnetic field, creating a characteristic called paramagnetism. This simple experiment demonstrates that the assignment of unpaired spins in the mathematical notation molecula
-FIGURE 12.3 Unpaired electron spins are held by (attracted to) a magnetic field, creating a characteristic called paramagnetism. This simple experiment demonstrates that the assignment of unpaired spins in the $\pi ^ { \star }$ molecular orbital of molecular oxygen, as shown in Figure 12.2, is, in fact, the correct assignment.
+FIGURE 12.3 Unpaired electron spins are held by (attracted to) a magnetic field, creating a characteristic called paramagnetism. This simple experiment demonstrates that the assignment of unpaired spins in the $\pi ^ { \star }$ molecular orbital of molecular oxygen, as shown in [Figure 12.2](#fig-p1-ch12-3), is, in fact, the correct assignment.
 :::
 
 
@@ -79,7 +79,7 @@ We turn again to the question of the absorption of a photon by $\mathrm { O } _ 
 ```
 
 
-with a corresponding molecular orbital picture shown in Figure 12.4.
+with a corresponding molecular orbital picture shown in [Figure 12.4](#fig-p1-ch12-5).
 
 :::{figure} ../images/fig-p1-ch12-5.jpg
 :name: fig-p1-ch12-5
@@ -144,7 +144,7 @@ We can solve directly for τ and we have:
 
 That is a very short period of time, but it is the unit of time against which all atomic and molecular processes are measured. Why is this important? Returning to the potential energy surface defining the promotion of the electron in $\mathrm { O } _ { 2 }$ from a bonding orbital to an antibonding orbital, we draw the arrow designating promotion to the excited, repulsive state as a vertical line. This means that the internuclear distance of $\mathrm { O } _ { 2 }$ does not change as the electron jumps, promoting $\mathrm { O } _ { 2 }$ to the repulsive state. However, there is another important implication of the very rapid motion of the electron that we will discuss shortly: It is that we can draw these potential energy surfaces as a single surface representing a single relationship between the potential energy and the internuclear distance. This effectively separates the potential energy from all forms of kinetic energy that take place on the surface. It is this fact that makes the potential energy surface so important and so versatile.
 
-The fact that the $\mathrm { O } _ { 2 }$ molecule transitions from its lowest energy bound state to the higher energy potential energy surface along a vertical path for which there is no change in internuclear distance means that as a result of the electron repulsion, the $\mathrm { O } _ { 2 }$ molecule is positioned on the repulsive wall of the upper surface. But at that energy, the $\mathrm { O } _ { 2 }$ molecule will dissociate into two oxygen atoms, completing the dissociation process. The relationship between the molecular orbital diagram and the potential energy surfaces is shown in Figure 12.5.
+The fact that the $\mathrm { O } _ { 2 }$ molecule transitions from its lowest energy bound state to the higher energy potential energy surface along a vertical path for which there is no change in internuclear distance means that as a result of the electron repulsion, the $\mathrm { O } _ { 2 }$ molecule is positioned on the repulsive wall of the upper surface. But at that energy, the $\mathrm { O } _ { 2 }$ molecule will dissociate into two oxygen atoms, completing the dissociation process. The relationship between the molecular orbital diagram and the potential energy surfaces is shown in [Figure 12.5](#fig-p1-ch12-6).
 
 :::{figure} ../images/fig-p1-ch12-6.jpg
 :name: fig-p1-ch12-6
@@ -153,13 +153,13 @@ FIGURE 12.5 With the absorption of the photon and the resulting promotion of the
 :::
 
 
-Figure 12.5 summarizes graphically a number of very important concepts. First, in the upper left corner the formation of molecular orbitals from the component atomic orbitals is summarized with the electrons properly inserted into the orbitals of $\mathrm { O } _ { 2 } .$ . Second, the absorption of a photon by the electronic structure of $\mathrm { O } _ { 2 }$ is represented by the incoming photon and the promoted electron from the bonding $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ b ~ } }$ oribital to the antibonding $\bar { \mathfrak { N } } _ { \mathrm { z } } ^ { * }$ orbital in the lower left panel. Third, the correlation between the configuration of electrons inserted into the molecular orbitals of $\mathrm { O } _ { 2 }$ and the corresponding potential energy surface is shown in the right-hand panel. This is done for both the ground state and promoted state potential energy surface. Finally, the fact that the period of the electron is much shorter than the period of nuclear motion means that the promotion of the electron results in the molecule moving vertically (i.e. with no change in internuclear distance) on the potential energy diagram from the ground state to the promoted state. From the repulsive wall of the upper (promoted) potential energy surface, the $\mathrm { O } _ { 2 }$ molecule is unbound and dissociates into two oxygen atoms. The dissociation of $\mathrm { O } _ { 2 }$ from the excited state occurs because the total energy of the $\mathrm { O } _ { 2 }$ molecule exceeds the depth of the well of the upper potential energy surface.
+[Figure 12.5](#fig-p1-ch12-6) summarizes graphically a number of very important concepts. First, in the upper left corner the formation of molecular orbitals from the component atomic orbitals is summarized with the electrons properly inserted into the orbitals of $\mathrm { O } _ { 2 } .$ . Second, the absorption of a photon by the electronic structure of $\mathrm { O } _ { 2 }$ is represented by the incoming photon and the promoted electron from the bonding $\mathfrak { N } _ { \mathrm { z } } ^ { \mathrm { ~ b ~ } }$ oribital to the antibonding $\bar { \mathfrak { N } } _ { \mathrm { z } } ^ { * }$ orbital in the lower left panel. Third, the correlation between the configuration of electrons inserted into the molecular orbitals of $\mathrm { O } _ { 2 }$ and the corresponding potential energy surface is shown in the right-hand panel. This is done for both the ground state and promoted state potential energy surface. Finally, the fact that the period of the electron is much shorter than the period of nuclear motion means that the promotion of the electron results in the molecule moving vertically (i.e. with no change in internuclear distance) on the potential energy diagram from the ground state to the promoted state. From the repulsive wall of the upper (promoted) potential energy surface, the $\mathrm { O } _ { 2 }$ molecule is unbound and dissociates into two oxygen atoms. The dissociation of $\mathrm { O } _ { 2 }$ from the excited state occurs because the total energy of the $\mathrm { O } _ { 2 }$ molecule exceeds the depth of the well of the upper potential energy surface.
 
 ## Vibrational, Rotational, and Translational Motion of a Molecule: Motion on a Potential Energy Surface
 
 Before completing our treatment of $\mathrm { O } _ { 2 }$ photodissociation, we investigate more fully the categories of kinetic energy defining the types of motion a molecule undergoes on a potential energy surface. Molecules can move through space, which is represented by translational motion. Molecules can rotate in space, which is represented by rotational motion, but molecules can also oscillate along the internuclear axis, which is represented by vibrational motion.
 
-Vibrational energy exchange occurs in discrete steps because the vibrational motion on the molecular scale, like electronic motion, also has a wave associated with it so that allowed vibrational energy levels only occur in discrete steps within the lowest potential energy surface of the molecular “electronic state” represented by the specific molecular orbitals that are occupied, as Figure 12.6 explicitly shows.
+Vibrational energy exchange occurs in discrete steps because the vibrational motion on the molecular scale, like electronic motion, also has a wave associated with it so that allowed vibrational energy levels only occur in discrete steps within the lowest potential energy surface of the molecular “electronic state” represented by the specific molecular orbitals that are occupied, as [Figure 12.6](#fig-p1-ch12-7) explicitly shows.
 
 :::{figure} ../images/fig-p1-ch12-7.jpg
 :name: fig-p1-ch12-7
@@ -170,9 +170,9 @@ FIGURE 12.6 Just as the square well potential created quantized energy levels of
 
 We can represent the vibrational motion of a diatomic molecule in general on the potential energy surface because vibrational energy is simply the extension and contraction of the chemical bond along the internuclear axis.
 
-But the wave nature of the vibrational states means that only discrete vibrational energy levels are available for the molecule to occupy, as shown in Figure 12.6.
+But the wave nature of the vibrational states means that only discrete vibrational energy levels are available for the molecule to occupy, as shown in [Figure 12.6](#fig-p1-ch12-7).
 
-Just as the vibrational energy levels are segmented or “quantized,” so too are the rotational energy levels of the molecule. These rotational transitions are of much lower energy than either the vibrational energy levels or the electronic energy levels. But more than that, for each vibrational energy level, the molecule can possess a number of rotational energy levels such that these rotational energy levels “stack” on top of each of the vibrational levels. Thus if we look with greater detail at the potential energy surface, we can see how these energy levels are assembled, as displayed in Figure 12.7.
+Just as the vibrational energy levels are segmented or “quantized,” so too are the rotational energy levels of the molecule. These rotational transitions are of much lower energy than either the vibrational energy levels or the electronic energy levels. But more than that, for each vibrational energy level, the molecule can possess a number of rotational energy levels such that these rotational energy levels “stack” on top of each of the vibrational levels. Thus if we look with greater detail at the potential energy surface, we can see how these energy levels are assembled, as displayed in [Figure 12.7](#fig-p1-ch12-8).
 
 :::{figure} ../images/fig-p1-ch12-8.jpg
 :name: fig-p1-ch12-8
@@ -187,7 +187,7 @@ To summarize, the period of the electron in orbit is $\tau _ { e l } = 1 0 ^ { -
 
 However, the fact that electronic motion is so much faster than any other motion associated with the molecule has very important consequences. It means, for example, that we can draw a fixed potential energy surface that remains invariant when molecules “dance” over the top of that surface, either by rotation or by vibration. The reason is that for any given internuclear distance, the electrons move so fast that the energy of the ensemble of electrons and nuclei is minimized in a period short compared with any other change in the system. It also means, as a corollary, that we can separate the energy of vibration, rotation, translation, from that of the motion of the electron. That is why it is called a potential energy surface: It represents the invariant surface over which all molecular motion moves, whether it is vibrational, rotational, or translational.
 
-Our diagram of $\mathrm { O } _ { 2 }$ photodissociation must therefore be refined to include quantized vibrational energy levels as shown in Figure 12.8.
+Our diagram of $\mathrm { O } _ { 2 }$ photodissociation must therefore be refined to include quantized vibrational energy levels as shown in [Figure 12.8](#fig-p1-ch12-9).
 
 :::{figure} ../images/fig-p1-ch12-9.jpg
 :name: fig-p1-ch12-9
@@ -196,7 +196,7 @@ FIGURE 12.8 The rapid motion of the electron in orbit about the nuclei (orbital 
 :::
 
 
-Therefore, we return to the reaction $\mathrm { O } _ { 2 } + h \mathrm { v } \to \mathrm { O } + \mathrm { O }$ and note that this process is captured by the transition from one vibrational energy level on the “ground state” (or lowest) potential energy surface to a higher energy PES, as shown in Figure 12.8. So after $\mathrm { O } _ { 2 }$ is promoted by the absorption of a photon of light to the upper repulsive potential energy surface, the molecule begins to move “outward” to a larger internuclear distance on the time scale of a vibration, and as that internuclear distance increases, it represents a larger and larger separation between the two oxygen atoms that comprise the $\mathrm { O } _ { 2 }$ molecules such that the product of the “reaction” of a photon with an $\mathrm { O } _ { 2 }$ molecule is the formation of two oxygen atoms $\mathrm { O } _ { 2 } + h \mathrm { v } \to \mathrm { O } + \mathrm { O }$ that separate on the unbound potential energy surface. They are then “free” oxygen atoms. The excess energy, $E _ { \mathrm { e x c e s s } } ,$ shown in Figure 12.9, appears as the kinetic energy of translation (i.e., ½ mv<sup>2</sup>) of the separating oxygen atoms. This sequence is shown in Figure 12.9.
+Therefore, we return to the reaction $\mathrm { O } _ { 2 } + h \mathrm { v } \to \mathrm { O } + \mathrm { O }$ and note that this process is captured by the transition from one vibrational energy level on the “ground state” (or lowest) potential energy surface to a higher energy PES, as shown in [Figure 12.8](#fig-p1-ch12-9). So after $\mathrm { O } _ { 2 }$ is promoted by the absorption of a photon of light to the upper repulsive potential energy surface, the molecule begins to move “outward” to a larger internuclear distance on the time scale of a vibration, and as that internuclear distance increases, it represents a larger and larger separation between the two oxygen atoms that comprise the $\mathrm { O } _ { 2 }$ molecules such that the product of the “reaction” of a photon with an $\mathrm { O } _ { 2 }$ molecule is the formation of two oxygen atoms $\mathrm { O } _ { 2 } + h \mathrm { v } \to \mathrm { O } + \mathrm { O }$ that separate on the unbound potential energy surface. They are then “free” oxygen atoms. The excess energy, $E _ { \mathrm { e x c e s s } } ,$ shown in [Figure 12.9](#fig-p1-ch12-10), appears as the kinetic energy of translation (i.e., ½ mv<sup>2</sup>) of the separating oxygen atoms. This sequence is shown in [Figure 12.9](#fig-p1-ch12-10).
 
 :::{figure} ../images/fig-p1-ch12-10.jpg
 :name: fig-p1-ch12-10
@@ -227,7 +227,7 @@ We can understand the electron delocalization in the bonding structure that crea
 
 First we photodissociate $\mathrm { O } _ { 2 }$ to form oxygen atoms: $\mathrm { O } _ { 2 } + h \nu \to \mathrm { O } + \mathrm { O }$ The atomic oxygen then reacts with the abundant $\mathrm { O } _ { 2 }$ to form $\mathrm { { O } } _ { 3 }$ in the reaction $0 + 0 _ { 2 } \to 0 _ { 3 }$
 
-The question then is: what potential energy surface does this occur on? We can represent the bound $\mathrm { { O } } _ { 3 }$ molecule as a bound chemical species such that, as the O atom and oxygen molecule approach, they enter the bound region represented by the formation of the potential energy well of the ozone molecule. But if left to move freely, the newly formed ozone molecule will strike the repulsive wall of the potential energy surface and rebound, reforming a separated oxygen atom and oxygen molecule, as shown in Figures 12.10 and 12.11. We write this as the reversible reaction $\mathrm { O } + \mathrm { O } _ { 2 } { \stackrel {  } { \longleftrightarrow } } \mathrm { O } _ { 3 }$
+The question then is: what potential energy surface does this occur on? We can represent the bound $\mathrm { { O } } _ { 3 }$ molecule as a bound chemical species such that, as the O atom and oxygen molecule approach, they enter the bound region represented by the formation of the potential energy well of the ozone molecule. But if left to move freely, the newly formed ozone molecule will strike the repulsive wall of the potential energy surface and rebound, reforming a separated oxygen atom and oxygen molecule, as shown in [Figures 12.10](#fig-p1-ch12-13) and [12.11](#fig-p1-ch12-14). We write this as the reversible reaction $\mathrm { O } + \mathrm { O } _ { 2 } { \stackrel {  } { \longleftrightarrow } } \mathrm { O } _ { 3 }$
 
 :::{figure} ../images/fig-p1-ch12-13.jpg
 :name: fig-p1-ch12-13
@@ -251,7 +251,7 @@ No $\mathrm { { O } } _ { 3 }$ product is formed in this “reaction”; it simp
 ```
 
 
-And we represent the process on the potential energy surface as shown in Figure 12.12.
+And we represent the process on the potential energy surface as shown in [Figure 12.12](#fig-p1-ch12-15).
 
 Case Study 12.1 Kinetics, Catalysis, Free Radicals, and the Antarctic Ozone Hole
 
@@ -294,7 +294,7 @@ In the presence of ultraviolet light, ozone will photodissociate, just as $\math
 ```
 
 
-This is a reaction of the type with which we are very familiar. It is a bimolecular reaction because it involves two reactant molecules, atomic oxygen and ozone, and multiple products $( \mathrm { O } _ { 2 } + \mathrm { O } _ { 2 }$ in this case) that are capable of removing the excess energy in the form of translational kinetic energy. The bimolecular reaction occurs on a potential energy surface that we are familiar with, and one that is shown in Figure 12.13.
+This is a reaction of the type with which we are very familiar. It is a bimolecular reaction because it involves two reactant molecules, atomic oxygen and ozone, and multiple products $( \mathrm { O } _ { 2 } + \mathrm { O } _ { 2 }$ in this case) that are capable of removing the excess energy in the form of translational kinetic energy. The bimolecular reaction occurs on a potential energy surface that we are familiar with, and one that is shown in [Figure 12.13](#fig-p1-ch12-18).
 
 :::{figure} ../images/fig-p1-ch12-18.jpg
 :name: fig-p1-ch12-18
@@ -303,9 +303,9 @@ FIGURE 12.13 We can also represent the reaction of atomic oxygen, O, with ozone,
 :::
 
 
-The potential energy surface of a bimolecular reaction has some very important features. First, the surface is formed by bringing two reacting molecules in from large internuclear separation where there is no interaction between the valence electrons of the individual species. As the reactants begin to approach in close proximity, the electron-electron repulsion of the valence electrons begins to generate a repulsive “barrier” to the reaction, but the electrons are moving so rapidly relative to the period of the collision that the system moves along the path of minimum energy. As the reacting species reach the minimum internuclear distance (providing the kinetic energy of collision is adequate to reach the top of the barrier) which corresponds to the maximum energy of the potential energy surface, shown in Figure 12.13, they will either bounce off of one another or the bonds will rearrange (on the time scale of electronic motion) to form the new bonds of the product molecules. The product molecules will move down the repulsive potential energy surface, releasing the potential energy in the form of vibrational, rotational, and translational energy.
+The potential energy surface of a bimolecular reaction has some very important features. First, the surface is formed by bringing two reacting molecules in from large internuclear separation where there is no interaction between the valence electrons of the individual species. As the reactants begin to approach in close proximity, the electron-electron repulsion of the valence electrons begins to generate a repulsive “barrier” to the reaction, but the electrons are moving so rapidly relative to the period of the collision that the system moves along the path of minimum energy. As the reacting species reach the minimum internuclear distance (providing the kinetic energy of collision is adequate to reach the top of the barrier) which corresponds to the maximum energy of the potential energy surface, shown in [Figure 12.13](#fig-p1-ch12-18), they will either bounce off of one another or the bonds will rearrange (on the time scale of electronic motion) to form the new bonds of the product molecules. The product molecules will move down the repulsive potential energy surface, releasing the potential energy in the form of vibrational, rotational, and translational energy.
 
-Thus we have identified three distinct, but very important types of chemical reactions and identified a very important concept: the molecularity of a chemical reaction. These are summarized in Figure 12.14.
+Thus we have identified three distinct, but very important types of chemical reactions and identified a very important concept: the molecularity of a chemical reaction. These are summarized in [Figure 12.14](#fig-p1-ch12-19).
 
 ## Molecularity: Determined by Mother Nature
 
@@ -328,7 +328,7 @@ We address the subject of chemical kinetics by first defining what is meant by t
 
 ## Kinetics
 
-As mentioned, kinetics constitutes the foundation for an immense array of topics in modern chemistry as displayed in Figure 12.15.
+As mentioned, kinetics constitutes the foundation for an immense array of topics in modern chemistry as displayed in [Figure 12.15](#fig-p1-ch12-31).
 
 :::{figure} ../images/fig-p1-ch12-31.jpg
 :name: fig-p1-ch12-31
@@ -392,11 +392,11 @@ The rate of a reaction, $R ,$ is a single quantity that establishes the number o
 
 The development of molecular orbital theory, as we have just seen, opens the pathway for understanding how photons interact with molecular structures by promoting one (or more) electron(s) to a higher energy orbital. This promotion of an electron leads to the idea of photodissociation of a single molecule on a specific potential energy surface. Thus the idea of a unimolecular reaction and, more generally, of the molecularity of a chemical reaction—unimolecular, bimolecular, and termolecular reactions, each occurring on a specific potential energy surface.
 
-While unimolecular reactions and termolecular reactions are very common in nature, indeed our survival depends on them, the bimolecular reaction is often the centerpiece of chemical reaction studies. The reason is that they are very common, and they involve the collision of two molecules (or an atom and a molecule or just two atoms) that are the reactants leading to the formation of two products as displayed in Figure 12.12 and Figure 12.13.
+While unimolecular reactions and termolecular reactions are very common in nature, indeed our survival depends on them, the bimolecular reaction is often the centerpiece of chemical reaction studies. The reason is that they are very common, and they involve the collision of two molecules (or an atom and a molecule or just two atoms) that are the reactants leading to the formation of two products as displayed in [Figure 12.12](#fig-p1-ch12-15) and [Figure 12.13](#fig-p1-ch12-18).
 
 A key point therefore, is that a chemical reaction cannot occur unless a collision occurs between two reactants that may or may not engage in a bond rearrangement leading to products of the reaction.
 
-So we can immediately deduce the fact that because a reaction requires a collision, a chemical reaction cannot occur at a rate faster than the rate at which reactant molecules collide. If we could shrink to the size of a molecule as it collides with others, it would be a very revealing ride. It would also be a wild ride. First, as we know from Chapter 1, we would be moving at the speed of a high velocity bullet: 500 m/sec or approximately 1000 miles per hour. Suppose for example we could ride around on an ozone molecule (a convenient shape!) as shown in Figure 12.16 in a mixture of $\mathrm { { O } } _ { 3 }$ and NO.
+So we can immediately deduce the fact that because a reaction requires a collision, a chemical reaction cannot occur at a rate faster than the rate at which reactant molecules collide. If we could shrink to the size of a molecule as it collides with others, it would be a very revealing ride. It would also be a wild ride. First, as we know from Chapter 1, we would be moving at the speed of a high velocity bullet: 500 m/sec or approximately 1000 miles per hour. Suppose for example we could ride around on an ozone molecule (a convenient shape!) as shown in [Figure 12.16](#fig-p1-ch12-33) in a mixture of $\mathrm { { O } } _ { 3 }$ and NO.
 
 :::{figure} ../images/fig-p1-ch12-33.jpg
 :name: fig-p1-ch12-33
@@ -419,7 +419,7 @@ Z _ {\mathrm{wall}} \approx \frac {N}{\Delta t} = \frac {N v _ {x}}{L} = N v _ {
 ```
 
 
-where N is the number of gas molecules in the volume, V; Δt is the period between collisions of a single molecule moving with velocity ${ \bf v } _ { \mathrm { x } }$ in the x direction; and A is the area of the container wall. If [X] is the concentration of molecules in the gas (equal to N/V), and $\bar { \bf V }$ is the average velocity of the molecules in the gas, which we will approximate as $\begin{array} { r } { \bar { \bf v } \approx { \bf v } _ { \bf x } , } \end{array}$ then $\mathrm { Z _ { w a l l } } = \mathrm { [ X ] } \bar { \mathrm { v A } }$ We can use this expression to estimate the collision rate between molecules. The first step is to replace the area of the wall, A, by the collision cross section between two molecules each of radius r that defines a mutual collision area of $\pi ( 2 \mathbf { r } ) ^ { 2 } = \pi \mathbf { d } ^ { 2 }$ . This is shown in Figure 12.17. Thus for molecular collisions we have as a reasonable approximation for the number of collisions per second
+where N is the number of gas molecules in the volume, V; Δt is the period between collisions of a single molecule moving with velocity ${ \bf v } _ { \mathrm { x } }$ in the x direction; and A is the area of the container wall. If [X] is the concentration of molecules in the gas (equal to N/V), and $\bar { \bf V }$ is the average velocity of the molecules in the gas, which we will approximate as $\begin{array} { r } { \bar { \bf v } \approx { \bf v } _ { \bf x } , } \end{array}$ then $\mathrm { Z _ { w a l l } } = \mathrm { [ X ] } \bar { \mathrm { v A } }$ We can use this expression to estimate the collision rate between molecules. The first step is to replace the area of the wall, A, by the collision cross section between two molecules each of radius r that defines a mutual collision area of $\pi ( 2 \mathbf { r } ) ^ { 2 } = \pi \mathbf { d } ^ { 2 }$ . This is shown in [Figure 12.17](#fig-p1-ch12-34). Thus for molecular collisions we have as a reasonable approximation for the number of collisions per second
 
 ```{math}
 :label: eq-p1-ch12-17
@@ -474,13 +474,13 @@ That is roughly 300 molecular diameters.
 
 Now that we have established the rate of molecular collisions, we can now examine what is involved in the chemical reaction between an ozone molecule and a nitric oxide molecule. In order to execute a chemical reaction, the colliding $\mathrm { { O } } _ { 3 }$ and NO molecules must approach close enough that a bond transformation takes place. To accomplish this, the colliding molecules must overcome the repulsive barrier created by the electron-electron repulsion of the valence electrons in $\mathrm { { O } } _ { 3 }$ and NO. This repulsion establishes the height of
 
-the barrier separating reactants $( \mathrm { O } _ { 3 }$ and NO) and products $( \mathrm { N O } _ { 2 }$ and $\mathrm { O } _ { 2 } )$ as shown in Figure 12.18.
+the barrier separating reactants $( \mathrm { O } _ { 3 }$ and NO) and products $( \mathrm { N O } _ { 2 }$ and $\mathrm { O } _ { 2 } )$ as shown in [Figure 12.18](#fig-p1-ch12-35).
 :::{figure} ../images/fig-p1-ch12-35.jpg
 :name: fig-p1-ch12-35
 :alt: Figure from the University Chemistry source textbook
 :::
 
-However, even if the colliding $\mathrm { N O } / \mathrm { O } _ { 3 }$ pairs do possess sufficient kinetic energy to position the nuclei close enough for a bond rearrangement to take place, the geometric configuration of the positions of the oxygen and the nitrogen nuclei may make the required bond rearrangement difficult. As a result, no reaction takes place. On the potential energy surface, this nonreactive encounter would take the form displayed in Figure 12.19.
+However, even if the colliding $\mathrm { N O } / \mathrm { O } _ { 3 }$ pairs do possess sufficient kinetic energy to position the nuclei close enough for a bond rearrangement to take place, the geometric configuration of the positions of the oxygen and the nitrogen nuclei may make the required bond rearrangement difficult. As a result, no reaction takes place. On the potential energy surface, this nonreactive encounter would take the form displayed in [Figure 12.19](#fig-p1-ch12-36).
 
 :::{figure} ../images/fig-p1-ch12-36.jpg
 :name: fig-p1-ch12-36
@@ -547,7 +547,7 @@ It is routine to write the combustion of a hydrocarbon, such as methane or octan
 
 ## Determination of the Rate of a Chemical Reaction
 
-We return to the dissection of the kinetics of methane and the hydroxyl radical. How do we observe the rate of disappearance of one species in the presence of another? There are many ways, but one important possibility, shown schematically in Figure 12.20, would be to design a system whereby a laser pulse is used to form an initial OH concentration, $[ \mathrm { O H } ] _ { \mathrm { i n i t } } ,$ in a mixture of an inert gas, for example argon. The other reactant, $\mathrm { C H } _ { 4 } ,$ , would have been mixed with the argon before adding the mixture to the reaction vessel. Then, following the formation of OH by the laser pulse, for example by the photodissociation of hydrogen peroxide,
+We return to the dissection of the kinetics of methane and the hydroxyl radical. How do we observe the rate of disappearance of one species in the presence of another? There are many ways, but one important possibility, shown schematically in [Figure 12.20](#fig-p1-ch12-37), would be to design a system whereby a laser pulse is used to form an initial OH concentration, $[ \mathrm { O H } ] _ { \mathrm { i n i t } } ,$ in a mixture of an inert gas, for example argon. The other reactant, $\mathrm { C H } _ { 4 } ,$ , would have been mixed with the argon before adding the mixture to the reaction vessel. Then, following the formation of OH by the laser pulse, for example by the photodissociation of hydrogen peroxide,
 
 ```{math}
 :label: eq-p1-ch12-25
@@ -563,7 +563,7 @@ the OH thus formed would react with $\mathrm { C H } _ { 4 }$ in the bimolecular
 ```
 
 
-The decay of [OH] with time, by reaction with $\mathrm { C H } _ { 4 } .$ , is displayed in Figure 12.21.
+The decay of [OH] with time, by reaction with $\mathrm { C H } _ { 4 } .$ , is displayed in [Figure 12.21](#fig-p1-ch12-38).
 
 :::{figure} ../images/fig-p1-ch12-37.jpg
 :name: fig-p1-ch12-37
@@ -579,7 +579,7 @@ FIGURE 12.21 Following the formation of OH by flash photolysis, for example by u
 :::
 
 
-With the ability to resolve in time the decay of OH in the presence of $\mathrm { C H } _ { 4 } ,$ we are in a position to actually determine the rate of the reaction, $\mathrm { R _ { o b s } } .$ We make a strategic decision first, by recognizing that if the concentration of methane, $\mathrm { [ C H _ { 4 } ] }$ (where the square brackets indicate the molecular concentration in molecules/cm<sup>3</sup>), is adjusted such that $\mathrm { [ C H _ { 4 } ] \ > > \ [ O H ] _ { i n i t } , }$ then $\mathrm { [ C H _ { 4 } ] }$ will change very little through the course of the reaction $\mathrm { C H } _ { 4 } +$ $\mathrm { O H \to C H _ { 3 } + H _ { 2 } O }$ . So we now observe, with a laser, the disappearance of OH in the presence of $\mathrm { C H } _ { 4 }$ , and we plot those data as a function of time. The time axis is determined by knowing the time over which the decay of OH has occurred. The results from an actual experiment are shown in Figure 12.21.
+With the ability to resolve in time the decay of OH in the presence of $\mathrm { C H } _ { 4 } ,$ we are in a position to actually determine the rate of the reaction, $\mathrm { R _ { o b s } } .$ We make a strategic decision first, by recognizing that if the concentration of methane, $\mathrm { [ C H _ { 4 } ] }$ (where the square brackets indicate the molecular concentration in molecules/cm<sup>3</sup>), is adjusted such that $\mathrm { [ C H _ { 4 } ] \ > > \ [ O H ] _ { i n i t } , }$ then $\mathrm { [ C H _ { 4 } ] }$ will change very little through the course of the reaction $\mathrm { C H } _ { 4 } +$ $\mathrm { O H \to C H _ { 3 } + H _ { 2 } O }$ . So we now observe, with a laser, the disappearance of OH in the presence of $\mathrm { C H } _ { 4 }$ , and we plot those data as a function of time. The time axis is determined by knowing the time over which the decay of OH has occurred. The results from an actual experiment are shown in [Figure 12.21](#fig-p1-ch12-38).
 
 In order to analyze the kinetics of OH loss in the presence of $\mathrm { C H } _ { 4 } \mathrm { : }$ , we first break the decay curve of OH into zones to calculate the rate of the reaction
 
@@ -589,7 +589,7 @@ R _ {\mathrm{obs}} = - \Delta [ \mathrm{OH} ] / \Delta t
 ```
 
 
-that measures the change in OH concentration, $\Delta [ \mathrm { O H } ]$ , over a time increment, $\Delta t .$ . Inspection of Figure 12.21 reveals that $- \Delta [ \mathrm { O H } ] / \Delta t$ in each of the three zones is
+that measures the change in OH concentration, $\Delta [ \mathrm { O H } ]$ , over a time increment, $\Delta t .$ . Inspection of [Figure 12.21](#fig-p1-ch12-38) reveals that $- \Delta [ \mathrm { O H } ] / \Delta t$ in each of the three zones is
 
 ```{math}
 :label: eq-p1-ch12-28
@@ -609,7 +609,7 @@ Two conclusions emerge. First, the slope of the [OH] decays with time; $\Delta [
 
 ## Determination of the Reaction Rate Constant
 
-After inspection of Figure 12.21, we notice first that the rate of the reaction, R $\begin{array} { r l } { \mathrm { ~  ~ \omega ~ } } & { { } = \mathrm { ~ - \Delta [ O H ] } / \Delta t , } \end{array}$ , is changing continuously throughout the course of the reaction. Initially, OH is disappearing rapidly; but as the reaction progresses, the rate decreases until at times greater than about $4 \times 1 0 ^ { - 3 }$ seconds, the rate has slowed to something approaching zero.
+After inspection of [Figure 12.21](#fig-p1-ch12-38), we notice first that the rate of the reaction, R $\begin{array} { r l } { \mathrm { ~  ~ \omega ~ } } & { { } = \mathrm { ~ - \Delta [ O H ] } / \Delta t , } \end{array}$ , is changing continuously throughout the course of the reaction. Initially, OH is disappearing rapidly; but as the reaction progresses, the rate decreases until at times greater than about $4 \times 1 0 ^ { - 3 }$ seconds, the rate has slowed to something approaching zero.
 
 As a first attempt, we try dividing the rate of the reaction, $- \Delta [ \mathrm { O H } ] / \Delta t$ , by the OH concentration within each time zone.
 
@@ -638,8 +638,9 @@ We can now write that the rate of the reaction, R, is just
 :alt: Figure from the University Chemistry source textbook
 :::
 
-But if $k _ { \mathrm { o b s } }$ is a constant, let's calculate what it is throughout the course of the reaction. To do this, we break the time increments into systematic steps, as displayed in Figure 12.22, and carry out the calculation at each step. This is displayed in Figure 12.22 and tabulated in Table 12.1.
+But if $k _ { \mathrm { o b s } }$ is a constant, let's calculate what it is throughout the course of the reaction. To do this, we break the time increments into systematic steps, as displayed in [Figure 12.22](#fig-p1-ch12-40), and carry out the calculation at each step. This is displayed in [Figure 12.22](#fig-p1-ch12-40) and tabulated in [Table 12.1](#original-table-12-1).
 
+(original-table-12-1)=
 TABLE 12.1
 
 <table><tr><td></td><td> $\frac{-\Delta[OH]}{[OH]}$ </td></tr><tr><td>1</td><td>0.331</td></tr><tr><td>2</td><td>0.348</td></tr><tr><td>3</td><td>0.338</td></tr><tr><td>4</td><td>0.331</td></tr><tr><td>5</td><td>0.327</td></tr><tr><td>6</td><td>0.372</td></tr><tr><td>7</td><td>0.333</td></tr><tr><td>8</td><td>0.368</td></tr><tr><td>9</td><td>0.333</td></tr><tr><td>10</td><td>0.200</td></tr><tr><td></td><td> $\sum \frac{-\Delta[OH]}{[OH]} = 3.28$ </td></tr></table>
@@ -675,7 +676,7 @@ k _ {\mathrm{obs}} = \sum_ {i = 1} ^ {1 0} \frac {- \Delta [ \mathrm{OH} ]}{[ \o
 ```
 
 
-But calculating each of the increments of $\Delta [ \mathrm { O H } ] / [ \overline { { \mathrm { O H } } } ]$ is quite tedious! So we examine the distinction between these average rates and the instantaneous rate as shown in Figure 12.23. As the OH concentration decays, the slope of $\Delta [ \mathrm { O H } ] / \Delta \mathrm { t }$ decreases such that whenever an average rate is calculated, that average rate will depart from the instantaneous rate at the beginning and end of the time increment $\Delta { \sf t }$ over which the average rate is taken. In the limit of very small time increments we can define the derivative of the OH concentration with time, as the time increment $\Delta t$ decreases toward zero. This allows us to reformulate kinetics within the mathematical structure of calculus, providing powerful tools and considerable simplification. We thus represent in the limit as $\Delta t \to 0 ,$ the average rate - $\Delta [ \mathrm { O H } ] / \Delta t$ approaching the instantaneous rate given by the derivative of the OH concentration with respect to time as
+But calculating each of the increments of $\Delta [ \mathrm { O H } ] / [ \overline { { \mathrm { O H } } } ]$ is quite tedious! So we examine the distinction between these average rates and the instantaneous rate as shown in [Figure 12.23](#fig-p1-ch12-41). As the OH concentration decays, the slope of $\Delta [ \mathrm { O H } ] / \Delta \mathrm { t }$ decreases such that whenever an average rate is calculated, that average rate will depart from the instantaneous rate at the beginning and end of the time increment $\Delta { \sf t }$ over which the average rate is taken. In the limit of very small time increments we can define the derivative of the OH concentration with time, as the time increment $\Delta t$ decreases toward zero. This allows us to reformulate kinetics within the mathematical structure of calculus, providing powerful tools and considerable simplification. We thus represent in the limit as $\Delta t \to 0 ,$ the average rate - $\Delta [ \mathrm { O H } ] / \Delta t$ approaching the instantaneous rate given by the derivative of the OH concentration with respect to time as
 
 ```{math}
 :label: eq-p1-ch12-35
@@ -704,12 +705,12 @@ FIGURE 12.23 The decay of [OH] in the presence of $\mathsf { C H } _ { 4 }$ can 
 
 Because the concentration of OH, [OH], appears in the experimentally determined rate law raised to the first power, [OH]<sup>1</sup>, the rate law is referred to as first order with respect to [OH].
 
-But now what happens if we double the concentration of methane in our laboratory system such that $\mathrm { [ C H _ { 4 } ] } = 2 \times 1 0 ^ { 1 5 }$ molecules/cm<sup>3</sup> rather than $\mathbf{1 } \times \mathbf{ }$ $\mathbf { 1 0 ^ { 1 5 } }$ molecules $/ { \mathrm { c m } } ^ { 3 } { \mathrm { . } }$ , as was the case in the first experiment. When we rerun the experiment at twice the concentration of $\mathrm { C H } _ { 4 }$ , the decay plot shows a rather significant difference, as displayed in Figure 12.24.
+But now what happens if we double the concentration of methane in our laboratory system such that $\mathrm { [ C H _ { 4 } ] } = 2 \times 1 0 ^ { 1 5 }$ molecules/cm<sup>3</sup> rather than $\mathbf{1 } \times \mathbf{ }$ $\mathbf { 1 0 ^ { 1 5 } }$ molecules $/ { \mathrm { c m } } ^ { 3 } { \mathrm { . } }$ , as was the case in the first experiment. When we rerun the experiment at twice the concentration of $\mathrm { C H } _ { 4 }$ , the decay plot shows a rather significant difference, as displayed in [Figure 12.24](#fig-p1-ch12-42).
 
 :::{figure} ../images/fig-p1-ch12-42.jpg
 :name: fig-p1-ch12-42
 :alt: FIGURE 12.24 We can use the same experimental apparatus (Figure 12.20) to study the kinetics of OH + mathematical notation as a function of the methane concentration. This can be done by repeating the experiments tracking OH decay, but with
-FIGURE 12.24 We can use the same experimental apparatus (Figure 12.20) to study the kinetics of OH + $\mathsf { C H } _ { 4 } \to \mathsf { H } _ { 2 } \mathsf { O } + \mathsf { C H } _ { 3 }$ as a function of the methane concentration. This can be done by repeating the experiments tracking OH decay, but with different concentrations of $\mathsf { C H } _ { 4 }$ . Shown here are decay plots of OH in the presence of a methane concentration of $[ \mathsf { C H } _ { 4 } ] = 1 \times 1 0 ^ { 1 5 } \mathsf { c m } ^ { - 3 }$ and with $[ \mathsf { C H } _ { 4 } ]$ doubled to $[ \mathsf { C H } _ { 4 } ] = 2 \times 1 0 ^ { 1 5 } \mathsf { c m } ^ { - 3 }$
+FIGURE 12.24 We can use the same experimental apparatus ([Figure 12.20)](#fig-p1-ch12-37) to study the kinetics of OH + $\mathsf { C H } _ { 4 } \to \mathsf { H } _ { 2 } \mathsf { O } + \mathsf { C H } _ { 3 }$ as a function of the methane concentration. This can be done by repeating the experiments tracking OH decay, but with different concentrations of $\mathsf { C H } _ { 4 }$ . Shown here are decay plots of OH in the presence of a methane concentration of $[ \mathsf { C H } _ { 4 } ] = 1 \times 1 0 ^ { 1 5 } \mathsf { c m } ^ { - 3 }$ and with $[ \mathsf { C H } _ { 4 } ]$ doubled to $[ \mathsf { C H } _ { 4 } ] = 2 \times 1 0 ^ { 1 5 } \mathsf { c m } ^ { - 3 }$
 :::
 
 
@@ -773,7 +774,7 @@ from a unit analysis of our second-order rate law.
 
 In chemical kinetics, it is very important to keep an eye on the units of the reaction rate constants because the units of the reaction rate constant tell you the order of the reaction.
 
-We can diagnose the overall order of a reaction by a simple test. If we plot the natural logarithm of the OH concentration, ln[OH], as a function of time in our laser experiment, we notice a key characteristic of the reaction. First, the plot of ln[OH] versus reaction time is linear over the course of the reaction. Second, the slope of ln[OH] versus t is proportional to $\mathrm { [ C H _ { 4 } ] }$ , but still linear. This is shown in Figure 12.25.
+We can diagnose the overall order of a reaction by a simple test. If we plot the natural logarithm of the OH concentration, ln[OH], as a function of time in our laser experiment, we notice a key characteristic of the reaction. First, the plot of ln[OH] versus reaction time is linear over the course of the reaction. Second, the slope of ln[OH] versus t is proportional to $\mathrm { [ C H _ { 4 } ] }$ , but still linear. This is shown in [Figure 12.25](#fig-p1-ch12-43).
 
 :::{figure} ../images/fig-p1-ch12-43.jpg
 :name: fig-p1-ch12-43
@@ -877,14 +878,14 @@ A very important category of chemical reactions follows the rate law
 ```
 
 
-wherein the rate of the reaction does not depend upon the concentration of the reacting species, yet the reactant A is decaying with time. Examples include the kinetics of the catalytic converter on a car or many examples of biological catalysts termed enzymes. If we take the example of the catalytic converter on an automobile, displayed in Figure 12.26, toxic species such as CO, NO, and unburned gasoline $( \mathrm { C _ { x } H _ { y } } )$ are converted to chemically inert substances such as $\mathrm { C O } _ { 2 } , \mathrm { H } _ { 2 } \mathrm { O }$ , and $\mathrm { N } _ { 2 } .$
+wherein the rate of the reaction does not depend upon the concentration of the reacting species, yet the reactant A is decaying with time. Examples include the kinetics of the catalytic converter on a car or many examples of biological catalysts termed enzymes. If we take the example of the catalytic converter on an automobile, displayed in [Figure 12.26](#fig-p1-ch12-45), toxic species such as CO, NO, and unburned gasoline $( \mathrm { C _ { x } H _ { y } } )$ are converted to chemically inert substances such as $\mathrm { C O } _ { 2 } , \mathrm { H } _ { 2 } \mathrm { O }$ , and $\mathrm { N } _ { 2 } .$
 
 :::{figure} ../images/fig-p1-ch12-45.jpg
 :name: fig-p1-ch12-45
 :alt: Figure from the University Chemistry source textbook
 :::
 
-When we examine what is occurring inside the catalytic converter, the first thing we notice is a meshed network that contains a large surface area of finely divided metals and metal oxides (Pt, Pd, ${ \mathrm { V } } _ { 2 } { \mathrm { O } } _ { 5 } , { \mathrm { C r } } _ { 2 } { \mathrm { O } } _ { 3 } ,$ and CuO). On the surface of those metal substrates, the incoming species from the automobile exhaust dissociates into carbon atoms, oxygen atoms, and nitrogen atoms, which are bound to the metal surface as shown for the case of NO in Figure 12.27.
+When we examine what is occurring inside the catalytic converter, the first thing we notice is a meshed network that contains a large surface area of finely divided metals and metal oxides (Pt, Pd, ${ \mathrm { V } } _ { 2 } { \mathrm { O } } _ { 5 } , { \mathrm { C r } } _ { 2 } { \mathrm { O } } _ { 3 } ,$ and CuO). On the surface of those metal substrates, the incoming species from the automobile exhaust dissociates into carbon atoms, oxygen atoms, and nitrogen atoms, which are bound to the metal surface as shown for the case of NO in [Figure 12.27](#fig-p1-ch12-46).
 
 :::{figure} ../images/fig-p1-ch12-46.jpg
 :name: fig-p1-ch12-46
@@ -893,7 +894,7 @@ FIGURE 12.27 When an NO molecule strikes the surface of platinum it dissociates 
 :::
 
 
-The dissociation of the toxic species is then followed on the metal surface by the recombination of the separated atoms into their most thermodynamically stable form: $\mathrm { C O } _ { 2 } , \mathrm { H } _ { 2 } \mathrm { O }$ , and $\mathrm { N } _ { 2 } .$ . But from the perspective of the kinetics, each of the NO molecules simply disappears onto the surface of the metal, which has a virtually limitless number of sites available to dissociate NO into N atoms and O atoms. The removal rate of NO is thus independent of the concentration of NO. The concentration of NO decreases, linearly, with time as shown in the left-hand panel of Figure 12.28.
+The dissociation of the toxic species is then followed on the metal surface by the recombination of the separated atoms into their most thermodynamically stable form: $\mathrm { C O } _ { 2 } , \mathrm { H } _ { 2 } \mathrm { O }$ , and $\mathrm { N } _ { 2 } .$ . But from the perspective of the kinetics, each of the NO molecules simply disappears onto the surface of the metal, which has a virtually limitless number of sites available to dissociate NO into N atoms and O atoms. The removal rate of NO is thus independent of the concentration of NO. The concentration of NO decreases, linearly, with time as shown in the left-hand panel of [Figure 12.28](#fig-p1-ch12-48).
 
 ```{math}
 :label: eq-p1-ch12-53
@@ -925,7 +926,7 @@ For the case of first-order reactions, the rate of reaction is proportional to t
 ```
 
 
-As a result, as the reaction progresses, the rate slows as the concentration of A decays. This behavior is reflected specifically for OH in Figure 12.21 and in general for species A in Figure 12.28. The rate of the reaction, R, versus reactant concentration is displayed in the right-hand panel of Figure 12.28, reflecting that linear increase in the rate as a function of the concentration of A.
+As a result, as the reaction progresses, the rate slows as the concentration of A decays. This behavior is reflected specifically for OH in [Figure 12.21](#fig-p1-ch12-38) and in general for species A in [Figure 12.28](#fig-p1-ch12-48). The rate of the reaction, R, versus reactant concentration is displayed in the right-hand panel of [Figure 12.28](#fig-p1-ch12-48), reflecting that linear increase in the rate as a function of the concentration of A.
 
 ## Second-Order Reactions
 
@@ -937,7 +938,7 @@ Following the logic of zero-order and first-order kinetics, second-order reactio
 ```
 
 
-As a result the rate of the reaction decreases more rapidly with time than is the case for first-order reactions. This is reflected graphically in the left-hand panel of Figure 12.28. In the right-hand panel of Figure 12.28 the rate of the reaction as a function of the concentration of A is seen to increase quadratically with increasing [A]. There is an important distinction to be made with respect to second-order reactions, a distinction that involves the difference between a reaction that is second order overall (such as the reaction of OH with $\mathrm { C H } _ { 4 } )$ and a reaction that is second order with respect to a specific reactant. We know how to express the order of the reaction for OH with $\mathrm { C H } _ { 4 }$
+As a result the rate of the reaction decreases more rapidly with time than is the case for first-order reactions. This is reflected graphically in the left-hand panel of [Figure 12.28](#fig-p1-ch12-48). In the right-hand panel of [Figure 12.28](#fig-p1-ch12-48) the rate of the reaction as a function of the concentration of A is seen to increase quadratically with increasing [A]. There is an important distinction to be made with respect to second-order reactions, a distinction that involves the difference between a reaction that is second order overall (such as the reaction of OH with $\mathrm { C H } _ { 4 } )$ and a reaction that is second order with respect to a specific reactant. We know how to express the order of the reaction for OH with $\mathrm { C H } _ { 4 }$
 
 ```{math}
 :label: eq-p1-ch12-56
@@ -965,11 +966,11 @@ R = - \frac {1}{2} \frac {d [ O H ]}{d t} = k [ O H ] ^ {2}
 
 This rate law is second order with respect to [OH] and second order overall. Notice also that the factor ½ appears because two OH radicals are removed each time the reaction is completed. Stated another way, if we are observing the disappearance of OH, the reaction is completed at one-half the rate at which OH is disappearing. This is an important point in kinetics and we consider it carefully after treating third-order kinetics.
 
-We can summarize the disappearance of the reacting species with time for zero, first, and second order as shown schematically in Figure 12.28 as well as the rate of the reaction versus reactant concentration in the right-hand panel of Figure 12.28.
+We can summarize the disappearance of the reacting species with time for zero, first, and second order as shown schematically in [Figure 12.28](#fig-p1-ch12-48) as well as the rate of the reaction versus reactant concentration in the right-hand panel of [Figure 12.28](#fig-p1-ch12-48).
 
 ## Third-Order Reactions
 
-We know that third-order reactions must exist because we have examined the formation of ozone on the potential energy surface of Figure 12.12
+We know that third-order reactions must exist because we have examined the formation of ozone on the potential energy surface of [Figure 12.12](#fig-p1-ch12-15)
 
 ```{math}
 :label: eq-p1-ch12-59
@@ -1133,7 +1134,7 @@ or
 ```
 
 
-When $[ \mathrm { A } ] _ { \mathrm { t } }$ is graphed against time, t, we have, as shown in Figure 12.29, the decay of $[ \mathrm { A } ]$ as a function of time.
+When $[ \mathrm { A } ] _ { \mathrm { t } }$ is graphed against time, t, we have, as shown in [Figure 12.29](#fig-p1-ch12-49), the decay of $[ \mathrm { A } ]$ as a function of time.
 
 :::{figure} ../images/fig-p1-ch12-49.jpg
 :name: fig-p1-ch12-49
@@ -1210,7 +1211,7 @@ We can use the mathematical identity ln $( \mathrm { x } _ { 2 } / \mathrm { x }
 ```
 
 
-to give $\mathrm { l n [ O H ] _ { \ell } = - k _ { \ o b s } ^ { I } \ t + l n [ O H ] _ { o } }$ . This equation is just the slope-intercept equation for y as a function of ${ \bf x } , { \bf y } = { \bf m } { \bf x } + { \bf b }$ , where m is the slope of y vs. x and b is the intercept. Thus the relationship between $[ \mathrm { O H } ] _ { \mathrm { t } }$ and t can be represented graphically by plotting $\mathbf { l n } [ \mathrm { O H } ] _ { \mathrm { f } } \mathbf { v } \mathbf { s }$ . t as shown in Figure 12.30.
+to give $\mathrm { l n [ O H ] _ { \ell } = - k _ { \ o b s } ^ { I } \ t + l n [ O H ] _ { o } }$ . This equation is just the slope-intercept equation for y as a function of ${ \bf x } , { \bf y } = { \bf m } { \bf x } + { \bf b }$ , where m is the slope of y vs. x and b is the intercept. Thus the relationship between $[ \mathrm { O H } ] _ { \mathrm { t } }$ and t can be represented graphically by plotting $\mathbf { l n } [ \mathrm { O H } ] _ { \mathrm { f } } \mathbf { v } \mathbf { s }$ . t as shown in [Figure 12.30](#fig-p1-ch12-50).
 
 :::{figure} ../images/fig-p1-ch12-50.jpg
 :name: fig-p1-ch12-50
@@ -1458,7 +1459,7 @@ or
 ```
 
 
-If we graph the concentration of [OH] versus time, the most convenient form is to plot $1 / [ \mathrm { O H } ]$ vs. t so the slope of the line is equal to $\operatorname { k } _ { \mathrm { \ o b s } } ^ { \mathrm { I I } }$ and the intercept is $1 / [ \mathrm { O H } ] _ { 0 }$ , as shown in Figure 12.31.
+If we graph the concentration of [OH] versus time, the most convenient form is to plot $1 / [ \mathrm { O H } ]$ vs. t so the slope of the line is equal to $\operatorname { k } _ { \mathrm { \ o b s } } ^ { \mathrm { I I } }$ and the intercept is $1 / [ \mathrm { O H } ] _ { 0 }$ , as shown in [Figure 12.31](#fig-p1-ch12-52).
 
 :::{figure} ../images/fig-p1-ch12-52.jpg
 :name: fig-p1-ch12-52
@@ -1493,10 +1494,11 @@ t _ {1 / 2} = \frac {1}{k _ {o b s} ^ {I I} [ \mathrm{OH} ] _ {o}}
 
 Thus the half-life of a second-order reaction depends inversely on the initial reactant concentration.
 
-We can summarize the relationship between the order of a reaction, the rate law, the units of the reaction rate constant, the integral form of the rate law, the graphical relationship between concentration and time, and the expression for the half-life of the concentration, all displayed in Figure 12.32.
+We can summarize the relationship between the order of a reaction, the rate law, the units of the reaction rate constant, the integral form of the rate law, the graphical relationship between concentration and time, and the expression for the half-life of the concentration, all displayed in [Figure 12.32](#original-fig-12-32).
 
 <table><tr><td colspan="5">Rate Law Summary Table</td></tr><tr><td>Order</td><td>Rate Law</td><td>Integrated Rate Law</td><td>Straight-Line Plot</td><td>Half-Life Expression</td></tr><tr><td>0</td><td> $Rate = k[A]^0$ </td><td> $[A]_t = -kt + [A]_0$ </td><td><img src="../images/fig-p1-ch12-53.jpg" alt="Source textbook figure"/></td><td> $t_{1/2} = \frac{[A]_0}{2k} = \frac{1}{k} \frac{[A]_0}{2}$ </td></tr><tr><td>1</td><td> $Rate = k[A]^1$ </td><td> $\ln[A]_t = -kt + \ln[A]_0$  $\ln\frac{[A]_t}{[A]_0} = -kt$ </td><td><img src="../images/fig-p1-ch12-54.jpg" alt="Source textbook figure"/></td><td> $t_{1/2} = \frac{0.693}{k} = \frac{1}{k} (0.693)$ </td></tr><tr><td>2</td><td> $Rate = k[A]^2$ </td><td> $\frac{1}{[A]_t} = kt + \frac{1}{[A]_0}$ </td><td><img src="../images/fig-p1-ch12-55.jpg" alt="Source textbook figure"/></td><td> $t_{1/2} = \frac{1}{k[A]_0} = \frac{1}{k} \frac{1}{[A]_0}$ </td></tr></table>
 
+(original-fig-12-32)=
 FIGURE 12.32 We can summarize, for observed zero-order, first-order, and second-order kinetics, the rate law, the integrated rate law, the plot of concentration vs. time, and the half-life expression for each case.
 
 ## Check Yourself 5
@@ -1572,7 +1574,7 @@ We have now explored the kinetics of chemical reactions from (1) the molecular p
 
 One of the most useful and powerful approximations in chemistry is the Steady State Approximation, which takes explicit advantage of the fact that within many chemical mechanisms reside elementary reactions that rapidly produce and remove reactive intermediates for which the loss rate of the species is limited by its production rate.
 
-Consider the important case of the hydroxyl radical, OH, reacting with $\mathrm { N O } _ { 2 }$ shown on its potential energy surface in Figure 12.33. The only thermodynamically allowed pathway for this reaction is the termolecular reaction
+Consider the important case of the hydroxyl radical, OH, reacting with $\mathrm { N O } _ { 2 }$ shown on its potential energy surface in [Figure 12.33](#fig-p1-ch12-57). The only thermodynamically allowed pathway for this reaction is the termolecular reaction
 
 ```{math}
 :label: eq-p1-ch12-118
@@ -1737,7 +1739,7 @@ k _ {\mathrm{obs}} ^ {\mathrm{II}} = \frac {k _ {1} k _ {2} [ M ]}{k _ {- 1} + k
 ```
 
 
-Thus when we graph $k _ { \mathrm { \mathrm { \ o b s } } } ^ { \mathrm { m } } \mathbf { v } \mathbf { s }$ . [M], we have a range of [M] for which the slope of $k _ { \mathrm { { o b s } } } ^ { \mathrm { { I I } } } \mathbf { v } \mathbf { s }$ . [M] increases linearly for small [M]. At large $[ \bar { M } ] , ^ { k _ { \mathrm { o b s } } ^ { \mathrm { I I } } }$ approaches a limit that is independent of [M]. This is sketched in Figure 12.34.
+Thus when we graph $k _ { \mathrm { \mathrm { \ o b s } } } ^ { \mathrm { m } } \mathbf { v } \mathbf { s }$ . [M], we have a range of [M] for which the slope of $k _ { \mathrm { { o b s } } } ^ { \mathrm { { I I } } } \mathbf { v } \mathbf { s }$ . [M] increases linearly for small [M]. At large $[ \bar { M } ] , ^ { k _ { \mathrm { o b s } } ^ { \mathrm { I I } } }$ approaches a limit that is independent of [M]. This is sketched in [Figure 12.34](#fig-p1-ch12-58).
 
 :::{figure} ../images/fig-p1-ch12-58.jpg
 :name: fig-p1-ch12-58
@@ -1904,7 +1906,7 @@ k _ {\mathrm{obs}} = \frac {k _ {1} k _ {3}}{k _ {2}}.
 
 We all have a great deal of experience with the temperature dependence of chemical reactions. Nearly all foods that are open to the atmosphere will spoil much more rapidly as temperatures increase. That is, of course, why we have refrigeration in our homes and virtually everywhere else. We also notice that adhesives such as epoxy cure more rapidly at elevated temperature and materials age more rapidly at high temperature. It was Arrhenius who first systematically studied this behavior, and as he investigated more and more chemical systems with respect to the rate at which reactions proceeded as a function of temperature, he began to see a consistent pattern.
 
-What Arrhenius noticed was that the reaction rate constant, k, changed very little over a fairly broad range of temperatures and then as the rate began to increase it became rapidly faster with increasing temperature, as shown in Figure 12.35.
+What Arrhenius noticed was that the reaction rate constant, k, changed very little over a fairly broad range of temperatures and then as the rate began to increase it became rapidly faster with increasing temperature, as shown in [Figure 12.35](#fig-p1-ch12-59).
 
 Behavior of Rates with Temperature: Deduction from Observation What is the observed dependence of rates on temperature?
 :::{figure} ../images/fig-p1-ch12-59.jpg
@@ -1940,7 +1942,7 @@ k _ {\mathrm{obs}} = A \exp \left[ - \frac {E _ {a}}{R T} \right]
 ```
 
 
-The slope of the “Arrhenius Plot” was $- E _ { a } / R$ such that we can capture this all in simple graphical form, as shown in Figure 12.36.
+The slope of the “Arrhenius Plot” was $- E _ { a } / R$ such that we can capture this all in simple graphical form, as shown in [Figure 12.36](#fig-p1-ch12-60).
 
 :::{figure} ../images/fig-p1-ch12-60.jpg
 :name: fig-p1-ch12-60
@@ -2055,7 +2057,7 @@ And writing $\mathbf { V } _ { _ { \mathrm { r m s } } } = \sqrt { \mathbf { V }
 
 This suggests the union of the molecular world, as Boltzmann saw it, and the macroscopic world, as Arrhenius viewed chemical reactions.
 
-If we plot the velocity distribution of molecules there is a very characteristic shape to such a function, as displayed in Figure 12.37. But we can also represent that velocity in terms of the kinetic energy of the molecular motion $E = 1 / 2 \ m \mathbf { v } ^ { 2 }$ and then plot the number of molecules as a function of kinetic energy. Not surprisingly, that molecular distribution has the same basic shape. It rises from zero at zero energy, passes through a maximum, and then “tails $\mathrm { o f f } ^ { \prime \prime }$ at high energy.
+If we plot the velocity distribution of molecules there is a very characteristic shape to such a function, as displayed in [Figure 12.37](#fig-p1-ch12-61). But we can also represent that velocity in terms of the kinetic energy of the molecular motion $E = 1 / 2 \ m \mathbf { v } ^ { 2 }$ and then plot the number of molecules as a function of kinetic energy. Not surprisingly, that molecular distribution has the same basic shape. It rises from zero at zero energy, passes through a maximum, and then “tails $\mathrm { o f f } ^ { \prime \prime }$ at high energy.
 
 :::{figure} ../images/fig-p1-ch12-61.jpg
 :name: fig-p1-ch12-61
@@ -2063,16 +2065,16 @@ If we plot the velocity distribution of molecules there is a very characteristic
 FIGURE 12.37 The Boltzmann distribution of molecular speeds represented as the fraction of molecules within each speed. Shown in the figure are the “mean speed,” $\mathsf { v } _ { \mathsf { m } } ;$ the “average speed,” $\mathsf { v } _ { \mathsf { a v } } ,$ and the “root mean square speed,” $\mathsf { ^ { \prime } v } _ { \mathsf { r m s } } .$ . Notice in particular the long “tail” of the distribution at high speeds.
 :::
 
-This allows us to link three concepts, shown in Figure 12.38, into a single picture.
+This allows us to link three concepts, shown in [Figure 12.38](#fig-p1-ch12-62), into a single picture.
 
 :::{figure} ../images/fig-p1-ch12-62.jpg
 :name: fig-p1-ch12-62
 :alt: FIGURE 12.38 The exponential dependence of the Arrhenius expression can be understood by combining the Boltzmann distribution of molecular speeds shown in Figure 12.37 with the potential energy diagram for a bimolecular reaction.
-FIGURE 12.38 The exponential dependence of the Arrhenius expression can be understood by combining the Boltzmann distribution of molecular speeds shown in Figure 12.37 with the potential energy diagram for a bimolecular reaction.
+FIGURE 12.38 The exponential dependence of the Arrhenius expression can be understood by combining the Boltzmann distribution of molecular speeds shown in [Figure 12.37](#fig-p1-ch12-61) with the potential energy diagram for a bimolecular reaction.
 :::
 
 
-So now if the vertical axis is energy, as it is in the potential energy diagram, and we rotate the Boltzmann distribution so as to align its energy axis with that of the PES, as shown in Figure 12.39, we identify the energy of activation, $E _ { a } ,$ as it appears in the Arrhenius expression. We see that only those molecules in the high energy tail of the Boltzmann distribution have sufficient energy to surmount the barrier.
+So now if the vertical axis is energy, as it is in the potential energy diagram, and we rotate the Boltzmann distribution so as to align its energy axis with that of the PES, as shown in [Figure 12.39](#fig-p1-ch12-63), we identify the energy of activation, $E _ { a } ,$ as it appears in the Arrhenius expression. We see that only those molecules in the high energy tail of the Boltzmann distribution have sufficient energy to surmount the barrier.
 
 :::{figure} ../images/fig-p1-ch12-63.jpg
 :name: fig-p1-ch12-63
@@ -2287,7 +2289,7 @@ The integration of the rate law provides the mathematical relationship between t
 
 ## CASE STUDY 12.1 Kinetics, Catalysis, Free Radicals, and the Antarctic Ozone Hole
 
-Figure CS12.1a captures schematically the collision of a UV photon with the structure of DNA. A UV photon has sufficient energy to break the base pair across the double helix of DNA. The only reason organisms can survive on the Earth's surface is that these UV photons are absorbed in the “near UV” between 200 and 300 nm by ozone that exists in the stratosphere. The existence of ozone in the stratosphere depends in a very sensitive way on the kinetics of reactions that both produce $\mathrm { { O } } _ { 3 }$ and that destroy $\mathrm { { O } } _ { 3 }$ . In this case study, we first analyze the reactions that control the ozone distribution and then consider the cause of the antarctic ozone hole.
+[Figure CS12.1A](#fig-p1-ch12-77) captures schematically the collision of a UV photon with the structure of DNA. A UV photon has sufficient energy to break the base pair across the double helix of DNA. The only reason organisms can survive on the Earth's surface is that these UV photons are absorbed in the “near UV” between 200 and 300 nm by ozone that exists in the stratosphere. The existence of ozone in the stratosphere depends in a very sensitive way on the kinetics of reactions that both produce $\mathrm { { O } } _ { 3 }$ and that destroy $\mathrm { { O } } _ { 3 }$ . In this case study, we first analyze the reactions that control the ozone distribution and then consider the cause of the antarctic ozone hole.
 
 :::{figure} ../images/fig-p1-ch12-77.jpg
 :name: fig-p1-ch12-77
@@ -2370,7 +2372,7 @@ R _ {1} = \frac {- d [ \mathrm{O} _ {2} ]}{d t} = \frac {1}{2} \frac {d [ \mathr
 ```
 
 
-(photodissociation reactions are written in terms of a first-order reaction rate constant in units of $\scriptstyle { \left[ \mathbf { s e c } ^ { - 1 } \right] } )$ , increases as $[ \mathbf { O } _ { 2 } ]$ increases until all the UV photons are used up and, as a result, $R _ { 1 }$ goes to zero. This is why ozone increases as we come down through the atmosphere, until it reaches a peak, and then decreases as we go lower in the atmosphere, thereby forming a layer (the “ozone layer”) in the stratosphere about 25 kilometers above the ground. This sequence is summarized in Figure CS12.1b.
+(photodissociation reactions are written in terms of a first-order reaction rate constant in units of $\scriptstyle { \left[ \mathbf { s e c } ^ { - 1 } \right] } )$ , increases as $[ \mathbf { O } _ { 2 } ]$ increases until all the UV photons are used up and, as a result, $R _ { 1 }$ goes to zero. This is why ozone increases as we come down through the atmosphere, until it reaches a peak, and then decreases as we go lower in the atmosphere, thereby forming a layer (the “ozone layer”) in the stratosphere about 25 kilometers above the ground. This sequence is summarized in [Figure CS12.1B](#original-fig-cs12-1b).
 
 :::{figure} ../images/fig-p1-ch12-78.jpg
 :name: fig-p1-ch12-78
@@ -2378,6 +2380,7 @@ R _ {1} = \frac {- d [ \mathrm{O} _ {2} ]}{d t} = \frac {1}{2} \frac {d [ \mathr
 :::
 
 Ozone increases with decreasing altitude because of increasing ${ \bf O } _ { 2 }$ and then decreases because UV photons capable of breaking $\mathbf { O } _ { 2 }$ bonds have been removed.
+(original-fig-cs12-1b)=
 FIGURE CS12.1B The photochemistry of oxygen is a critically important mechanism for the protection of organisms on Earth's surface. Photodissociation of ${ \sf O } _ { 2 }$ leads to the formation of ozone in the stratosphere—ozone that absorbs ultraviolet radiation between 200 and 300 nm. Ozone is formed by atomic oxygen reacting with molecular oxygen, $\mathsf { O } + \mathsf { O } _ { 2 } + M \to \mathsf { O } _ { 3 } + M ,$ in a termolecular reaction. Ozone is removed by photodissociation, $\mathsf { O } _ { 3 } + h v \to 0 + \mathsf { O } _ { 2 }$ , and by the bimolecular reaction, $0 + 0 _ { 3 }  \mathsf { O } _ { 2 } + \mathsf { O } _ { 2 }$
 
 But a careful comparison between the rates of the individual reactions in oxygen photochemistry (Reactions 1-4 above) and the amount of ozone in the stratosphere demonstrated that there was only about onethird the amount of ozone present in the stratosphere when compared with what would be predicted by this “pure oxygen” reaction scheme. Thus, something else was removing ozone, because we know (1) how much $\mathrm { O } _ { 2 }$ there is in the atmosphere, (2) how many UV photons are received from the sun, and (3) laboratory measurements of the reaction rate constants $k _ { 1 } , k _ { 2 } , k _ { 3 } ,$ and $k _ { 4 }$
@@ -2455,7 +2458,7 @@ In 1928 a chemist by the name of Thomas Midgley, Jr., working for General Motors
 
 In the middle of the twentieth century, a global study was initiated—a study entitled the International Geophysical Year or IGY. This study, begun in 1958, was a two year effort to build a database on key scientific observations from the far reaches of the globe, including Antarctica and the Arctic. As part of those global observations, measurement stations were established on the Antarctic continent, one of them by Cambridge University (Cambridge, England) at Halley Bay. That measurement station began to systematically gather data on sea level, temperature, precipitation, and ozone concentrations in the stratosphere. All of those observations were obtained from the ground; stratospheric ozone amounts were obtained by observing the absorption of solar radiation in the same spectral region within which ozone absorbs UV and thereby protects inhabitants of the planet—200 to 300 nm.
 
-Those observations, displayed in Figure CS12.1c, were continued each year, beginning in 1958, and they proved to be of critical importance for society. As the 1950s gave way to the 1960s and then the 1970s, researchers from the British Antarctic Survey wintered over at Halley Bay, keeping careful records of many geophysical quantities, but there was little change, save the natural variability of these quantities. Then in the mid 1970s, the British Antarctic Survey began to record significant drops in the amount of stratospheric ozone in the month following the return of sunlight to Antarctica. That month was October, and the October monthly mean ozone concentration continued to decline significantly each year through the remainder of the 1970s and into the mid 1980s, as shown in Figure CS12.1c.
+Those observations, displayed in [Figure CS12.1C](#fig-p1-ch12-80), were continued each year, beginning in 1958, and they proved to be of critical importance for society. As the 1950s gave way to the 1960s and then the 1970s, researchers from the British Antarctic Survey wintered over at Halley Bay, keeping careful records of many geophysical quantities, but there was little change, save the natural variability of these quantities. Then in the mid 1970s, the British Antarctic Survey began to record significant drops in the amount of stratospheric ozone in the month following the return of sunlight to Antarctica. That month was October, and the October monthly mean ozone concentration continued to decline significantly each year through the remainder of the 1970s and into the mid 1980s, as shown in [Figure CS12.1C](#fig-p1-ch12-80).
 
 :::{figure} ../images/fig-p1-ch12-80.jpg
 :name: fig-p1-ch12-80
@@ -2466,7 +2469,7 @@ FIGURE CS12.1C The decrease in the total column density of stratospheric ozone i
 
 Then one of the most shocking discoveries in the annals of science was announced in 1985 by the British journal Nature, wherein the British Antarctic Survey revealed the data record for ozone over Antarctica from 1958 until 1984 showing a reduction in the October monthly mean of more than 30 percent! This was an amount of ozone loss that, had it occurred over populated regions of the globe, would have induced an epidemic in skin cancer cases, as the incidence of such cases is extremely dependent on UV dosage.
 
-This discovery set off both a firestorm of concern and a wave of scientific hypotheses addressing potential mechanisms responsible for such massive loss of ozone. It also triggered intense scrutiny of satellite data; observations that should have detected the loss of ozone years earlier when the first instruments capable of observing the total ozone content of the stratosphere were placed in Earth orbit in the 1970s. The first published satellite measurements revealed a massive void in stratospheric ozone concentration over a region larger than the Antarctic continent. Those images, an example of which is shown in Figure CS12.1d, led to the phenomenon being dubbed the “Antarctic ozone hole,” and the name stuck.
+This discovery set off both a firestorm of concern and a wave of scientific hypotheses addressing potential mechanisms responsible for such massive loss of ozone. It also triggered intense scrutiny of satellite data; observations that should have detected the loss of ozone years earlier when the first instruments capable of observing the total ozone content of the stratosphere were placed in Earth orbit in the 1970s. The first published satellite measurements revealed a massive void in stratospheric ozone concentration over a region larger than the Antarctic continent. Those images, an example of which is shown in [Figure CS12.1D](#fig-p1-ch12-81), led to the phenomenon being dubbed the “Antarctic ozone hole,” and the name stuck.
 
 :::{figure} ../images/fig-p1-ch12-81.jpg
 :name: fig-p1-ch12-81
@@ -2483,7 +2486,7 @@ The debate grew over what was causing such a precipitous reduction in ozone, whe
 
 3. Compounds released at the surface by human activity penetrated the stratosphere and lead to the destruction of ozone—in particular chlorine and bromine from chlorofluorocarbons and halon compounds were somehow involved.
 
-The United States responded by mounting exploratory missions on both the ground and by aircraft. The aircraft mission employed the famous U-2 spy plane, which could fly high enough to reach the stratosphere. It was outfitted with instruments that could test the various hypotheses outlined above. The aircraft flights revealed a rather dramatic series of events, beginning with the first flight, timed for just after the sun appeared for the first time on the horizon over Antarctica. The U-2, renamed the ER-2 by NASA, was equipped with instruments to study the ozone problem over Antarctica and is displayed in Figure CS12.1e.
+The United States responded by mounting exploratory missions on both the ground and by aircraft. The aircraft mission employed the famous U-2 spy plane, which could fly high enough to reach the stratosphere. It was outfitted with instruments that could test the various hypotheses outlined above. The aircraft flights revealed a rather dramatic series of events, beginning with the first flight, timed for just after the sun appeared for the first time on the horizon over Antarctica. The U-2, renamed the ER-2 by NASA, was equipped with instruments to study the ozone problem over Antarctica and is displayed in [Figure CS12.1E](#fig-p1-ch12-82).
 
 :::{figure} ../images/fig-p1-ch12-82.jpg
 :name: fig-p1-ch12-82
@@ -2492,7 +2495,7 @@ FIGURE CS12.1E The NASA ER-2 aircraft, which is a very high altitude research ai
 :::
 
 
-As the aircraft, shown in Figure CS12.1e, passed through what is called the winter “polar jet” shown in Figure 12.1 that physically isolates the Antarctic stratosphere from the outside world, the ozone concentration changed very little (as indicated in the August ${ 2 3 } ^ { \mathrm { r d } }$ plot shown in the left panel of Figure 12.1), but the ClO concentration increased dramatically, reaching levels ten times that present outside this “vortex” region. Just three weeks later, on September $1 6 ^ { \mathrm { { t h } } }$ (shown in the upper right panel of Figure 12.1), the ozone concentration had decreased by 60% inside the vortex in the region of highly amplified ClO. In fact, on smaller scales, every region high in ClO was found to be low in ozone and every region low in ClO was found to be high in ozone.
+As the aircraft, shown in [Figure CS12.1E](#fig-p1-ch12-82), passed through what is called the winter “polar jet” shown in [Figure 12.1](#fig-p1-ch12-2) that physically isolates the Antarctic stratosphere from the outside world, the ozone concentration changed very little (as indicated in the August ${ 2 3 } ^ { \mathrm { r d } }$ plot shown in the left panel of [Figure 12.1)](#fig-p1-ch12-2), but the ClO concentration increased dramatically, reaching levels ten times that present outside this “vortex” region. Just three weeks later, on September $1 6 ^ { \mathrm { { t h } } }$ (shown in the upper right panel of [Figure 12.1)](#fig-p1-ch12-2), the ozone concentration had decreased by 60% inside the vortex in the region of highly amplified ClO. In fact, on smaller scales, every region high in ClO was found to be low in ozone and every region low in ClO was found to be high in ozone.
 
 So how does society deal with such a situation? The anticorrelation of ClO and $\mathrm { { O } } _ { 3 }$ suggests (but does not prove) that ClO is somehow affecting $\mathrm { O } _ { 3 } .$ But how exactly is ClO affecting $0 _ { 3 } ?$ There are some 1.2 parts per billion (ppb) of ClO, but there are 3000 ppb of ozone, so how could ClO possibly remove ozone? Also, what determines the rate at which ozone is lost? Where did the ClO molecule come from? Before society acts, these questions must be answered—particularly because many people regarded the ozone loss issue as a hoax. However, whatever a person's views were, scientific evidence was necessary for informed public policy decisions because such policy has major economic consequences.
 
@@ -2550,7 +2553,7 @@ Ozone Concentration
 ```
 
 
-The observed concentrations of ClO and BrO and the rate of disappearance of ozone measured by the U-2 aircraft within the Antarctic vortex established quantitatively that the rate limiting steps, occurring on explicitly defined potential energy surfaces, were responsible for the observed rate of ozone loss. This is summarized in Figure CS12.1f.
+The observed concentrations of ClO and BrO and the rate of disappearance of ozone measured by the U-2 aircraft within the Antarctic vortex established quantitatively that the rate limiting steps, occurring on explicitly defined potential energy surfaces, were responsible for the observed rate of ozone loss. This is summarized in [Figure CS12.1F](#original-fig-cs12-1f).
 
 ```{math}
 :label: eq-p1-ch12-196
@@ -2611,9 +2614,10 @@ R L S \quad \mathrm{ClO} + \mathrm{BrO} \rightarrow \mathrm{Cl} + \mathrm{Br} + 
 ```
 
 
+(original-fig-cs12-1f)=
 FIGURE CS12.1F The loss of ozone as a function of time within the Antarctic vortex is shown for actual observations. The concentration of ${ \sf O } _ { 3 }$ is shown on the vertical axis in units of $1 0 ^ { 1 2 }$ $\mathsf { m o l e c u l e s } / \mathsf { c m } ^ { 3 }$ Time in days is displayed on the horizontal axis. The rate of ozone loss, $d ( { \cal O } _ { 3 } ] / d t ,$ is plotted based on the rate limiting step of the chlorine dimer mechanism. When the rate of removal of the bromine-chlorine catalytic step is added to the dimer catalytic step, the rate of ozone loss, shown by the dashed curve, is equal to the observed rate of ozone loss.
 
-Thus, while the observed anticorrelation of $\mathrm { { O } } _ { 3 }$ and ClO (shown in Figure $\underline { { 1 2 . 1 } } )$ was a dramatic visual, what made the case compelling in a court of public policy and in a court of science was the unequivocal proof through an understanding of catalytic reactions. In particular, specific catalytic cycles were identified that control chemical transformations at a rate dictated by the rate limiting step in each of those catalytic cycles. This was the scientific foundation underlying the Montreal Protocol that today limits the global production of CFCs and halons. It has now been demonstrated that had immediate controls not been placed on CFC production and distribution in the 1990s, large increases in UV dosage at the Earth's surface would now have occurred with serious human health implications.
+Thus, while the observed anticorrelation of $\mathrm { { O } } _ { 3 }$ and ClO (shown in [Figure 12.1](#fig-p1-ch12-2) was a dramatic visual, what made the case compelling in a court of public policy and in a court of science was the unequivocal proof through an understanding of catalytic reactions. In particular, specific catalytic cycles were identified that control chemical transformations at a rate dictated by the rate limiting step in each of those catalytic cycles. This was the scientific foundation underlying the Montreal Protocol that today limits the global production of CFCs and halons. It has now been demonstrated that had immediate controls not been placed on CFC production and distribution in the 1990s, large increases in UV dosage at the Earth's surface would now have occurred with serious human health implications.
 
 ## Problem 1
 
@@ -2645,7 +2649,7 @@ c. Given your answer in (a) and (b), what is the total rate of ozone loss for th
 
 The history of life, as it evolved from very primitive beginnings and grew to exert powerful control over the chemical and physical structure of the Earth system, is a remarkable yet unsolved problem. It began like this. After a delay of some one billion years following the formation of the proto-Earth, the first life forms began to emerge. Microfossils resembling modern cyanobacteria have been found in 3.5 billion year old rocks. The circumstances related to the first life forms have been, and continue to be, the subject of a great debate. There have emerged a number of plausible paths leading to the inexorable march toward more complex and intricate biological architectures, exhibited by the vast array of species that now inhabit the planet.
 
-One line of reasoning begins with the observed fact that a stunning number of organic structures exist in the interstellar medium—most of these molecular structures have been observed in the microwave region using ground-based receiving antennas, as shown in Figure CS12.2a.
+One line of reasoning begins with the observed fact that a stunning number of organic structures exist in the interstellar medium—most of these molecular structures have been observed in the microwave region using ground-based receiving antennas, as shown in [Figure CS12.2A](#fig-p1-ch12-84).
 
 :::{figure} ../images/fig-p1-ch12-84.jpg
 :name: fig-p1-ch12-84
@@ -2654,7 +2658,7 @@ FIGURE CS12.2A The ability of the atmosphere to absorb electromagnetic radiation
 :::
 
 
-These precursors to life, or indeed life forms themselves, may have been delivered to the Earth's surface by comets, which are composed largely of ice and provide a potential harbor for primitive life forms. Another school of thought is organized around the concept that the molecules that constitute the building blocks of more complex structures (carbon, nitrogen, oxygen, etc.) were present in the early atmosphere, and the energy release from photochemical reactions initiated by ultraviolet radiation or from lightning triggered the synthesis of the amino acids that polymerized to produce proteins—the building blocks of all living structures. Yet another line of reasoning cites the existence of deep-sea vents as the most probable domain for fostering early life forms. These vents are located along regions of the sea floor which are spreading, driven by the motion of tectonic plates. These vent regions provide a remarkable array of temperatures, chemical environments and protection from destructive UV radiation. Studies of these regions have intensified over the past two decades revealing intricate ecological infrastructure that fostered bacteria capable of using sulfur contained in the vent water to develop an ecosystem that supports a dense population of shellfish and worms. There is growing evidence that these life forms, in the vicinity of deep-sea vents, shown in Figure CS12.2b, constitute the early life forms some 3 billion years ago.
+These precursors to life, or indeed life forms themselves, may have been delivered to the Earth's surface by comets, which are composed largely of ice and provide a potential harbor for primitive life forms. Another school of thought is organized around the concept that the molecules that constitute the building blocks of more complex structures (carbon, nitrogen, oxygen, etc.) were present in the early atmosphere, and the energy release from photochemical reactions initiated by ultraviolet radiation or from lightning triggered the synthesis of the amino acids that polymerized to produce proteins—the building blocks of all living structures. Yet another line of reasoning cites the existence of deep-sea vents as the most probable domain for fostering early life forms. These vents are located along regions of the sea floor which are spreading, driven by the motion of tectonic plates. These vent regions provide a remarkable array of temperatures, chemical environments and protection from destructive UV radiation. Studies of these regions have intensified over the past two decades revealing intricate ecological infrastructure that fostered bacteria capable of using sulfur contained in the vent water to develop an ecosystem that supports a dense population of shellfish and worms. There is growing evidence that these life forms, in the vicinity of deep-sea vents, shown in [Figure CS12.2B](#fig-p1-ch12-85), constitute the early life forms some 3 billion years ago.
 
 :::{figure} ../images/fig-p1-ch12-85.jpg
 :name: fig-p1-ch12-85
@@ -2663,7 +2667,7 @@ FIGURE CS12.2B Deep sea vents, where hot water rich in mineral nutrients emerges
 :::
 
 
-A key component of the evolution of the Earth system to what we regard today as a planet possessing immense beauty and diversity, was the buildup of free oxygen in the atmosphere. This growth of oxygen in the atmosphere, from a minor species some 3.5 billion years ago, when its mole-fraction in the atmosphere was approximately $1 0 \times { { 1 0 } ^ { - 6 } }$ (that is tenparts-per-million), to its role over the past 600 million years as a major species that grew to comprise some 20 percent of the atmosphere 350 million years ago, is displayed in Figure CS12.2c.
+A key component of the evolution of the Earth system to what we regard today as a planet possessing immense beauty and diversity, was the buildup of free oxygen in the atmosphere. This growth of oxygen in the atmosphere, from a minor species some 3.5 billion years ago, when its mole-fraction in the atmosphere was approximately $1 0 \times { { 1 0 } ^ { - 6 } }$ (that is tenparts-per-million), to its role over the past 600 million years as a major species that grew to comprise some 20 percent of the atmosphere 350 million years ago, is displayed in [Figure CS12.2C](#fig-p1-ch12-86).
 
 :::{figure} ../images/fig-p1-ch12-86.jpg
 :name: fig-p1-ch12-86
@@ -2698,7 +2702,7 @@ The signature isotopic marker for organic material formed in photosynthetic proc
 
 But the key result of the emergence of autotrophic organisms was the release of $\mathrm { O } _ { 2 } .$ . While the large class of anaerobic bacteria survived under difficult conditions in the initial stages of evolution, their species were very sensitive to $\mathrm { O } _ { 2 }$ —they could not survive in its presence. What saved these early life forms from destruction by the $\mathrm { O } _ { 2 }$ produced by autotrophic organisms were the many oxidizable minerals in the Earth's crust, most notably sulfur and iron. These minerals extracted the oxygen formed by the early autotrophs and chemically bound the oxygen, allowing these early species to prosper.
 
-The silicate minerals of the mantle yielded elevated levels of $\mathrm { F e ^ { 2 + } }$ in the early ocean. And $\mathrm { F e ^ { 2 + } }$ is quite soluble, providing an oxidation pathway to $\mathrm { F e ^ { 3 ^ { + } } }$ , primarily as precipitates of $\mathrm { F e ( O H ) _ { 3 } . F e _ { 2 } O _ { 3 } } ,$ ferric oxide, has been discovered in sedimentary rocks as old as 3.5 billion years and constitutes the first evidence of oxygen production in Banded Iron Formations in which siliceous sediment is sandwiched in with $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ as shown in Figure CS12.2d.
+The silicate minerals of the mantle yielded elevated levels of $\mathrm { F e ^ { 2 + } }$ in the early ocean. And $\mathrm { F e ^ { 2 + } }$ is quite soluble, providing an oxidation pathway to $\mathrm { F e ^ { 3 ^ { + } } }$ , primarily as precipitates of $\mathrm { F e ( O H ) _ { 3 } . F e _ { 2 } O _ { 3 } } ,$ ferric oxide, has been discovered in sedimentary rocks as old as 3.5 billion years and constitutes the first evidence of oxygen production in Banded Iron Formations in which siliceous sediment is sandwiched in with $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ as shown in [Figure CS12.2D](#fig-p1-ch12-87).
 
 :::{figure} ../images/fig-p1-ch12-87.jpg
 :name: fig-p1-ch12-87
@@ -2707,7 +2711,7 @@ FIGURE CS12.2D Ferric oxide, $\mathsf { F e } _ { 2 } \mathsf { O } _ { 3 }$ , i
 :::
 
 
-As autotrophs grew in abundance, the $\mathrm { O } _ { 2 }$ they produced gradually overwhelmed the $\mathrm { F e ^ { 2 + } }$ supply of the oceans and the increased $\mathrm { O } _ { 2 }$ that resulted began to oxidize exposed minerals on land, most importantly iron pyrite, $\mathrm { F e S } _ { 2 }$ producing $\mathrm { F e ( O H ) _ { 3 } }$ and $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ The discovery of Red Beds, deposits of $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ shown in Figure CS12.2e, emerged about 2 billion years ago and marked the end of Banded Iron Formations.
+As autotrophs grew in abundance, the $\mathrm { O } _ { 2 }$ they produced gradually overwhelmed the $\mathrm { F e ^ { 2 + } }$ supply of the oceans and the increased $\mathrm { O } _ { 2 }$ that resulted began to oxidize exposed minerals on land, most importantly iron pyrite, $\mathrm { F e S } _ { 2 }$ producing $\mathrm { F e ( O H ) _ { 3 } }$ and $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ The discovery of Red Beds, deposits of $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ shown in [Figure CS12.2E](#fig-p1-ch12-88), emerged about 2 billion years ago and marked the end of Banded Iron Formations.
 
 :::{figure} ../images/fig-p1-ch12-88.jpg
 :name: fig-p1-ch12-88
@@ -2716,7 +2720,7 @@ FIGURE CS12.2E Red Beds formed from deposits of $\mathsf { F e } _ { 2 } \mathsf
 :::
 
 
-The earliest and simplest bacteria and blue green algae were the prokaryotes shown in Figure CS12.2f, characterized by the absence of a nuclear membrane and by DNA that was not organized into chromosomes. These simpler cell architectures were replaced in the first billion years of Earth history by eukaryotes, distinguished by a distinct membrane-bound nucleus displayed in Figure CS12.2g. It was a development of profound importance as the evolution of more complex multicellular organisms resulted; organisms that could survive in the presence of free oxygen. This took place about 3 billion years along the evolutionary path from the Earth's origin—about 4.6 billion years ago. Eukaryotes could survive on $\mathrm { O } _ { 2 }$ at or above 1 percent of the present atmospheric level (PAL), a threshold that was passed approximately 2 billion years ago. At this juncture, free oxygen production accelerated with the evolution of chloroplasts in the widening array of eukaryotes— chloroplasts are organelles that are capable of organic synthesis driven by sunlight, the “dawn” of photosynthesis! But of great importance for the evolution of life at the surface was the formation of the oxygen allotrope ozone $\mathrm { ( O _ { 3 } ) }$ in the atmosphere. This was a critically important development because $\mathrm { { O } } _ { 3 }$ absorbs sunlight in the ultraviolet region between 200 and 300 nm, permitting the migration of living forms from the ocean (water strongly absorbs ultraviolet) to the continents. Sunlight in the 200 to 300 nm range breaks the base-pairing of nucleic acids across the spine of the DNA double helix, thereby scrambling the genetic code of the affected cell as displayed in Figure CS12.1a. Fossils of the evolving manifold of multicellular organisms have been found in sedimentary rocks that are 680 million years old but the rise of “modern” species of green plants that drove oxygen levels upward to present levels date from some 400 million years ago.
+The earliest and simplest bacteria and blue green algae were the prokaryotes shown in [Figure CS12.2F](#fig-p1-ch12-89), characterized by the absence of a nuclear membrane and by DNA that was not organized into chromosomes. These simpler cell architectures were replaced in the first billion years of Earth history by eukaryotes, distinguished by a distinct membrane-bound nucleus displayed in [Figure CS12.2G](#fig-p1-ch12-90). It was a development of profound importance as the evolution of more complex multicellular organisms resulted; organisms that could survive in the presence of free oxygen. This took place about 3 billion years along the evolutionary path from the Earth's origin—about 4.6 billion years ago. Eukaryotes could survive on $\mathrm { O } _ { 2 }$ at or above 1 percent of the present atmospheric level (PAL), a threshold that was passed approximately 2 billion years ago. At this juncture, free oxygen production accelerated with the evolution of chloroplasts in the widening array of eukaryotes— chloroplasts are organelles that are capable of organic synthesis driven by sunlight, the “dawn” of photosynthesis! But of great importance for the evolution of life at the surface was the formation of the oxygen allotrope ozone $\mathrm { ( O _ { 3 } ) }$ in the atmosphere. This was a critically important development because $\mathrm { { O } } _ { 3 }$ absorbs sunlight in the ultraviolet region between 200 and 300 nm, permitting the migration of living forms from the ocean (water strongly absorbs ultraviolet) to the continents. Sunlight in the 200 to 300 nm range breaks the base-pairing of nucleic acids across the spine of the DNA double helix, thereby scrambling the genetic code of the affected cell as displayed in [Figure CS12.1A](#fig-p1-ch12-77). Fossils of the evolving manifold of multicellular organisms have been found in sedimentary rocks that are 680 million years old but the rise of “modern” species of green plants that drove oxygen levels upward to present levels date from some 400 million years ago.
 
 :::{figure} ../images/fig-p1-ch12-89.jpg
 :name: fig-p1-ch12-89
@@ -2732,7 +2736,7 @@ FIGURE CS12.2G The cell structure of the eukaryotes is distinguished by the exis
 :::
 
 
-Development of oxygen within the Earth system is traced out in Figure CS12.2c. As limited oxygen levels completed the oxidation of $\mathrm { F e ^ { 2 + } }$ to $\mathrm { F e ^ { 3 ^ { + } } }$ in the oceans, the Banded Iron Formations ended approximately 2 billion years ago, followed by the occurrence of continental Red Beds extending from 2 billion years ago until 500 million years ago. Atmospheric $\mathrm { O } _ { 2 }$ began to build following the formation of the Banded Iron Formations and reached 21% some 350 million years ago. An important point is that the present atmospheric reservoir is approximately 2 percent of the cumulative production of $\mathrm { O } _ { 2 } ,$ with the balance tied up in the oxidation of minerals and the burial of organic material.
+Development of oxygen within the Earth system is traced out in [Figure CS12.2C](#fig-p1-ch12-86). As limited oxygen levels completed the oxidation of $\mathrm { F e ^ { 2 + } }$ to $\mathrm { F e ^ { 3 ^ { + } } }$ in the oceans, the Banded Iron Formations ended approximately 2 billion years ago, followed by the occurrence of continental Red Beds extending from 2 billion years ago until 500 million years ago. Atmospheric $\mathrm { O } _ { 2 }$ began to build following the formation of the Banded Iron Formations and reached 21% some 350 million years ago. An important point is that the present atmospheric reservoir is approximately 2 percent of the cumulative production of $\mathrm { O } _ { 2 } ,$ with the balance tied up in the oxidation of minerals and the burial of organic material.
 
 What is also of considerable importance is that the basic photosynthetic step
 
@@ -2748,7 +2752,7 @@ Oxygen dominates the unique chemistry of life's history on the planet. Elemental
 
 The emergence of molecular oxygen as a dominant component of the Earth's atmosphere had two profound effects on the development of species. The first was that organisms had a plentiful supply of an oxidizer that could be combined with a range of hydrocarbon “fuels” to sustain the organism. This provided the opportunity to develop large organisms that could employ a circulatory system to carry both the fuel in the form of sugars, and oxygen attached to hemoglobin to supply oxygen within the cellular structure of the organism. This led to the development of large ocean creatures that brought complicated ecosystems that included sharks, dolphins, whales, etc. embedded within the world's oceans. Second, and more remarkably, the ability of oxygen to absorb solar ultraviolet photons in the spectral range between 200 and 300 nm is the sole reason both animals and plants could venture out of the protection of the ocean onto land and survive. We have already developed an understanding of molecular orbital structure, specifically for oxygen. When a photon is absorbed by a molecule, an electron within that molecular orbital structure is “promoted” to a higher energy state—to an upper potential energy surface. Quite often, that upper potential energy surface leads to the dissociation of the molecule into molecular fragments. This mechanism of electron promotion by an ultraviolet photon leads to the dissociation of $\mathrm { O } _ { 2 } .$ . In the case of $\mathrm { O } _ { 2 } ,$ the molecule has only one choice when it is “photodissociated”—the formation of two atoms of atomic oxygen. What is truly remarkable about molecular oxygen is that the position of the upper potential energy surface is located at just the right position in energy and internuclear distance with respect to the ground state so as to remove all solar ultraviolet photons between 100 and 200 nm before they reach the ground. The implications of this are truly remarkable. This relationship between shifts in the upper potential energy surface and the corresponding position and range of the absorption of ultraviolet photons is critically important to the existence of life at the surface of the Earth.
 
-But the remarkable chain of events linking the molecular structure of $\mathrm { O } _ { 2 }$ to the existence of life on the planet continues. The atomic oxygen produced in the photodissociation of $\mathrm { O } _ { 2 }$ reacts with the $\mathrm { O } _ { 2 }$ in the atmosphere to produce ozone, $\mathrm { { O } } _ { 3 }$ . But ozone is the only species in the atmosphere that absorbs solar ultraviolet photons between 200 and 300 nm, photons that are themselves lethal to organisms at the surface because, as depicted in Figure CS12.1a, they break the base pairing across the double helix of DNA. Figure CS12.2h schematically captures the absorption region of ozone that extends protection of the Earth's surface to wavelengths slightly higher than 300 nm—a wavelength marginally safe for organisms to survive at the surface. As we can see, a study of specifically how photons interact with the structure of molecules is critically important to both life as it has evolved on Earth and to present and future developments linking scientific and technical developments to societal objectives.
+But the remarkable chain of events linking the molecular structure of $\mathrm { O } _ { 2 }$ to the existence of life on the planet continues. The atomic oxygen produced in the photodissociation of $\mathrm { O } _ { 2 }$ reacts with the $\mathrm { O } _ { 2 }$ in the atmosphere to produce ozone, $\mathrm { { O } } _ { 3 }$ . But ozone is the only species in the atmosphere that absorbs solar ultraviolet photons between 200 and 300 nm, photons that are themselves lethal to organisms at the surface because, as depicted in [Figure CS12.1A](#fig-p1-ch12-77), they break the base pairing across the double helix of DNA. [Figure CS12.2H](#fig-p1-ch12-91) schematically captures the absorption region of ozone that extends protection of the Earth's surface to wavelengths slightly higher than 300 nm—a wavelength marginally safe for organisms to survive at the surface. As we can see, a study of specifically how photons interact with the structure of molecules is critically important to both life as it has evolved on Earth and to present and future developments linking scientific and technical developments to societal objectives.
 
 :::{figure} ../images/fig-p1-ch12-91.jpg
 :name: fig-p1-ch12-91

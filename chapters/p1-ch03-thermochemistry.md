@@ -17,7 +17,7 @@ title: "3 Thermochemistry"
 
 ## Framework
 
-Why does the First Law of Thermodynamics play such a central role in developing the link between scientific concepts and real world context? For example, why is approximately 65% of primary energy input wasted on the national scale when primary energy sources, shown on the lefthand side of Figure 3.1, are converted to forms that deliver energy input to residential, commercial, industrial, and transportation use? Why do the principles of thermodynamics establish the fact that only 20% of the chemical energy contained in gasoline is converted to usable work to propel an automobile? This represents a remarkable loss of primary energy captured in the flow of energy from the petroleum input (in green in Figure 3.1) through the transportation sector to “Rejected Energy” on the right-hand side of the diagram. Why are carbon based fuels, gasoline and diesel, inherently limited in their efficiency for producing mechanical work? Why are technological developments associated with converting photons to electrons to realize new methods of primary energy generation critically important for opening pathways to innovative solutions for economic development and for sustaining emerging economies? Achieving an understanding of the laws of thermodynamics, it turns out, constitutes a pivotal part of setting national and international energy policy as we move into the decades ahead.
+Why does the First Law of Thermodynamics play such a central role in developing the link between scientific concepts and real world context? For example, why is approximately 65% of primary energy input wasted on the national scale when primary energy sources, shown on the lefthand side of [Figure 3.1](#fig-p1-ch03-2), are converted to forms that deliver energy input to residential, commercial, industrial, and transportation use? Why do the principles of thermodynamics establish the fact that only 20% of the chemical energy contained in gasoline is converted to usable work to propel an automobile? This represents a remarkable loss of primary energy captured in the flow of energy from the petroleum input (in green in [Figure 3.1)](#fig-p1-ch03-2) through the transportation sector to “Rejected Energy” on the right-hand side of the diagram. Why are carbon based fuels, gasoline and diesel, inherently limited in their efficiency for producing mechanical work? Why are technological developments associated with converting photons to electrons to realize new methods of primary energy generation critically important for opening pathways to innovative solutions for economic development and for sustaining emerging economies? Achieving an understanding of the laws of thermodynamics, it turns out, constitutes a pivotal part of setting national and international energy policy as we move into the decades ahead.
 
 :::{figure} ../images/fig-p1-ch03-2.jpg
 :name: fig-p1-ch03-2
@@ -30,7 +30,7 @@ On the face of it, the First Law of Thermodynamics is disarmingly simple. It sta
 
 We set the context for our study of the First Law by examining an illustrative example of energy flow within our economic structure—the sequence of events from the combustion of coal in an electricity power plant to the delivery of that power to our living space. Consider first the efficiency of a power plant using the expression for efficiency, ε, given by ε = (what you get)/(what you pay for) which in this case is ε = (electrical energy produced)/(chemical energy purchased). Typically the energy that provides the high temperature steam that drives the turbines used to generate electric power comes either from coal or natural gas. On average, older coal burning power plants convert \~35% of the chemical energy in coal to electrical energy, so $\mathbf { \varepsilon } _ { \mathrm { { c o a l } } } = \mathbf { 0 . 3 } 5$ . Modern natural gas burning power plants achieve an efficiency of nearly 50%, so $\mathfrak { \varepsilon } _ { \mathrm { g a s } } =$ 0.50.We will assume a US national average of $\mathfrak { E } _ { \mathrm { a v e } } = 0 . 3 8$
 
-Now let's consider what happens to that electrical energy once it has left the coal-fired generating plant and enters the power grid that distributes the energy to homes, businesses, industrial plants, etc. First, we examine the case of electric lighting for your home, office, dorm room, etc. Using a telling graphic from What You Need to Know About Energy, published by the US National Academy of Sciences (2008), we can quantitatively trace the path from energy generation to light output (Figure 3.2). With a (typical) 38% efficiency in initial generation, we lose 62 units of the initial 100 energy units contained in the chemical bonds of combusted coal relative to the product $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ . Typically, between 2 units and 8 units are lost in the electrical transmission lines, as shown in Figure 3.2. We will assume the more efficient of these such that 36 units of electrical energy of the original 100 units of chemical energy are delivered to the home. However, with the use of an incandescent bulb, 34 units of that delivered electrical energy are emitted as heat and only 2 units are emitted as usable, that is visible, light. Thus, only 2% of the original chemical energy contained in the coal combusted in the power plant actually results in useful energy! Thermodynamics will allow us to calculate each of these contributions.
+Now let's consider what happens to that electrical energy once it has left the coal-fired generating plant and enters the power grid that distributes the energy to homes, businesses, industrial plants, etc. First, we examine the case of electric lighting for your home, office, dorm room, etc. Using a telling graphic from What You Need to Know About Energy, published by the US National Academy of Sciences (2008), we can quantitatively trace the path from energy generation to light output ([Figure 3.2)](#fig-p1-ch03-3). With a (typical) 38% efficiency in initial generation, we lose 62 units of the initial 100 energy units contained in the chemical bonds of combusted coal relative to the product $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ . Typically, between 2 units and 8 units are lost in the electrical transmission lines, as shown in [Figure 3.2](#fig-p1-ch03-3). We will assume the more efficient of these such that 36 units of electrical energy of the original 100 units of chemical energy are delivered to the home. However, with the use of an incandescent bulb, 34 units of that delivered electrical energy are emitted as heat and only 2 units are emitted as usable, that is visible, light. Thus, only 2% of the original chemical energy contained in the coal combusted in the power plant actually results in useful energy! Thermodynamics will allow us to calculate each of these contributions.
 
 :::{figure} ../images/fig-p1-ch03-3.jpg
 :name: fig-p1-ch03-3
@@ -97,7 +97,7 @@ In the sections that follow, we develop the principles central to thermochemistr
 
 ## Relationship Between the Energy Change of the System, of the Surroundings, and of the Universe
 
-As we develop the First Law of Thermodynamics, it will become increasingly important to clearly distinguish between the system and the surroundings. The reason is that we must constantly refer to the heat, q, or the work, w, exchanged between two clearly defined domains. Figure 3.3 clarifies this distinction and emphasizes that the combination of the system and the surroundings constitutes all of matter. In thermodynamics, this sum of the system and the surroundings is referred to as the universe to emphasize the totality of matter as represented in Figure 3.3.
+As we develop the First Law of Thermodynamics, it will become increasingly important to clearly distinguish between the system and the surroundings. The reason is that we must constantly refer to the heat, q, or the work, w, exchanged between two clearly defined domains. [Figure 3.3](#fig-p1-ch03-23) clarifies this distinction and emphasizes that the combination of the system and the surroundings constitutes all of matter. In thermodynamics, this sum of the system and the surroundings is referred to as the universe to emphasize the totality of matter as represented in [Figure 3.3](#fig-p1-ch03-23).
 
 :::{figure} ../images/fig-p1-ch03-23.jpg
 :name: fig-p1-ch03-23
@@ -164,7 +164,7 @@ But we can generalize the model to include the capability to externally supply m
 
 where $w _ { \mathrm { e x t } }$ is the work externally applied to the system by the surroundings. This could be accomplished, for example, by adding to the downward velocity of the mass on each cycle to increase its kinetic energy, and thus its mechanical energy, by an amount equal to the energy dissipated in each cycle by friction.
 
-We can represent that by a model that includes the work done on the system by an external force and we can also represent the possibility that the system can do work on the surroundings in that same model, as shown in Figure 3.4.
+We can represent that by a model that includes the work done on the system by an external force and we can also represent the possibility that the system can do work on the surroundings in that same model, as shown in [Figure 3.4](#fig-p1-ch03-24).
 
 :::{figure} ../images/fig-p1-ch03-24.jpg
 :name: fig-p1-ch03-24
@@ -186,7 +186,7 @@ While we were concerned in Chapter 1 in our discussion of the conservation of en
 
 In the study of chemical thermodynamics—thermochemistry—we are repeatedly confronted with how work is exchanged between a system and its surroundings. This turns out to be true whether we are quantitatively analyzing the heat and work produced by a chemical reaction or whether we are analyzing the work done by a “heat engine” such as an automobile engine that burns gasoline to generate kinetic energy.
 
-A particularly important example of how work is exchanged between a system and its surroundings involves the work done by a piston that can move in response to a change in pressure within an otherwise closed vessel. This is shown diagrammatically in Figure 3.5.
+A particularly important example of how work is exchanged between a system and its surroundings involves the work done by a piston that can move in response to a change in pressure within an otherwise closed vessel. This is shown diagrammatically in [Figure 3.5](#fig-p1-ch03-26).
 
 :::{figure} ../images/fig-p1-ch03-26.jpg
 :name: fig-p1-ch03-26
@@ -195,7 +195,7 @@ FIGURE 3.5 One of the most useful expressions for the work done by the expansion
 :::
 
 
-In this case, the piston moves a distance Δx against the constant external pressure, P. We know that work is equal to the product of a force times a distance, so in our case (Figure 3.5):
+In this case, the piston moves a distance Δx against the constant external pressure, P. We know that work is equal to the product of a force times a distance, so in our case ([Figure 3.5)](#fig-p1-ch03-26):
 
 ```{math}
 :label: eq-p1-ch03-7
@@ -267,7 +267,7 @@ Next we need to convert the units of L-atm to joules. Using the conversion of 10
 
 It is always important to carefully note the sign of the answer. The system, the balloon, has done work on the surroundings, thus the sign on w should be negative—and it is.
 
-We say, for example, that the surroundings do work on the system if the piston compresses the gas by moving downward. Alternatively, the system does work on the surroundings if the piston moves vertically upward as it does in Figure 3.5. So our model of the system in Figure 3.4, wherein $w _ { \mathrm { e x t } } > 0$ represents net work done on the system, where energy is transferred from the surroundings to the system. Conversely, if work is done on the surroundings by the system, $w _ { \mathrm { e x t } } < 0$
+We say, for example, that the surroundings do work on the system if the piston compresses the gas by moving downward. Alternatively, the system does work on the surroundings if the piston moves vertically upward as it does in [Figure 3.5](#fig-p1-ch03-26). So our model of the system in [Figure 3.4](#fig-p1-ch03-24), wherein $w _ { \mathrm { e x t } } > 0$ represents net work done on the system, where energy is transferred from the surroundings to the system. Conversely, if work is done on the surroundings by the system, $w _ { \mathrm { e x t } } < 0$
 
 But is the mechanical interaction of a force operating over a distance that constitutes the external work, $w _ { \mathrm { e x t } } ,$ done on our system the only way to transfer energy to the system from the surroundings? Suppose we place the system on a stove and ignite the burner? There will quite rapidly be an increase in $U _ { \mathrm { t h e r m } }$ such that $\Delta U _ { \mathrm { t h e r m } } \ > \ 0$ because the temperature of the system has increased. But we have done no work on the system, so $w _ { \mathrm { e x t } } = 0 ;$ however:
 
@@ -305,7 +305,7 @@ There is another perspective on the equation $\Delta \mathrm { E } _ { \mathrm {
 
 We turn now to a more careful consideration of how we define the energy of the system, $\mathrm { E _ { \mathrm { s y s t } } }$ . Consideration of our equation $\mathrm { E _ { s y s t } = E _ { m e c h } + U _ { t h e r m } }$ representing the energy of the system as the sum of mechanical energy (kinetic plus potential energy of the macroscopic objects within the system) and the thermal energy (associated with atomic and molecular-scale kinetic and potential energy) immediately raises the question: What about the energy contained in the bonds of the molecules that might release energy if converted to another chemical compound?
 
-We considered an explicit example of this in Chapter 2 when we combusted octane, $\mathrm { C _ { 8 } H _ { 1 8 } } ,$ releasing chemical energy to raise the temperature of the steel box that contained the burning gasoline as displayed in the reaction coordinate diagram Figure 3.6.
+We considered an explicit example of this in Chapter 2 when we combusted octane, $\mathrm { C _ { 8 } H _ { 1 8 } } ,$ releasing chemical energy to raise the temperature of the steel box that contained the burning gasoline as displayed in the reaction coordinate diagram [Figure 3.6](#fig-p1-ch03-27).
 
 :::{figure} ../images/fig-p1-ch03-27.jpg
 :name: fig-p1-ch03-27
@@ -360,7 +360,7 @@ Thermodynamics is an inherently quantitative branch of science and thus the meas
 
 We are constantly seeking to express dynamic and changing systems in terms of constants that remain invariant even though they may capture billions of individual events. The state of our system is defined by a specific set of quantities that establish its properties. Important examples include composition, temperature, pressure, volume, mass, etc. A distinguishing characteristic of a state variable, particularly for thermodynamics, is that a state variable is independent of the path taken to achieve that state. Such is the case for temperature, pressure, internal energy, etc. In contrast, heat and work are not state variables as they depend very much on the path taken.
 
-Consider the implications of defining a state variable when applied to a chemical reaction. Suppose, as Figure $3 . 7$ demonstrates, we pour sulfuric acid, $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ , into a beaker containing zinc filings. As we will discover in Chapter 6, metal is attacked by a strong acid, forming a salt and hydrogen gas, $\mathrm { H } _ { 2 }$ in a reaction that releases energy:
+Consider the implications of defining a state variable when applied to a chemical reaction. Suppose, as [Figure 3.7](#fig-p1-ch03-29) demonstrates, we pour sulfuric acid, $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ , into a beaker containing zinc filings. As we will discover in Chapter 6, metal is attacked by a strong acid, forming a salt and hydrogen gas, $\mathrm { H } _ { 2 }$ in a reaction that releases energy:
 
 ```{math}
 :label: eq-p1-ch03-20
@@ -380,9 +380,9 @@ FIGURE 3.7 The experimental system investigating the addition of sulfuric acid t
 :::
 
 
-The “apparatus” shown in Figure 3.7 includes a thermometer and a sidearm to which a balloon is attached. As the reaction proceeds, the balloon inflates and the temperature of the system increases. The balloon, as it inflates, constitutes work done by the system on the surroundings. The increase in temperature results in heat released by the chemical reaction. A key question here is: how is the boundary between the system and the surrounding best defined? One reasonable choice would be to define the system as the chemicals: $\mathrm { Z n ( s ) , H _ { 2 } S O _ { 4 } ( a q ) , H _ { 2 } ( g ) , Z n S O _ { 4 } ( a q ) }$ . Everything else would then be defined as the surroundings—beaker, balloon, stopper, thermometer, and everything else in the universe. With this definition, the energy from the system (the chemical reaction) is transferred to the surroundings as work done to inflate the balloon and the heat transferred that increases the temperature of the beaker. As the thermal energy flows outward from the beaker, the bench top, the air in the room, etc. increase in temperature.
+The “apparatus” shown in [Figure 3.7](#fig-p1-ch03-29) includes a thermometer and a sidearm to which a balloon is attached. As the reaction proceeds, the balloon inflates and the temperature of the system increases. The balloon, as it inflates, constitutes work done by the system on the surroundings. The increase in temperature results in heat released by the chemical reaction. A key question here is: how is the boundary between the system and the surrounding best defined? One reasonable choice would be to define the system as the chemicals: $\mathrm { Z n ( s ) , H _ { 2 } S O _ { 4 } ( a q ) , H _ { 2 } ( g ) , Z n S O _ { 4 } ( a q ) }$ . Everything else would then be defined as the surroundings—beaker, balloon, stopper, thermometer, and everything else in the universe. With this definition, the energy from the system (the chemical reaction) is transferred to the surroundings as work done to inflate the balloon and the heat transferred that increases the temperature of the beaker. As the thermal energy flows outward from the beaker, the bench top, the air in the room, etc. increase in temperature.
 
-Alternatively, we could define the system to be the chemicals, the beaker, the stopper, and the balloon. And we could insulate the system such that no heat is transferred from the system to the surroundings. Then ${ \bf q } = { \bf o }$ and the system only does work on the surroundings by virtue of the increased volume of the balloon. The work can be calculated directly from $\mathbf { w } = - \mathbf { p } \Delta \mathbf { V }$ where p is equal to one atmosphere and $\Delta \mathsf { V }$ is the change in volume of the balloon. We can represent what has occurred on an energy scale by considering the schematic in Figure 3.8. Before the reaction has proceeded (but just after the sulfuric acid has been added to the zinc) the energy of the system is $( \mathrm { E _ { s y s t } } ) _ { \mathrm { i n i t } }$ $\mathbf { \Sigma } = \left( \mathrm { U _ { t h e r m } } \right) _ { \mathrm { i n i t } } + \mathbf { \Sigma } \left( \mathrm { U _ { c h e m } } \right) _ { \mathrm { i n i t } } .$ . After the reaction has progressed to completion and the balloon has fully expanded, the final energy of the system, $( \mathrm { E _ { s y s t } ) _ { f i n a l } }$ $= \left( \mathrm { U } _ { \mathrm { t h e r m } } \right) _ { \mathrm { f i n a l } } + \left( \mathrm { U } _ { \mathrm { c h e m } } \right) _ { \mathrm { f i n a l } }$ will be less than $( \mathrm { E _ { \mathrm { s y s t } } } ) _ { \mathrm { i n i t } }$ because work has been done by the system on the surroundings. If, as is shown in Figure 3.9, the balloon is replaced by a piston, the displacement, the volume change, $\Delta \mathsf { V } ,$ , is then $\mathbf { A } \Delta \mathbf { x } ,$ , where A is the piston area. The work done by the system is then - $\mathsf { p } \Delta \mathsf { V }$ where p is the pressure of one atmosphere. On an energy diagram we thus contrast the initial and final states of the system and the change in energy of the system:
+Alternatively, we could define the system to be the chemicals, the beaker, the stopper, and the balloon. And we could insulate the system such that no heat is transferred from the system to the surroundings. Then ${ \bf q } = { \bf o }$ and the system only does work on the surroundings by virtue of the increased volume of the balloon. The work can be calculated directly from $\mathbf { w } = - \mathbf { p } \Delta \mathbf { V }$ where p is equal to one atmosphere and $\Delta \mathsf { V }$ is the change in volume of the balloon. We can represent what has occurred on an energy scale by considering the schematic in [Figure 3.8](#fig-p1-ch03-30). Before the reaction has proceeded (but just after the sulfuric acid has been added to the zinc) the energy of the system is $( \mathrm { E _ { s y s t } } ) _ { \mathrm { i n i t } }$ $\mathbf { \Sigma } = \left( \mathrm { U _ { t h e r m } } \right) _ { \mathrm { i n i t } } + \mathbf { \Sigma } \left( \mathrm { U _ { c h e m } } \right) _ { \mathrm { i n i t } } .$ . After the reaction has progressed to completion and the balloon has fully expanded, the final energy of the system, $( \mathrm { E _ { s y s t } ) _ { f i n a l } }$ $= \left( \mathrm { U } _ { \mathrm { t h e r m } } \right) _ { \mathrm { f i n a l } } + \left( \mathrm { U } _ { \mathrm { c h e m } } \right) _ { \mathrm { f i n a l } }$ will be less than $( \mathrm { E _ { \mathrm { s y s t } } } ) _ { \mathrm { i n i t } }$ because work has been done by the system on the surroundings. If, as is shown in [Figure 3.9](#fig-p1-ch03-31), the balloon is replaced by a piston, the displacement, the volume change, $\Delta \mathsf { V } ,$ , is then $\mathbf { A } \Delta \mathbf { x } ,$ , where A is the piston area. The work done by the system is then - $\mathsf { p } \Delta \mathsf { V }$ where p is the pressure of one atmosphere. On an energy diagram we thus contrast the initial and final states of the system and the change in energy of the system:
 
 ```{math}
 :label: eq-p1-ch03-21
@@ -416,7 +416,7 @@ FIGURE 3.9 We can take the same experiment of adding sulfuric acid to zinc filin
 
 ## Check Yourself 2
 
-For the reaction $\mathrm { Z n } ( s ) + \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } ( a q )  \mathrm { H } _ { 2 } ( g ) + \mathrm { Z n } \mathrm { S O } _ { 4 } ( a q )$ depicted in Figure 3.7, 300 mL of 1.00 M $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ was added to 14.66 g Zn metal. Calculate the work, assuming the reaction went to completion, and the temperature of the expanding gas was $2 5 ^ { \circ } \mathrm { C }$
+For the reaction $\mathrm { Z n } ( s ) + \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } ( a q )  \mathrm { H } _ { 2 } ( g ) + \mathrm { Z n } \mathrm { S O } _ { 4 } ( a q )$ depicted in [Figure 3.7](#fig-p1-ch03-29), 300 mL of 1.00 M $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ was added to 14.66 g Zn metal. Calculate the work, assuming the reaction went to completion, and the temperature of the expanding gas was $2 5 ^ { \circ } \mathrm { C }$
 
 ## Solution:
 
@@ -496,7 +496,7 @@ Work done by the surroundings on the system is positive, $w > 0$
 
 Work done on the surroundings by the system is negative, $w < 0$
 
-This convention can be summarized, as displayed in Figure 3.10, by recognizing that energy entering the system has a positive sign; energy leaving the system has a negative sign.
+This convention can be summarized, as displayed in [Figure 3.10](#fig-p1-ch03-32), by recognizing that energy entering the system has a positive sign; energy leaving the system has a negative sign.
 
 :::{figure} ../images/fig-p1-ch03-32.jpg
 :name: fig-p1-ch03-32
@@ -527,9 +527,9 @@ Note that, although the temperatures are given in Celsius, only their difference
 ```
 
 
-You should realize that the quoted temperature rise was not as high as it could have been, since the temperature probe shown in Figure 3.7 is detecting heat coming through the flask wall while the reaction is still in progress; the escaping heat is not available to raise the temperature of the system itself.
+You should realize that the quoted temperature rise was not as high as it could have been, since the temperature probe shown in [Figure 3.7](#fig-p1-ch03-29) is detecting heat coming through the flask wall while the reaction is still in progress; the escaping heat is not available to raise the temperature of the system itself.
 
-We turn first to the question of how the internal energy change $( \Delta U _ { \mathrm { s y s t } } )$ of a system is instigated by thermal energy transfer (heat) by using a device called a bomb calorimeter, shown schematically in Figure 3.11.
+We turn first to the question of how the internal energy change $( \Delta U _ { \mathrm { s y s t } } )$ of a system is instigated by thermal energy transfer (heat) by using a device called a bomb calorimeter, shown schematically in [Figure 3.11](#fig-p1-ch03-33).
 
 :::{figure} ../images/fig-p1-ch03-33.jpg
 :name: fig-p1-ch03-33
@@ -538,7 +538,7 @@ FIGURE 3.11 The bomb calorimeter serves two important functions in chemical ther
 :::
 
 
-The purpose of the bomb calorimeter, which has been used extensively in chemical research, is to (1) create a practical physical model of a system and its surroundings, and (2) remove the work (w) term from the First Law of Thermodynamics such that the change in internal energy of the system $( \Delta U _ { \mathrm { s y s t } } )$ is equal to the heat term (q) alone: $\Delta U _ { \mathrm { s y s t } } = q + \mathcal { W } = q$ . This is done first by building a bomb with rigid walls such that the work term, which is the product of a force times a physical displacement (Force × displacement), is driven to zero by eliminating any deflection in the wall such that the physical displacement of the "bomb" is zero no matter what occurs within the bomb that contains the chemical reaction under study. Second, the bomb is loaded with chemical reactants that can be ignited externally, usually by a filament “flashed” by a pulse of electric current, as shown in Figure 3.11. Prior to detonation of the reactants, the initial internal energy, $U _ { \mathrm { i , } }$ of the system is the sum of (1) the thermal energy of molecular motion, $U _ { \mathrm { t h e r m } } .$ , and (2) the chemical energy associated with the chemical bonds of the reactants, $\mathrm { U } _ { \mathrm { c h e m } } .$ Thus, we can write
+The purpose of the bomb calorimeter, which has been used extensively in chemical research, is to (1) create a practical physical model of a system and its surroundings, and (2) remove the work (w) term from the First Law of Thermodynamics such that the change in internal energy of the system $( \Delta U _ { \mathrm { s y s t } } )$ is equal to the heat term (q) alone: $\Delta U _ { \mathrm { s y s t } } = q + \mathcal { W } = q$ . This is done first by building a bomb with rigid walls such that the work term, which is the product of a force times a physical displacement (Force × displacement), is driven to zero by eliminating any deflection in the wall such that the physical displacement of the "bomb" is zero no matter what occurs within the bomb that contains the chemical reaction under study. Second, the bomb is loaded with chemical reactants that can be ignited externally, usually by a filament “flashed” by a pulse of electric current, as shown in [Figure 3.11](#fig-p1-ch03-33). Prior to detonation of the reactants, the initial internal energy, $U _ { \mathrm { i , } }$ of the system is the sum of (1) the thermal energy of molecular motion, $U _ { \mathrm { t h e r m } } .$ , and (2) the chemical energy associated with the chemical bonds of the reactants, $\mathrm { U } _ { \mathrm { c h e m } } .$ Thus, we can write
 
 ```{math}
 :label: eq-p1-ch03-30
@@ -578,7 +578,7 @@ the chemical reaction
 
 can proceed to completion such that all of the fuel (octane) is consumed (reacted with $\mathrm { O } _ { 2 } )$ to produce the product $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$
 
-We know from experience that when gasoline is burned heat is produced. Then how is the chemical energy contained in the bonds of $\mathrm { C _ { 8 } H _ { 1 8 } }$ and $\mathrm { O } _ { 2 }$ as they are converted to $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ actually released? The answer to this question is aided by referring to our potential energy surface for the reaction. This potential energy surface or “reaction coordinate" shown in Figure 3.12 (introduced in Chapter 1) is a plot of potential energy on the vertical axis and internuclear distance on the horizontal axis. The reactants, $\mathrm { C _ { 8 } H _ { 1 8 } }$ and $\mathrm { O } _ { 2 } ,$ are shown on the left side of the diagram. As they approach, their intermolecular distance begins to decrease and the electron-electron repulsion begins to increase thereby increasing the potential energy until the "reaction barrier," displayed in Figure 3.12, is surmounted. As the chemical bonds rearrange at the "transition state" shown in Figure 3.12, the newly formed product molecules at the energy barrier then move rapidly to products, converting the potential energy that they (the products) possess at the instant of their formation, to kinetic energy of molecular motion as they move down the potential energy surface. The products of the reaction, $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ representing the new bond structure of the products, are shown on the right at a lower potential energy than that of the reactants. The products $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ “explode” away from the point of formation, carrying with them a large amount of translational energy, vibrational energy, and rotational energy. These new molecules $( \mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O } )$ contain, by virtue of the chemical energy released in the reaction, an extremely large amount of kinetic energy (translation, vibration, rotation). Those newly formed $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ molecules then collide repeatedly with the molecules around them within the bomb of the calorimeter, transferring their kinetic energy to the other molecules. This exchange of kinetic energy via molecule-molecule collision continues until the energy is partitioned among the energy modes (translation, vibration, rotation) of all molecules equally; thus establishing a new temperature for the ensemble of molecules contained in the bomb of the calorimeter.
+We know from experience that when gasoline is burned heat is produced. Then how is the chemical energy contained in the bonds of $\mathrm { C _ { 8 } H _ { 1 8 } }$ and $\mathrm { O } _ { 2 }$ as they are converted to $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ actually released? The answer to this question is aided by referring to our potential energy surface for the reaction. This potential energy surface or “reaction coordinate" shown in [Figure 3.12](#fig-p1-ch03-35) (introduced in Chapter 1) is a plot of potential energy on the vertical axis and internuclear distance on the horizontal axis. The reactants, $\mathrm { C _ { 8 } H _ { 1 8 } }$ and $\mathrm { O } _ { 2 } ,$ are shown on the left side of the diagram. As they approach, their intermolecular distance begins to decrease and the electron-electron repulsion begins to increase thereby increasing the potential energy until the "reaction barrier," displayed in [Figure 3.12](#fig-p1-ch03-35), is surmounted. As the chemical bonds rearrange at the "transition state" shown in [Figure 3.12](#fig-p1-ch03-35), the newly formed product molecules at the energy barrier then move rapidly to products, converting the potential energy that they (the products) possess at the instant of their formation, to kinetic energy of molecular motion as they move down the potential energy surface. The products of the reaction, $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ representing the new bond structure of the products, are shown on the right at a lower potential energy than that of the reactants. The products $\mathrm { C O } _ { 2 }$ and $_ \mathrm { H _ { 2 } O }$ “explode” away from the point of formation, carrying with them a large amount of translational energy, vibrational energy, and rotational energy. These new molecules $( \mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O } )$ contain, by virtue of the chemical energy released in the reaction, an extremely large amount of kinetic energy (translation, vibration, rotation). Those newly formed $\mathrm { C O } _ { 2 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ molecules then collide repeatedly with the molecules around them within the bomb of the calorimeter, transferring their kinetic energy to the other molecules. This exchange of kinetic energy via molecule-molecule collision continues until the energy is partitioned among the energy modes (translation, vibration, rotation) of all molecules equally; thus establishing a new temperature for the ensemble of molecules contained in the bomb of the calorimeter.
 
 :::{figure} ../images/fig-p1-ch03-34.jpg
 :name: fig-p1-ch03-34
@@ -594,11 +594,11 @@ FIGURE 3.12 The potential energy surface for the reaction of octane (gasoline) w
 :::
 
 
-The mixture of high kinetic energy molecules contained within the walls of the bomb segment of the device shown in Figure 3.11 then begin transferring kinetic energy to the entire system, and increasing the temperature of the surrounding combination of water, steel jacket, stirring system, and thermometer. This may be represented at the molecular level as shown in Figure 3.13.
+The mixture of high kinetic energy molecules contained within the walls of the bomb segment of the device shown in [Figure 3.11](#fig-p1-ch03-33) then begin transferring kinetic energy to the entire system, and increasing the temperature of the surrounding combination of water, steel jacket, stirring system, and thermometer. This may be represented at the molecular level as shown in [Figure 3.13](#fig-p1-ch03-34).
 
 In the figure above, the hot gas, with molecules moving at high velocity, within the bomb shown on the left, panel (a), collide with the cold molecules of the walls of the calorimeter, transferring their kinetic energy, collision by collision, to the entire system.
 
-As a result, the high kinetic energy contained in the molecules that comprise the walls of the bomb vessel and the gas contained in the bomb is transferred to the water bath in a process identical to that displayed in Figure 3.13. This transfer continues until the bomb vessel and the water have reached the same temperature and the net transfer of kinetic energy ceases. Note that while the net transfer of energy has ceased, there remains a dynamic exchange of kinetic energy on a molecule-by-molecule level. The interior of the calorimeter has now reached a state of thermal equilibrium where the temperature difference between the molecules within the bomb and within the water, steel container, etc. is now zero.
+As a result, the high kinetic energy contained in the molecules that comprise the walls of the bomb vessel and the gas contained in the bomb is transferred to the water bath in a process identical to that displayed in [Figure 3.13](#fig-p1-ch03-34). This transfer continues until the bomb vessel and the water have reached the same temperature and the net transfer of kinetic energy ceases. Note that while the net transfer of energy has ceased, there remains a dynamic exchange of kinetic energy on a molecule-by-molecule level. The interior of the calorimeter has now reached a state of thermal equilibrium where the temperature difference between the molecules within the bomb and within the water, steel container, etc. is now zero.
 
 So how is the amount of energy released in the chemical reaction actually measured? While the internal energy of the (calorimeter) system,
 
@@ -608,7 +608,7 @@ U _ {\mathrm{syst}} = U _ {\mathrm{chem}} + U _ {\mathrm{therm}},
 ```
 
 
-has remained unchanged, there has been a net conversion of chemical internal energy, $U _ { \mathrm { c h e m } }$ , to thermal internal energy, $U _ { \mathrm { t h e r m } }$ . But we cannot, in any practical sense, accurately account for $U _ { \mathrm { t h e r m } }$ by adding the kinetic energy of translation, rotation, and vibration for each molecule to calculate a total. We must employ another strategy. That strategy is to measure a change, specifically the increase in temperature, of the bomb and the surrounding water bath, which we can easily do with the thermometer shown in Figure 3.11. But how is the temperature going to quantitatively define $q _ { \mathrm { r x n } }$ produced in the chemical reaction as it appears in the First Law, given in Equation 3.2?
+has remained unchanged, there has been a net conversion of chemical internal energy, $U _ { \mathrm { c h e m } }$ , to thermal internal energy, $U _ { \mathrm { t h e r m } }$ . But we cannot, in any practical sense, accurately account for $U _ { \mathrm { t h e r m } }$ by adding the kinetic energy of translation, rotation, and vibration for each molecule to calculate a total. We must employ another strategy. That strategy is to measure a change, specifically the increase in temperature, of the bomb and the surrounding water bath, which we can easily do with the thermometer shown in [Figure 3.11](#fig-p1-ch03-33). But how is the temperature going to quantitatively define $q _ { \mathrm { r x n } }$ produced in the chemical reaction as it appears in the First Law, given in [Equation 3.2](#eq-p1-ch03-27)?
 
 We recognize that by building the wall of the bomb sufficiently strong that no work is done by the bomb on the surrounding water such that
 
@@ -622,17 +622,18 @@ where $q _ { \mathrm { v } }$ is the “heat of reaction” at constant volume. 
 
 ## Heat and Heat Capacity: How Thermal Energy Transfer (Heat) Is Calculated from a Temperature Change
 
-We consider two cubes, diagramed in Figure 3.14, each containing a gram of water. It was established by the work of James Prescott Joule (and others) that the amount of energy required to raise 1 gram of water by $\mathbf { 1 } ^ { \circ } \mathbf { C }$ was 1 calorie of energy; more appropriately in SI units, it requires 4.18 joules of energy to raise 1 gram of water by $\mathbf { 1 } ^ { \circ } \mathbf { C } .$ So we run a series of experiments that involve (1) establishing an initial temperature for cube A and cube B and then (2) placing the cubes together until they are of equal temperature—i.e., such that they have reached thermal equilibrium. We know that for each $\mathbf { 1 } ^ { \circ } \mathbf { C }$ a block increases in temperature, 4.18 joules of energy flowed into that 1 gram of water. We also know that for each $\mathbf { 1 } ^ { \circ } \mathbf { C }$ a cube decreases in temperature, 4.18 joules of energy flowed out of that 1 gram of water.
+We consider two cubes, diagramed in [Figure 3.14](#fig-p1-ch03-36), each containing a gram of water. It was established by the work of James Prescott Joule (and others) that the amount of energy required to raise 1 gram of water by $\mathbf { 1 } ^ { \circ } \mathbf { C }$ was 1 calorie of energy; more appropriately in SI units, it requires 4.18 joules of energy to raise 1 gram of water by $\mathbf { 1 } ^ { \circ } \mathbf { C } .$ So we run a series of experiments that involve (1) establishing an initial temperature for cube A and cube B and then (2) placing the cubes together until they are of equal temperature—i.e., such that they have reached thermal equilibrium. We know that for each $\mathbf { 1 } ^ { \circ } \mathbf { C }$ a block increases in temperature, 4.18 joules of energy flowed into that 1 gram of water. We also know that for each $\mathbf { 1 } ^ { \circ } \mathbf { C }$ a cube decreases in temperature, 4.18 joules of energy flowed out of that 1 gram of water.
 
 :::{figure} ../images/fig-p1-ch03-36.jpg
 :name: fig-p1-ch03-36
 :alt: FIGURE 3.14 When two cubes of the same material with the same volume are at different temperatures, heat will flow from the warmer to the cooler cube in such a way that we can quantitatively deduce the amount of heat that flows between the
-FIGURE 3.14 When two cubes of the same material with the same volume are at different temperatures, heat will flow from the warmer to the cooler cube in such a way that we can quantitatively deduce the amount of heat that flows between the two bodies. A series of such experiments, represented in Table 3.1, provides important insight into the relationship between heat flow and temperature change.
+FIGURE 3.14 When two cubes of the same material with the same volume are at different temperatures, heat will flow from the warmer to the cooler cube in such a way that we can quantitatively deduce the amount of heat that flows between the two bodies. A series of such experiments, represented in [Table 3.1](#original-table-3-1), provides important insight into the relationship between heat flow and temperature change.
 :::
 
 
 We can then run a series of experiments wherein we measure the initial temperatures of block A and of block B, and then record the final temperature of the two in contact, calculating each time the energy gained (or lost) by block A and the energy lost (or gained) by block B. We run a series of experiments and record the data:
 
+(original-table-3-1)=
 TABLE 3.1
 
 <table><tr><td>Run</td><td>Initial Temperature of A (°C)</td><td>Initial Temperature of B (°C)</td><td>Final Temperature of A &amp; B (°C)</td><td>Heat, A (joules)</td><td>Heat, B (joules)</td></tr><tr><td>1</td><td>10.0</td><td>40.0</td><td>25.0</td><td>+62.7</td><td>-62.7</td></tr><tr><td>2</td><td>20.0</td><td>40.0</td><td>30.0</td><td>+41.8</td><td>-41.8</td></tr><tr><td>3</td><td>30.0</td><td>40.0</td><td>35.0</td><td>+20.9</td><td>-20.9</td></tr><tr><td>4</td><td>40.0</td><td>40.0</td><td>40.0</td><td>0.0</td><td>0.0</td></tr><tr><td>5</td><td>10.0</td><td>50.0</td><td>30.0</td><td>+83.6</td><td>-83.6</td></tr><tr><td>6</td><td>20.0</td><td>50.0</td><td>35.0</td><td>+62.7</td><td>-62.7</td></tr><tr><td>7</td><td>30.0</td><td>50.0</td><td>40.0</td><td>+41.8</td><td>-41.8</td></tr></table>
@@ -678,7 +679,7 @@ where $q$ is the heat transferred, $\Delta T$ is the temperature change of the b
 
 Materials, however, possess very different abilities to store kinetic energy as thermal energy within the bonds that comprise the material. We know from experience that a gram of water has a higher heat capacity than a gram of wood. But we already know that the thermal energy component of a body's internal energy, $U _ { \mathrm { t h e r m } } .$ , is composed of the sum of the kinetic energy (translational, rotational, vibrational) of the individual molecules that comprise the material. Thus, a material with more molecules per unit volume will quite probably have a higher heat capacity. But it is also clear that the bonding structure and the vibrational and rotational modes that characterize the material will play a role in the heat capacity of a body as well because heat can flow into these modes of molecular motion.
 
-We can verify by experiment that the heat capacity, C, in Equation 3.4 is directly proportional to the mass of the object under consideration. That is,
+We can verify by experiment that the heat capacity, C, in [Equation 3.4](#eq-p1-ch03-37) is directly proportional to the mass of the object under consideration. That is,
 
 ```{math}
 :label: eq-p1-ch03-38
@@ -696,8 +697,9 @@ q = (\mathrm{mass}) (\mathrm{specificheat}) (\mathrm{differenceintemperature}) =
 ```
 
 
-Notice that the units of c are joules $/ 8 ^ { - \circ } C$ such that when c is multiplied by the mass of the object in grams and the temperature change in $^ \circ C$ or Kelvin, that $q$ is given in joules. Some important examples are given in Table 3.2.
+Notice that the units of c are joules $/ 8 ^ { - \circ } C$ such that when c is multiplied by the mass of the object in grams and the temperature change in $^ \circ C$ or Kelvin, that $q$ is given in joules. Some important examples are given in [Table 3.2](#original-table-3-2).
 
+(original-table-3-2)=
 TABLE 3.2
 
 <table><tr><td colspan="2">Specific Heats</td></tr><tr><td>Substance</td><td>Specific Heat, J g-1°C-1(25 °C)</td></tr><tr><td>Carbon (graphite)</td><td>0.711</td></tr><tr><td>Copper</td><td>0.387</td></tr><tr><td>Ethyl alcohol</td><td>2.45</td></tr><tr><td>Gold</td><td>0.129</td></tr><tr><td>Granite</td><td>0.803</td></tr><tr><td>Iron</td><td>0.4498</td></tr><tr><td>Lead</td><td>0.128</td></tr><tr><td>Olive oil</td><td>2.0</td></tr><tr><td>Silver</td><td>0.235</td></tr><tr><td>Water (liquid)</td><td>4.18</td></tr></table>
@@ -734,7 +736,7 @@ q _ {\mathrm{cal}} = q _ {\mathrm{case}} + q _ {\mathrm{water}} + q _ {\mathrm{c
 
 Moreover, $- q _ { \mathrm { c a l } } = q _ { \mathrm { r x n } }$ , because the heat produced by the chemical reaction (the system), $q _ { \mathrm { r x n } } .$ , is equal but opposite in sign to the heat gained by the calorimeter (the surroundings), $q _ { \mathrm { c a l } }$
 
-But as an experimental system, the heat capacity, $\mathrm { C } ,$ of the entire calorimeter system can be determined independently, either at the individual component level or by submersion of the entire calorimeter in a bath of known temperature and volume of water, and then measuring the final temperature of the calorimeter plus water bath just as we did in generating Table 3.1. Then, for any subsequent measurement of $q _ { \mathrm { r x n } }$ we can use
+But as an experimental system, the heat capacity, $\mathrm { C } ,$ of the entire calorimeter system can be determined independently, either at the individual component level or by submersion of the entire calorimeter in a bath of known temperature and volume of water, and then measuring the final temperature of the calorimeter plus water bath just as we did in generating [Table 3.1](#original-table-3-1). Then, for any subsequent measurement of $q _ { \mathrm { r x n } }$ we can use
 
 ```{math}
 :label: eq-p1-ch03-41
@@ -1073,7 +1075,7 @@ Thus
 
 ## Standard Enthalpies of Formation
 
-In the application of thermochemistry to a broad range of important calculations we need a convention by which the enthalpy change for a given reaction, called the enthalpy of reaction, $\Delta H _ { \mathrm R }$ , can be readily calculated. The convention is to define the standard enthalpy of formation, $\Delta H _ { \mathrm { ~ f ~ } } ^ { \circ }$ to specific molecular species, and then tabulate those values of $\Delta H _ { \mathrm { ~ f ~ } } ^ { \circ }$ for each of the molecular species. Because enthalpy is a state function, we are concerned only with changes in enthalpy $\Delta H ,$ so the absolute scale is not important in such a tabulation. In order to set the scale for standard enthalpies of formation, the convention is to assign enthalpy values of zero to elements in their standard states. Specifically, the enthalpy of formation, $\Delta H \%$ is defined as zero for $\mathrm { O _ { 2 } , \ H _ { 2 } , \ N _ { 2 } , }$ and C(graphite) in their standard states at one atmosphere pressure, and $2 5 ^ { \circ } \mathrm { C }$ . This is shown graphically in Figure 3.15, wherein $\Delta H _ { \mathrm { ~ f ~ } } ^ { \circ } = 0$ sets the scale for enthalpies of formation for a broad range of molecular species, both positive (energy required to form a molecular structure from its elements in their standard state) and negative (energy released in the formation of the species from their standard states). A great deal of experimental work over time has gone into the determination of the enthalpies of formation for hundreds of compounds—information that is now available in tables, specifically Appendix B of this text. A selection of important examples is shown in Table 3.3.
+In the application of thermochemistry to a broad range of important calculations we need a convention by which the enthalpy change for a given reaction, called the enthalpy of reaction, $\Delta H _ { \mathrm R }$ , can be readily calculated. The convention is to define the standard enthalpy of formation, $\Delta H _ { \mathrm { ~ f ~ } } ^ { \circ }$ to specific molecular species, and then tabulate those values of $\Delta H _ { \mathrm { ~ f ~ } } ^ { \circ }$ for each of the molecular species. Because enthalpy is a state function, we are concerned only with changes in enthalpy $\Delta H ,$ so the absolute scale is not important in such a tabulation. In order to set the scale for standard enthalpies of formation, the convention is to assign enthalpy values of zero to elements in their standard states. Specifically, the enthalpy of formation, $\Delta H \%$ is defined as zero for $\mathrm { O _ { 2 } , \ H _ { 2 } , \ N _ { 2 } , }$ and C(graphite) in their standard states at one atmosphere pressure, and $2 5 ^ { \circ } \mathrm { C }$ . This is shown graphically in [Figure 3.15](#fig-p1-ch03-39), wherein $\Delta H _ { \mathrm { ~ f ~ } } ^ { \circ } = 0$ sets the scale for enthalpies of formation for a broad range of molecular species, both positive (energy required to form a molecular structure from its elements in their standard state) and negative (energy released in the formation of the species from their standard states). A great deal of experimental work over time has gone into the determination of the enthalpies of formation for hundreds of compounds—information that is now available in tables, specifically Appendix B of this text. A selection of important examples is shown in [Table 3.3](#original-table-3-3).
 
 :::{figure} ../images/fig-p1-ch03-39.jpg
 :name: fig-p1-ch03-39
@@ -1082,6 +1084,7 @@ FIGURE 3.15 Each compound, each molecule, has an enthalpy of formation, $\Delta 
 :::
 
 
+(original-table-3-3)=
 TABLE 3.3 Standard enthalpies of formation for some common compounds
 
 <table><tr><td>Compound</td><td> $\Delta H^{\circ}_{f,298}$  kJ/mol</td></tr><tr><td> $H_2O(l)$ </td><td>-285.83</td></tr><tr><td> $H_2O(g)$ </td><td>-241.82</td></tr><tr><td>CO(g)</td><td>-110.52</td></tr><tr><td> $CO_2(g)$ </td><td>-393.51</td></tr><tr><td> $CH_4(g)$ </td><td>-74.81</td></tr><tr><td> $C_2H_2(g)$ </td><td>226.73</td></tr><tr><td> $C_2H_4(g)$ </td><td>52.30</td></tr><tr><td> $C_2H_6(g)$ </td><td>-84.68</td></tr><tr><td> $CH_3OH(l)$ </td><td>-238.66</td></tr><tr><td> $C_2H_5OH(l)$ </td><td>-277.69</td></tr><tr><td> $C_6H_6(l)$ </td><td>49.028</td></tr><tr><td> $C_6H_6(g)$ </td><td>82.93</td></tr><tr><td> $C_6H_{12}O_6(s)$ </td><td>-1260</td></tr><tr><td> $I-C_8H_{18}(l)$ </td><td>-208.2</td></tr><tr><td> $SiO_2(s)$ </td><td>-910.94</td></tr><tr><td> $NH_3(g)$ </td><td>-46.11</td></tr><tr><td>NO(g)</td><td>90.25</td></tr><tr><td> $NO_2(g)$ </td><td>33.18</td></tr><tr><td> $O_3(g)$ </td><td>142.7</td></tr><tr><td> $H_2S(g)$ </td><td>-20.63</td></tr><tr><td> $SO_2(g)$ </td><td>-296.81</td></tr><tr><td>HCl(g)</td><td>-92.31</td></tr><tr><td>NaCl(s)</td><td>-411.15</td></tr><tr><td> $NH_{4}Cl(s)$ </td><td>-314.4</td></tr><tr><td> $NaHCO_{3}(s)$ </td><td>-950.81</td></tr><tr><td> $Na_{2}CO_{3}(s)$ </td><td>-1130.68</td></tr><tr><td>MgO(s)</td><td>-601.7</td></tr><tr><td>CaO(s)</td><td>-635.09</td></tr><tr><td> $CaCO_{3}(s)$ </td><td>-1206.92</td></tr><tr><td> $Fe_{2}O_{3}(s)$ </td><td>-824.2</td></tr><tr><td> $Al_{2}O_{3}(s)$ </td><td>-1675.7</td></tr></table>
@@ -1104,7 +1107,7 @@ To answer this question, we combine the concepts of the standard enthalpy of for
 ```
 
 
-Note that because, in thermochemistry, we have defined the condition wherein heat flows from the system to the surrounding as ${ \textbf { q } } < { \textbf { 0 } }$ (Figure 3.10), then if energy is released in a chemical reaction, $\Delta H _ { \mathrm { ~ \tiny ~ R ~ } } ^ { \circ } < 0$
+Note that because, in thermochemistry, we have defined the condition wherein heat flows from the system to the surrounding as ${ \textbf { q } } < { \textbf { 0 } }$ ([Figure 3.10)](#fig-p1-ch03-32), then if energy is released in a chemical reaction, $\Delta H _ { \mathrm { ~ \tiny ~ R ~ } } ^ { \circ } < 0$
 
 Look up the enthalpy of formation in a tabulation—Appendix B in this text— for each of the products and reactants:
 
@@ -1150,7 +1153,7 @@ $\mathrm { I f } ~ { \Delta H _ { \mathrm { R } } ^ { \circ } } > 0$ , energy mu
 
 In our case $\Delta H _ { _ { \mathrm { R } } } ^ { \circ } \ < \ \textbf { \ } 0 ,$ so the reaction releases energy and is thermodynamically allowed.
 
-Again, standard enthalpies of formation for a number of important compounds are given in Table 3.3. Can you recognize patterns in $\Delta \mathrm { H } _ { \mathrm { f } } { \mathrm { ? } }$
+Again, standard enthalpies of formation for a number of important compounds are given in [Table 3.3](#original-table-3-3). Can you recognize patterns in $\Delta \mathrm { H } _ { \mathrm { f } } { \mathrm { ? } }$
 
 ## Hess's Law
 
@@ -1198,7 +1201,7 @@ This is the foundation for Hess's Law, which states that:
 
 If a process occurs in steps—even if the steps are hypothetical—then the enthalpy change for the overall process is the same as the sum of the enthalpy changes of the individual steps.
 
-There is an illustrative example of Hess's Law in the analogy of the potential energy of a mass in a gravitational field. Suppose we wish to calculate the potential energy (mgh) of a mass, m, at a given floor of a large apartment building—say at position x in Figure 3.16. Because potential energy is a state variable (it does not depend on the path taken to reach position x) we can calculate the potential energy via a number of different paths. We could raise the mass through path 1 in Figure 3.16 directly. Or, we could raise the mass through path 2 to a higher floor, then subtract the potential energy released in going from the top of path 2 to point x. Through either path we would arrive at the same value for the potential energy at point x.
+There is an illustrative example of Hess's Law in the analogy of the potential energy of a mass in a gravitational field. Suppose we wish to calculate the potential energy (mgh) of a mass, m, at a given floor of a large apartment building—say at position x in [Figure 3.16](#fig-p1-ch03-40). Because potential energy is a state variable (it does not depend on the path taken to reach position x) we can calculate the potential energy via a number of different paths. We could raise the mass through path 1 in [Figure 3.16](#fig-p1-ch03-40) directly. Or, we could raise the mass through path 2 to a higher floor, then subtract the potential energy released in going from the top of path 2 to point x. Through either path we would arrive at the same value for the potential energy at point x.
 
 :::{figure} ../images/fig-p1-ch03-40.jpg
 :name: fig-p1-ch03-40
@@ -1467,7 +1470,7 @@ q = m c \Delta T
 ```
 
 
-But in order to quantitatively determine the amount of work that can be extracted from the energy release in a chemical reaction we need to address the macroscopic transfer of energy from the system to the surroundings (or vice versa) in a more thorough way. We have already developed the important concept that work, w, is energy transferred to a system from the surroundings by a force operating over a distance. It is a distinctly macroscopic concept representing the mechanical interaction of the system operating on the surroundings, or visa versa. Figure 3.5 displayed a very important prototype system, or model, using a piston acting on a closed volume.
+But in order to quantitatively determine the amount of work that can be extracted from the energy release in a chemical reaction we need to address the macroscopic transfer of energy from the system to the surroundings (or vice versa) in a more thorough way. We have already developed the important concept that work, w, is energy transferred to a system from the surroundings by a force operating over a distance. It is a distinctly macroscopic concept representing the mechanical interaction of the system operating on the surroundings, or visa versa. [Figure 3.5](#fig-p1-ch03-26) displayed a very important prototype system, or model, using a piston acting on a closed volume.
 
 Of considerable importance was the fact that for such a system,
 
@@ -1479,7 +1482,7 @@ Of considerable importance was the fact that for such a system,
 
 where $A \bullet \Delta \mathrm { x }$ is equal to the change in volume, and P is the pressure applied to the top of this piston (usually by the surrounding atmosphere). Also of considerable importance is that because $\Delta V$ is positive, work is done by the system on the surroundings and therefore $w < 0$
 
-We are now familiar with the ability of chemical reactions to change the internal energy, $\Delta U _ { \mathrm { s y s t } } ,$ of a system and then to have that kinetic energy (of the molecules to which that chemical energy was imparted) transferred to another component of the system as heat, q, by virtue of a temperature difference (as was the case for the calorimeter). But we are also familiar with the concept that the combustion of octane (gasoline) can do work on its surroundings, because that is exactly what happens when we drive a car: gasoline is fed to the engine, the automobile moves under your command, carbon dioxide and water pour out the exhaust pipe, and the engine produces heat (as well as work) as a by-product of the combustion process. The conversion of octane and molecular oxygen to carbon dioxide and water in an automobile engine is sketched on an energy scale in Figure 3.17. Understanding how chemical energy is converted to work constitutes the foundation upon which the global energy structure is built because 80% of our primary energy generation comes from the combustion of fossil fuels. So we now turn to the question of how work is quantitatively integrated into the First Law.
+We are now familiar with the ability of chemical reactions to change the internal energy, $\Delta U _ { \mathrm { s y s t } } ,$ of a system and then to have that kinetic energy (of the molecules to which that chemical energy was imparted) transferred to another component of the system as heat, q, by virtue of a temperature difference (as was the case for the calorimeter). But we are also familiar with the concept that the combustion of octane (gasoline) can do work on its surroundings, because that is exactly what happens when we drive a car: gasoline is fed to the engine, the automobile moves under your command, carbon dioxide and water pour out the exhaust pipe, and the engine produces heat (as well as work) as a by-product of the combustion process. The conversion of octane and molecular oxygen to carbon dioxide and water in an automobile engine is sketched on an energy scale in [Figure 3.17](#fig-p1-ch03-41). Understanding how chemical energy is converted to work constitutes the foundation upon which the global energy structure is built because 80% of our primary energy generation comes from the combustion of fossil fuels. So we now turn to the question of how work is quantitatively integrated into the First Law.
 
 :::{figure} ../images/fig-p1-ch03-41.jpg
 :name: fig-p1-ch03-41
@@ -1488,7 +1491,7 @@ FIGURE 3.17 We recognize from our examples of the combustion of gasoline (octane
 :::
 
 
-First, we capture the expression of our First Law of Thermodynamics with a thermodynamic energy model, wherein the system and the surroundings are designated by a physical boundary; we identify changes in the internal energy of the system as $\Delta U _ { \mathrm { s y s t } } = q + w$ where $U _ { \mathrm { s y s t } } = U _ { \mathrm { t h e r m } } + U _ { \mathrm { c h e m } }$ . We also separate the energy in $( w \mathrm { ~ > ~ 0 ~ a n d / o r ~ } q \mathrm { ~ > ~ } 0 )$ from the energy out $( w < 0$ and/or $q < 0 )$ , as displayed in Figure 3.18.
+First, we capture the expression of our First Law of Thermodynamics with a thermodynamic energy model, wherein the system and the surroundings are designated by a physical boundary; we identify changes in the internal energy of the system as $\Delta U _ { \mathrm { s y s t } } = q + w$ where $U _ { \mathrm { s y s t } } = U _ { \mathrm { t h e r m } } + U _ { \mathrm { c h e m } }$ . We also separate the energy in $( w \mathrm { ~ > ~ 0 ~ a n d / o r ~ } q \mathrm { ~ > ~ } 0 )$ from the energy out $( w < 0$ and/or $q < 0 )$ , as displayed in [Figure 3.18](#fig-p1-ch03-42).
 
 :::{figure} ../images/fig-p1-ch03-42.jpg
 :name: fig-p1-ch03-42
@@ -1503,7 +1506,7 @@ The First Law doesn't concern itself with (i.e., tell us anything about) the abs
 
 The system's internal energy is not the only thing that changes. We can, by virtue of heat and/or work done on or by the system, change the pressure, volume, or temperature of the system. The First Law tells us only about the change in the system's internal energy, $\Delta U _ { \mathrm { s y s t } }$ , and we must use other laws, such as the Perfect Gas Law, to link changes in pressure, volume, molar concentration, temperature, etc., to one another. We will see that the First Law in combination with the Perfect Gas Law (pV = nRT) constitutes a potent diagnostic approach to understanding the conversion among and between various categories of energy.
 
-We turn, first, to the question of how to devise a system that can, when coupled to the First Law of Thermodynamics, dissect the heat term at constant volume, $q _ { \mathrm { v } }$ . We adopt a machine, displayed in Figure 3.19, that is comprised of a piston that contains a volume of gas in a cylinder constructed such that the piston can be locked in place with a pin (to operate at constant volume). With the pin extracted the piston is free to move for measurements made at constant pressure and, in addition, objects of various masses can be added or removed from the top of the piston to increase or decrease the pressure of the gas within the piston-cylinder volume. While the walls of the cylinder and the top of the piston are insulated, the bottom of the cylinder is a thin wall that can be heated by a laser (or a Bunsen burner) or cooled by a device such as a block of ice. Chemicals can be added to the volume contained within the piston/cylinder system such that chemical energy can be released into or removed from the volume. This is a very versatile machine with which to study the First Law of Thermodynamics. We will use it repeatedly. It is the physical manifestation of the equations we will use to represent the processes mathematically.
+We turn, first, to the question of how to devise a system that can, when coupled to the First Law of Thermodynamics, dissect the heat term at constant volume, $q _ { \mathrm { v } }$ . We adopt a machine, displayed in [Figure 3.19](#fig-p1-ch03-43), that is comprised of a piston that contains a volume of gas in a cylinder constructed such that the piston can be locked in place with a pin (to operate at constant volume). With the pin extracted the piston is free to move for measurements made at constant pressure and, in addition, objects of various masses can be added or removed from the top of the piston to increase or decrease the pressure of the gas within the piston-cylinder volume. While the walls of the cylinder and the top of the piston are insulated, the bottom of the cylinder is a thin wall that can be heated by a laser (or a Bunsen burner) or cooled by a device such as a block of ice. Chemicals can be added to the volume contained within the piston/cylinder system such that chemical energy can be released into or removed from the volume. This is a very versatile machine with which to study the First Law of Thermodynamics. We will use it repeatedly. It is the physical manifestation of the equations we will use to represent the processes mathematically.
 
 :::{figure} ../images/fig-p1-ch03-43.jpg
 :name: fig-p1-ch03-43
@@ -1520,7 +1523,7 @@ w = - p \Delta V
 ```
 
 
-We can use our machine to make extremely important observations, measurements, and deductions that are of far reaching significance. We begin by examining the case where the piston of our machine has a mass placed on the top of the piston to create a pressure inside the vessel of 2.5 atmospheres, as shown in Figure 3.20.
+We can use our machine to make extremely important observations, measurements, and deductions that are of far reaching significance. We begin by examining the case where the piston of our machine has a mass placed on the top of the piston to create a pressure inside the vessel of 2.5 atmospheres, as shown in [Figure 3.20](#fig-p1-ch03-44).
 
 :::{figure} ../images/fig-p1-ch03-44.jpg
 :name: fig-p1-ch03-44
@@ -1621,7 +1624,7 @@ w = - (1. 4 7 \mathrm{L} \text {-atm}) (1 0 1 \mathrm{J} / \mathrm{L} \text {-at
 ```
 
 
-Notice that the sign is negative because the system (piston, cylinder) has done work on the surroundings—see Figure 3.20.
+Notice that the sign is negative because the system (piston, cylinder) has done work on the surroundings—see [Figure 3.20](#fig-p1-ch03-44).
 
 ## Isochoric, Isobaric, and Isothermal Processes
 
@@ -1637,13 +1640,13 @@ w = F \cdot d = - p \Delta V = 0.
 
 This is termed an isochoric process. Case (b) corresponds to the case we have just worked out, wherein the helium gas expanded from 0.978 L to 2.45 L under a constant pressure of 1 atm. This is called an isobaric, constant pressure, process. Case (c) is for the very important case in which both the volume and the pressure change, but the temperature does not. This is termed an isothermal process.
 
-We can use our thermodynamic machine, pictured in Figure 3.19, to examine the behavior of all three cases, and we begin with isochoric cooling.
+We can use our thermodynamic machine, pictured in [Figure 3.19](#fig-p1-ch03-43), to examine the behavior of all three cases, and we begin with isochoric cooling.
 
 ## Isochoric Processes
 
 ## Problem:
 
-Using our thermochemical machine of Figure 3.19, design and execute a process that will decrease the pressure in the gas cylinder without changing the volume. Show how this process is executed by tracing the path on a pV diagram.
+Using our thermochemical machine of [Figure 3.19](#fig-p1-ch03-43), design and execute a process that will decrease the pressure in the gas cylinder without changing the volume. Show how this process is executed by tracing the path on a pV diagram.
 
 ## Solution:
 
@@ -1667,7 +1670,7 @@ Adjust the mass sitting on top of the piston such that the final mass balances t
 
 Remove the locking pin and verify that the piston does not move.
 
-This entire sequence is reviewed on the sidebar on the next page. The isochoric process representing the “cycle” we have just executed is shown on a $p V$ diagram in Figure 3.21.
+This entire sequence is reviewed on the sidebar on the next page. The isochoric process representing the “cycle” we have just executed is shown on a $p V$ diagram in [Figure 3.21](#fig-p1-ch03-45).
 
 :::{figure} ../images/fig-p1-ch03-45.jpg
 :name: fig-p1-ch03-45
@@ -1709,7 +1712,7 @@ The initial and final internal energy of the system that is comprised of the the
 
 The work, w, and heat, q, which represent, respectively, (a) the macroscopic exchange of energy to or from the system and (b) the microscopic exchange of energy to or from the system.
 
-We can represent the sequence on our pV diagram using a bar chart shown in Figure 3.22 for the process that quantitatively captures each of the quantities and keeps track of the sign of the change. We consider this bar chart in combination with the $p V$ diagram. As the gas in the volume of our isochoric process decreased in temperature when the base of the cylinder was cooled, the initial thermal energy, $U _ { \mathrm { t h e r m } }$ <sub>i</sub>, decreased as heat, q, was removed from the system, $q < \mathbf { \epsilon } _ { 0 }$ . The chemical energy, $U _ { \mathrm { c h e m } }$ , remained unchanged through the course of the process because no chemical reaction took place. Similarly, the work done on or by the piston/cylinder system is equal to zero because we locked the piston in place with the pin. Thus, the structure of our bar chart first identifies the initial internal energy, $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ and $( U _ { \mathrm { c h e m } } ) _ { \mathrm { i } }$ and the magnitude and sign of the work and heat terms. The final internal energy, $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } }$ and $( U _ { \mathrm { c h e m } } ) _ { \mathrm { f } } ,$ at the end of the process is accounted for quantitatively by the bar graphs on the righthand side of the figure. Thus the bar chart takes the form displayed in Figure 3.22 for the isochoric process displayed on the pV diagram of Figure 3.21.
+We can represent the sequence on our pV diagram using a bar chart shown in [Figure 3.22](#fig-p1-ch03-49) for the process that quantitatively captures each of the quantities and keeps track of the sign of the change. We consider this bar chart in combination with the $p V$ diagram. As the gas in the volume of our isochoric process decreased in temperature when the base of the cylinder was cooled, the initial thermal energy, $U _ { \mathrm { t h e r m } }$ <sub>i</sub>, decreased as heat, q, was removed from the system, $q < \mathbf { \epsilon } _ { 0 }$ . The chemical energy, $U _ { \mathrm { c h e m } }$ , remained unchanged through the course of the process because no chemical reaction took place. Similarly, the work done on or by the piston/cylinder system is equal to zero because we locked the piston in place with the pin. Thus, the structure of our bar chart first identifies the initial internal energy, $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ and $( U _ { \mathrm { c h e m } } ) _ { \mathrm { i } }$ and the magnitude and sign of the work and heat terms. The final internal energy, $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } }$ and $( U _ { \mathrm { c h e m } } ) _ { \mathrm { f } } ,$ at the end of the process is accounted for quantitatively by the bar graphs on the righthand side of the figure. Thus the bar chart takes the form displayed in [Figure 3.22](#fig-p1-ch03-49) for the isochoric process displayed on the pV diagram of [Figure 3.21](#fig-p1-ch03-45).
 
 :::{figure} ../images/fig-p1-ch03-49.jpg
 :name: fig-p1-ch03-49
@@ -1769,7 +1772,7 @@ provides a quantitative accounting of the terms in the First Law of Thermodynami
 
 ## Isobaric Processes
 
-We turn next to the case of an isobaric process shown in Figure 3.23 on the pressure-volume surface. For the isobaric process, as we proceed from the initial point on the pressure-volume plot, at $p _ { \mathrm { i } } V _ { \mathrm { i , } }$ to the final point on the pressure-volume plot, at $p _ { \mathrm { f } } V _ { \mathrm { f } }$ the pressure remains the same. Thus, while $p _ { \mathrm { { i } } } =$ $p _  \mathrm { f } , $ the volume increases from $V _ { \mathrm { i } }$ to $V _ { \mathrm { f } } ,$ and $V _ { \mathrm { f } } > V _ { \mathrm { i } }$ as shown in Figure 3.23.
+We turn next to the case of an isobaric process shown in [Figure 3.23](#fig-p1-ch03-56) on the pressure-volume surface. For the isobaric process, as we proceed from the initial point on the pressure-volume plot, at $p _ { \mathrm { i } } V _ { \mathrm { i , } }$ to the final point on the pressure-volume plot, at $p _ { \mathrm { f } } V _ { \mathrm { f } }$ the pressure remains the same. Thus, while $p _ { \mathrm { { i } } } =$ $p _  \mathrm { f } , $ the volume increases from $V _ { \mathrm { i } }$ to $V _ { \mathrm { f } } ,$ and $V _ { \mathrm { f } } > V _ { \mathrm { i } }$ as shown in [Figure 3.23](#fig-p1-ch03-56).
 
 :::{figure} ../images/fig-p1-ch03-56.jpg
 :name: fig-p1-ch03-56
@@ -1788,11 +1791,11 @@ w = - p \Delta V = p (V _ {\mathrm{f}} - V _ {\mathrm{i}})
 ```
 
 
-where $V _ { \mathrm { f } }$ is the final volume and $V _ { \mathrm { i } }$ is the initial volume. We can sketch this on a $p V$ diagram as shown in Figure 3.23 and, moreover, see by inspection that the shaded area under the line representing the trajectory on the pressure-volume diagram is quantitatively equal to the work done in moving from $V _ { \mathrm { i } }$ to $V _ { \mathrm { f } }$ at pressure $p _ { \mathrm { o } } ,$ specifically $p _ { \mathrm { { o } } } \Delta V .$
+where $V _ { \mathrm { f } }$ is the final volume and $V _ { \mathrm { i } }$ is the initial volume. We can sketch this on a $p V$ diagram as shown in [Figure 3.23](#fig-p1-ch03-56) and, moreover, see by inspection that the shaded area under the line representing the trajectory on the pressure-volume diagram is quantitatively equal to the work done in moving from $V _ { \mathrm { i } }$ to $V _ { \mathrm { f } }$ at pressure $p _ { \mathrm { o } } ,$ specifically $p _ { \mathrm { { o } } } \Delta V .$
 
-But we must also keep track of what occurs physically in an isobaric process with our thermodynamic machine and then track the initial and final internal energies and the work and heat terms using our energy bar graph. Given that this is an isobaric process, we know that the pressure must be constant so that (a) the mass placed on top of the cylinder must not change during the expansion; (b) the piston must move upward, so the pin must be removed; and (c) the machine must do work on the surroundings so that $w <$ 0 by our convention defined in Figure 3.18.
+But we must also keep track of what occurs physically in an isobaric process with our thermodynamic machine and then track the initial and final internal energies and the work and heat terms using our energy bar graph. Given that this is an isobaric process, we know that the pressure must be constant so that (a) the mass placed on top of the cylinder must not change during the expansion; (b) the piston must move upward, so the pin must be removed; and (c) the machine must do work on the surroundings so that $w <$ 0 by our convention defined in [Figure 3.18](#fig-p1-ch03-42).
 
-By the Perfect Gas Law we know that $p _ { \mathrm { i } } V _ { \mathrm { i } } = n R T _ { \mathrm { i } }$ and $p _ { \mathrm { f } } V _ { \mathrm { f } } = n R T _ { \mathrm { f } }$ . Because $p _ { \mathrm { i } } = p _ { \mathrm { f } } = p _ { \mathrm { o } }$ we can write $V _ { \mathrm { i } } = ( n R / p _ { 0 } ) T _ { \mathrm { i } }$ and $V _ { \mathrm { f } } = ( n R / p _ { 0 } ) T _ { \mathrm { f } } ,$ and so $\Delta V = V _ { \mathrm { f } } -$ $V _ { \mathrm { i } } = ( n R / p _ { \mathrm { o } } ) ( T _ { \mathrm { f } } - T _ { \mathrm { i } } )$ . Therefore, because $\Delta V > 0 , \ T _ { \mathrm { f } } > T _ { \mathrm { i } }$ and $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } >$ $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ . Since $U _ { \mathrm { c h e m } }$ is unchanged, $( U _ { \mathrm { c h e m } } ) _ { \mathrm { i } } ~ = ~ ( U _ { \mathrm { c h e m } } ) _ { \mathrm { f } }$ and thus with $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } > ( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ and with $w < 0$ , and knowing that $w + q = ( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } -$ $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ , we know that $q > 0$ . Thus we must use our laser source to add heat to the thermodynamic machine to increase the temperature $( U _ { \mathrm { t h e r m } } )$ of the gas within the piston-cylinder—thereby causing the piston to rise against the fixed pressure $( p _ { 0 } )$ set by the pressure of the atmosphere plus the pressure created by the mass placed on the top of the piston. In our energy bar chart, q $> 0 , w < 0$ and $q + w = ( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } - ( U _ { \mathrm { t h e r m } } )$ <sub>i</sub>. This triad of the thermodynamic machine, pressure-volume diagram, and energy bar chart are summarized in Figure 3.24.
+By the Perfect Gas Law we know that $p _ { \mathrm { i } } V _ { \mathrm { i } } = n R T _ { \mathrm { i } }$ and $p _ { \mathrm { f } } V _ { \mathrm { f } } = n R T _ { \mathrm { f } }$ . Because $p _ { \mathrm { i } } = p _ { \mathrm { f } } = p _ { \mathrm { o } }$ we can write $V _ { \mathrm { i } } = ( n R / p _ { 0 } ) T _ { \mathrm { i } }$ and $V _ { \mathrm { f } } = ( n R / p _ { 0 } ) T _ { \mathrm { f } } ,$ and so $\Delta V = V _ { \mathrm { f } } -$ $V _ { \mathrm { i } } = ( n R / p _ { \mathrm { o } } ) ( T _ { \mathrm { f } } - T _ { \mathrm { i } } )$ . Therefore, because $\Delta V > 0 , \ T _ { \mathrm { f } } > T _ { \mathrm { i } }$ and $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } >$ $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ . Since $U _ { \mathrm { c h e m } }$ is unchanged, $( U _ { \mathrm { c h e m } } ) _ { \mathrm { i } } ~ = ~ ( U _ { \mathrm { c h e m } } ) _ { \mathrm { f } }$ and thus with $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } > ( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ and with $w < 0$ , and knowing that $w + q = ( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } -$ $( U _ { \mathrm { t h e r m } } ) _ { \mathrm { i } }$ , we know that $q > 0$ . Thus we must use our laser source to add heat to the thermodynamic machine to increase the temperature $( U _ { \mathrm { t h e r m } } )$ of the gas within the piston-cylinder—thereby causing the piston to rise against the fixed pressure $( p _ { 0 } )$ set by the pressure of the atmosphere plus the pressure created by the mass placed on the top of the piston. In our energy bar chart, q $> 0 , w < 0$ and $q + w = ( U _ { \mathrm { t h e r m } } ) _ { \mathrm { f } } - ( U _ { \mathrm { t h e r m } } )$ <sub>i</sub>. This triad of the thermodynamic machine, pressure-volume diagram, and energy bar chart are summarized in [Figure 3.24](#fig-p1-ch03-57).
 
 :::{figure} ../images/fig-p1-ch03-57.jpg
 :name: fig-p1-ch03-57
@@ -1801,7 +1804,7 @@ FIGURE 3.24 If we add heat to the system under conditions of constant pressure, 
 :::
 
 
-If we add energy to the gas in the cylinder with a laser and we keep the pressure in the cylinder constant, $p _ { \mathrm { { o } } } ,$ , by allowing the piston to move, but keeping the mass on top of the piston constant, then $p _ { \mathrm { i } } V _ { \mathrm { i } } = p _ { 0 } V _ { \mathrm { i } } = n R T _ { \mathrm { i } }$ and $p _ { \mathrm { f } } V _ { \mathrm { f } } = p _ { 0 } V _ { \mathrm { f } } = n R T _ { \mathrm { f } } .$ We can then solve for $\Delta V = ( V _ { \mathrm { f } } - V _ { \mathrm { i } } ) = ( n R / p _ { \mathrm { o } } ) ( T _ { \mathrm { f } } - T _ { \mathrm { i } } )$ , so we know $( T _ { \mathrm { f } } \ - \ T _ { \mathrm { i } } ) \ > \ { \bf o } ;$ so with $w ~ < ~ 0$ (the machine does work on the surroundings), q must be positive, as shown in the bar chart of Figure 3.24. Again it is important to carefully think through what is occurring physically, how the process maps out on a pressure-volume plot and the sign and magnitude of q and w with the energy bar chart.
+If we add energy to the gas in the cylinder with a laser and we keep the pressure in the cylinder constant, $p _ { \mathrm { { o } } } ,$ , by allowing the piston to move, but keeping the mass on top of the piston constant, then $p _ { \mathrm { i } } V _ { \mathrm { i } } = p _ { 0 } V _ { \mathrm { i } } = n R T _ { \mathrm { i } }$ and $p _ { \mathrm { f } } V _ { \mathrm { f } } = p _ { 0 } V _ { \mathrm { f } } = n R T _ { \mathrm { f } } .$ We can then solve for $\Delta V = ( V _ { \mathrm { f } } - V _ { \mathrm { i } } ) = ( n R / p _ { \mathrm { o } } ) ( T _ { \mathrm { f } } - T _ { \mathrm { i } } )$ , so we know $( T _ { \mathrm { f } } \ - \ T _ { \mathrm { i } } ) \ > \ { \bf o } ;$ so with $w ~ < ~ 0$ (the machine does work on the surroundings), q must be positive, as shown in the bar chart of [Figure 3.24](#fig-p1-ch03-57). Again it is important to carefully think through what is occurring physically, how the process maps out on a pressure-volume plot and the sign and magnitude of q and w with the energy bar chart.
 
 ## Isothermal Processes
 
@@ -1881,7 +1884,7 @@ and that since (in this case) $\Delta U _ { \mathrm { c h e m } } = 0$ , and $\D
 ```
 
 
-We can calculate the work done in this isothermal process by breaking the progression from the initial condition to the final condition into increments as shown in Figure 3.25. The work is then the sum of each of the increments $\mathrm { p } _ { \mathrm { i } } \Delta \mathrm { V } _ { \mathrm { i } }$ in Figure 3.25. Alternatively we can replace the summation of the small increments by an integral as shown in the sidebar such that
+We can calculate the work done in this isothermal process by breaking the progression from the initial condition to the final condition into increments as shown in [Figure 3.25](#fig-p1-ch03-60). The work is then the sum of each of the increments $\mathrm { p } _ { \mathrm { i } } \Delta \mathrm { V } _ { \mathrm { i } }$ in [Figure 3.25](#fig-p1-ch03-60). Alternatively we can replace the summation of the small increments by an integral as shown in the sidebar such that
 
 ```{math}
 :label: eq-p1-ch03-136
@@ -1896,7 +1899,7 @@ FIGURE 3.25 As the functional form of the trajectory on the $p V$ diagram become
 :::
 
 
-The union of what is occurring physically with the trajectory on the pressurevolume diagram and the energy bar chart that accounts for $q$ and w is displayed as the triad in Figure 3.26.
+The union of what is occurring physically with the trajectory on the pressurevolume diagram and the energy bar chart that accounts for $q$ and w is displayed as the triad in [Figure 3.26](#fig-p1-ch03-62).
 
 The Triad Applied to an Isothermal Process
 
@@ -2025,7 +2028,7 @@ q = \mathrm{mc} \Delta T
 ```
 
 
-we discover something very important: If we execute a process at constant volume (isochoric) between two isotherms on our pV diagram (path 1 in Figure 3.27), the amount of thermal energy transferred to the system will not be equal to the case of moving between the same two isotherms along the path of constant pressure (isobaric) indicated by path 2 in Figure 3.27.
+we discover something very important: If we execute a process at constant volume (isochoric) between two isotherms on our pV diagram (path 1 in [Figure 3.27)](#original-fig-3-27), the amount of thermal energy transferred to the system will not be equal to the case of moving between the same two isotherms along the path of constant pressure (isobaric) indicated by path 2 in [Figure 3.27](#original-fig-3-27).
 
 :::{figure} ../images/fig-p1-ch03-64.jpg
 :name: fig-p1-ch03-64
@@ -2033,11 +2036,12 @@ we discover something very important: If we execute a process at constant volume
 :::
 
 Process 1 and 2 have the same ∆T and the same $\Delta U _ { \mathrm { u h e r m ^ { \prime } } }$ , but they require different amounts of heat.
+(original-fig-3-27)=
 FIGURE 3.27 A plot of two trajectories in the $p V$ graph, each of which carries the system from one isotherm, $T _ { \mathrm { i } }$ , to a second isotherm $T _ { \mathrm { f } }$ . Along segment 1 from $T _ { \mathrm { i } }$ to $T _ { \mathrm { f } }$ , the process is isochoric so $\Delta V =$ 0 and no work is done. In this case the heat added to the system is $q = n \mathrm { c } _ { \mathrm { v } } \Delta T ,$ , where $\mathtt { c _ { v } }$ is the molar heat capacity at constant volume. Along segment 2 between the same two isotherms, the volume increases but the pressure remains constant, so work is done by the system on the surroundings, and the heat added to the system is $q = n \mathrm { c } _ { \mathsf { p } } \Delta \mathsf { T } ,$ where ${ \mathsf { c } } _ { \mathsf { p } }$ is the molar heat capacity at constant pressure. Note that because $\Delta U _ { \mathrm { s y s t } }$ is the same for both path 1 and path 2, $\mathsf { c } _ { \mathsf { p } } > \mathsf { c } _ { \mathsf { v } }$ because work had to be done along the path of constant pressure.
 
 We recognize why this is so from our analysis of isochoric and isobaric processes with our thermochemical machine, our pV diagrams, and our bar graphs. Specifically, while no work is done along path 1 in moving between two isotherms, work is done along path 2.
 
-Recognition of these two points requires some thought when we treat compressible fluids (in this case, gases) with the First Law. We highlight the issue of the path dependence of the heat required to engender the same change in temperature by defining two distinct quantities: the specific heat of a gas at constant volume, $c _ { V } ,$ corresponding to path 1 in Figure 3.27, and the specific heat of a gas at constant pressure, $c _ { \mathrm { p } } ,$ corresponding to path 2 in Figure 3.27. It is common practice to write specific heats for gases in terms of the molar specific heat rather than the specific heat per unit mass, as is typically done for solids and liquids. Thus, we write
+Recognition of these two points requires some thought when we treat compressible fluids (in this case, gases) with the First Law. We highlight the issue of the path dependence of the heat required to engender the same change in temperature by defining two distinct quantities: the specific heat of a gas at constant volume, $c _ { V } ,$ corresponding to path 1 in [Figure 3.27](#original-fig-3-27), and the specific heat of a gas at constant pressure, $c _ { \mathrm { p } } ,$ corresponding to path 2 in [Figure 3.27](#original-fig-3-27). It is common practice to write specific heats for gases in terms of the molar specific heat rather than the specific heat per unit mass, as is typically done for solids and liquids. Thus, we write
 
 ```{math}
 :label: eq-p1-ch03-147
@@ -2057,8 +2061,9 @@ q = n c _ {\mathrm{p}} \Delta T
 
 for the temperature change at constant pressure for n moles of a gas to which an amount of thermal energy, q, has been added. Respectively, $c _ { \mathrm { V } }$ is the molar specific heat at constant volume and $c _ { \mathrm { p } }$ is the molar specific heat at constant pressure.
 
-It is quite informative when the molar specific heats of gases are compared, particularly when we divide gases into monatomic gases and diatomic gases, as displayed in Table 3.4.
+It is quite informative when the molar specific heats of gases are compared, particularly when we divide gases into monatomic gases and diatomic gases, as displayed in [Table 3.4](#original-table-3-4).
 
+(original-table-3-4)=
 TABLE 3.4 Molar specific heats of gases (J/mol K)
 
 <table><tr><td>Gas</td><td> $c_{P}$ </td><td> $c_{V}$ </td><td> $c_{P}-c_{V}$ </td></tr><tr><td colspan="4">MONATOMIC GASES</td></tr><tr><td>He</td><td>20.8</td><td>12.5</td><td>8.3</td></tr><tr><td>Ne</td><td>20.8</td><td>12.5</td><td>8.3</td></tr><tr><td>Ar</td><td>20.8</td><td>12.5</td><td>8.3</td></tr><tr><td colspan="4">DIATOMIC GASES</td></tr><tr><td> $H_{2}$ </td><td>28.7</td><td>20.4</td><td>8.3</td></tr><tr><td> $N_{2}$ </td><td>29.1</td><td>20.8</td><td>8.3</td></tr><tr><td> $O_{2}$ </td><td>29.2</td><td>20.9</td><td>8.3</td></tr></table>
@@ -2073,7 +2078,7 @@ Second, the First Law, $\Delta U _ { \mathrm { t h e r m } } ~ = ~ q ~ + ~ w ,$ 
 
 Therefore, no matter what path is taken that results in the change in thermal energy of the gas, $\Delta U _ { \mathrm { t h e r m } }$ , the temperature change, $\Delta T ,$ will be the same.
 
-So let's consider first path 1 in Figure 3.27, which occurs along a path such that no work can be done on or by the system:
+So let's consider first path 1 in [Figure 3.27](#original-fig-3-27), which occurs along a path such that no work can be done on or by the system:
 
 ```{math}
 :label: eq-p1-ch03-149
@@ -2081,7 +2086,7 @@ So let's consider first path 1 in Figure 3.27, which occurs along a path such th
 ```
 
 
-Along path 2 in Figure 3.27, the work done (by the system) is $- p \Delta V ,$ so
+Along path 2 in [Figure 3.27](#original-fig-3-27), the work done (by the system) is $- p \Delta V ,$ so
 
 ```{math}
 :label: eq-p1-ch03-150
@@ -2173,7 +2178,7 @@ c _ {\mathrm{p}} - c _ {\mathrm{V}} = R
 ```
 
 
-This is remarkable. It is exactly what we see in the experimentally determined data of Table 3.4. The above expression is a universally useful result. It emerged, remember, from the union of the First Law and the Perfect Gas Law.
+This is remarkable. It is exactly what we see in the experimentally determined data of [Table 3.4](#original-table-3-4). The above expression is a universally useful result. It emerged, remember, from the union of the First Law and the Perfect Gas Law.
 
 While we are now equipped to quantitatively tackle an adiabatic process (a process for which $q = \mathbf { 0 } )$ , it is of considerable interest to step back and assess what we have just accomplished.
 
@@ -2345,7 +2350,7 @@ p _ {\mathrm{f}} V _ {\mathrm{f}} ^ {\gamma} = p _ {\mathrm{i}} V _ {\mathrm{i}}
 
 How do we know this? It is proven in the sidebar on the previous page! Notice that the adiabatic $p V$ relation bears a strong mathematical resemblance to the isothermal case for which $p V = \mathrm { c o n s t a n t } .$
 
-Figure 3.28 maps out trajections on a pressure-volume diagram for adiabatic processes. These trajectories are called adiabats and, because $\gamma =$ $c _ { \mathrm { p } } / c _ { \mathrm { V } } > 1$ , these trajectories are steeper than the corresponding trajectories for an isothermal process.
+[Figure 3.28](#fig-p1-ch03-65) maps out trajections on a pressure-volume diagram for adiabatic processes. These trajectories are called adiabats and, because $\gamma =$ $c _ { \mathrm { p } } / c _ { \mathrm { V } } > 1$ , these trajectories are steeper than the corresponding trajectories for an isothermal process.
 
 :::{figure} ../images/fig-p1-ch03-65.jpg
 :name: fig-p1-ch03-65
@@ -2377,7 +2382,7 @@ An understanding of adiabatic and isothermal processes turns out to be criticall
 
 ## Phase Changes and the Thermodynamics of Melting, Vaporization, and Sublimation
 
-To this point we have considered the First Law of Thermodynamics with respect to heat, q, and work, w, for a single phase: solid, liquid, or gas. Many important processes involve the thermodynamics of changes from solid to liquid and from liquid to gas. We note those phase changes here in the context of enthalpy changes, ΔH, associated with those phase changes. We focus on enthalpy changes because the vast majority of phase transitions take place at constant pressure, which the thermodynamic variable enthalpy was specifically created to address. We summarize the terminology of phase changes in Figure 3.29, which demonstrates the phase transitions from solid to liquid to gas and visa versa on an enthalpy scale.
+To this point we have considered the First Law of Thermodynamics with respect to heat, q, and work, w, for a single phase: solid, liquid, or gas. Many important processes involve the thermodynamics of changes from solid to liquid and from liquid to gas. We note those phase changes here in the context of enthalpy changes, ΔH, associated with those phase changes. We focus on enthalpy changes because the vast majority of phase transitions take place at constant pressure, which the thermodynamic variable enthalpy was specifically created to address. We summarize the terminology of phase changes in [Figure 3.29](#fig-p1-ch03-67), which demonstrates the phase transitions from solid to liquid to gas and visa versa on an enthalpy scale.
 
 :::{figure} ../images/fig-p1-ch03-67.jpg
 :name: fig-p1-ch03-67
@@ -2436,9 +2441,9 @@ A less common phase transition is sublimation. Sublimation is the direct phase t
 ```
 
 
-This is explicitly shown in Figure 3.29.
+This is explicitly shown in [Figure 3.29](#fig-p1-ch03-67).
 
-As an example of the behavior of a substance as heat is added, we examine quantitatively what happens when we begin with 1 kg of ice at $- 4 0 ^ { \circ } \mathrm { C }$ and follow it through to the final phase transition to the vapor phase (steam). This is most conveniently done by plotting the temperature $( ^ { \circ } \mathrm { C } )$ versus the amount of heat added (kJ). This is traced quantitatively in Figure 3.30.
+As an example of the behavior of a substance as heat is added, we examine quantitatively what happens when we begin with 1 kg of ice at $- 4 0 ^ { \circ } \mathrm { C }$ and follow it through to the final phase transition to the vapor phase (steam). This is most conveniently done by plotting the temperature $( ^ { \circ } \mathrm { C } )$ versus the amount of heat added (kJ). This is traced quantitatively in [Figure 3.30](#fig-p1-ch03-68).
 
 :::{figure} ../images/fig-p1-ch03-68.jpg
 :name: fig-p1-ch03-68
@@ -2447,7 +2452,7 @@ FIGURE 3.30 The addition of heat to a 1 kg mass of ice at $\scriptscriptstyle - 
 :::
 
 
-Stage 1 on the far left of Figure 3.30 is the addition of heat to ice at $- 4 0 ^ { \circ } \mathrm { C }$ As heat enters the structure of ice, the kinetic energy of the $\mathrm { H } _ { 2 } \mathrm { O }$ molecules in the ice structure increases via the physically constrained rotational and vibrational motion of the molecules. The change is
+Stage 1 on the far left of [Figure 3.30](#fig-p1-ch03-68) is the addition of heat to ice at $- 4 0 ^ { \circ } \mathrm { C }$ As heat enters the structure of ice, the kinetic energy of the $\mathrm { H } _ { 2 } \mathrm { O }$ molecules in the ice structure increases via the physically constrained rotational and vibrational motion of the molecules. The change is
 
 ```{math}
 :label: eq-p1-ch03-187
@@ -2479,7 +2484,7 @@ The molar heat capacity of solid $\mathrm { H } _ { 2 } \mathrm { O }$ is 37.6 J
 ```
 
 
-Because the increase in temperature is directly proportional to the amount of heat added, Stage 1 in our graph of temperature vs. heat added is linear as displayed in Figure 3.30.
+Because the increase in temperature is directly proportional to the amount of heat added, Stage 1 in our graph of temperature vs. heat added is linear as displayed in [Figure 3.30](#fig-p1-ch03-68).
 
 Stage 2 is the addition of heat to melt solid $\mathrm { H } _ { 2 } \mathrm { O }$ to liquid $\mathrm { H } _ { 2 } \mathrm { O }$ . The change associated with melting occurs at one temperature, $0 ^ { \circ } \mathrm { C } _ { : }$ , as the inflow of thermal energy (heat) converts the crystal structure of solid $\mathrm { H } _ { 2 } \mathrm { O }$ to liquid where the $\mathrm { H } _ { 2 } \mathrm { O }$ molecules are free to slide past one another. The enthalpy change associated with this phase change is
 
@@ -2503,7 +2508,7 @@ and
 ```
 
 
-This stage is plotted in Figure 3.30.
+This stage is plotted in [Figure 3.30](#fig-p1-ch03-68).
 
 Stage 3 is the flow of heat into liquid $\mathrm { H } _ { 2 } \mathrm { O }$ , increasing its temperature from $\mathbf { 0 } ^ { \circ } \mathbf { C }$ to ${ \bf 1 0 0 ^ { \circ } C } ,$ , so the transformation is
 
@@ -2537,7 +2542,7 @@ and
 ```
 
 
-Note that this is a very large amount of energy. In the transition from solid $_ \mathrm { H _ { 2 } O }$ at $- 4 0 ^ { \circ } \mathrm { C }$ to vapor phase $_ \mathrm { H _ { 2 } O }$ (steam) at ${ \bf 1 0 0 ^ { \circ } C } ,$ this is by far the largest increment of enthalpy. This is revealed graphically in Figure 3.30.
+Note that this is a very large amount of energy. In the transition from solid $_ \mathrm { H _ { 2 } O }$ at $- 4 0 ^ { \circ } \mathrm { C }$ to vapor phase $_ \mathrm { H _ { 2 } O }$ (steam) at ${ \bf 1 0 0 ^ { \circ } C } ,$ this is by far the largest increment of enthalpy. This is revealed graphically in [Figure 3.30](#fig-p1-ch03-68).
 
 Stage 5 is the increase in temperature of the steam from $\bf { 1 0 0 ^ { \circ } C }$ to $\mathrm { 1 4 0 ^ { \circ } C }$
 
@@ -2756,7 +2761,7 @@ Thermodynamics can answer some critically important questions: Why is 80% of the
 
 The answers to these, and many other questions, emerge from a powerful extension of the first law of thermodynamics. By virtue of early and remarkable insight by a young French physical chemist Nicolas Léonard Sadi Carnot who, through intellectual insight as discussed in the chapter, related the maximum amount of work that could be done by a reciprocating engine to the heat added in each cycle of the engine. That heat added could be supplied by the combustion of gasoline, the addition of steam, or the combustion of coal dust.
 
-For example, the engine in a gasoline powered automobile, as displayed in Figure CS3.1a, engages four steps in a cycle (thus the terminology “4- cycle engine”). These steps are:
+For example, the engine in a gasoline powered automobile, as displayed in [Figure CS3.1A](#fig-p1-ch03-92), engages four steps in a cycle (thus the terminology “4- cycle engine”). These steps are:
 
 1. A compression stroke wherein the mixture of air and gasoline vapor is reduced in volume and thereby increased in pressure by the upward movement of a piston in a cylinder.
 
@@ -2806,7 +2811,7 @@ FIGURE CS3.1A The gasoline engine commonly found in automobiles is a prime examp
 
 It is, therefore this four-step sequence that constitutes a full cycle of a "four cycle" gasoline engine. While this cycle is completed thousands of times per minute as you drive your car, the thermodynamic analysis is applied to a single sequence of the four steps that constitute a complete cycle.
 
-Strategically what we are doing is quantitatively analyzing the net work done by the reciprocating engine represented by the cycle on the $p V$ diagram as shown in Figure CS3.1b.
+Strategically what we are doing is quantitatively analyzing the net work done by the reciprocating engine represented by the cycle on the $p V$ diagram as shown in [Figure CS3.1B](#fig-p1-ch03-93).
 
 :::{figure} ../images/fig-p1-ch03-93.jpg
 :name: fig-p1-ch03-93
@@ -2839,7 +2844,7 @@ To this end, Carnot constructed a closed cycle on the pV diagram such that:
 
 3. Each of those stages was carried out reversibly, which meant that each leg was comprised of a large number of small increments. The reason each stage had to progress reversibly was that, as we will see, this defines the maximum efficiency of the cycle for producing work from a given amount of heat, where the heat is supplied by burning fuel.
 
-4. The four reversible stages of the "Carnot cycle" consisted of a pair of isothermal trajectories and a pair of adiabatic trajectories on a pV diagram shown in Figure CS3.1c.
+4. The four reversible stages of the "Carnot cycle" consisted of a pair of isothermal trajectories and a pair of adiabatic trajectories on a pV diagram shown in [Figure CS3.1C](#fig-p1-ch03-94).
 
 :::{figure} ../images/fig-p1-ch03-94.jpg
 :name: fig-p1-ch03-94
@@ -2860,7 +2865,7 @@ The first segment is an isothermal expansion with the addition of heat $\mathbf 
 ```
 
 
-Because the first segment, I in Figure CS3.1c, is isothermal, it follows that $\Delta \mathrm { U } _ { \mathrm { I } } = \mathbf { 0 }$ and thus $\mathbf { q } _ { \mathrm { h } } = - \mathbf { w } _ { \mathrm { I } }$ Because heat enters the system, $\mathbf { q } _ { \mathrm { h } }$ is positive, and the gas expands and does work.
+Because the first segment, I in [Figure CS3.1C](#fig-p1-ch03-94), is isothermal, it follows that $\Delta \mathrm { U } _ { \mathrm { I } } = \mathbf { 0 }$ and thus $\mathbf { q } _ { \mathrm { h } } = - \mathbf { w } _ { \mathrm { I } }$ Because heat enters the system, $\mathbf { q } _ { \mathrm { h } }$ is positive, and the gas expands and does work.
 
 This first isothermal segment in the Carnot cycle appears to be a simple transition on a pV diagram, but in fact, it contains key aspects linking spontaneous change with the concept of reversibility and the concept of equilibrium in a thermodynamic system. The conceptual links develop as follows.
 
@@ -2872,17 +2877,17 @@ We know that for the case of constant pressure, where we will take that pressure
 ```
 
 
-To make this quantitative, we choose the example of one mole of an ideal gas at 273 K with an initial pressure $\mathrm { p } _ { 1 } = 2 . 0$ atm and an initial volume $\mathrm { V _ { 1 } }$ $= 1 1 . 2 \ \ell$ The gas expands isothermally (as our first stage in the Carnot cycle) to a final state at 273 K, $\mathbf { p } _ { 2 } = \mathbf { 1 . 0 }$ atm, and $\mathrm { V } _ { 2 } = 2 2 . 4 \ : \ell$ . Now comes the critical distinction linking spontaneity with irreversibility. $I f _ { \mathrm { \tiny ~ P e x t } } < \mathrm { \bf ~ p }$ (where p is the pressure within the cylinder), the gas will expand spontaneously to the final state with ${ \bf p } = { \bf p } _ { \mathrm { e x t } } = { \bf 1 . 0 }$ atm. We can represent this course of action on a $p V$ diagram (as we did in the sidebar on page 172) displayed in the top panel of Figure CS3.1e on the following page by two legs linking state 1 and state 2. The first leg is the drop in pressure from $\mathrm { p } _ { \mathrm { e x t } } = 2 . 0$ atm to $\mathrm { p } _ { \mathrm { e x t } } = 1 . 0$ atm at the fixed volume of 11.2 ℓ. The next leg is the expansion from 11.2 ℓ to 22.4 ℓ at the fixed pressure of $\mathrm { p } _ { \mathrm { e x t } } = 1 . 0$ atm. This constitutes the trajectory displayed in the upper panel of Figure CS3.1e. The work done by the gas, $- \mathrm { p } _ { \mathrm { e x t } } \Delta \mathrm { V } _ { \mathrm { : } }$ , is simply the area under the curve of $\mathrm { p } _ { \mathrm { e x t } }$ versus volume with $\mathrm { p } _ { \mathrm { e x t } } = 1 . 0$ atm.
+To make this quantitative, we choose the example of one mole of an ideal gas at 273 K with an initial pressure $\mathrm { p } _ { 1 } = 2 . 0$ atm and an initial volume $\mathrm { V _ { 1 } }$ $= 1 1 . 2 \ \ell$ The gas expands isothermally (as our first stage in the Carnot cycle) to a final state at 273 K, $\mathbf { p } _ { 2 } = \mathbf { 1 . 0 }$ atm, and $\mathrm { V } _ { 2 } = 2 2 . 4 \ : \ell$ . Now comes the critical distinction linking spontaneity with irreversibility. $I f _ { \mathrm { \tiny ~ P e x t } } < \mathrm { \bf ~ p }$ (where p is the pressure within the cylinder), the gas will expand spontaneously to the final state with ${ \bf p } = { \bf p } _ { \mathrm { e x t } } = { \bf 1 . 0 }$ atm. We can represent this course of action on a $p V$ diagram (as we did in the sidebar on page 172) displayed in the top panel of [Figure CS3.1E](#fig-p1-ch03-97) on the following page by two legs linking state 1 and state 2. The first leg is the drop in pressure from $\mathrm { p } _ { \mathrm { e x t } } = 2 . 0$ atm to $\mathrm { p } _ { \mathrm { e x t } } = 1 . 0$ atm at the fixed volume of 11.2 ℓ. The next leg is the expansion from 11.2 ℓ to 22.4 ℓ at the fixed pressure of $\mathrm { p } _ { \mathrm { e x t } } = 1 . 0$ atm. This constitutes the trajectory displayed in the upper panel of [Figure CS3.1E](#fig-p1-ch03-97). The work done by the gas, $- \mathrm { p } _ { \mathrm { e x t } } \Delta \mathrm { V } _ { \mathrm { : } }$ , is simply the area under the curve of $\mathrm { p } _ { \mathrm { e x t } }$ versus volume with $\mathrm { p } _ { \mathrm { e x t } } = 1 . 0$ atm.
 
 However, we know that the work done by the expanding gas is just equal to the area under the curve of p vs. V as delineated in this chapter. This fact leads us to four very important observations:
 
-(a) If we proceed from State 1 to State 2 in small increments, as shown in the lower panel in Figure CS3.1e, the area under the curve connecting the initial state with the final state increases significantly in comparison with the irreversible path. In fact, in the limit of these pressure steps approaching zero (limit $\Delta \mathfrak { p } \to \mathbf { o } ) \ \Delta \mathfrak { p } _ { \mathrm { l i m i t } }$ = dp, the trajectory will approach a smooth curve resulting in the achievement of the maximum area under the curve in the pV plot in the lower panel of Figure CS3.1e. This would yield the maximum amount of work by the system given the initial and final states.
+(a) If we proceed from State 1 to State 2 in small increments, as shown in the lower panel in [Figure CS3.1E](#fig-p1-ch03-97), the area under the curve connecting the initial state with the final state increases significantly in comparison with the irreversible path. In fact, in the limit of these pressure steps approaching zero (limit $\Delta \mathfrak { p } \to \mathbf { o } ) \ \Delta \mathfrak { p } _ { \mathrm { l i m i t } }$ = dp, the trajectory will approach a smooth curve resulting in the achievement of the maximum area under the curve in the pV plot in the lower panel of [Figure CS3.1E](#fig-p1-ch03-97). This would yield the maximum amount of work by the system given the initial and final states.
 
-(b) If we chose to incrementally increase the pressure, $\mathrm { p } _ { \mathrm { e x t } } ,$ at any point in this sequence of small pressure changes we could step reversibly back up the trajectory in the lower panel in Figure CS3.1e, ultimately returning to the initial state.
+(b) If we chose to incrementally increase the pressure, $\mathrm { p } _ { \mathrm { e x t } } ,$ at any point in this sequence of small pressure changes we could step reversibly back up the trajectory in the lower panel in [Figure CS3.1E](#fig-p1-ch03-97), ultimately returning to the initial state.
 
-(c) If we precipitously drop the pressure from 2.0 atm to 1.0 atm, following the trajectory in the upper panel of Figure CS3.1e, the system will expand inexorably to the final state. The amount of work, w, done by the system would then be considerably less than if we followed the incremental path depicted in the upper trajectory of Figure CS3.1e. The expansion under these conditions would be spontaneous, but would not be reversible. We cannot work our way backwards along the lower path, retracing our steps to the initial state following the trajectory in the upper panel of Figure CS3.1e backwards.
+(c) If we precipitously drop the pressure from 2.0 atm to 1.0 atm, following the trajectory in the upper panel of [Figure CS3.1E](#fig-p1-ch03-97), the system will expand inexorably to the final state. The amount of work, w, done by the system would then be considerably less than if we followed the incremental path depicted in the upper trajectory of [Figure CS3.1E](#fig-p1-ch03-97). The expansion under these conditions would be spontaneous, but would not be reversible. We cannot work our way backwards along the lower path, retracing our steps to the initial state following the trajectory in the upper panel of [Figure CS3.1E](#fig-p1-ch03-97) backwards.
 
-(d) We thus have created an important distinction wherein an irreversible path is spontaneous and a reversible path is nonspontaneous. In fact, in the limit of very small increases or decreases in $\mathrm { p } _ { \mathrm { e x t } } ,$ the system has no propensity to change its state and thus it is in equilibrium. We have, therefore, pairs of contrasting conditions that turn out to be very important for understanding thermodynamic systems. Figure CS3.1d displays these closely related concepts by linking opposites across the diagram and equivalents down the diagram.
+(d) We thus have created an important distinction wherein an irreversible path is spontaneous and a reversible path is nonspontaneous. In fact, in the limit of very small increases or decreases in $\mathrm { p } _ { \mathrm { e x t } } ,$ the system has no propensity to change its state and thus it is in equilibrium. We have, therefore, pairs of contrasting conditions that turn out to be very important for understanding thermodynamic systems. [Figure CS3.1D](#fig-p1-ch03-95) displays these closely related concepts by linking opposites across the diagram and equivalents down the diagram.
 
 :::{figure} ../images/fig-p1-ch03-95.jpg
 :name: fig-p1-ch03-95
@@ -2891,7 +2896,7 @@ FIGURE CS3.1D While the concepts of reversibility, spontaneous change, and equil
 :::
 
 
-On the face of it, the nonspontaneous, reversible, equilibrium case seems to be of little value for any real system. However, as Figure CS3.1e graphically displays, the reversible case is the one for which the work extracted is a maximum. This is the reason the reversible limiting case is so important—it puts in place quantitatively the maximum amount of work that can be produced by the system in this first leg of the cycle.
+On the face of it, the nonspontaneous, reversible, equilibrium case seems to be of little value for any real system. However, as [Figure CS3.1E](#fig-p1-ch03-97) graphically displays, the reversible case is the one for which the work extracted is a maximum. This is the reason the reversible limiting case is so important—it puts in place quantitatively the maximum amount of work that can be produced by the system in this first leg of the cycle.
 
 :::{figure} ../images/fig-p1-ch03-96.jpg
 :name: fig-p1-ch03-96
@@ -2905,7 +2910,7 @@ FIGURE CS3.1E Irreversible and nearly reversible isothermal expansions illustrat
 :::
 
 
-We can calculate the work for the reversible path in Figure CS3.1e just as we did in Figure 3.31:
+We can calculate the work for the reversible path in [Figure CS3.1E](#fig-p1-ch03-97) just as we did in [Figure 3.25](#fig-p1-ch03-60):
 
 ```{math}
 :label: eq-p1-ch03-204
@@ -2913,9 +2918,9 @@ We can calculate the work for the reversible path in Figure CS3.1e just as we di
 ```
 
 
-This is, in fact, a mathematical expression for the area under the curve in the lower panel of Figure CS3.1e—the quantitative expression for the reversible work done in the first leg of the Carnot cycle shown in Figure CS3.1c.
+This is, in fact, a mathematical expression for the area under the curve in the lower panel of [Figure CS3.1E](#fig-p1-ch03-97)—the quantitative expression for the reversible work done in the first leg of the Carnot cycle shown in [Figure CS3.1C](#fig-p1-ch03-94).
 
-We can repeat the calculation for the irreversible path in the upper panel of Figure CS3.1d. It is just
+We can repeat the calculation for the irreversible path in the upper panel of [Figure CS3.1D](#fig-p1-ch03-95). It is just
 
 ```{math}
 :label: eq-p1-ch03-205
@@ -2951,7 +2956,7 @@ so the reversible path represents an amount of work 39% greater than the irrever
 
 2. Irreversible expansion yields less than maximum work and irreversible compression requires greater than minimum work.
 
-Now we are ready to consider the remaining three legs of the Carnot cycle displayed in Figure CS3.1c.
+Now we are ready to consider the remaining three legs of the Carnot cycle displayed in [Figure CS3.1C](#fig-p1-ch03-94).
 
 ## Leg II
 
@@ -3179,7 +3184,7 @@ cancellation yields
 
 The conclusion is remarkable and strikingly simple. It says, quantitatively, that the efficiency of the Carnot engine depends only on the temperatures of the hot and cold reservoirs and not on any of the details of the heat engine itself. Because the Carnot cycle is based upon reversible pathways it represents the maximum efficiency possible and thus a heat engine cannot be 100% efficient as long as $\mathrm { { T _ { h } } }$ and $\mathrm { T _ { c } }$ are finite.
 
-We can now, using this expression for the maximum efficiency of a heat engine in terms of the hot and cold reservoir temperatures, $\mathrm { { T _ { h } } }$ and $\mathrm { T _ { c } }$ respectively, summarize the efficiency of the Carnot cycle in terms of either temperature or the heat added using equation 3.3 so
+We can now, using this expression for the maximum efficiency of a heat engine in terms of the hot and cold reservoir temperatures, $\mathrm { { T _ { h } } }$ and $\mathrm { T _ { c } }$ respectively, summarize the efficiency of the Carnot cycle in terms of either temperature or the heat added using [equation 3.3](#eq-p1-ch03-237) so
 
 ```{math}
 :label: eq-p1-ch03-237
@@ -3205,7 +3210,7 @@ A Carnot engine operates between two temperature reservoirs maintained at $2 0 0
 
 ## Heat Pumps
 
-Residing in most kitchens is a device that moves heat from one place to another, decreasing the temperature in one place and increasing it in another. It's the refrigerator, and its thermodynamic cycle is shown in Figure CS3.2a. Heat is transferred from a cold reservoir at temperature $T _ { \mathrm { C } }$ by virtue of the input of work, $W _ { i n } ,$ expended to move that heat to the high temperature reservoir at temperature $T _ { \mathrm { H } }$ . If you pull the refrigerator away from the wall, you will notice that the back of the refrigerator is quite warm relative to the surrounding air and dramatically warmer than the air in the refrigerator or freezer. The fact that the refrigerator is plugged into the wall and that the compressor can be heard operating immediately suggests that work (mechanical energy) is being expended to move heat from the interior of the refrigerator into the surrounding room.
+Residing in most kitchens is a device that moves heat from one place to another, decreasing the temperature in one place and increasing it in another. It's the refrigerator, and its thermodynamic cycle is shown in [Figure CS3.2A](#fig-p1-ch03-98). Heat is transferred from a cold reservoir at temperature $T _ { \mathrm { C } }$ by virtue of the input of work, $W _ { i n } ,$ expended to move that heat to the high temperature reservoir at temperature $T _ { \mathrm { H } }$ . If you pull the refrigerator away from the wall, you will notice that the back of the refrigerator is quite warm relative to the surrounding air and dramatically warmer than the air in the refrigerator or freezer. The fact that the refrigerator is plugged into the wall and that the compressor can be heard operating immediately suggests that work (mechanical energy) is being expended to move heat from the interior of the refrigerator into the surrounding room.
 
 :::{figure} ../images/fig-p1-ch03-98.jpg
 :name: fig-p1-ch03-98
@@ -3214,7 +3219,7 @@ FIGURE CS3.2A The thermodynamic cycle for a heat pump (or refrigerator) is displ
 :::
 
 
-The first question is, what is the efficiency of “moving heat around?” Herein lies the power of the Carnot Cycle! We invested all the effort in Chapter 3 and Case Study 3.1 to answer this question for a “heat engine” whose purpose is to take heat at high temperature to do work and then exhaust the remaining heat to a low temperature reservoir. Are things different for a “cold engine” that moves heat from a cold reservoir to a warm one? An inspection of the diagram for a heat engine when compared to the diagram for a heat pump (Figure CS3.2b) reveals that they are virtually identical. The primary difference is that the heat engine, moving clockwise around the Carnot cycle, takes in heat at high temperature, produces work, and expels heat to a low temperature reservoir. If the cycle runs backwards, it requires work but, by virtue of that work, heat is transferred from a low temperature reservoir to a high temperature reservoir.
+The first question is, what is the efficiency of “moving heat around?” Herein lies the power of the Carnot Cycle! We invested all the effort in Chapter 3 and Case Study 3.1 to answer this question for a “heat engine” whose purpose is to take heat at high temperature to do work and then exhaust the remaining heat to a low temperature reservoir. Are things different for a “cold engine” that moves heat from a cold reservoir to a warm one? An inspection of the diagram for a heat engine when compared to the diagram for a heat pump ([Figure CS3.2B)](#original-fig-cs3-2b) reveals that they are virtually identical. The primary difference is that the heat engine, moving clockwise around the Carnot cycle, takes in heat at high temperature, produces work, and expels heat to a low temperature reservoir. If the cycle runs backwards, it requires work but, by virtue of that work, heat is transferred from a low temperature reservoir to a high temperature reservoir.
 
 ## Heat Engines
 
@@ -3280,6 +3285,7 @@ Second law limit for a heat pump that is used to heat a house:
 ```
 
 
+(original-fig-cs3-2b)=
 FIGURE CS3.2B A direct comparison is displayed between the thermodynamic cycle of the heat engine in the upper panel and the heat pump or refrigerator in the lower panel.
 
 So what is the theoretical efficiency of such a “heat pump” that moves heat from a low temperature reservoir (e.g. the outside at temperature $T _ { \mathrm { C } } )$ to a high temperature reservoir (e.g. the inside of the house at temperature $T _ { \mathrm { H } } ) \Rsh$ We can determine this, as is done in the sidebar, by a minor modification of our full treatment in Case Study 3.1, and write the efficiency of the heat pump, $\varepsilon _ { \mathrm { H P } } ,$ as
@@ -3308,7 +3314,7 @@ We are now equipped with the information needed to calculate the impact of the h
 
 ## Example 1:
 
-A condensing boiler that is 90% efficient. We can diagram this in a single step as displayed in Figure CS3.2c.
+A condensing boiler that is 90% efficient. We can diagram this in a single step as displayed in [Figure CS3.2C](#fig-p1-ch03-101).
 
 :::{figure} ../images/fig-p1-ch03-101.jpg
 :name: fig-p1-ch03-101
@@ -3321,7 +3327,7 @@ The result is that of the 100 units of energy invested, 90 units of heat are del
 
 ## Example 2:
 
-The generation of electricity in a modern electrical power generating plant fueled by natural gas is approximately 50% of the chemical energy contained in the natural gas $\mathrm { ( C H } _ { 4 } )$ . If we assume a transmission loss of 5% in the power delivery grid, this results in (0.95)(0.50) 100 units = 47.5 units of electrical energy delivered to the house or building. A diagram of the sequence from the combustion of natural gas to the electrical energy delivered to the house is displayed in Figure CS3.2d. A coefficient of performance by the heat pump of 4 is assumed.
+The generation of electricity in a modern electrical power generating plant fueled by natural gas is approximately 50% of the chemical energy contained in the natural gas $\mathrm { ( C H } _ { 4 } )$ . If we assume a transmission loss of 5% in the power delivery grid, this results in (0.95)(0.50) 100 units = 47.5 units of electrical energy delivered to the house or building. A diagram of the sequence from the combustion of natural gas to the electrical energy delivered to the house is displayed in [Figure CS3.2D](#fig-p1-ch03-102). A coefficient of performance by the heat pump of 4 is assumed.
 
 :::{figure} ../images/fig-p1-ch03-102.jpg
 :name: fig-p1-ch03-102
@@ -3330,7 +3336,7 @@ FIGURE CS3.2D An alternative approach using a heat pump with a coefficient of pe
 :::
 
 
-The comparison of these two examples displayed in Figures CS3.2c and Figure CS3.2d is of great importance to any energy strategy. Notice that while the heat pump is supplied with electrical power after suffering a loss of 52% of the chemical energy contained in the natural gas combusted to drive the electrical power generation, the system still delivered more than twice the amount of heat to the building than the heat delivered by the direct combustion of natural gas in a furnace of 90% efficiency within the building. While this may be quite counter intuitive, it is a direct result of the laws of thermodynamics. But also note that the heat pump is driven by electrical energy. If that electrical energy is derived from solar or wind energy, the total energy required decreases by ×2.
+The comparison of these two examples displayed in [Figures CS3.2C](#fig-p1-ch03-101) and [Figure CS3.2D](#fig-p1-ch03-102) is of great importance to any energy strategy. Notice that while the heat pump is supplied with electrical power after suffering a loss of 52% of the chemical energy contained in the natural gas combusted to drive the electrical power generation, the system still delivered more than twice the amount of heat to the building than the heat delivered by the direct combustion of natural gas in a furnace of 90% efficiency within the building. While this may be quite counter intuitive, it is a direct result of the laws of thermodynamics. But also note that the heat pump is driven by electrical energy. If that electrical energy is derived from solar or wind energy, the total energy required decreases by ×2.
 
 To demonstrate the thermodynamic principles of the heat pump, we will examine quantitatively what happens when we use the heat engine run backwards such that work is done on the system to transfer heat from a cold reservoir to a hot reservoir (rather than the Carnot cycle wherein heat from a high temperature reservoir is used to produce work and exhaust the remaining heat to a low temperature reservoir). In order to examine the sequence of events in progressing counterclockwise around the thermodynamic cycle, we use three tightly linked diagrams:
 
@@ -3340,7 +3346,7 @@ The pV diagram that tracks each leg of the thermodynamic cycle; and
 
 The diagram tracking the flow of energy, both heat and work, that occurs in a given cycle of the system.
 
-These three diagrams are displayed in Figure CS3.2e.
+These three diagrams are displayed in [Figure CS3.2E](#fig-p1-ch03-105).
 
 :::{figure} ../images/fig-p1-ch03-103.jpg
 :name: fig-p1-ch03-103
@@ -3361,7 +3367,7 @@ FIGURE CS3.2E Three diagrams linking the mechanical configuration of a heat pump
 :::
 
 
-Just as the case of the Carnot cycle, we take each leg of the thermodynamic cycle and analyze it sequentially. Beginning with point 4 in diagram CS3.2e(b) we progress counterclockwise to point 3 along an adiabatic compression leg that decreases the volume and increases the pressure. It requires work to do this, work that is done by the compressor shown in Figure CS3.2e(a). It is this segment of the cycle that receives the work expended, $\mathrm { \Delta W _ { i n } , }$ and it is this segment for which you pay the electrical power company for the electricity to drive the electric motor that turns the shaft on the compressor.
+Just as the case of the Carnot cycle, we take each leg of the thermodynamic cycle and analyze it sequentially. Beginning with point 4 in diagram CS3.2e(b) we progress counterclockwise to point 3 along an adiabatic compression leg that decreases the volume and increases the pressure. It requires work to do this, work that is done by the compressor shown in [Figure CS3.2E](#fig-p1-ch03-105)(a). It is this segment of the cycle that receives the work expended, $\mathrm { \Delta W _ { i n } , }$ and it is this segment for which you pay the electrical power company for the electricity to drive the electric motor that turns the shaft on the compressor.
 
 But here is the first key point. The heat pump can extract heat from the cold reservoir (the outside of the house) if and only if the gas temperature of the low temperature heat exchanger is at a temperature lower than the outside temperature. The reason, of course, is that heat flows only from a high temperature reservoir to a low temperature reservoir. Thus this heat pump must achieve a temperature in its low temperature heat exchanger that is lower than the outside temperature. We will see how that is achieved as we progress around the cycle. So as we progress up the adiabatic compression segment from point 4 to point 3, the volume decreases, the pressure increases and the temperature increases. This high temperature gas is then passed through a high temperature heat exchanger where the gas cools in an isobaric (constant pressure) segment of the thermodynamic cycle, transferring heat to the high temperature reservoir—the house we are interested in heating. But here is the second key point. The heat pump can transfer heat $q _ { \mathrm { H } }$ to the house if and only if the temperature along segment 3 → 2 is higher than the temperature of the house interior. The reason again is that heat only flows from high temperature to low temperature.
 
@@ -3417,7 +3423,7 @@ Please show your calculation process and put the results in the following table:
 
 ## KEY CONCEPTS:
 
-High temperature geothermal energy refers to the extraction of heat contained within the materials of the Earth's crust. This thermal energy is supplied by (1) natural radioactive decay of uranium, potassium, and thorium and (2) the outward flow of heat from the Earth's core-mantle system that resulted from the accretion process during the formation of the planet. The dominant heat source, however, is radioactive decay. Figure CS3.3a displays the Earth's thermal structure and the scale of the methods which vary from deep high-temperature systems for direct steam extraction for electricity generation, to the injection of water into high temperature rocks, to intermediate temperature for direct heating of houses and offices, to the use of shallow thermal reservoir for heat pump systems.
+High temperature geothermal energy refers to the extraction of heat contained within the materials of the Earth's crust. This thermal energy is supplied by (1) natural radioactive decay of uranium, potassium, and thorium and (2) the outward flow of heat from the Earth's core-mantle system that resulted from the accretion process during the formation of the planet. The dominant heat source, however, is radioactive decay. [Figure CS3.3A](#fig-p1-ch03-111) displays the Earth's thermal structure and the scale of the methods which vary from deep high-temperature systems for direct steam extraction for electricity generation, to the injection of water into high temperature rocks, to intermediate temperature for direct heating of houses and offices, to the use of shallow thermal reservoir for heat pump systems.
 
 :::{figure} ../images/fig-p1-ch03-106.jpg
 :name: fig-p1-ch03-106
@@ -3473,7 +3479,7 @@ The engagement of geothermal energy generation has already been employed as majo
 
 If we limit our analysis to the upper 10 km of the Earth's crust (a depth that engages the range of currently practical drilling depths) that shell curtains 50,000 times more energy than all the oil and gas reserves in the world. This is an important number.
 
-We can graphically summarize the temperature structure as a function of depth down to 10 km as shown in Figure CS3.3b. The regions with the highest underground temperatures are in areas with active or geologically young volcanoes. In the US those regions occur primarily in the Western half, but at greater depths the zones of high temperature become more broadly dispersed geographically.
+We can graphically summarize the temperature structure as a function of depth down to 10 km as shown in [Figure CS3.3B](#fig-p1-ch03-112). The regions with the highest underground temperatures are in areas with active or geologically young volcanoes. In the US those regions occur primarily in the Western half, but at greater depths the zones of high temperature become more broadly dispersed geographically.
 
 Temperatures at a depth of 3.5 km.
 
@@ -3498,7 +3504,7 @@ While category (1) above (hydrothermal) is the most obvious candidate for exploi
 
 ## 1 Hydrothermal Convection.
 
-As noted in the introduction, the most obvious and easily exploited form of geothermal results when water seeps into the Earth's crust, creating pockets of high-temperature water that can be accessed by directly drilling and extracting steam to drive a conventional electricity generator's turbine system as shown in the left panel of Figure CS3.3c.
+As noted in the introduction, the most obvious and easily exploited form of geothermal results when water seeps into the Earth's crust, creating pockets of high-temperature water that can be accessed by directly drilling and extracting steam to drive a conventional electricity generator's turbine system as shown in the left panel of [Figure CS3.3C](#fig-p1-ch03-113).
 
 :::{figure} ../images/fig-p1-ch03-113.jpg
 :name: fig-p1-ch03-113
@@ -3507,11 +3513,11 @@ FIGURE CS3.3C There are typically three different methods for driving a steam tu
 :::
 
 
-There are three designs for those direct extraction power plants. In its simplest design, displayed in the left panel of Figure CS3.3c, the steam is fed directly to the turbine system then into a condenser that collects the water and recycles it to the reservoir from which it was extracted. In a second design, hot water in the liquid phase under high pressure is “flashed” into steam by releasing that pressure just prior to passing the steam into a turbine. This is displayed in the middle panel. A third approach is one step more complicated—it is the “binary” or two-stage approach wherein the hot water extracted under high pressure is passed through a heat exchanger where a second liquid is heated. The second liquid is usually selected to have a lower boiling temperature than water and that second liquid vaporizes to steam that then drives the electric power-generating turbine.
+There are three designs for those direct extraction power plants. In its simplest design, displayed in the left panel of [Figure CS3.3C](#fig-p1-ch03-113), the steam is fed directly to the turbine system then into a condenser that collects the water and recycles it to the reservoir from which it was extracted. In a second design, hot water in the liquid phase under high pressure is “flashed” into steam by releasing that pressure just prior to passing the steam into a turbine. This is displayed in the middle panel. A third approach is one step more complicated—it is the “binary” or two-stage approach wherein the hot water extracted under high pressure is passed through a heat exchanger where a second liquid is heated. The second liquid is usually selected to have a lower boiling temperature than water and that second liquid vaporizes to steam that then drives the electric power-generating turbine.
 
-The selection of the design depends upon the characteristics of the hydrothermal source. If the water comes from the geothermal well directly as steam it can be used in the simplest design shown in the left panel of Figure CS3.3c. If the geothermal well produces water at high enough pressure and temperature it can be “flashed” for use in the system displayed in the middle panel. If the water temperature is not high enough to use as high-pressure water vapor, the heat exchanger can be used to properly tailor the vapor pressure of a selected second substance as shown in the right panel.
+The selection of the design depends upon the characteristics of the hydrothermal source. If the water comes from the geothermal well directly as steam it can be used in the simplest design shown in the left panel of [Figure CS3.3C](#fig-p1-ch03-113). If the geothermal well produces water at high enough pressure and temperature it can be “flashed” for use in the system displayed in the middle panel. If the water temperature is not high enough to use as high-pressure water vapor, the heat exchanger can be used to properly tailor the vapor pressure of a selected second substance as shown in the right panel.
 
-The largest hydrothermal systems in the US are found in northern California at the “Geysers” facility with a net delivery capacity of 725 MW that is similar in output to a nuclear reactor or to 300 2.5 MW wind turbines. That facility, shown in Figure CS3.3d, meets nearly 60 percent of the average electricity demands for the California north coast region that extends from the Golden Gate Bridge to the Oregon border.
+The largest hydrothermal systems in the US are found in northern California at the “Geysers” facility with a net delivery capacity of 725 MW that is similar in output to a nuclear reactor or to 300 2.5 MW wind turbines. That facility, shown in [Figure CS3.3D](#fig-p1-ch03-114), meets nearly 60 percent of the average electricity demands for the California north coast region that extends from the Golden Gate Bridge to the Oregon border.
 
 :::{figure} ../images/fig-p1-ch03-114.jpg
 :name: fig-p1-ch03-114

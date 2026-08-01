@@ -18,7 +18,7 @@ title: "4 Entropy and the Second Law of Thermodynamics"
 
 Nature is driven by spontaneous processes—processes that proceed without external intervention. With our advancing understanding of energy, with the insight brought by the First Law of Thermodynamics, and with our ability to track energy transformations from highly organized forms of energy (mechanical energy, chemical energy, electromagnetic energy) that inexorably cascade to disorganized thermal energy, comes a sharpened recognition that there are other factors that drive spontaneous processes in nature. In particular, we begin to recognize, as our understanding of energy advances, that a great many processes that occur in nature are not driven toward a state of lower energy, as is the case for an exothermic chemical reaction or a mass falling in a gravitational field. As we will see, spontaneous processes are guided by both the release of energy and by the tendency to seek a configuration of increasing disorganization.
 
-This relationship between energy release, the tendency toward increasing disorganization, and the spontaneous formation of unique structures in nature is exemplified by the existence of mixed hydrocarbon-water compounds in nature. Figure 4.1 captures a rather remarkable event—what you see is a sample of ice removed from the ocean floor at depths of greater than \~300 meters. But the ice is burning! It burns because within the ice structure, methane $\mathrm { C H } _ { 4 }$ is trapped within a cage of water molecules as shown in the upper left inset of the figure. This ice-methane structure is called a methane clathrate or methane hydrate. A remarkable amount of methane is contained in the clathrates that exist at low temperature and elevated pressure in permafrost and ocean floor deposits. The methane is formed from microbial decomposition of organic matter in soils and in sediments. Exploration to determine the sizes of global deposits of these methane clathrates is currently in progress, but it is known that at least twice as much fuel energy is contained in those structures as in the total of the Earth's oil, gas, and coal deposits combined. The principal methane clathrate deposits in the U.S. occur in the Gulf of Mexico, off the west and east coast, and on the north slope of Alaska. As an example of the scale of these methane clathrate deposits in the U.S., the methane contained in those deposits in the Gulf of Mexico alone is estimated to be 61 $\mathbf { \delta } _ { \lfloor 0 \mathrm { ~ } \times \mathrm { ~ } 1 0 ^ { 1 2 } }$ $\mathbf { m } ^ { 3 } .$ . The yearly consumption of methane (natural gas) in the U.S. is 650 $\times \ 1 0 ^ { 9 } \mathrm { { m ^ { 3 } } } .$ . Thus the Gulf of Mexico deposits alone would supply the U.S. with natural gas at current consumption rates for $6 1 0 \times 1 0 ^ { 1 2 } \mathrm { m } ^ { 3 } / ( 6 5 0 \times$ $1 0 ^ { 9 } \mathrm { m ^ { 3 } / y r } ) \mathrm { ~ = ~ } 9 4 0$ years. Research into how methane as a fuel could be extracted from those deposits is in progress but there is potential risk because methane is a greenhouse gas (it absorbs infrared radiation at a wavelength of $7 . 6 ~ { \mu \mathrm { m } } , 7 . 6 ~ \times ~ 1 0 ^ { - 6 }$ meters). Because those clathrates are stable only at low temperature, they pose a significant threat to climate stability. If just $0 . 5 \%$ of the permafrost structures in Alaska and northern Siberia alone were to melt each year, resulting from the loss of the Arctic Ice Cap, approximately 8 Gt C (gigatons carbon) would be added to the atmosphere each year. This would more than double the amount of carbon added to the atmosphere each year from the combustion of fossil fuel worldwide. Figure $\underline { { 4 . 2 } }$ displays the importance of methane clathrate and carbon dioxide permafrost melt rates per year of just 0.5% of the reservoir stored in the permafrost of Alaska and Siberia.
+This relationship between energy release, the tendency toward increasing disorganization, and the spontaneous formation of unique structures in nature is exemplified by the existence of mixed hydrocarbon-water compounds in nature. [Figure 4.1](#fig-p1-ch04-2) captures a rather remarkable event—what you see is a sample of ice removed from the ocean floor at depths of greater than \~300 meters. But the ice is burning! It burns because within the ice structure, methane $\mathrm { C H } _ { 4 }$ is trapped within a cage of water molecules as shown in the upper left inset of the figure. This ice-methane structure is called a methane clathrate or methane hydrate. A remarkable amount of methane is contained in the clathrates that exist at low temperature and elevated pressure in permafrost and ocean floor deposits. The methane is formed from microbial decomposition of organic matter in soils and in sediments. Exploration to determine the sizes of global deposits of these methane clathrates is currently in progress, but it is known that at least twice as much fuel energy is contained in those structures as in the total of the Earth's oil, gas, and coal deposits combined. The principal methane clathrate deposits in the U.S. occur in the Gulf of Mexico, off the west and east coast, and on the north slope of Alaska. As an example of the scale of these methane clathrate deposits in the U.S., the methane contained in those deposits in the Gulf of Mexico alone is estimated to be 61 $\mathbf { \delta } _ { \lfloor 0 \mathrm { ~ } \times \mathrm { ~ } 1 0 ^ { 1 2 } }$ $\mathbf { m } ^ { 3 } .$ . The yearly consumption of methane (natural gas) in the U.S. is 650 $\times \ 1 0 ^ { 9 } \mathrm { { m ^ { 3 } } } .$ . Thus the Gulf of Mexico deposits alone would supply the U.S. with natural gas at current consumption rates for $6 1 0 \times 1 0 ^ { 1 2 } \mathrm { m } ^ { 3 } / ( 6 5 0 \times$ $1 0 ^ { 9 } \mathrm { m ^ { 3 } / y r } ) \mathrm { ~ = ~ } 9 4 0$ years. Research into how methane as a fuel could be extracted from those deposits is in progress but there is potential risk because methane is a greenhouse gas (it absorbs infrared radiation at a wavelength of $7 . 6 ~ { \mu \mathrm { m } } , 7 . 6 ~ \times ~ 1 0 ^ { - 6 }$ meters). Because those clathrates are stable only at low temperature, they pose a significant threat to climate stability. If just $0 . 5 \%$ of the permafrost structures in Alaska and northern Siberia alone were to melt each year, resulting from the loss of the Arctic Ice Cap, approximately 8 Gt C (gigatons carbon) would be added to the atmosphere each year. This would more than double the amount of carbon added to the atmosphere each year from the combustion of fossil fuel worldwide. [Figure 4.2](#fig-p1-ch04-3) displays the importance of methane clathrate and carbon dioxide permafrost melt rates per year of just 0.5% of the reservoir stored in the permafrost of Alaska and Siberia.
 
 :::{figure} ../images/fig-p1-ch04-2.jpg
 :name: fig-p1-ch04-2
@@ -34,7 +34,7 @@ FIGURE 4.2 The profound impact that just a 0.5% melt rate per year of the $\math
 :::
 
 
-While methane storage in these clathrate structures will play an increasingly controversial role in the global debate at the intersection of energy and climate, at the molecular level the formation of these structures is an illustration of how spontaneous processes behave in nature. Specifically, the ability of water molecules to hydrogen bond to one another, as displayed in Figure 4.3, accounts for the existence of these crystalline clathrates.
+While methane storage in these clathrate structures will play an increasingly controversial role in the global debate at the intersection of energy and climate, at the molecular level the formation of these structures is an illustration of how spontaneous processes behave in nature. Specifically, the ability of water molecules to hydrogen bond to one another, as displayed in [Figure 4.3](#fig-p1-ch04-4), accounts for the existence of these crystalline clathrates.
 
 :::{figure} ../images/fig-p1-ch04-4.jpg
 :name: fig-p1-ch04-4
@@ -43,7 +43,7 @@ FIGURE 4.3 The structure of ice is shown with the hydrogen bonding displayed bet
 :::
 
 
-The most common naturally occurring gas hydrate structure is composed of water molecules hydrogen bonded and organized around the methane molecules shown in Figure $\underline { { 4 . 4 } }$ . The unit cell of the methane clathrate contains 8 methane molecules caged within $4 6$ water molecules. Because methane is trapped within the crystal structure defined by the $4 6$ cage water molecules, methane gas in hydrate form is significantly compressed. For example, one liter of methane clathrate solid contains, on average, 168 liters of methane gas at standard temperature and pressure.
+The most common naturally occurring gas hydrate structure is composed of water molecules hydrogen bonded and organized around the methane molecules shown in [Figure 4.4](#fig-p1-ch04-5) . The unit cell of the methane clathrate contains 8 methane molecules caged within $4 6$ water molecules. Because methane is trapped within the crystal structure defined by the $4 6$ cage water molecules, methane gas in hydrate form is significantly compressed. For example, one liter of methane clathrate solid contains, on average, 168 liters of methane gas at standard temperature and pressure.
 
 :::{figure} ../images/fig-p1-ch04-5.jpg
 :name: fig-p1-ch04-5
@@ -52,7 +52,7 @@ FIGURE 4.4 The crystal structure of the ice cages that form around methane molec
 :::
 
 
-What is important as we develop the concept of spontaneous processes in our study of thermodynamics is recognizing that the presence of methane within those bonding structures of water constitutes a spontaneous transformation from free methane gas and pure ice (with the structure shown in Figure 4.3) to the methane clathrate structure, shown in Figure 4.4. By filling voids in the ice structure, the “guest” methane molecules stabilize the clathrate hydrogen-bonded crystal structure. These methane clathrates are stable to temperatures considerably higher than the melting point of “pure” ice. Methane clathrates melt at $1 8 ^ { \circ } \mathrm { C }$ at atmospheric pressure. This was, incidentally, a serious problem in natural gas distribution systems because the methane clathrates would clog large supply pipelines. The problem was eliminated by removing water vapor from the methane before pumping it into the supply network.
+What is important as we develop the concept of spontaneous processes in our study of thermodynamics is recognizing that the presence of methane within those bonding structures of water constitutes a spontaneous transformation from free methane gas and pure ice (with the structure shown in [Figure 4.3)](#fig-p1-ch04-4) to the methane clathrate structure, shown in [Figure 4.4](#fig-p1-ch04-5). By filling voids in the ice structure, the “guest” methane molecules stabilize the clathrate hydrogen-bonded crystal structure. These methane clathrates are stable to temperatures considerably higher than the melting point of “pure” ice. Methane clathrates melt at $1 8 ^ { \circ } \mathrm { C }$ at atmospheric pressure. This was, incidentally, a serious problem in natural gas distribution systems because the methane clathrates would clog large supply pipelines. The problem was eliminated by removing water vapor from the methane before pumping it into the supply network.
 
 The ability of nature to spontaneously synthesize intricate structures that are of immense practical importance to society begins to beg an array of important questions that, on the face of it, appear to be unrelated.
 
@@ -66,7 +66,7 @@ We set the context for our study of the Second Law of Thermodynamics by examinin
 ```
 
 
-where $T _ { 1 }$ is the high temperature reservoir and $T _ { 2 }$ is the low temperature reservoir. Thus, because the actual efficiency is always less than the maximum given by the Carnot cycle, we have Eff $< W / Q _ { 1 } = ( T _ { 1 } - T _ { 2 } ) / T _ { 1 }$ Referring to Figure $\underline { { 4 . 5 } }$ to distinguish between the heat in, $Q _ { 1 } \mathrm { { : } }$ , and heat out, $Q _ { 2 } ,$ we can “model” our electrical power plant, wherein the heat, $Q _ { 1 }$ is supplied by coal and the work, W, is the electrical energy delivered to the power grid. Then we can rewrite the above equation as
+where $T _ { 1 }$ is the high temperature reservoir and $T _ { 2 }$ is the low temperature reservoir. Thus, because the actual efficiency is always less than the maximum given by the Carnot cycle, we have Eff $< W / Q _ { 1 } = ( T _ { 1 } - T _ { 2 } ) / T _ { 1 }$ Referring to [Figure 4.5](#fig-p1-ch04-6) to distinguish between the heat in, $Q _ { 1 } \mathrm { { : } }$ , and heat out, $Q _ { 2 } ,$ we can “model” our electrical power plant, wherein the heat, $Q _ { 1 }$ is supplied by coal and the work, W, is the electrical energy delivered to the power grid. Then we can rewrite the above equation as
 
 :::{figure} ../images/fig-p1-ch04-6.jpg
 :name: fig-p1-ch04-6
@@ -89,9 +89,9 @@ W / Q _ {1} = 1 - 3 5 0 \mathrm{K} / 9 0 0 \mathrm{K} \approx 0. 6 0
 ```
 
 
-In practice this maximum possible efficiency is, through losses in the generation system, reduced to about 38%. Thus, 62% of the energy content of the coal is wasted—it is lost as (highly disorganized) heat and dumped into the surrounding environment, indicated by $Q _ { 2 }$ in Figure 4.5.
+In practice this maximum possible efficiency is, through losses in the generation system, reduced to about 38%. Thus, 62% of the energy content of the coal is wasted—it is lost as (highly disorganized) heat and dumped into the surrounding environment, indicated by $Q _ { 2 }$ in [Figure 4.5](#fig-p1-ch04-6).
 
-Now let's consider what happens to that electrical energy once it has left the coal-fired generating plant and enters the power grid that distributes the energy to homes, businesses, industrial plants, etc. First, we examine the case of electric lighting for your home, office, dorm room, etc. Using a telling graphic from What You Need to Know About Energy (NAS Press, 2008), we can quantitatively trace the path from energy generation to light output (Figure 4.6). With a (typical) 38% efficiency in initial generation, we lose 62 units of the initial 100 energy units contained in the chemical bonds of the coal. Typically, between 2 units and 8 units are lost in the transmission lines, as shown in Figure 4.6. We will assume the more efficient of these such that 36 units of the original 100 units are delivered to the home. However, with the use of an incandescent bulb, 34 units are emitted as heat and only 2 units are emitted as usable light. Thus, only 2% of the original energy contained in the coal actually results in useful energy!
+Now let's consider what happens to that electrical energy once it has left the coal-fired generating plant and enters the power grid that distributes the energy to homes, businesses, industrial plants, etc. First, we examine the case of electric lighting for your home, office, dorm room, etc. Using a telling graphic from What You Need to Know About Energy (NAS Press, 2008), we can quantitatively trace the path from energy generation to light output ([Figure 4.6)](#fig-p1-ch04-7). With a (typical) 38% efficiency in initial generation, we lose 62 units of the initial 100 energy units contained in the chemical bonds of the coal. Typically, between 2 units and 8 units are lost in the transmission lines, as shown in [Figure 4.6](#fig-p1-ch04-7). We will assume the more efficient of these such that 36 units of the original 100 units are delivered to the home. However, with the use of an incandescent bulb, 34 units are emitted as heat and only 2 units are emitted as usable light. Thus, only 2% of the original energy contained in the coal actually results in useful energy!
 
 :::{figure} ../images/fig-p1-ch04-7.jpg
 :name: fig-p1-ch04-7
@@ -102,7 +102,7 @@ FIGURE 4.6 As discussed in Chapter 3 it is important to track the conversion of 
 
 If, instead of an incandescent lightbulb, a compact fluorescent bulb is used, then 10 units of that energy are available for useful lighting—a factor of five improvement in energy efficiency. This is why all incandescent lightbulbs should be eliminated from houses and buildings as quickly as possible. If, on the other hand, we use light emitting diodes (LEDs), a device we will investigate in Chapter 11, we use only one-tenth the energy to produce the same amount of useful light that is emitted by an incandescent light. Thus, if LEDs replaced incandescent bulbs, 20 units of light energy would be produced instead of 2 units of light energy produced by incandescent lighting.
 
-A second important example involves the sequence of events when that electricity is used to drive a pumping system, as is the case in factories, agriculture, heating, etc., across the industrial and domestic spectrum. This sequence is captured in Figure 4.7, a recent graphic by the Rocky Mountain Institute (Amory Lovin lecture, Harvard University, 2008). Again, beginning with 100 units of energy contained in the coal burned to produce electricity in a power plant, 70 units are lost in the initial generation, yielding 30 units of electrical energy delivered to the grid. It is common to see differences in power plant efficiency, notable in comparing Figure 4.6 and Figure 4.7, because different power plants have significantly different efficiencies. Transmission and distribution losses remove 9%. Electrical motor losses remove 10% more, drive train losses 2% more, pump system losses 25% more, throttle and pipe losses 33% and 20%, respectively; so that only \~9% of the original 100 units of energy actually survive to execute the objective of the overall system.
+A second important example involves the sequence of events when that electricity is used to drive a pumping system, as is the case in factories, agriculture, heating, etc., across the industrial and domestic spectrum. This sequence is captured in [Figure 4.7](#fig-p1-ch04-8), a recent graphic by the Rocky Mountain Institute (Amory Lovin lecture, Harvard University, 2008). Again, beginning with 100 units of energy contained in the coal burned to produce electricity in a power plant, 70 units are lost in the initial generation, yielding 30 units of electrical energy delivered to the grid. It is common to see differences in power plant efficiency, notable in comparing [Figure 4.6](#fig-p1-ch04-7) and [Figure 4.7](#fig-p1-ch04-8), because different power plants have significantly different efficiencies. Transmission and distribution losses remove 9%. Electrical motor losses remove 10% more, drive train losses 2% more, pump system losses 25% more, throttle and pipe losses 33% and 20%, respectively; so that only \~9% of the original 100 units of energy actually survive to execute the objective of the overall system.
 
 :::{figure} ../images/fig-p1-ch04-8.jpg
 :name: fig-p1-ch04-8
@@ -115,7 +115,7 @@ There are a number of key conclusions to be drawn. First, the initial step is ve
 
 One of the most dramatic and immediate ways that the US can direct its energy policy toward the twin objectives of (1) reducing carbon dioxide emissions and (2) reducing dependence on foreign oil sources, is to recognize the profound advantages in shifting automobiles from a reliance on the century-old internal combustion engine to electrically powered transportation.
 
-To place this problem in context, we begin by noting that the US imports between 12 and 13 million barrels of oil per day. This constitutes approximately 60% of domestic petroleum consumption. The price per barrel for imported oil ranged between \$50 and \$150 per barrel in 2008 and settled between \$80 and \$100 per barrel in 2010. As shown in Figure 4.8, which plots the yearly U.S. expenditure for the purchase of foreign oil against the price per barrel, the U.S. spent, on a per yearly basis, approximately 450 billion dollars to purchase petroleum. This is a major contribution to our balance of payments each year.
+To place this problem in context, we begin by noting that the US imports between 12 and 13 million barrels of oil per day. This constitutes approximately 60% of domestic petroleum consumption. The price per barrel for imported oil ranged between \$50 and \$150 per barrel in 2008 and settled between \$80 and \$100 per barrel in 2010. As shown in [Figure 4.8](#fig-p1-ch04-9), which plots the yearly U.S. expenditure for the purchase of foreign oil against the price per barrel, the U.S. spent, on a per yearly basis, approximately 450 billion dollars to purchase petroleum. This is a major contribution to our balance of payments each year.
 
 :::{figure} ../images/fig-p1-ch04-9.jpg
 :name: fig-p1-ch04-9
@@ -136,7 +136,7 @@ What steps would be required to eliminate the need to import foreign oil? Becaus
 
 4. 75% of the fuel use is related to the weight of the vehicle.
 
-Thus there are two very large and very effective steps that can (and must) be taken. The first is to move immediately to much lighter vehicles—but not at the expense of safety, comfort, nor performance. This is achieved through the use of carbon-fiber technology to reduce the vehicular weight from 2000-2500 kg down to 500 kg. An example of such an automobile is shown in Figure 4.9.
+Thus there are two very large and very effective steps that can (and must) be taken. The first is to move immediately to much lighter vehicles—but not at the expense of safety, comfort, nor performance. This is achieved through the use of carbon-fiber technology to reduce the vehicular weight from 2000-2500 kg down to 500 kg. An example of such an automobile is shown in [Figure 4.9](#fig-p1-ch04-10).
 
 :::{figure} ../images/fig-p1-ch04-10.jpg
 :name: fig-p1-ch04-10
@@ -172,7 +172,7 @@ Consider the processes shown in the figure below: the corrosion of iron, the com
 
 On the basis of observed processes in nature, it is very tempting to conclude that spontaneous processes are driven exclusively by pathways leading to the release of energy such that proceeding in the direction of decreasing energy is the motive force behind spontaneous change. As we saw in Chapter 3, changes that lower the potential energy (mechanical or chemical) of a system can be referred to as exothermic. Within this view of spontaneous processes, we could deduce a law: Exothermic changes have a tendency to proceed spontaneously. Indeed, for centuries this was held as a fundamental tenet defining spontaneous changes in nature.
 
-But what about the melting of arctic ice? We know from experience that ice melts spontaneously when in contact with a temperature reservoir just a fraction of a degree higher in temperature than the melting point of ice. Now we have a conundrum, for while we know that ice melts spontaneously, we also know that in the process of melting, thermal energy must be flowing into the ice as it melts. The transfer of thermal energy (heat) leaves the liquid water from the melted ice at a higher internal energy than that of the original ice. Thus, the process of melting is an endothermic process! Yet it is spontaneous. This revelation opens an awareness of many other spontaneous processes that are endothermic: Expansion of a gas into a vacuum (Figure 4.10); the “cold pack” chemical envelopes used for medical purposes; the evaporation of ocean water into the atmosphere; the formation of a solution created by the intermixing of substances in the liquid phase.
+But what about the melting of arctic ice? We know from experience that ice melts spontaneously when in contact with a temperature reservoir just a fraction of a degree higher in temperature than the melting point of ice. Now we have a conundrum, for while we know that ice melts spontaneously, we also know that in the process of melting, thermal energy must be flowing into the ice as it melts. The transfer of thermal energy (heat) leaves the liquid water from the melted ice at a higher internal energy than that of the original ice. Thus, the process of melting is an endothermic process! Yet it is spontaneous. This revelation opens an awareness of many other spontaneous processes that are endothermic: Expansion of a gas into a vacuum ([Figure 4.10)](#fig-p1-ch04-13); the “cold pack” chemical envelopes used for medical purposes; the evaporation of ocean water into the atmosphere; the formation of a solution created by the intermixing of substances in the liquid phase.
 
 (b) After expansion into vaccuum
 :::{figure} ../images/fig-p1-ch04-12.jpg
@@ -224,7 +224,7 @@ We examine the issue of probability at the molecular level from two complementar
 
 ## Perspective #1
 
-Suppose we examine the behavior of molecules in a two-chamber apparatus, shown in Figure 4.11.
+Suppose we examine the behavior of molecules in a two-chamber apparatus, shown in [Figure 4.11](#fig-p1-ch04-25).
 
 ## The Case for 2 Molecules
 
@@ -248,7 +248,7 @@ FIGURE 4.11 If we consider two molecules in an otherwise vacated bulb with two c
 
 We begin this (important!) thought experiment with the chambers evacuated except for two indistinguishable gas-phase molecules that we observe over a period of time during which we, at certain intervals, count the number of times we observe the available configurations, which are (i) both molecules in the left-hand chamber, (ii) both molecules in the right-hand chamber, (iii) one molecule in the left-hand chamber and one molecule in the right-hand chamber. We can draw a histogram that summarizes our findings. The probability of finding one molecule in the left-hand chamber is ½, just as the probability of getting “heads” in a coin toss is ½. The probability of finding both molecules in the left-hand chamber is $( 1 / 2 ) ( 1 / 2 ) = ( 1 / 4 )$ , just as the probability of tossing two “heads” in a row is $( 1 / 2 ) ( 1 / 2 ) = ( 1 / 4 )$ . But the same logic applies to the right-hand chamber; the probability of finding both molecules in the right-hand chamber is $( 1 / 2 ) ( 1 / 2 ) = ( 1 / 4 )$ . The probability of finding one molecule in the left chamber and one molecule in the right chamber is ½. Thus, we construct our histogram accordingly. Notice that for our case of two identical molecules, there are three (n + 1) possible configurations and that there is a higher probability of finding the molecules evenly distributed between the two chambers.
 
-Let's add a third molecule as shown in Figure 4.12. But now let's label the molecules as A, B, and C. And, in addition, let's explicitly list out the possible arrangements:
+Let's add a third molecule as shown in [Figure 4.12](#fig-p1-ch04-27). But now let's label the molecules as A, B, and C. And, in addition, let's explicitly list out the possible arrangements:
 
 <table><tr><td>1. All in the left chamber:</td><td>(ABC)-( )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td>2. All in the right chamber:</td><td>( )-(ABC)</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td colspan="3">3. Two in the left and one in the right:</td></tr><tr><td></td><td>( AB )-( C )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td></td><td>( AC )-( B )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td></td><td>( BC )-( A )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td colspan="3">4. One in the left and two in the right:</td></tr><tr><td></td><td>( C )-( AB )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td></td><td>( B )-( AC )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr><tr><td></td><td>( A )-( BC )</td><td> $(1/2)(1/2)(1/2) = 1/8$ </td></tr></table>
 
@@ -267,11 +267,11 @@ FIGURE 4.12 The initial case of two molecules is straightforward, so we will kee
 :::
 
 
-But while each configuration of the three molecules has the same probability if we distinguish the individual molecules $( ( ^ { 1 / 2 } ) ( ^ { 1 / 2 } ) ( ^ { 1 / 2 } ) = ^ { 1 / 8 } )$ , if the molecules are indistinguishable we have a probability of 3 × (⅛) for Cases 3 and $4 \cdot$ This results in the histogram shown in Figure 4.12 for three indistinguishable molecules.
+But while each configuration of the three molecules has the same probability if we distinguish the individual molecules $( ( ^ { 1 / 2 } ) ( ^ { 1 / 2 } ) ( ^ { 1 / 2 } ) = ^ { 1 / 8 } )$ , if the molecules are indistinguishable we have a probability of 3 × (⅛) for Cases 3 and $4 \cdot$ This results in the histogram shown in [Figure 4.12](#fig-p1-ch04-27) for three indistinguishable molecules.
 
 Once again, we note the pattern: (a) There are $n + 1 = 3 + 1 = 4$ possible states (or configurations), and (b) the higher probability cases are those for which there is the most balanced distribution between the two chambers.
 
-If we now proceed to consider the case for 10 molecules in Figure 4.13, we discover that the counting becomes rapidly more difficult (or tedious!), but the same pattern becomes more pronounced: The histogram peaks in the middle, corresponding to the molecules being distributed equally between the two chambers, the distribution falls off uniformly on both sides of the distribution, and there are $n + 1 = 1 0 + 1 = 1 1$ possible states.
+If we now proceed to consider the case for 10 molecules in [Figure 4.13](#fig-p1-ch04-29), we discover that the counting becomes rapidly more difficult (or tedious!), but the same pattern becomes more pronounced: The histogram peaks in the middle, corresponding to the molecules being distributed equally between the two chambers, the distribution falls off uniformly on both sides of the distribution, and there are $n + 1 = 1 0 + 1 = 1 1$ possible states.
 
 Ten Molecules
 The Case for 10 Molecules
@@ -287,7 +287,7 @@ FIGURE 4.13 As we continue to add molecules to the system, counting the states a
 :::
 
 
-So let's extend this to the case for which we have not 10, but 100 molecules, as shown in Figure 4.14. Now the individual counting is best done by computer, but we see that the probability that all molecules reside in the left or in the right chamber is virtually zero; and, moreover, that the probability that the distribution is more than slightly skewed to one chamber or the other is increasingly unlikely as the number of molecules is increased.
+So let's extend this to the case for which we have not 10, but 100 molecules, as shown in [Figure 4.14](#fig-p1-ch04-31). Now the individual counting is best done by computer, but we see that the probability that all molecules reside in the left or in the right chamber is virtually zero; and, moreover, that the probability that the distribution is more than slightly skewed to one chamber or the other is increasingly unlikely as the number of molecules is increased.
 
 The Case for 100 Molecules
 :::{figure} ../images/fig-p1-ch04-30.jpg
@@ -316,7 +316,7 @@ Just as with our previous thought experiment, when we are setting a strategy at 
 
 If we begin this thought experiment with the initial configuration such that all three molecules of one object are in a high energy state and all three molecules of the other object are in a low energy state; then we can represent the initial configuration as having one “hot” object on the left and one “cold” object on the right.
 
-Now we move the objects such that they are in physical contact, allowing energy to flow between the two objects. Since we are not adding to or removing energy from these two objects (each comprised of three molecules) the total energy of the system does not change. That is, whatever the distribution of hot molecules and cold molecules is for a given state of the joined systems, the total number of hot (red) molecules must remain at 3, and the total number of cold (blue) molecules must remain at 3. But the number of possible distributions of energy among the six molecules after the objects are brought in contact is now not 1, as was the case for the separated objects, but 20, corresponding to the cases for one unit of energy transferred, two units of energy transferred, and three units of energy transferred. The 20 different distributions are shown in the Figure 4.15.
+Now we move the objects such that they are in physical contact, allowing energy to flow between the two objects. Since we are not adding to or removing energy from these two objects (each comprised of three molecules) the total energy of the system does not change. That is, whatever the distribution of hot molecules and cold molecules is for a given state of the joined systems, the total number of hot (red) molecules must remain at 3, and the total number of cold (blue) molecules must remain at 3. But the number of possible distributions of energy among the six molecules after the objects are brought in contact is now not 1, as was the case for the separated objects, but 20, corresponding to the cases for one unit of energy transferred, two units of energy transferred, and three units of energy transferred. The 20 different distributions are shown in the [Figure 4.15](#original-fig-4-15).
 
 Begin with two objects made from three molecules each:
 
@@ -340,6 +340,7 @@ Low energy molecules
 ```
 
 
+(original-fig-4-15)=
 FIGURE 4.15 When we bring two bodies together, one hot and one cold, we know from direct experience that thermal energy (heat), will flow from the high temperature body to the low temperature body. We can analyze the probability of energy being transferred when two bodies are brought into contact by modeling the system as two bodies, one of which is comprised of just three molecules. If we bring the hot (red) body in contact with the cold (blue) body, we can transfer zero, 1, 2, or 3 units of energy where each unit corresponds to the energy transferred between a red molecule and a blue molecule. If zero units of energy are transferred, there is just one such configuration; the one representing the case before the bodies were brought into contact. If one unit of energy is transferred, there are nine equivalent configurations available; if two units are transferred there are nine equivalent configurations; and if three units of energy are transferred there is one additional configuration.
 
 Inspection of the figure reveals several notable facts. First, some of the outcomes result from a number of different specific configurations. For example, if just one unit of energy is transferred, we have configurations 2 through 10. If two units are transferred, we have configurations 11 though 19.
@@ -356,11 +357,15 @@ In particular, if we assume all of the 20 possible distributions of energy are e
 
 We can tabulate the results:
 
+:::{table} TABLE 4.1
+:label: xref-visual-p1-ch04-entropy-second-law-359
+:enumerated: false
 <table><tr><td>Units of Energy Transferred</td><td>Number of Equivalent Ways to Realize the Energy Transfer</td><td>Probability of Energy Transfer</td></tr><tr><td>0</td><td>1</td><td>1/20 = 5%</td></tr><tr><td>1</td><td>9</td><td>9/20 = 45%</td></tr><tr><td>2</td><td>9</td><td>9/20 = 45%</td></tr><tr><td>3</td><td>1</td><td>1/20 = 5%</td></tr></table>
+:::
 
-We can now dissect what happened when we moved from (a) our initial condition of two separated objects, one comprised of three high energy (hot) molecules and the other comprised of three low energy (cold) molecules, to (b) our final condition wherein the objects are in physical contact and have equilibrated; this is shown explicitly in Figure 4.15.
+We can now dissect what happened when we moved from (a) our initial condition of two separated objects, one comprised of three high energy (hot) molecules and the other comprised of three low energy (cold) molecules, to (b) our final condition wherein the objects are in physical contact and have equilibrated; this is shown explicitly in [Figure 4.15](#original-fig-4-15).
 
-We can immediately determine from an inspection of Table $\underline { { 4 . 1 } }$ that there is a $1 9 / 2 0 = 9 5 \%$ probability that some amount of energy will be transferred from the hot object to the cold object. This is for an object with just 3 molecules—that's $\mathbf { 2 \times 1 0 ^ { - 2 3 } }$ moles! You can quickly see that if each object has but 10 molecules $\left( 6 \times 1 0 ^ { - 2 2 } \right.$ moles), the probability that energy will flow from the hot object to the cold object greatly exceeds 99%.
+We can immediately determine from an inspection of [Table 4.1](#xref-visual-p1-ch04-entropy-second-law-359) that there is a $1 9 / 2 0 = 9 5 \%$ probability that some amount of energy will be transferred from the hot object to the cold object. This is for an object with just 3 molecules—that's $\mathbf { 2 \times 1 0 ^ { - 2 3 } }$ moles! You can quickly see that if each object has but 10 molecules $\left( 6 \times 1 0 ^ { - 2 2 } \right.$ moles), the probability that energy will flow from the hot object to the cold object greatly exceeds 99%.
 
 Thus, while our model for thermal energy transfer (“heat flow”) is very simple, it is powerful indeed because it explicitly demonstrates the role of probability in determining the direction of a spontaneous process. But the conclusion is the same as that for our analysis of molecules distributed between two chambers: spontaneous processes tend to proceed from states of low probability to states of higher probability. The higher probability states are those for which the energy increments (in this case the increment of energy is the amount of energy separating high energy [red] molecules from low energy [blue] molecules) can be stored away in the largest number of different sites or locations. Thus nature drives toward subdividing the total available energy into the smallest possible increments and distributing these increments into the largest possible number of sites or “slots.” The higher probability states are those that allow more options, more choices, for hiding a given amount of energy among the available molecules. We can restate the condition for spontaneity: Spontaneous processes proceed in a direction such that energy is dispersed as uniformly as possible.
 
@@ -403,7 +408,7 @@ One of the remarkable confluences of history occurred between what was learned f
 
 Ludwig Boltzmann was a giant of 19th and early 20th century chemical physics. He was fundamental in developing the foundations for thermody-namics from the microscopic (molecular) perspective and he developed the kinetic theory of gases. Etched in his tombstone, by his own request, was the expression linking entropy, S, to the number of microstates, W.
 
-Let's consider again the case of two chambers containing a total of 10 molecules as introduced in Figure 4.13. Except now we consider quantitatively the number of possible arrangements beginning with 10 molecules in the left-hand chamber and zero molecules in the right-hand chamber (which we identify as our initial state) and progress stepwise through each possible distribution of molecules between the two chambers. This is displayed explicitly in Figure 4.16.
+Let's consider again the case of two chambers containing a total of 10 molecules as introduced in [Figure 4.13](#fig-p1-ch04-29). Except now we consider quantitatively the number of possible arrangements beginning with 10 molecules in the left-hand chamber and zero molecules in the right-hand chamber (which we identify as our initial state) and progress stepwise through each possible distribution of molecules between the two chambers. This is displayed explicitly in [Figure 4.16](#fig-p1-ch04-36).
 
 :::{figure} ../images/fig-p1-ch04-36.jpg
 :name: fig-p1-ch04-36
@@ -412,9 +417,9 @@ FIGURE 4.16 A representation of the configurations, arrangements, and microstate
 :::
 
 
-We designate each possible distribution of the 10 molecules between the two chambers as a specific configuration. For example, if there are 7 molecules in the left-hand chamber and 3 in the right-hand chamber we would designate the configuration as 7L, 3R. When we considered our case of 3 molecules distributed between two chambers we came to the conclusion that there were n + 1 possible states, so for n = 3 molecules we had $4$ possible configurations. For n = 10 molecules we have $\textbf { n } + \textbf { 1 } = \textbf { 1 1 }$ possible configurations, as is borne out in Figure 4.16. We also discovered that the probability of a given configuration is proportional to the number of possible arrangements (ways of choosing how each molecule is placed in each chamber—page 212) that yields a particular configuration. We saw the analogous situation for the transfer of energy between two objects, each of which contained 3 molecules. The probability of a given outcome equaled the number of ways a given outcome can be produced divided by the total number of ways all outcomes can be produced (page 214).
+We designate each possible distribution of the 10 molecules between the two chambers as a specific configuration. For example, if there are 7 molecules in the left-hand chamber and 3 in the right-hand chamber we would designate the configuration as 7L, 3R. When we considered our case of 3 molecules distributed between two chambers we came to the conclusion that there were n + 1 possible states, so for n = 3 molecules we had $4$ possible configurations. For n = 10 molecules we have $\textbf { n } + \textbf { 1 } = \textbf { 1 1 }$ possible configurations, as is borne out in [Figure 4.16](#fig-p1-ch04-36). We also discovered that the probability of a given configuration is proportional to the number of possible arrangements (ways of choosing how each molecule is placed in each chamber—page 212) that yields a particular configuration. We saw the analogous situation for the transfer of energy between two objects, each of which contained 3 molecules. The probability of a given outcome equaled the number of ways a given outcome can be produced divided by the total number of ways all outcomes can be produced (page 214).
 
-Thus we seek to determine the number of arrangements of each configuration relative to the total number of arrangements available to the system. We begin with the initial configuration, which, as shown in Figure $4 . 1 6 .$ , we designate as 10L, 0R. The probability that the first molecule is in the left-hand chamber is unity, same for each of the other nine molecules. Thus, because the total number of arrangements possible is equal to the product of the probability for each molecule that makes up that configuration, the total number of arrangements, $\mathbf { N _ { 1 : } }$ , for that initial state is
+Thus we seek to determine the number of arrangements of each configuration relative to the total number of arrangements available to the system. We begin with the initial configuration, which, as shown in [Figure 4.16](#fig-p1-ch04-36) , we designate as 10L, 0R. The probability that the first molecule is in the left-hand chamber is unity, same for each of the other nine molecules. Thus, because the total number of arrangements possible is equal to the product of the probability for each molecule that makes up that configuration, the total number of arrangements, $\mathbf { N _ { 1 : } }$ , for that initial state is
 
 ```{math}
 :label: eq-p1-ch04-7
@@ -432,7 +437,7 @@ What about the number of possible arrangements for the most favored configuratio
 ```
 
 
-This is displayed in Figure $4 . 1 6 .$ . It is also important to check this against our calculation on page 212 for the case of three molecules in two chambers. In that case, for two molecules on the left and one on the right
+This is displayed in [Figure 4.16](#fig-p1-ch04-36) . It is also important to check this against our calculation on page 212 for the case of three molecules in two chambers. In that case, for two molecules on the left and one on the right
 
 ```{math}
 :label: eq-p1-ch04-9
@@ -500,9 +505,9 @@ Five ways to count out \$2 with coins.
 
 There are a remarkable number of illustrative comparisons between entropy and many common quantities that we are all acquainted with. One example is the way we can break down currency into a multitude of different subdivisions, each with a different degree of disorganization. If we consider, for example, the ways of counting out \$2, we can do this with a single \$2 bill or two \$1 bills. However, if we can use coins, we can represent \$2 with: four 50-cent coins, two 50-cent coins in combination with four 25- cent coins, or eight 25-cent coins, or twenty 10-cent coins, or two hundred 1-cent coins. As the number of coins increases, so too does the degree of disorganization and thus the entropy.
 
-The number of microstates, W, available to a set of N molecules in a volume of space is displayed in Figure 4.16. We can also consider the number of microstates, W, with respect to the number of ways, for a given total energy, that the molecules can be assigned to the available energy states. Let's consider a specific example. Consider the reaction
+The number of microstates, W, available to a set of N molecules in a volume of space is displayed in [Figure 4.16](#fig-p1-ch04-36). We can also consider the number of microstates, W, with respect to the number of ways, for a given total energy, that the molecules can be assigned to the available energy states. Let's consider a specific example. Consider the reaction
 
-where the A molecules are distinguished by the fact that they can take on energies that are multiples of 10 energy units, and B molecules can take on energies that are multiples of 5 energy units, as shown in Figure 4.17.
+where the A molecules are distinguished by the fact that they can take on energies that are multiples of 10 energy units, and B molecules can take on energies that are multiples of 5 energy units, as shown in [Figure 4.17](#fig-p1-ch04-43).
 
 :::{figure} ../images/fig-p1-ch04-43.jpg
 :name: fig-p1-ch04-43
@@ -511,11 +516,11 @@ FIGURE 4.17 An important example of the relationship between the entropy of a mo
 :::
 
 
-We know that we must count the number of microstates for a given amount of total energy because those are the only microstates available to the system. So suppose that the total energy of the reacting mixture is 20 units. Then, with this restriction on total energy, there are two ways to distribute 20 units of energy among the three molecules of A. But there are four ways to distribute 20 units of energy among the three molecules of B, as shown in Figure 4.17.
+We know that we must count the number of microstates for a given amount of total energy because those are the only microstates available to the system. So suppose that the total energy of the reacting mixture is 20 units. Then, with this restriction on total energy, there are two ways to distribute 20 units of energy among the three molecules of A. But there are four ways to distribute 20 units of energy among the three molecules of B, as shown in [Figure 4.17](#fig-p1-ch04-43).
 
 Thus, the number of microstates of A is two, that of B is four, and thus the entropy, S, of B is higher than the entropy of A simply because there are more ways of distributing the same amount of energy in B than in A.
 
-But entropy is a concept tightly connected with the degree of order/disorder in a system. We saw this pattern clearly emerging when we considered the available microstates available to the two objects each with 3 molecules. In the case of our two objects each comprised of three molecules shown in Figure 4.15, the initial state (defined by an object with three high energy [hot] molecules and the other object with three low energy [cold] molecules) was more ordered than the final state with energy distributed in 20 different ways. The same was true when we begin with 3, 10, 100, or $N _ { \mathrm { A } }$ molecules in one chamber and then allow the system to spontaneously proceed to its final state with molecules equally distributed between the two chambers. It was true for our molecules, one with large energy separation and one with smaller energy separation.
+But entropy is a concept tightly connected with the degree of order/disorder in a system. We saw this pattern clearly emerging when we considered the available microstates available to the two objects each with 3 molecules. In the case of our two objects each comprised of three molecules shown in [Figure 4.15](#original-fig-4-15), the initial state (defined by an object with three high energy [hot] molecules and the other object with three low energy [cold] molecules) was more ordered than the final state with energy distributed in 20 different ways. The same was true when we begin with 3, 10, 100, or $N _ { \mathrm { A } }$ molecules in one chamber and then allow the system to spontaneously proceed to its final state with molecules equally distributed between the two chambers. It was true for our molecules, one with large energy separation and one with smaller energy separation.
 
 Systems that have a high degree of order are in low entropy states and systems with a high degree of disorder are high entropy states. This leaves us with a powerful and irrefutable conclusion. If we move from a state of low entropy to a state of high entropy, ΔS is positive and the change happens spontaneously:
 
@@ -531,7 +536,7 @@ The system proceeds from a low probability, low entropy state spontaneously to a
 
 While entropy is a state variable, and we can and will use it in specific, quantitative calculations, it is of great importance to develop an ability to determine the sign of the change in entropy for a host of important cases. It is to this topic that we now turn, because it is the sign of $\Delta S$ that distinguishes whether entropy change favors a spontaneous process versus a nonspontaneous process.
 
-To begin analyzing the sign of entropy change for various systems, we consider first a simple ordered system of atoms in a lattice. Such a case is displayed in Figure 4.18.
+To begin analyzing the sign of entropy change for various systems, we consider first a simple ordered system of atoms in a lattice. Such a case is displayed in [Figure 4.18](#original-fig-4-18).
 
 ## entropy increases and ΔS > 0
 
@@ -556,11 +561,12 @@ At about zero atoms within a crystal structure have no kinetic energy and are mo
 
 With the addition of more heat, the temperature increases more, and the amplitude of oscillation of the atoms increases leading to more disorder.
 
+(original-fig-4-18)=
 FIGURE 4.18 Nature has a propensity to “hide” small units (quanta) of energy in any energy “mode” of molecular motion available to it. As a material, for example a crystal with perfectly ordered structure at absolute zero, is heated, the structure becomes more disordered, and through the increasing molecular motion with increasing temperature, there become more ways, more modes of molecular motion, available to sequester quantities of energy.
 
-At absolute zero, shown in panel (a) of Figure 4.18, the atoms in the lattice possess no thermal energy and are locked in place. This corresponds to the condition of maximum order and minimum energy. As we increase the temperature, the atoms in the lattice gain thermal energy, which, at the molecular level, corresponds to the kinetic energy of vibration and rotation as the atoms in the lattice are displaced from their equilibrium positions. This displacement from equilibrium introduces a random component to the atomic positions and with that a disordering of the crystal lattice. At still higher temperatures, the increase in thermal energy manifests in larger amplitude departures from equilibrium positions within the lattice and a requisite increase in disorder. With increasing disorder comes increasing entropy such that as we progress upward in temperature from absolute zero, ΔS > 0 because entropy increases with increasing disorder and disorder increases with increasing temperature. It is important to recognize that as the amplitude of the departure of the atoms from their equilibrium position increases, new “modes” of vibrational and rotational motion become available to the crystal system, and with this increasing number of modes comes an increase in the number of microstates within which increments of energy can be sequestered. Thus, while we do not yet have formulas to explicitly calculate the number of these microstates, we do know that with increasing temperature comes an increase in the number of available microstates and, consequently, an increase in entropy.
+At absolute zero, shown in panel (a) of [Figure 4.18](#original-fig-4-18), the atoms in the lattice possess no thermal energy and are locked in place. This corresponds to the condition of maximum order and minimum energy. As we increase the temperature, the atoms in the lattice gain thermal energy, which, at the molecular level, corresponds to the kinetic energy of vibration and rotation as the atoms in the lattice are displaced from their equilibrium positions. This displacement from equilibrium introduces a random component to the atomic positions and with that a disordering of the crystal lattice. At still higher temperatures, the increase in thermal energy manifests in larger amplitude departures from equilibrium positions within the lattice and a requisite increase in disorder. With increasing disorder comes increasing entropy such that as we progress upward in temperature from absolute zero, ΔS > 0 because entropy increases with increasing disorder and disorder increases with increasing temperature. It is important to recognize that as the amplitude of the departure of the atoms from their equilibrium position increases, new “modes” of vibrational and rotational motion become available to the crystal system, and with this increasing number of modes comes an increase in the number of microstates within which increments of energy can be sequestered. Thus, while we do not yet have formulas to explicitly calculate the number of these microstates, we do know that with increasing temperature comes an increase in the number of available microstates and, consequently, an increase in entropy.
 
-We turn next to the question of how changes in phase—from solid to liquid to gas—affect the entropy of the system. This progression is shown in Figure 4.19.
+We turn next to the question of how changes in phase—from solid to liquid to gas—affect the entropy of the system. This progression is shown in [Figure 4.19](#fig-p1-ch04-47).
 
 Key to Calculating Entropy: Prediction of the Sign of ∆S
 :::{figure} ../images/fig-p1-ch04-47.jpg
@@ -574,7 +580,7 @@ The solid phase is, of course, characterized by an ordered, strongly bonded, and
 
 With further heating, the liquid transitions to the gas phase where the atoms and/or molecules that comprise the system are now free to move, and while they are frequently colliding, they are not chemically bonded in any systematic pattern. This results in a far more disordered structure and a large increase in entropy. In fact, the unrestricted motion of the molecules allows energy to be sequestered in translational motion, rotational motion, and vibrational motion, each of which comprises a manifold of available microstates of the system. This results in the very large increase in entropy in going from a liquid to a gas.
 
-We consider next the case of entropy change resulting from the expansion of a gas from a small volume at high pressure to a larger volume at reduced pressure. We can execute such a process by containing a volume of gas behind a partition that, when withdrawn, allows the gas to expand, as shown in Figure 4.20.
+We consider next the case of entropy change resulting from the expansion of a gas from a small volume at high pressure to a larger volume at reduced pressure. We can execute such a process by containing a volume of gas behind a partition that, when withdrawn, allows the gas to expand, as shown in [Figure 4.20](#original-fig-4-20).
 
 :::{figure} ../images/fig-p1-ch04-48.jpg
 :name: fig-p1-ch04-48
@@ -589,11 +595,12 @@ The expansion of a gas into a vacuum:
 
 3) The gas expands to achieve a more probable (higher entropy) particle distribution. 1 1
 
+(original-fig-4-20)=
 FIGURE 4.20 The expansion of a gas from a restricted segment of a volume to the full volume corresponds to the transition from a low probability situation (gas contained in the chamber as worked out before) to a high probability case. This increase in probability is accompanied by an increase in entropy.
 
-The determination of the change in entropy from such a transition can be gauged by recognizing that, as we deduced from calculating the probability for finding a given number of molecules in one or the other of two chambers (see Figure 4.6), the probability for finding the molecules evenly distributed throughout the volume is much higher than finding the molecules isolated in one-half of the volume. Thus, entropy increases significantly in going from configuration (b) to configuration (c) in Figure 4.20. But we can also predict that $\Delta S > 0$ for this progression from (b) to (c) by recognizing that (c) is a condition of greater disorder than (b) and thus entropy is larger for (c) than for (b).
+The determination of the change in entropy from such a transition can be gauged by recognizing that, as we deduced from calculating the probability for finding a given number of molecules in one or the other of two chambers (see [Figure 4.6)](#fig-p1-ch04-7), the probability for finding the molecules evenly distributed throughout the volume is much higher than finding the molecules isolated in one-half of the volume. Thus, entropy increases significantly in going from configuration (b) to configuration (c) in [Figure 4.20](#original-fig-4-20). But we can also predict that $\Delta S > 0$ for this progression from (b) to (c) by recognizing that (c) is a condition of greater disorder than (b) and thus entropy is larger for (c) than for (b).
 
-What happens to the entropy of a system when a chemical reaction takes place during which reactants are converted to products and the number of moles of product molecules is greater than the number of moles of reactants? Consider the case when bicarbonate of soda (baking soda) is heated—as is the case when bread is baked. The products of the reaction are sodium carbonate, carbon dioxide, and water. This reaction is displayed in Figure 4.21.
+What happens to the entropy of a system when a chemical reaction takes place during which reactants are converted to products and the number of moles of product molecules is greater than the number of moles of reactants? Consider the case when bicarbonate of soda (baking soda) is heated—as is the case when bread is baked. The products of the reaction are sodium carbonate, carbon dioxide, and water. This reaction is displayed in [Figure 4.21](#fig-p1-ch04-50).
 
 Calculating Entropy: Predicting the Sign of ∆S When a chemical reaction produces or consumes gases, the sign of $\pmb { \triangle s }$ is usually easy to predict.
 
@@ -725,7 +732,7 @@ the most efficient heat engine, which must use irreversible paths on any real pV
 
 it is impossible to convert heat to work with an efficiency of 100% in a cyclic process.
 
-However, this expression for the efficiency of a Carnot engine in terms of (1) the heat added and subtracted and (2) the temperature of the high and low temperature reservoirs has significant implications for the quantitative calculation of the entropy involved in each stage of the cycle. Equation (4.1) can be rewritten such that
+However, this expression for the efficiency of a Carnot engine in terms of (1) the heat added and subtracted and (2) the temperature of the high and low temperature reservoirs has significant implications for the quantitative calculation of the entropy involved in each stage of the cycle. [Equation (4.1)](#eq-p1-ch04-38) can be rewritten such that
 
 ```{math}
 :label: eq-p1-ch04-22
@@ -887,7 +894,7 @@ and entropy (of the cup plus surroundings) increases as the cooling process proc
 
 But whereas our empirically determined expression for entropy change stated in terms of observed, macroscopic quantities (Equation. 4.1) appears to be simple, it requires careful consideration. First, we know that S is a state function and, thus, so too is $\Delta S .$ . But $q$ is not a state function; it depends sensitively on the path by which heat was added to the system. We recognized this explicitly in our discussion of the First Law of Thermodynamics.
 
-A clear example of the path dependence of thermal energy (heat) transfer that follows from the First Law of Thermodynamics is the case of transitioning from an initial state of internal energy, $U _ { \mathrm { i , } }$ to a final state of internal energy, $U _ { \mathrm { f } } ,$ via two different paths: (a) an isochoric process wherein the volume does not change such that $\Delta U = U _ { \mathrm { f } } - U _ { \mathrm { i } } = q + w = q _ { V }$ because $w =$ 0 and $q = q _ { V , }$ the heat transferred at constant volume; and (b), a case where the volume does change, $\mathbf { W } \neq \mathbf { O } ;$ , and $\Delta U = U _ { \mathrm { f } } - U _ { \mathrm { i } } = q + w$ . These two cases are represented graphically in Figure 4.22.
+A clear example of the path dependence of thermal energy (heat) transfer that follows from the First Law of Thermodynamics is the case of transitioning from an initial state of internal energy, $U _ { \mathrm { i , } }$ to a final state of internal energy, $U _ { \mathrm { f } } ,$ via two different paths: (a) an isochoric process wherein the volume does not change such that $\Delta U = U _ { \mathrm { f } } - U _ { \mathrm { i } } = q + w = q _ { V }$ because $w =$ 0 and $q = q _ { V , }$ the heat transferred at constant volume; and (b), a case where the volume does change, $\mathbf { W } \neq \mathbf { O } ;$ , and $\Delta U = U _ { \mathrm { f } } - U _ { \mathrm { i } } = q + w$ . These two cases are represented graphically in [Figure 4.22](#original-fig-4-22).
 
 :::{figure} ../images/fig-p1-ch04-51.jpg
 :name: fig-p1-ch04-51
@@ -902,9 +909,10 @@ A clear example of the path dependence of thermal energy (heat) transfer that fo
 :::
 
 (b)
+(original-fig-4-22)=
 FIGURE 4.22 An example of the change in internal energy between two identical isotherms, but via two different paths. In case (a), the transition $\Delta U = U _ { \uparrow } - U _ { \uparrow }$ takes place along an isochoric path so because no work is done. In case (b), $\Delta U = U _ { \uparrow } - U _ { \mathrm { i } }$ is the same as in case (a) but both q and w are quantitatively different. This is displayed graphically in the figure.
 
-Equation 4.1 holds only for a specific path—a path that is reversible; thus the subscript on $q _ { \mathrm { r e v } }$ . A reversible process is one that can be made to reverse its direction when just an infinitesimal change is executed in the opposite direction. Perhaps the most commonplace example of the distinction between a reversible and an irreversible path is the melting of ice. As adjoining Figure 4.23 reminds us,
+[Equation 4.1](#eq-p1-ch04-38) holds only for a specific path—a path that is reversible; thus the subscript on $q _ { \mathrm { r e v } }$ . A reversible process is one that can be made to reverse its direction when just an infinitesimal change is executed in the opposite direction. Perhaps the most commonplace example of the distinction between a reversible and an irreversible path is the melting of ice. As adjoining [Figure 4.23](#fig-p1-ch04-54) reminds us,
 
 ## Melting Ice
 
@@ -986,7 +994,7 @@ Calculate the standard molar entropy of vaporization, $\Delta S _ { \mathrm { v 
 
 So if we know the heat required for the process to proceed along the reversible path, then we know $\Delta S$ for the same process along any path, whether it is reversible or irreversible, because $\Delta S$ is a state variable. Quite clearly, the converse is not true, i.e., we cannot calculate $q$ from $\Delta S$ and $T$ for any path because $q$ is not a state variable and thus is path dependent.
 
-It is worth noting at this point what the behavior of entropy is as a function of temperature. This is displayed graphically in Figure 4.24.
+It is worth noting at this point what the behavior of entropy is as a function of temperature. This is displayed graphically in [Figure 4.24](#fig-p1-ch04-55).
 
 The increase in entropy during phase changes from solid to liquid to gas
 :::{figure} ../images/fig-p1-ch04-55.jpg
@@ -998,7 +1006,7 @@ FIGURE 4.24 What about the temperature dependence of ΔS? We previously argued t
 
 As we have seen before, as the temperature increases, entropy increases smoothly for a given phase (i.e., solid, liquid, or gas) and increases discontinuously at a phase transition.
 
-But Figure 4.24 displays another feature of entropy that is of considerable importance. Notice that, as the temperature approaches absolute zero, so too does the entropy. We noted this qualitatively when we discussed the highly ordered state of a crystal at absolute zero, which represented the state of minimum entropy.
+But [Figure 4.24](#fig-p1-ch04-55) displays another feature of entropy that is of considerable importance. Notice that, as the temperature approaches absolute zero, so too does the entropy. We noted this qualitatively when we discussed the highly ordered state of a crystal at absolute zero, which represented the state of minimum entropy.
 
 ## Check Yourself 5
 
@@ -1050,7 +1058,7 @@ For this calculation we assume an initial condition of the 1 mol of gas in a 1L 
 
 We have developed all the information we need for the calculation of the entropy change, but let's work through what happens, beginning not with 1 mol of gas $( 6 . 0 2 \ \times \ 1 0 ^ { 2 3 }$ molecules) but with 1 then 2, then 3, then 10 molecules to derive the required formula.
 
-Referring to Figure 4.16, which is a summary of Figures 4.11, 4.12, 4.13, and $4 . 1 4 ,$ with one molecule, the number of microstates available with just a single chamber available is W = 1. When the chamber is opened, the number of microstates available is ${ \bf W } = { \bf 2 ^ { 1 } } = { \bf 2 }$ , or twice as many. With two molecules, initially there is again W = 1 microstate available. After opening the valve there are $2 ^ { 2 } = 4$ microstates available. For three molecules there are $2 ^ { 3 } = 8$ microstates available after opening the valve. For ten molecules there are $2 ^ { 1 0 }$ $= 1 0 2 4$ microstates available as displayed explicitly in Figure 4.16.
+Referring to [Figure 4.16](#fig-p1-ch04-36), which is a summary of [Figures 4.11](#fig-p1-ch04-25), [4.12](#fig-p1-ch04-27), [4.13](#fig-p1-ch04-29), and $4 . 1 4 ,$ with one molecule, the number of microstates available with just a single chamber available is W = 1. When the chamber is opened, the number of microstates available is ${ \bf W } = { \bf 2 ^ { 1 } } = { \bf 2 }$ , or twice as many. With two molecules, initially there is again W = 1 microstate available. After opening the valve there are $2 ^ { 2 } = 4$ microstates available. For three molecules there are $2 ^ { 3 } = 8$ microstates available after opening the valve. For ten molecules there are $2 ^ { 1 0 }$ $= 1 0 2 4$ microstates available as displayed explicitly in [Figure 4.16](#fig-p1-ch04-36).
 
 But we now see a simple pattern emerging. The ratio of microstates available after opening the valve to double the volume is
 
@@ -1298,7 +1306,7 @@ Chemically reacting systems seek the path to the lowest free energy, stopping on
 
 To summarize: When at equilibrium (ΔG = 0) the system of reactants and products is no longer able to lower its free energy by making small changes to the concentrations of those reactants and products. With that, the universe is satisfied; it can acquire no more entropy, at least not from the process at hand. An irreversible change has taken place that leaves the world forever different. The entropy gain can never be taken back.
 
-This drive toward minimizing Gibbs free energy is shown in Figure 4.25.
+This drive toward minimizing Gibbs free energy is shown in [Figure 4.25](#fig-p1-ch04-56).
 
 :::{figure} ../images/fig-p1-ch04-56.jpg
 :name: fig-p1-ch04-56
@@ -1359,7 +1367,7 @@ Let's consider the implied control of spontaneity as a function of the sign of $
 
 ## Case 1
 
-When $\Delta H$ is negative (exothermic reaction) and $\Delta S$ is positive (disorder increases), an example shown in Figure 4.26, then
+When $\Delta H$ is negative (exothermic reaction) and $\Delta S$ is positive (disorder increases), an example shown in [Figure 4.26](#original-fig-4-26), then
 
 ```{math}
 :label: eq-p1-ch04-81
@@ -1390,9 +1398,8 @@ H₂O(s) → H₂O(l) at T = 25°C
  $\Delta S &gt; 0$  Greater freedom of motion
 </div>
 
-<div class="mineru-algorithm" style="white-space: pre-wrap; font-family:monospace;">
-FIGURE 4.26 Using our equation for $\Delta G$, we can see how the spontaneity of a reaction depends on the temperature. We see that if $\Delta H &gt; 0$ and $\Delta S &lt; 0$, $\Delta G$ is always greater than zero, and the reaction in question will never be spontaneous. But if $\Delta H$ and $\Delta S$ are in opposition, can we drive the reaction toward spontaneity? From our expression, we clearly see that varying the temperature of the process will change $\Delta G$, and we consider cases individually to see how a change in temperature affects $\Delta G$.
-</div>
+(original-fig-4-26)=
+FIGURE 4.26 Using our equation for $\Delta G$, we can see how the spontaneity of a reaction depends on the temperature. We see that if $\Delta H > 0$ and $\Delta S < 0$, $\Delta G$ is always greater than zero, and the reaction in question will never be spontaneous. But if $\Delta H$ and $\Delta S$ are in opposition, can we drive the reaction toward spontaneity? From our expression, we clearly see that varying the temperature of the process will change $\Delta G$, and we consider cases individually to see how a change in temperature affects $\Delta G$.
 
 ## Case 2
 
@@ -1416,7 +1423,7 @@ When ΔH and $\Delta S$ have the same sign, then the sign of
 ```
 
 
-depends upon the temperature. If $\Delta H$ and $\Delta S$ are both positive as shown in Figure 4.26, then
+depends upon the temperature. If $\Delta H$ and $\Delta S$ are both positive as shown in [Figure 4.26](#original-fig-4-26), then
 
 ```{math}
 :label: eq-p1-ch04-85
@@ -1436,7 +1443,7 @@ Conversely, if $\Delta H$ and ΔS are both negative, then
 ```
 
 
-will be negative at low temperatures and thus spontaneous at low temperatures. At high temperatures the entropy term becomes dominant, $\Delta G$ $> 0 ,$ , and the process is no longer spontaneous. These cases can be summarized in a diagram shown in Figure 4.27.
+will be negative at low temperatures and thus spontaneous at low temperatures. At high temperatures the entropy term becomes dominant, $\Delta G$ $> 0 ,$ , and the process is no longer spontaneous. These cases can be summarized in a diagram shown in [Figure 4.27](#fig-p1-ch04-57).
 
 ```{math}
 :label: eq-p1-ch04-87
@@ -1453,7 +1460,7 @@ FIGURE 4.27 In the first case, we take $\Delta s > 0$ and $\Delta H > 0$ . If $\
 
 Spontaneity and Temperature
 
-Referring to Figure $\underline { { 4 . 2 7 } } \mathrm { , }$ which of the four cases applies to:
+Referring to [Figure 4.27](#fig-p1-ch04-57) which of the four cases applies to:
 
 ```{math}
 :label: eq-p1-ch04-88
@@ -1537,7 +1544,7 @@ We have $\mathrm { T } = \Delta \mathrm { H ^ { o } } / \Delta \mathrm { S ^ { o
 
 ## Practice Problems
 
-When we consider the various cases for the sign of ΔH and of $\Delta \mathbf { S } ,$ , we can summarize the determination of whether a given reaction is spontaneous vs. nonspontaneous using the convenient quadrant diagram shown in Figure 4.27. This figure defines the four possible combinations of the sign of ΔH and ΔS.
+When we consider the various cases for the sign of ΔH and of $\Delta \mathbf { S } ,$ , we can summarize the determination of whether a given reaction is spontaneous vs. nonspontaneous using the convenient quadrant diagram shown in [Figure 4.27](#fig-p1-ch04-57). This figure defines the four possible combinations of the sign of ΔH and ΔS.
 
 ## Absolute Value for Entropy: The Third Law of Thermodynamics
 
@@ -1555,13 +1562,14 @@ This leads to the definition of the standard molar entropy of a compound, $S ^ {
 
 It follows from the Third Law and the fact that standard molar entropies are tabulated at 298 K that for all elements in their standard states, the absolute entropy will have a positive value.
 
-We can tabulate standard entropies of important substances—this is done in Appendix A. But we can also examine some representative standard entropies to demonstrate the range of values at 298 K, as shown in Table 4.2:
+We can tabulate standard entropies of important substances—this is done in Appendix A. But we can also examine some representative standard entropies to demonstrate the range of values at 298 K, as shown in [Table 4.2](#original-table-4-2):
 
+(original-table-4-2)=
 TABLE 4.2
 
 <table><tr><td>Substance</td><td> $S^{\circ}$  J/mol·K</td></tr><tr><td>C(s, graphite)</td><td>5.69</td></tr><tr><td>Fe(s)</td><td>27</td></tr><tr><td>S(s)</td><td>31.9</td></tr><tr><td>CaO(s)</td><td>40.0</td></tr><tr><td> $H_{2}O(l)$ </td><td>69.96</td></tr><tr><td> $H_{2}O(g)$ </td><td>188.7</td></tr><tr><td> $H_{2}(g)$ </td><td>130.6</td></tr><tr><td> $N_{2}(g)$ </td><td>191.5</td></tr><tr><td> $O_{2}(g)$ </td><td>205.0</td></tr><tr><td> $C_{2}H_{4}(g)$ </td><td>219.8</td></tr><tr><td> $C_{2}H_{6}(g)$ </td><td>229.5</td></tr><tr><td> $C_{8}H_{18}(l)$ </td><td>466.9</td></tr><tr><td>NaCl(s)</td><td>72.38</td></tr></table>
 
-An examination of Table $\underline { { 4 . 2 } }$ reveals several general patterns in the values of standard entropies. First, the lowest values of standard entropy occur for solids, with the more ordered structures having the lowest values of standard entropy. Second, there is a large increase in standard entropy in going from a liquid to a gas of the same molecule. Third, as the molecule becomes larger (more complex) the standard entropy increases.
+An examination of [Table 4.2](#original-table-4-2) reveals several general patterns in the values of standard entropies. First, the lowest values of standard entropy occur for solids, with the more ordered structures having the lowest values of standard entropy. Second, there is a large increase in standard entropy in going from a liquid to a gas of the same molecule. Third, as the molecule becomes larger (more complex) the standard entropy increases.
 
 ## Calculation of Entropy Change for a Chemical Reaction
 
@@ -1829,7 +1837,7 @@ has an enthalpy change for the reaction of $\Delta \mathrm { H } _ { \mathrm { ~
 
 2. If the reaction is not spontaneous, calculate the temperature at which the reaction becomes spontaneous.
 
-3. Referring back to Figure 4.27, to which case does this reaction correspond?
+3. Referring back to [Figure 4.27](#fig-p1-ch04-57), to which case does this reaction correspond?
 
 Now that the new thermodynamic variable, $\mathbf { G } ,$ the Gibbs free energy is defined, and it is the key thermodynamic variable differentiating a spontaneous chemical reaction from a nonspontaneous one, why is $\Delta \mathbf { G }$ referred to as “free” energy?
 
@@ -2052,7 +2060,7 @@ and then calculate
 
 ## CASE STUDY 4.1 Entropy, Free Energy, and the Maximum Amount of Work That Can Be Extracted from a Fuel Cell
 
-A fuel cell is a device wherein the chemical energy contained in a fuel is converted to an electric current. The fuel cell shown in Figure CS4.1a, which we will study in some detail in Chapter $\underline { { \mathbf { 7 } } } _ { \bullet }$ reacts $\mathrm { H } _ { 2 }$ with $\mathrm { O } _ { 2 }$ to produce an electric current and the product $\mathrm { H } _ { 2 } \mathrm { O }$
+A fuel cell is a device wherein the chemical energy contained in a fuel is converted to an electric current. The fuel cell shown in [Figure CS4.1A](#fig-p1-ch04-70), which we will study in some detail in Chapter $\underline { { \mathbf { 7 } } } _ { \bullet }$ reacts $\mathrm { H } _ { 2 }$ with $\mathrm { O } _ { 2 }$ to produce an electric current and the product $\mathrm { H } _ { 2 } \mathrm { O }$
 
 ```{math}
 :label: eq-p1-ch04-137
@@ -2247,7 +2255,7 @@ where $\mathfrak { E } _ { j }$ is the energy of level j in joules per molecule.
 ```
 
 
-where $\mathrm { E } _ { A }$ is the “activation energy” or energy threshold shown in Figure CS4.2b. This provides a remarkably easy way to calculate the fraction of molecules with sufficient energy to pass over the energy barrier on a “reaction coordinate” diagram for a given temperature T, and activation energy $E _ { A }$
+where $\mathrm { E } _ { A }$ is the “activation energy” or energy threshold shown in [Figure CS4.2B](#eq-p1-ch04-155). This provides a remarkably easy way to calculate the fraction of molecules with sufficient energy to pass over the energy barrier on a “reaction coordinate” diagram for a given temperature T, and activation energy $E _ { A }$
 
 ```{math}
 :label: eq-p1-ch04-155
@@ -2265,7 +2273,7 @@ An important result of this Boltzmann distribution
 ```
 
 
-is that the distribution of molecular velocities in a molecular ensemble exhibits the relationship between the fraction of molecules at a given kinetic energy vs. kinetic energy displayed in Figure CS4.2c. As Figure $\mathrm { C S 4 . 2 c }$ and Eq. 2 above make clear, as the temperature, T, of the molecular ensemble increases, the fraction of molecules with kinetic energy greater than $E _ { A }$ increases exponentially with T.
+is that the distribution of molecular velocities in a molecular ensemble exhibits the relationship between the fraction of molecules at a given kinetic energy vs. kinetic energy displayed in [Figure CS4.2C](#original-fig-cs4-2c). As [Figure CS4.2C](#original-fig-cs4-2c) and Eq. 2 above make clear, as the temperature, T, of the molecular ensemble increases, the fraction of molecules with kinetic energy greater than $E _ { A }$ increases exponentially with T.
 
 :::{figure} ../images/fig-p1-ch04-73.jpg
 :name: fig-p1-ch04-73
@@ -2273,6 +2281,7 @@ is that the distribution of molecular velocities in a molecular ensemble exhibit
 :::
 
 kinetic energy of molecules in an ensemble
+(original-fig-cs4-2c)=
 FIGURE CS4.2C The “Boltzmann distribution” of molecular velocities is a graph of the fraction of molecules vs. the kinetic energy of molecular motion. The activation of energy, EA, is the threshold above which the molecules have kinetic energy in excess of EA.
 
 ## Problem 1
@@ -2307,7 +2316,7 @@ The solution to this problem at the national level, the regional level, the loca
 
 As we will see, while a device capable of balancing supply and demand on very short time scales must obviously be a source of energy when the power from wind or solar thermal diminishes, the combination of energy storage devices must also be able to extract energy when supply on the grid exceeds demand. Both problems, it turns out, are serious but highly tractable issues from a technical perspective.
 
-To provide an idea of the fluctuation in demand for electricity during two different months of the year, consider Figure CS4.3a. That figure displays the day-night fluctuations in January and June 2018 in units of kWh/p·day. Note that demand changes on the time scale of a few minutes, so this degree of fluctuation in demand must be balanced by comparable response to supply electric power on the same time scale. Displayed in Figure CS4.3a is a typical graph of demand as a function of time for the national power grid within one time zone with the top panel displaying the day-to-day variation in demand in the winter and the bottom panel showing the same for summer conditions. We do this for a single time zone because as we shift west, the basic power dependence as a function of clock time will shift in one hour segments and, as a result, superpose the rapid spikes that repeat each morning and evening as sunrise and sunset progress across the country.
+To provide an idea of the fluctuation in demand for electricity during two different months of the year, consider [Figure CS4.3A](#fig-p1-ch04-75). That figure displays the day-night fluctuations in January and June 2018 in units of kWh/p·day. Note that demand changes on the time scale of a few minutes, so this degree of fluctuation in demand must be balanced by comparable response to supply electric power on the same time scale. Displayed in [Figure CS4.3A](#fig-p1-ch04-75) is a typical graph of demand as a function of time for the national power grid within one time zone with the top panel displaying the day-to-day variation in demand in the winter and the bottom panel showing the same for summer conditions. We do this for a single time zone because as we shift west, the basic power dependence as a function of clock time will shift in one hour segments and, as a result, superpose the rapid spikes that repeat each morning and evening as sunrise and sunset progress across the country.
 
 :::{figure} ../images/fig-p1-ch04-74.jpg
 :name: fig-p1-ch04-74
@@ -2323,7 +2332,7 @@ FIGURE CS4.3A An example of the electric power demand over the course of a typic
 
 The key point here is that the design and operation of the power grid has already evolved to handle these routine but very large fluctuations in demand as a function of time of day.
 
-The issue we must address is: how much do renewable energy forms fluctuate? To answer this question we engage a recent study that analyzed in detail 5 years of wind velocity information from a large data assimilation system that joins detailed, systematic observations of wind speeds throughout the US (and globally) with a global model of wind velocities with 3 hour time resolution. These models are used for weather forecasting and are thus submitted to careful scrutiny for accuracy. In this study, a portfolio of wind farms were selected throughout the Midwest at the locations displayed in Figure CS4.3b.
+The issue we must address is: how much do renewable energy forms fluctuate? To answer this question we engage a recent study that analyzed in detail 5 years of wind velocity information from a large data assimilation system that joins detailed, systematic observations of wind speeds throughout the US (and globally) with a global model of wind velocities with 3 hour time resolution. These models are used for weather forecasting and are thus submitted to careful scrutiny for accuracy. In this study, a portfolio of wind farms were selected throughout the Midwest at the locations displayed in [Figure CS4.3B](#fig-p1-ch04-76).
 
 :::{figure} ../images/fig-p1-ch04-76.jpg
 :name: fig-p1-ch04-76
@@ -2332,7 +2341,7 @@ FIGURE CS4.3B The key quantity in appraising the yield of power from wind turbin
 :::
 
 
-By considering this combination of wind farms as a linked ensemble, the large fluctuations at a single point are averaged to provide a reasonable measure of fluctuations in power generation. Figure $\mathrm { C S 4 . 3 \mathrm { c } }$ displays the fluctuations in capacity factor that provides a quantitative characterization of the imbalance in supply that results from actual intermittency in wind power supply. Obviously the introduction of largescale wind power generation will be done in combination with power generation from a combination of concentrated solar thermal, photovoltaics, etc. This is important because solar power generation, whether concentrated solar thermal or photovoltaic, is anticorrelated with wind velocity. The reason is that when a high pressure system dominates the weather for a region, the skies are clear but the wind velocity drops. When a low pressure area dominates, the skies tend to be cloudy but the wind velocity is at a maximum. Thus the combination of wind generated power and concentrated solar thermal/photovoltaic generated power will buffer the delivered power to the grid and thus average over variations on the national level.
+By considering this combination of wind farms as a linked ensemble, the large fluctuations at a single point are averaged to provide a reasonable measure of fluctuations in power generation. [Figure CS4.3C](#fig-p1-ch04-78) displays the fluctuations in capacity factor that provides a quantitative characterization of the imbalance in supply that results from actual intermittency in wind power supply. Obviously the introduction of largescale wind power generation will be done in combination with power generation from a combination of concentrated solar thermal, photovoltaics, etc. This is important because solar power generation, whether concentrated solar thermal or photovoltaic, is anticorrelated with wind velocity. The reason is that when a high pressure system dominates the weather for a region, the skies are clear but the wind velocity drops. When a low pressure area dominates, the skies tend to be cloudy but the wind velocity is at a maximum. Thus the combination of wind generated power and concentrated solar thermal/photovoltaic generated power will buffer the delivered power to the grid and thus average over variations on the national level.
 
 :::{figure} ../images/fig-p1-ch04-77.jpg
 :name: fig-p1-ch04-77
@@ -2343,21 +2352,21 @@ By considering this combination of wind farms as a linked ensemble, the large fl
 :::{figure} ../images/fig-p1-ch04-78.jpg
 :name: fig-p1-ch04-78
 :alt: FIGURE CS4.3C An example of the time dependence of the capacity factor for location #5 in Figure CS4.3b displayed in red and for the ensemble of all 10 sites in Figure CS4.3b shown in black. While the ensemble tracks the single site capacit
-FIGURE CS4.3C An example of the time dependence of the capacity factor for location #5 in Figure CS4.3b displayed in red and for the ensemble of all 10 sites in Figure CS4.3b shown in black. While the ensemble tracks the single site capacity factors, the amplitude of the variation in capacity factor with time is significantly reduced.
+FIGURE CS4.3C An example of the time dependence of the capacity factor for location #5 in [Figure CS4.3B](#fig-p1-ch04-76) displayed in red and for the ensemble of all 10 sites in [Figure CS4.3B](#fig-p1-ch04-76) shown in black. While the ensemble tracks the single site capacity factors, the amplitude of the variation in capacity factor with time is significantly reduced.
 :::
 
 
-However, it is illustrative to consider here the worst case situation by considering delivered wind power alone to judge how much and for how long decreases in power supplied to the grid must be compensated for by stored energy from other sources. Inspection of Figure CS4.3c reveals that the most serious intermittency lasts for approximately 5 days and represents a decrease in power delivered to the grid of a factor of two from the mean of the wind generated electric power delivered to the grid. This provides us with the data needed to calculate the deficit in power that must be made up by alternative methods of energy supply under worst case conditions because solar power would make up a major fraction of the deficit for the reasons noted above. It is also clear from the data in Figure CS4.3c that the periods of a relative lull in wind generating capacity are fairly easy to predict once the frontal high pressure or low pressure system moves over the continental United States. Thus the power grid would be balanced by a combination of energy storage contributions, each of which has a different intrinsic time response to power fluctuations on the grid.
+However, it is illustrative to consider here the worst case situation by considering delivered wind power alone to judge how much and for how long decreases in power supplied to the grid must be compensated for by stored energy from other sources. Inspection of [Figure CS4.3C](#fig-p1-ch04-78) reveals that the most serious intermittency lasts for approximately 5 days and represents a decrease in power delivered to the grid of a factor of two from the mean of the wind generated electric power delivered to the grid. This provides us with the data needed to calculate the deficit in power that must be made up by alternative methods of energy supply under worst case conditions because solar power would make up a major fraction of the deficit for the reasons noted above. It is also clear from the data in [Figure CS4.3C](#fig-p1-ch04-78) that the periods of a relative lull in wind generating capacity are fairly easy to predict once the frontal high pressure or low pressure system moves over the continental United States. Thus the power grid would be balanced by a combination of energy storage contributions, each of which has a different intrinsic time response to power fluctuations on the grid.
 
 Our objective here is to explore the available methods for energy storage. This problem breaks down into two important domains: longterm variability and short-term fluctuations. For the US case, we can examine the data for the maximum rate of change of supply. This is an important number because it will give us a key metric on how fast we might need to draw power from a stored source to compensate for shortterm (minutes to hours) drops in delivered power. This will be a worst case because there will be other sources of renewables that can deliver power to the grid such as concentrated solar thermal, photovoltaics, hydroelectric, etc. that can “buffer” or compensate for variations in wind power depending upon either the rate of change, or for long lapses if such a circumstance should occur.
 
 ## Analyzing the Time Dependence of Power Fluctuations
 
-We can analyze the fluctuations of supply on the power grid by making the following assumptions applied to wind power with wind farms distributed across the Midwest sector of the US as shown in Figure CS4.3b. We will assume that in the US wind generates one-third of the total primary energy, which is 1000 GW or 1 TW. In this scenario an additional 1 TW would be supplied by concentrated solar thermal and photovoltaics and 1 TW by a combination of nuclear, hydroelectric, biofuels, fossil fuels with carbon capture and sequestration, geothermal, and tidal.
+We can analyze the fluctuations of supply on the power grid by making the following assumptions applied to wind power with wind farms distributed across the Midwest sector of the US as shown in [Figure CS4.3B](#fig-p1-ch04-76). We will assume that in the US wind generates one-third of the total primary energy, which is 1000 GW or 1 TW. In this scenario an additional 1 TW would be supplied by concentrated solar thermal and photovoltaics and 1 TW by a combination of nuclear, hydroelectric, biofuels, fossil fuels with carbon capture and sequestration, geothermal, and tidal.
 
 The first question to answer, then, is what is the maximum rate of change in power supply or power demand that must be contended with? In this analysis it is important to recognize that even under normal conditions on the power grid, very large rates of change of power demand are a fact of life. By focusing on a single time zone, we can clarify the origin of the variation in demand and, in addition, quantify the rate of change in that demand. This will provide a basis for analyzing requirements on the types of stored energy methods that can address fluctuation in supply and demand based upon the daily power fluctuations that the grid must currently contend with every day. We will use the eastern time zone of the US as an example, because it represents the largest population concentration in the US. The eastern time zone contains about 40% of the US population.
 
-To estimate the rate at which demand changes, consider the rate of increase in demand at the beginning of the day that is displayed in higher time resolution in Figure CS4.3d. As Figure CS4.3d shows, demand in the morning increases by approximately 70% in a period of approximately 4 hours. Therefore, the fractional change in power demand per unit time is 70%/4 hr = 18% per hour. These are important numbers when we analyze the situation on the national power grid.
+To estimate the rate at which demand changes, consider the rate of increase in demand at the beginning of the day that is displayed in higher time resolution in [Figure CS4.3D](#fig-p1-ch04-79). As [Figure CS4.3D](#fig-p1-ch04-79) shows, demand in the morning increases by approximately 70% in a period of approximately 4 hours. Therefore, the fractional change in power demand per unit time is 70%/4 hr = 18% per hour. These are important numbers when we analyze the situation on the national power grid.
 
 :::{figure} ../images/fig-p1-ch04-79.jpg
 :name: fig-p1-ch04-79
@@ -2368,7 +2377,7 @@ FIGURE CS4.3D A higher time resolution display of the variation in electricity d
 
 If we examine the change in delivered power from the wind generation of the Midwest, the problem we need to deal with is how we supply both short-term fluctuations and longer-term lulls in power delivered to the grid by wind-powered generation of electricity.
 
-Suppose, for example, we have the power generation profile shown in Figure CS4.3c where output, represented by the capacity factor, decreased by 50% for a period of five days. To make up for this deficit, we would have to supply 500 GW for a period of 5 days so we would have to supply, from other sources of energy, an amount of energy equal to:
+Suppose, for example, we have the power generation profile shown in [Figure CS4.3C](#fig-p1-ch04-78) where output, represented by the capacity factor, decreased by 50% for a period of five days. To make up for this deficit, we would have to supply 500 GW for a period of 5 days so we would have to supply, from other sources of energy, an amount of energy equal to:
 
 ```{math}
 :label: eq-p1-ch04-157
@@ -2396,7 +2405,7 @@ There are, in national systems designed to balance demand and supply on the grid
 
 9. Natural gas fired power plants with carbon capture
 
-Figure CS4.3e on the following page summarizes the major energy storage reservoirs for the continental US. The figure also delineates the scale of the available energy storage for each category.
+[Figure CS4.3E](#fig-p1-ch04-84) on the following page summarizes the major energy storage reservoirs for the continental US. The figure also delineates the scale of the available energy storage for each category.
 
 ## Principal Methods for Energy Storage to Eliminate Intermittency from Renewable Energy Sources
 
@@ -2441,7 +2450,7 @@ FIGURE CS4.3E
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Consideration of Figure 4.3e reveals that the dominant energy storage options with regards to capacity for energy storage include thermal energy
+Consideration of [Figure CS4.3E](#fig-p1-ch04-84) reveals that the dominant energy storage options with regards to capacity for energy storage include thermal energy
 
 storage (TES) and compressed air energy storage (CAES). The combination of just these two sources would supply the required 7200 GWh of energy over five days to make up for a worst case deficit in wind generated power. Also of importance are hydroelectric, electric vehicle storage, pumped water storage, and biofuel and/or waste incineration.
 

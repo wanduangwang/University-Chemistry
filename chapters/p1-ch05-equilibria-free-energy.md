@@ -74,7 +74,7 @@ There are, however, critically important options based directly on equilibrium c
 
 One of the most remarkable chemical transformations in nature is the ability to interconvert hydrocarbons among both the categories of fuels (e.g. coal, natural gas, gasoline, etc.) and the phases of matter (gas, liquid, solid). These transformations are accomplished by an astute application of the principles of chemical equilibrium, which we address in this chapter, and chemical catalysis, which we will address in subsequent chapters.
 
-We can diagram these remarkable transformations, shown in Figure $5 . 2$ , by listing an array of inputs, a chemical transformation sequence, and an array of products that are required for supplying the breadth of fuels needed to sustain society.
+We can diagram these remarkable transformations, shown in [Figure 5.2](#fig-p1-ch05-4) , by listing an array of inputs, a chemical transformation sequence, and an array of products that are required for supplying the breadth of fuels needed to sustain society.
 
 :::{figure} ../images/fig-p1-ch05-4.jpg
 :name: fig-p1-ch05-4
@@ -95,7 +95,7 @@ For example, in the production of gasoline, comprised largely of hydrocarbons wi
 
 This reaction is executed over a combination of metal catalysts, usually iron (Fe) and cobalt (Co) and was first developed by Franz Fischer and Hans Tropsch in the 1920s in Germany. Germany is a country with large coal reserves but little petroleum. While Fischer and Tropsch were unaware of the implication at the time of their development, both Germany and Japan used the process extensively in World War II to produce liquid fuels for warfare: tanks, aircraft, submarines, etc. By early 1944 production of gasoline in Germany reached 5 million gallons per day from 25 plants. The remarkable aspect of the Fischer-Tropsch process is that it accepts a wide range of hydrocarbon inputs, converting such compounds as coal, natural gas, garbage, etc. to high quality liquid fuels. We explore here how this is accomplished.
 
-The first step, shown in the upper left of Figure 5.2, in the process is the production of synthesis gas, or syngas, which is a mixture of $\mathrm { H } _ { 2 }$ and CO formed from the pyrolysis of coal to form “coke,” which is impure carbon denoted by C:
+The first step, shown in the upper left of [Figure 5.2](#fig-p1-ch05-4), in the process is the production of synthesis gas, or syngas, which is a mixture of $\mathrm { H } _ { 2 }$ and CO formed from the pyrolysis of coal to form “coke,” which is impure carbon denoted by C:
 
 ```{math}
 :label: eq-p1-ch05-4
@@ -138,7 +138,7 @@ Another important example of equilibrium chemistry is the production of methanol
 :alt: Figure from the University Chemistry source textbook
 :::
 
-An important example of how equilibrium chemistry is used to produce liquid fuels from a combination of hydrocarbon feedstocks, as depicted in Figure 5.2, is the production of methanol $\mathrm { ( C H _ { 3 } O H ) }$ from natural gas $\mathrm { ( C H _ { 4 } ) }$ . This is an important example because major new supplies of natural gas are being discovered, but it is liquid fuels for transportation that are in high demand. The liquid fuel methanol is stored, transported, and used as a liquid fuel at atmospheric pressure. It has a higher octane rating than gasoline, but because it has an energy density (kWh/ℓ) approximately half that of gasoline, it requires either a more fuel-efficient automobile to achieve the same range from the same volume tank, or it would require a larger tank. We will use methanol production from natural gas (methane) as a specific model for liquid fuel production from fossil fuels.
+An important example of how equilibrium chemistry is used to produce liquid fuels from a combination of hydrocarbon feedstocks, as depicted in [Figure 5.2](#fig-p1-ch05-4), is the production of methanol $\mathrm { ( C H _ { 3 } O H ) }$ from natural gas $\mathrm { ( C H _ { 4 } ) }$ . This is an important example because major new supplies of natural gas are being discovered, but it is liquid fuels for transportation that are in high demand. The liquid fuel methanol is stored, transported, and used as a liquid fuel at atmospheric pressure. It has a higher octane rating than gasoline, but because it has an energy density (kWh/ℓ) approximately half that of gasoline, it requires either a more fuel-efficient automobile to achieve the same range from the same volume tank, or it would require a larger tank. We will use methanol production from natural gas (methane) as a specific model for liquid fuel production from fossil fuels.
 
 To this end, we consider first syngas production from natural gas. This process, as was discussed above for the Fischer-Tropsch technique, uses “steam reforming” of methane, wherein methane is reacted in a highly endothermic reaction with steam over a nickel-based catalyst at temperature between 800 and $\mathrm { 1 0 0 0 ^ { \circ } C }$ at pressures of 20-30 atmospheres, to form CO and $\mathrm { H } _ { 2 } .$ . Part of the CO formed reacts with steam in the water gas shift reactions to yield more $\mathrm { H } _ { 2 }$ and also $\mathrm { C O } _ { 2 }$ . The products of those coupled reactions is a mixture of $\mathrm { H } _ { { \mathrm { 2 } } } , \mathrm { C O } { \mathrm { ; } }$ , and $\mathrm { C O } _ { 2 }$
 
@@ -158,7 +158,7 @@ Because these reactions are in chemical equilibrium, controlled by Gibbs free en
 
 Since the overall methane steam reforming process is highly endothermic, heat must be supplied to the system, generally by burning a part of the natural gas used as a feedstock. A key aspect of methanol production from methane is that the process produces excess $\mathrm { H } _ { 2 }$ over that required by the stoichiometric production of methanol. This has important consequences, because if the production of methanol is combined with a flow of $\mathrm { C O } _ { 2 } ,$ for example from carbon extraction from the atmosphere, $\mathrm { C O } _ { 2 }$ release to the atmosphere can be significantly reduced.
 
-A typical reactor for converting syngas from methane to methanol is shown in Figure 5.3.
+A typical reactor for converting syngas from methane to methanol is shown in [Figure 5.3](#fig-p1-ch05-6).
 
 :::{figure} ../images/fig-p1-ch05-6.jpg
 :name: fig-p1-ch05-6
@@ -305,7 +305,7 @@ We can initiate this reaction in a variety of ways by starting from vastly diffe
 
 ## Experiment 1:
 
-For example, we can initiate the reaction with 1 mole each of CO and of $\mathrm { H } _ { 2 }$ with zero moles of $\mathrm { C H _ { 3 } O H }$ in a 10 liter vessel at a given temperature and then wait until the system reaches equilibrium. We know when equilibrium is reached because the macroscopic observables (concentrations of CO, $\mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H ; }$ temperature; pressure) become independent of time, as displayed in Figure 5.4a.
+For example, we can initiate the reaction with 1 mole each of CO and of $\mathrm { H } _ { 2 }$ with zero moles of $\mathrm { C H _ { 3 } O H }$ in a 10 liter vessel at a given temperature and then wait until the system reaches equilibrium. We know when equilibrium is reached because the macroscopic observables (concentrations of CO, $\mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H ; }$ temperature; pressure) become independent of time, as displayed in [Figure 5.4A](#fig-p1-ch05-21).
 
 :::{figure} ../images/fig-p1-ch05-21.jpg
 :name: fig-p1-ch05-21
@@ -334,7 +334,7 @@ As the reaction progresses towards equilibrium, the concentrations of both CO an
 
 ## Experiment 2:
 
-Suppose we use an entirely different set of initial conditions. Suppose we use 1 mole of $\mathrm { C H _ { 3 } O H }$ in the 10 liter vessel with no CO or $\mathrm { H } _ { 2 }$ and allow the reaction to proceed. The evaluation of $\mathrm { [ C H _ { 3 } O H ] , [ H _ { 2 } ] }$ , and [CO] with time are displayed in Figure 5.4b.
+Suppose we use an entirely different set of initial conditions. Suppose we use 1 mole of $\mathrm { C H _ { 3 } O H }$ in the 10 liter vessel with no CO or $\mathrm { H } _ { 2 }$ and allow the reaction to proceed. The evaluation of $\mathrm { [ C H _ { 3 } O H ] , [ H _ { 2 } ] }$ , and [CO] with time are displayed in [Figure 5.4B](#fig-p1-ch05-22).
 
 :::{figure} ../images/fig-p1-ch05-22.jpg
 :name: fig-p1-ch05-22
@@ -355,12 +355,12 @@ As the reaction proceeds, the concentrations of CO and of $\mathrm { H } _ { 2 }
 
 ## Experiment 3:
 
-Suppose we initiate the reaction with 1 mole each of $\mathrm { C O } , \mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H }$ in a 10 liter vessel. This experiment is depicted in Figure $. 5 { \cdot } 4 \underline { { \mathbf { c } } } _ { \mathrm { : } }$ , showing that CO and $\mathrm { H } _ { 2 }$ will increase, and $\mathrm { C H _ { 3 } O H }$ will decrease as time progresses.
+Suppose we initiate the reaction with 1 mole each of $\mathrm { C O } , \mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H }$ in a 10 liter vessel. This experiment is depicted in [Figure 5.4C](#fig-p1-ch05-23) , showing that CO and $\mathrm { H } _ { 2 }$ will increase, and $\mathrm { C H _ { 3 } O H }$ will decrease as time progresses.
 
 :::{figure} ../images/fig-p1-ch05-23.jpg
 :name: fig-p1-ch05-23
 :alt: FIGURE 5.4C Graph of the concentrations of mathematical notation , and mathematical notation as a function of time from the initial conditions wherein mathematical notation , [CO], and mathematical notation are initially equal to 0.100 M. A
-FIGURE 5.4C Graph of the concentrations of $\mathsf { C O } ( \mathsf { g } ) , \mathsf { H } _ { 2 } ( \mathsf { g } )$ , and ${ \mathsf { C H } } _ { 3 } { \mathsf { O H } } ( { \mathsf { g } } )$ as a function of time from the initial conditions wherein $[ \mathsf { C H } _ { 3 } \mathsf { O H } ]$ , [CO], and $[ \mathsf { H } _ { 2 } ]$ are initially equal to 0.100 M. As in both Figures 5.4a and 5.4b, the concentrations change with time until equilibrium is achieved at which point the concentrations no longer change with time.
+FIGURE 5.4C Graph of the concentrations of $\mathsf { C O } ( \mathsf { g } ) , \mathsf { H } _ { 2 } ( \mathsf { g } )$ , and ${ \mathsf { C H } } _ { 3 } { \mathsf { O H } } ( { \mathsf { g } } )$ as a function of time from the initial conditions wherein $[ \mathsf { C H } _ { 3 } \mathsf { O H } ]$ , [CO], and $[ \mathsf { H } _ { 2 } ]$ are initially equal to 0.100 M. As in both [Figures 5.4A](#fig-p1-ch05-21) and [5.4B](#fig-p1-ch05-22), the concentrations change with time until equilibrium is achieved at which point the concentrations no longer change with time.
 :::
 
 
@@ -392,7 +392,7 @@ but methyl alcohol is constantly decomposing to form CO and $\mathrm { H } _ { 2
 
 and the rates at which these two processes occur exactly balance. We will study the rates of those reactions in Chapter 12, when we study kinetics.
 
-But now we have three experiments and from these results some striking conclusions emerge. Let's first summarize our three experiments graphically, as shown in Figure 5.4d, and then tabulate the results in terms of the observed concentrations at equilibrium.
+But now we have three experiments and from these results some striking conclusions emerge. Let's first summarize our three experiments graphically, as shown in [Figure 5.4D](#fig-p1-ch05-24), and then tabulate the results in terms of the observed concentrations at equilibrium.
 
 :::{figure} ../images/fig-p1-ch05-24.jpg
 :name: fig-p1-ch05-24
@@ -401,8 +401,9 @@ FIGURE 5.4D Examination of the three cases, each with a distinctly different ini
 :::
 
 
-It is important that we prove experimentally that we have established the correct functional form of the equilibrium constant, $\mathrm { K _ { e q } } .$ . To accomplish this, we analyze the results to find whether (1) there is a single value for the reaction quotient at equilibrium, and (2) what functional form of the reactant and product concentrations gives a consistent value for the equilibrium constant. Several attempts to deduce this functional form are given in Table 5.1.
+It is important that we prove experimentally that we have established the correct functional form of the equilibrium constant, $\mathrm { K _ { e q } } .$ . To accomplish this, we analyze the results to find whether (1) there is a single value for the reaction quotient at equilibrium, and (2) what functional form of the reactant and product concentrations gives a consistent value for the equilibrium constant. Several attempts to deduce this functional form are given in [Table 5.1](#original-table-5-1).
 
+(original-table-5-1)=
 TABLE 5.1 Three attempts to find a constant ratio of equilibrium concentrations in the reaction $C 0 + 2 H _ { 2 }$ $ \mathrm { C H } _ { 3 } \mathrm { O H } .$
 
 <table><tr><td>Exp</td><td>Trial 1:</td><td>Trial 2:</td><td>Trial 3:</td></tr><tr><td></td><td> $\frac{[CH_3OH]}{[CO][H_2]}$ </td><td> $\frac{[CH_3OH]}{[CO](2 \times [H_2])}$ </td><td> $\frac{[CH_3OH]}{[CO][H_2]^2}$ </td></tr><tr><td>1</td><td> $\frac{0.00892}{0.0911 \times 0.0822} = 1.19$ </td><td> $\frac{0.00892}{0.0911 \times (2 \times 0.0822)} = 0.596$ </td><td> $\frac{0.00892}{0.0911 \times (0.0822)^2} = 14.5$ </td></tr><tr><td>2</td><td> $\frac{0.0247}{0.0753 \times 0.151} = 2.17$ </td><td> $\frac{0.0247}{0.0753 \times (2 \times 0.151)} = 1.09$ </td><td> $\frac{0.0247}{0.0753 \times (0.151)^2} = 14.4$ </td></tr><tr><td>3</td><td> $\frac{0.0620}{0.138 \times 0.176} = 2.55$ </td><td> $\frac{0.0620}{0.138 \times (2 \times 0.176)} = 1.28$ </td><td> $\frac{0.0620}{0.138 \times (0.176)^2} = 14.5$ </td></tr></table>
@@ -421,7 +422,7 @@ a A + b B \rightleftarrows c C + d D
 ```
 
 
-We note first that for Experiment 1 at equilibrium displayed in Figure 5.4d:
+We note first that for Experiment 1 at equilibrium displayed in [Figure 5.4D](#fig-p1-ch05-24):
 
 ```{math}
 :label: eq-p1-ch05-31
@@ -429,7 +430,7 @@ We note first that for Experiment 1 at equilibrium displayed in Figure 5.4d:
 ```
 
 
-For Experiment 2 at equilibrium displayed in Figure 5.4b:
+For Experiment 2 at equilibrium displayed in [Figure 5.4B](#fig-p1-ch05-22):
 
 ```{math}
 :label: eq-p1-ch05-32
@@ -437,7 +438,7 @@ For Experiment 2 at equilibrium displayed in Figure 5.4b:
 ```
 
 
-And for Experiment 3 displayed in Figure $. 5 . 4 \underline { { \mathrm { d } } }$ :
+And for Experiment 3 displayed in [Figure 5.4D](#fig-p1-ch05-24) :
 
 ```{math}
 :label: eq-p1-ch05-33
@@ -445,9 +446,9 @@ And for Experiment 3 displayed in Figure $. 5 . 4 \underline { { \mathrm { d } }
 ```
 
 
-What Table 5.1 displays is the calculated values for three different assumptions concerning the functional form for a trial equilibrium constant. Trial 1 assumes that all concentrations appear in the trial equilibrium expression raised to the first power. This assumption yields three different values for each of the experiments—wherein the experiments were defined by the initial concentrations of $\mathrm { C O } , \mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H }$
+What [Table 5.1](#original-table-5-1) displays is the calculated values for three different assumptions concerning the functional form for a trial equilibrium constant. Trial 1 assumes that all concentrations appear in the trial equilibrium expression raised to the first power. This assumption yields three different values for each of the experiments—wherein the experiments were defined by the initial concentrations of $\mathrm { C O } , \mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H }$
 
-Trial 2, calculated in Table 5.1, assumes all concentrations at equilibrium are raised to the first power, but that the concentration of each species is multiplied by the stoichiometric coefficient that appears in the balanced chemical reaction. Thus the concentration of CO is multiplied by unity, the concentration of $\mathrm { H } _ { 2 }$ is multiplied by 2, and the concentration of $\mathrm { C H _ { 3 } O H }$ is multiplied by unity. Values for the three experiments with the assumptions of Trial 2 are tabulated in Table 5.1. For each of the three different initial concentrations of CO, $\mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H }$ , three different values for the “equilibrium constant” emerge.
+Trial 2, calculated in [Table 5.1](#original-table-5-1), assumes all concentrations at equilibrium are raised to the first power, but that the concentration of each species is multiplied by the stoichiometric coefficient that appears in the balanced chemical reaction. Thus the concentration of CO is multiplied by unity, the concentration of $\mathrm { H } _ { 2 }$ is multiplied by 2, and the concentration of $\mathrm { C H _ { 3 } O H }$ is multiplied by unity. Values for the three experiments with the assumptions of Trial 2 are tabulated in [Table 5.1](#original-table-5-1). For each of the three different initial concentrations of CO, $\mathrm { H } _ { 2 } ,$ and $\mathrm { C H _ { 3 } O H }$ , three different values for the “equilibrium constant” emerge.
 
 Trial 3 assumes that the concentrations of the chemical species in the equilibrium expression appear raised to the power $o f$ their individual stoichiometric coefficients. Thus, the CO concentration is raised to the power of one, $\mathrm { H } _ { 2 }$ concentration to the power of two, and $\mathrm { C H _ { 3 } O H }$ concentration to the power of one. These are tabulated in the third column of the table. But remarkably, the calculated value for the equilibrium constant is the same, within experimental error, for all three experiments—experiments for which the initial concentrations were very different, but for which, at equilibrium, the equilibrium constant calculated by raising each of the concentrations to the power of its stoichiometric coefficient, yielded a single value for the equilibrium constant.
 
@@ -930,7 +931,7 @@ Practice Example B: At $\mathbf { 1 0 6 5 ^ { \circ } C } ,$ for the reaction 2 
 ```
 
 
-Suppose we wish to consider the important reaction shown in Figure 5.5:
+Suppose we wish to consider the important reaction shown in [Figure 5.5](#fig-p1-ch05-27):
 
 ```{math}
 :label: eq-p1-ch05-88
@@ -988,7 +989,7 @@ K _ {\mathrm{p}} = K _ {\mathrm{c}} (R T) ^ {\Delta n} = K _ {\mathrm{c}} (R T)
 
 ## Check Yourself 4—Calculating the Equilibrium Constant for Reactions Involving Pure Liquids and/or Pure Solids
 
-An important factor when we consider how to construct the correct expression for the equilibrium constant for reactions that involve a combination of gas phase, liquid phase, and solid phase reactants and products is to consider what mechanism determines the partial pressure of a given gas phase species in the presence of a pure liquid or a pure solid. Specifically, the partial pressure of a gas over a liquid or solid (see Figure 5.5) does not depend upon the amount of the solid over which the gas phase species exists, as long as there is some of the solid present. The reason is that molecules in the gas phase $( \mathrm { e . g . ~ C O _ { 2 } } )$ over the solid (e.g.
+An important factor when we consider how to construct the correct expression for the equilibrium constant for reactions that involve a combination of gas phase, liquid phase, and solid phase reactants and products is to consider what mechanism determines the partial pressure of a given gas phase species in the presence of a pure liquid or a pure solid. Specifically, the partial pressure of a gas over a liquid or solid (see [Figure 5.5)](#fig-p1-ch05-27) does not depend upon the amount of the solid over which the gas phase species exists, as long as there is some of the solid present. The reason is that molecules in the gas phase $( \mathrm { e . g . ~ C O _ { 2 } } )$ over the solid (e.g.
 
 $\mathrm { C a C O _ { 3 } } )$ are in a dynamic equilibrium such that gas phase molecules are constantly entering and leaving the solid phase species in the container. Thus, as long as there is some of the solid present, even a very small amount, that dynamic equilibrium will exist. If we double the amount of the solid $( \mathrm { e . g . \ C a C O _ { 3 } ) }$ present, there will be no effect on the partial pressure of the gas phase species $\left( \mathrm { C O } _ { 2 } \right)$ . Thus if the equilibrium between the gas phase species and the solid phase species does not depend on the amount of the solid phase present, the equilibrium constant must be independent of the amount of solid present—as long as some of the solid is present. The same principle holds for pure liquids.
 
@@ -1030,7 +1031,7 @@ A very important reaction involving both multiphase equilibria as well as human 
 
 Thus far we have viewed equilibria in chemical systems as a progression that carried us from a set of initial conditions to a final, time independent, state of equilibrium. But in many important examples in real systems, the state of equilibrium will be intruded upon by changes in the conditions impressed on the system in its state of equilibrium. In fact, more frequently than not, we find ourselves in need of analyzing how systems are stressed after they reach equilibrium rather than analyzing how they progress from initial conditions to the state of equilibrium.
 
-Consider, for example, one of the most famous and continuously employed equilibria, the Haber process (named for its inventor pictured in Figure 5.6) for “fixing” nitrogen by breaking the NN bond to make nitrogen available to biological process.
+Consider, for example, one of the most famous and continuously employed equilibria, the Haber process (named for its inventor pictured in [Figure 5.6)](#fig-p1-ch05-28) for “fixing” nitrogen by breaking the NN bond to make nitrogen available to biological process.
 
 :::{figure} ../images/fig-p1-ch05-28.jpg
 :name: fig-p1-ch05-28
@@ -1107,7 +1108,7 @@ The equilibrium constant, $K _ { \mathrm { p } } ,$ is a function only of temper
 
 There is only one equilibrium constant! Out of the myriad possibilities for the concentrations of $\mathrm { N } _ { 2 } , \mathrm { H } _ { 2 } ,$ , and $\mathrm { N H } _ { 3 }$ after the equilibrium state is stressed by decreasing the volume and thereby increasing the pressure, the system under stress is forced from one equilibrium state to another with the same equilibrium constant, but with the position of the equilibrium shifted to the right, forming more $\mathrm { N H } _ { 3 } ( \mathbf { g } )$ at the expense of $\mathrm { N } _ { 2 } ( \mathrm { g } )$ and $\mathrm { H } _ { 2 } ( \mathbf { g } )$
 
-But notice that we can view what happened when we precipitously stressed our $\mathrm { N _ { 2 } , \ H _ { 2 } , \ N H _ { 3 } }$ mixture (by doubling the partial pressures) in two complementary ways. One way, an approach we just explored, was to calculate Q after the partial pressures were doubled and then compare that Q to $K _ { \mathrm { p } } .$ If $Q ,$ just after the stress is applied, is such that $Q < K _ { \mathrm { p } } ,$ we know that the system must shift to the right to regain equilibrium (because at a given temperature there is only one $K _ { \mathrm { p } } ! )$ . A second way is to recognize that when a system at equilibrium is subjected to a stress, the system responds by attaining a new equilibrium that partially offsets the impact of the change. Just how did this latter approach play out for the $\mathrm { N _ { 2 } , H _ { 2 } , N H _ { 3 } }$ mixture? Well, as we stressed the system by decreasing the volume and increasing the partial pressures, the reaction “recognized” that four molecules (one $\mathrm { N } _ { 2 }$ and three $\mathrm { H } _ { 2 } )$ react to form just two molecules of $\mathrm { N H } _ { 3 }$ as shown in Figure 5.7. Thus, if more of the reactants on the left-hand side react to form the molecule on the right-hand side, the pressure within the vessel will be reduced, partially compensating for the imposed stress of decreasing the volume and increasing the pressure.
+But notice that we can view what happened when we precipitously stressed our $\mathrm { N _ { 2 } , \ H _ { 2 } , \ N H _ { 3 } }$ mixture (by doubling the partial pressures) in two complementary ways. One way, an approach we just explored, was to calculate Q after the partial pressures were doubled and then compare that Q to $K _ { \mathrm { p } } .$ If $Q ,$ just after the stress is applied, is such that $Q < K _ { \mathrm { p } } ,$ we know that the system must shift to the right to regain equilibrium (because at a given temperature there is only one $K _ { \mathrm { p } } ! )$ . A second way is to recognize that when a system at equilibrium is subjected to a stress, the system responds by attaining a new equilibrium that partially offsets the impact of the change. Just how did this latter approach play out for the $\mathrm { N _ { 2 } , H _ { 2 } , N H _ { 3 } }$ mixture? Well, as we stressed the system by decreasing the volume and increasing the partial pressures, the reaction “recognized” that four molecules (one $\mathrm { N } _ { 2 }$ and three $\mathrm { H } _ { 2 } )$ react to form just two molecules of $\mathrm { N H } _ { 3 }$ as shown in [Figure 5.7](#fig-p1-ch05-29). Thus, if more of the reactants on the left-hand side react to form the molecule on the right-hand side, the pressure within the vessel will be reduced, partially compensating for the imposed stress of decreasing the volume and increasing the pressure.
 
 :::{figure} ../images/fig-p1-ch05-29.jpg
 :name: fig-p1-ch05-29
@@ -1126,7 +1127,7 @@ There are, of course, three possibilities:
 
 3. There are more molecules on the left-hand side than the right-hand side.
 
-The three cases are summarized diagrammatically in Figure 5.8.
+The three cases are summarized diagrammatically in [Figure 5.8](#fig-p1-ch05-32).
 
 EQUILIBRIUM
 
@@ -1155,7 +1156,7 @@ FIGURE 5.8 If the pressure is increased in a vessel within which a chemical reac
 :::
 
 
-We can also explore what happens if we stress a system in equilibrium by changing the concentration of just one of the species involved in the reaction. Suppose we stress the reaction $\mathrm { H } _ { 2 } + \mathrm { I } _ { 2 } $ 2HI at equilibrium by injecting $\mathrm { H } _ { 2 } ,$ as shown in Figure 5.9, into the reactor vessel. For example, suppose we use a high pressure injector to precipitously double the partial pressure of $\mathrm { H } _ { 2 }$ in the equilibrium mixture. We know that at equilibrium, before injecting the $\mathrm { H } _ { 2 } ,$
+We can also explore what happens if we stress a system in equilibrium by changing the concentration of just one of the species involved in the reaction. Suppose we stress the reaction $\mathrm { H } _ { 2 } + \mathrm { I } _ { 2 } $ 2HI at equilibrium by injecting $\mathrm { H } _ { 2 } ,$ as shown in [Figure 5.9](#fig-p1-ch05-33), into the reactor vessel. For example, suppose we use a high pressure injector to precipitously double the partial pressure of $\mathrm { H } _ { 2 }$ in the equilibrium mixture. We know that at equilibrium, before injecting the $\mathrm { H } _ { 2 } ,$
 
 ```{math}
 :label: eq-p1-ch05-103
@@ -1188,7 +1189,7 @@ FIGURE 5.9 Diagram of the response of the reaction $\mathsf { I } _ { 2 } + \mat
 :::
 
 
-We can also stress an equilibrium system by changing the temperature. But, as we emphasized in our initial discussion of both the reaction quotient, $Q ,$ and the equilibrium constant, $K _ { \mathrm { e q } } ( T )$ , the equilibrium constant is a single number that is experimentally determined for a given temperature. If the temperature is changed, the value of the equilibrium constant also changes. In fact, as a general rule, equilibrium constants are very sensitive to temperature because there is typically a large enthalpy difference, $\Delta H ,$ as shown in Figure 5.10, between reactants and products. We will see how this affects the equilibrium constant, $K _ { \mathrm { e q } } ,$ quantitatively as we examine the effect of stressing the equilibrium condition by changing temperature.
+We can also stress an equilibrium system by changing the temperature. But, as we emphasized in our initial discussion of both the reaction quotient, $Q ,$ and the equilibrium constant, $K _ { \mathrm { e q } } ( T )$ , the equilibrium constant is a single number that is experimentally determined for a given temperature. If the temperature is changed, the value of the equilibrium constant also changes. In fact, as a general rule, equilibrium constants are very sensitive to temperature because there is typically a large enthalpy difference, $\Delta H ,$ as shown in [Figure 5.10](#fig-p1-ch05-34), between reactants and products. We will see how this affects the equilibrium constant, $K _ { \mathrm { e q } } ,$ quantitatively as we examine the effect of stressing the equilibrium condition by changing temperature.
 
 :::{figure} ../images/fig-p1-ch05-34.jpg
 :name: fig-p1-ch05-34
@@ -1203,7 +1204,7 @@ Consider the dimerization reaction forming $\mathrm { N } _ { 2 } \mathrm { O } 
 ```
 
 
-This reaction is 57.2 kJ/mole exothermic, so we can sketch the reaction coordinate for the equilibrium reaction as shown in Figure 5.11.
+This reaction is 57.2 kJ/mole exothermic, so we can sketch the reaction coordinate for the equilibrium reaction as shown in [Figure 5.11](#fig-p1-ch05-35).
 
 :::{figure} ../images/fig-p1-ch05-35.jpg
 :name: fig-p1-ch05-35
@@ -1273,7 +1274,7 @@ we note that, because $K _ { \mathrm { e q } }$ lies between the extremes of 0 a
 
 ## Check Yourself 5—Establishing the Direction of Shift Between Reactants and Products from an Initial State to a Final Equilibrium State
 
-One of the most famous processes that uses multiple-step equilibria is the Fischer-Tropsch (pictured in Figure 5.1) process that converts coal (or any hydrocarbon source) to liquid fuel. A key step in that process is the production of synthesis gas, or syngas, that is produced by passing water vapor, $\mathrm { H } _ { 2 } \mathrm { O } ( \mathrm { g } )$ , at high temperature over elemental carbon:
+One of the most famous processes that uses multiple-step equilibria is the Fischer-Tropsch (pictured in [Figure 5.1)](#fig-p1-ch05-37) process that converts coal (or any hydrocarbon source) to liquid fuel. A key step in that process is the production of synthesis gas, or syngas, that is produced by passing water vapor, $\mathrm { H } _ { 2 } \mathrm { O } ( \mathrm { g } )$ , at high temperature over elemental carbon:
 
 ```{math}
 :label: eq-p1-ch05-111
@@ -1750,7 +1751,7 @@ So for the equilibrium reaction
 ```
 
 
-Now we can join our graphical representation of $K _ { \mathrm { e q } }$ and Q in a very important diagram displayed in Figure 5.12 with our graph of Gibbs free energy, wherein the left-hand side is the Gibbs free energy of formation of $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and the right-hand side is the Gibbs free energy of formation of $2 \mathrm { N O } _ { 2 } ,$ shown in Figure 5.13.
+Now we can join our graphical representation of $K _ { \mathrm { e q } }$ and Q in a very important diagram displayed in [Figure 5.12](#fig-p1-ch05-41) with our graph of Gibbs free energy, wherein the left-hand side is the Gibbs free energy of formation of $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and the right-hand side is the Gibbs free energy of formation of $2 \mathrm { N O } _ { 2 } ,$ shown in [Figure 5.13](#fig-p1-ch05-42).
 
 :::{figure} ../images/fig-p1-ch05-41.jpg
 :name: fig-p1-ch05-41
@@ -1766,7 +1767,7 @@ FIGURE 5.13 Construction of the Gibbs free energy diagram begins by calculating 
 :::
 
 
-But what is the form of this Gibbs free energy diagram for intermediate concentrations of $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and $\mathrm { N O } _ { 2 }$ between the case of pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ (left-hand end of diagram) and the case of pure $\mathrm { N O } _ { 2 }$ (right-hand end of diagram)? Well, we know (from our knowledge that $Q < K _ { \mathrm { e q } } )$ that the spontaneous reaction will proceed to the right from the condition that the mixture is pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ to some intermediate mixture containing both $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and $\mathrm { N O } _ { 2 } ,$ until $Q = K _ { \mathrm { e q } } .$ . We also know, from the fact that the reaction is spontaneous, that $\Delta G = G _ { \mathrm { f i n a l } } -$ $G _ { \mathrm { i n i t i a l } } < 0$ , and thus Gibbs free energy will decrease in going from pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ to a mixture of $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and $\mathrm { N O } _ { 2 } ,$ as shown in Figure 5.14.
+But what is the form of this Gibbs free energy diagram for intermediate concentrations of $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and $\mathrm { N O } _ { 2 }$ between the case of pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ (left-hand end of diagram) and the case of pure $\mathrm { N O } _ { 2 }$ (right-hand end of diagram)? Well, we know (from our knowledge that $Q < K _ { \mathrm { e q } } )$ that the spontaneous reaction will proceed to the right from the condition that the mixture is pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ to some intermediate mixture containing both $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and $\mathrm { N O } _ { 2 } ,$ until $Q = K _ { \mathrm { e q } } .$ . We also know, from the fact that the reaction is spontaneous, that $\Delta G = G _ { \mathrm { f i n a l } } -$ $G _ { \mathrm { i n i t i a l } } < 0$ , and thus Gibbs free energy will decrease in going from pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ to a mixture of $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ and $\mathrm { N O } _ { 2 } ,$ as shown in [Figure 5.14](#fig-p1-ch05-43).
 
 :::{figure} ../images/fig-p1-ch05-43.jpg
 :name: fig-p1-ch05-43
@@ -1775,7 +1776,7 @@ FIGURE 5.14 The next step in constructing the Gibbs free energy diagram is to re
 :::
 
 
-By similar logic, if we begin with pure $\mathrm { N O } _ { 2 } ,$ the reaction will proceed spontaneously to the left as it seeks the equilibrium condition. We can now construct what is known as a Gibbs free energy diagram by linking the evolution in Gibbs free energy from pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ with the evolution in Gibbs free energy from pure $\mathrm { N O } _ { 2 }$ as shown in Figure 5.15.
+By similar logic, if we begin with pure $\mathrm { N O } _ { 2 } ,$ the reaction will proceed spontaneously to the left as it seeks the equilibrium condition. We can now construct what is known as a Gibbs free energy diagram by linking the evolution in Gibbs free energy from pure $\mathrm { N } _ { 2 } \mathrm { O } _ { 4 }$ with the evolution in Gibbs free energy from pure $\mathrm { N O } _ { 2 }$ as shown in [Figure 5.15](#original-fig-5-15).
 
 • If we begin with pure $\mathrm { N O } _ { \boldsymbol { z ^ { \prime } } }$ system will shift left
 
@@ -1794,9 +1795,10 @@ By similar logic, if we begin with pure $\mathrm { N O } _ { 2 } ,$ the reaction
 
 • If we are at equilibrium, $\bar { \Delta G } = 0$ and the system will remain in (dynamic)equilibrium
 
+(original-fig-5-15)=
 FIGURE 5.15 When the reaction reaches equilibrium $\Delta G = 0$ and $Q = K _ { \mathsf { e q } } .$ In the case of the $N _ { 2 } O _ { 4 } { - } N O _ { 2 }$ mixture this occurs when about 16.6% of the ${ \mathsf N } _ { 2 } { \mathsf O } _ { 4 }$ has decomposed to ${ \mathsf { N O } } _ { 2 }$
 
-But now we are in a position to link our equilibrium reaction to the diagram relating the reaction quotient, Q, to the equilibrium constant, $K _ { \mathrm { e q } } ( T )$ and finally to the Gibbs free energy diagram, as shown in Figure 5.16.
+But now we are in a position to link our equilibrium reaction to the diagram relating the reaction quotient, Q, to the equilibrium constant, $K _ { \mathrm { e q } } ( T )$ and finally to the Gibbs free energy diagram, as shown in [Figure 5.16](#fig-p1-ch05-45).
 
 :::{figure} ../images/fig-p1-ch05-45.jpg
 :name: fig-p1-ch05-45
@@ -1805,7 +1807,7 @@ FIGURE 5.16 We can now assemble our Gibbs free energy diagram with our reaction 
 :::
 
 
-Figure 5.16 is a very important diagram because it graphically links $\Delta G ^ { \circ }$ the free energy change for a reaction with substances in their standard states (298 K, 1 atm); $\Delta G ,$ , the free energy change under any set of conditions; $Q ,$ the reaction quotient under nonstandard conditions; and $K _ { \mathrm { e q } } ,$ the equilibrium constant at the temperature of the reaction. Notice in particular that if $Q < K ,$ then $\Delta G < 0$ and the reaction will spontaneously shift to the right until $Q = K$ at which point $\Delta G = 0 \mathrm { ; }$ ; if $Q > K ,$ then again $\Delta G < 0$ and the reaction will spontaneously shift to the left until $Q \ = \ K$ at which point $\Delta G = 0$ and equilibrium is achieved.
+[Figure 5.16](#fig-p1-ch05-45) is a very important diagram because it graphically links $\Delta G ^ { \circ }$ the free energy change for a reaction with substances in their standard states (298 K, 1 atm); $\Delta G ,$ , the free energy change under any set of conditions; $Q ,$ the reaction quotient under nonstandard conditions; and $K _ { \mathrm { e q } } ,$ the equilibrium constant at the temperature of the reaction. Notice in particular that if $Q < K ,$ then $\Delta G < 0$ and the reaction will spontaneously shift to the right until $Q = K$ at which point $\Delta G = 0 \mathrm { ; }$ ; if $Q > K ,$ then again $\Delta G < 0$ and the reaction will spontaneously shift to the left until $Q \ = \ K$ at which point $\Delta G = 0$ and equilibrium is achieved.
 
 ## Gibbs Free Energy Under Nonstandard Conditions
 
@@ -1973,7 +1975,7 @@ K _ {\mathrm{eq}} = \mathrm{e} - \Delta G ^ {\mathrm{o}} / R T = \exp (- \Delta 
 
 To summarize: There is clearly a connection between the free energy and the equilibrium constant. What is it?
 
-1. Position of equilibrium in a reaction is determined by the sign and magnitude of $\Delta G ^ { \mathbf { o } }$ . Figure 5.17 captures this graphically.
+1. Position of equilibrium in a reaction is determined by the sign and magnitude of $\Delta G ^ { \mathbf { o } }$ . [Figure 5.17](#fig-p1-ch05-46) captures this graphically.
 
 :::{figure} ../images/fig-p1-ch05-46.jpg
 :name: fig-p1-ch05-46
@@ -2063,7 +2065,7 @@ $2 5 ^ { \circ } \mathrm { C }$ , the value of $\Delta G ^ { \mathbf { o } }$ fo
 
 ## Analysis
 
-At ${ 2 5 } ^ { \circ } \mathrm { C } _ { \mathrm { i } }$ , we know that $\Delta G ^ { \mathrm { o } } = + 5 . 4$ kJ and the relationship between $\Delta G ^ { \circ }$ and the equilibrium position is displayed in Figure 5.18.
+At ${ 2 5 } ^ { \circ } \mathrm { C } _ { \mathrm { i } }$ , we know that $\Delta G ^ { \mathrm { o } } = + 5 . 4$ kJ and the relationship between $\Delta G ^ { \circ }$ and the equilibrium position is displayed in [Figure 5.18](#original-fig-5-18).
 
 :::{figure} ../images/fig-p1-ch05-48.jpg
 :name: fig-p1-ch05-48
@@ -2072,6 +2074,7 @@ At ${ 2 5 } ^ { \circ } \mathrm { C } _ { \mathrm { i } }$ , we know that $\Delt
 
 Equilibrium occurs here at a total pressure of 1 atm with about 16.6% of the ${ \Nu } _ { 2 } { 0 } _ { 4 }$ decomposed.
 
+(original-fig-5-18)=
 FIGURE 5.18 Gibbs free energy diagram for $\mathsf { N } _ { 2 } \mathsf { O } _ { 4 }  2 \mathsf { N } \mathsf { O } _ { 2 }$ for standard conditions: 1 atm pressure and 298 K.
 
 To calculate $\Delta G ^ { \mathbf { o } }$ at $\mathrm { 1 0 0 ^ { \circ } C }$ , we use the (very good) approximation
@@ -2096,7 +2099,7 @@ Calculate:
 
 ## Conclusion
 
-At $2 5 ^ { \circ } \mathrm { C } , \Delta G ^ { \circ } = + 5 . 4$ kJ. At $1 0 0 ^ { \circ } \mathrm { C } , \Delta G ^ { \circ } = - 8 . 1$ kJ. This creates a Gibbs free energy diagram that is shown in Figure 5.19. Notice now at $\bf { 1 0 0 ^ { \circ } C }$ the equilibrium shifts to the right, toward the endothermic direction, just as we would predict from the Principle of Le Chatelier.
+At $2 5 ^ { \circ } \mathrm { C } , \Delta G ^ { \circ } = + 5 . 4$ kJ. At $1 0 0 ^ { \circ } \mathrm { C } , \Delta G ^ { \circ } = - 8 . 1$ kJ. This creates a Gibbs free energy diagram that is shown in [Figure 5.19](#fig-p1-ch05-49). Notice now at $\bf { 1 0 0 ^ { \circ } C }$ the equilibrium shifts to the right, toward the endothermic direction, just as we would predict from the Principle of Le Chatelier.
 
 :::{figure} ../images/fig-p1-ch05-49.jpg
 :name: fig-p1-ch05-49
@@ -2105,7 +2108,7 @@ FIGURE 5.19 Gibbs free energy diagram for $\mathsf { N } _ { 2 } \mathsf { O } _
 :::
 
 
-An inspection of Figure 5.19 reveals how the temperature dependence of $\Delta G _ { _ { T } } ^ { \circ } = \Delta \dot { H } _ { _ { 2 9 8 } } ^ { \circ } - 7 \Delta S _ { _ { 2 9 8 } } ^ { \circ }$ shifts the equilibrium position of the reaction, shifting it toward the endothermic side, as Figure 5.11 emphasizes.
+An inspection of [Figure 5.19](#fig-p1-ch05-49) reveals how the temperature dependence of $\Delta G _ { _ { T } } ^ { \circ } = \Delta \dot { H } _ { _ { 2 9 8 } } ^ { \circ } - 7 \Delta S _ { _ { 2 9 8 } } ^ { \circ }$ shifts the equilibrium position of the reaction, shifting it toward the endothermic side, as [Figure 5.11](#fig-p1-ch05-35) emphasizes.
 
 ## Check Yourself 9—The Effect of Temperature Change on Equilibrium: A Very Interesting Application of Le Chatelier's Principle
 
@@ -2334,7 +2337,7 @@ Then calculate
 
 Overview of Manipulations of the Gibbs Free Energy Equation
 
-As shown in Figure 5.20, we can display the graphical relationship of $K _ { \mathrm { e q } }$ and temperature from the equation
+As shown in [Figure 5.20](#fig-p1-ch05-51), we can display the graphical relationship of $K _ { \mathrm { e q } }$ and temperature from the equation
 
 ```{math}
 :label: eq-p1-ch05-203
@@ -2401,7 +2404,7 @@ Gasoline and/or diesel engines
 
 Batteries to power cell phones, computers
 
-The key objective is to optimize the amount of work, minimizing the amount of energy lost to heat. The maximum conversion of chemical energy to work occurs when a process is carried out under thermodynamically reversible conditions. An important example: We can discharge a battery via two different pathways: sudden or piecemeal. These two cases are displayed in Figure 5.21.
+The key objective is to optimize the amount of work, minimizing the amount of energy lost to heat. The maximum conversion of chemical energy to work occurs when a process is carried out under thermodynamically reversible conditions. An important example: We can discharge a battery via two different pathways: sudden or piecemeal. These two cases are displayed in [Figure 5.21](#fig-p1-ch05-52).
 
 :::{figure} ../images/fig-p1-ch05-52.jpg
 :name: fig-p1-ch05-52
@@ -2487,7 +2490,7 @@ Thus at equilibrium for a specified temperature
 :alt: Figure from the University Chemistry source textbook
 :::
 
-<table><tr><td>The functional form of  $K_c$  that led to the formulation of the Law of Mass Action depended on the correct determination of the functional form of  $K_c$  in terms of the concentrations of reactants and products. The determination of the correct functional form of  $K_c$  is established byexperimentallysolving for candidate equilibrium constants under different experimental conditions. The functional form that yields the same equilibrium constant independent of initial condition is the correct formulation.</td><td></td></tr><tr><td>4. Manipulation of the Equilibrium ConstantGiven that the equilibrium constant is driven by the stoichiometric coefficients and the corresponding concentrations, a given equilibrium constant depends directly on the specific way the chemical reaction is written. The equilibrium constant thus refers specifically to how a chemical reaction is written. If the chemical reaction is reversed, the equilibrium constant is inverted; if the stoichiometric coefficients are divided by 2, the resulting equilibrium constant is the square root of the original one. A listing is given at the right.</td><td>1. For each chemical equation defining an equilibrium reaction, there is a unique functional form of the equilibrium constant.2. When wereversethe chemical equation expressing the equilibrium relations between the left-hand and right-hand species, weinvertthe functional form of the equilibrium constant.3. If we multiply the stoichiometric coefficients in a balanced chemical reaction by a common factor (yielding a chemical reaction that is still balanced), then the equilibrium constant,  $K_c$ , is raised to the power by which the stoichiometric coefficients were multiplied.4. When reactions are summedtogether to form a net reaction, the equilibrium constants aremultipliedtogether to form the resultant equilibrium constant.</td></tr><tr><td>5. Converting Between the Equilibrium ConstantExpressed in Concentration Units vs. Pressure UnitsIt is clear that reactants and products in the gas phase reach equilibrium, so while we have developed the concept of the equilibrium constant in terms ofconcentrations, there must be a corresponding formulation in terms of thepressureof the participating species. The key equation linking concentration to pressure is the Perfect Gas Law:<img src="../images/fig-p1-ch05-58.jpg" alt="Source textbook figure"/></td><td>We can express this interconversion between  $K_c$  and  $K_p$  in a simple and more general form by considering our general expression for a chemical process in equilibrium $aA + bB \rightleftharpoons cC + dD$ wherein $K_{c} = \frac{[C]^{c}[D]^{d}}{[A]^{a}[B]^{b}} = \frac{(P_{C}/RT)^{c}(P_{D}/RT)^{d}}{(P_{A}/RT)^{a}(P_{B}/RT)^{b}}$  $= \frac{P_{C}^{c} P_{D}^{d}}{P_{A}^{a} P_{B}^{b}} \left( \frac{1}{RT} \right)^{c+d-(a+b)}$  $= K_{p} \left( \frac{1}{RT} \right)^{c+d-(a+b)}$  $= K_{p} \left( \frac{1}{RT} \right)^{\Delta n}$ Alternatively, we can, of course, write  $K_{p} = K_{c}(RT)^{\Delta n}$ where  $\Delta n = \text{change in the number of moles}$ = (number of moles of product) - (number of moles of reactants)</td></tr><tr><td>6. Stressed Equilibria and the Principle of Le ChatelierThis principle was first articulated by the French chemist Henry Le Chatelier (1850-1936) in 1888. The Le Chatelier Principle may be stated in a number of alternative forms:When a dynamic equilibrium in a system is upset by a disturbance, the system responds in a direction that tends to counteract that disturbance and, if possible, restore equilibrium.When an equilibrium system is subjected to a change in temperature, pressure, or concentration of a reacting species, the system responds by attaining a new equilibrium that partially offsets the impact of the change.The power of Le Chatelier's Principle is that it provides a means for determining the qualitative response, the direction of response, of equilibrium systems to an external stress. Le Chatelier also links into the relationship between the reaction quotient, Q, and the movement of an equilibrium system back toward equilibrium.</td><td>If we write our expression for the reaction quotient,  $Q_{c}$ , in terms of the concentrations immediately following the applied stress as $Q_{c} = \frac{[C]^{c}_{stress} [D]^{d}_{stress}}{[A]^{a}_{stress} [B]^{b}_{stress}}$ and we note that  $Q_{c}$  can assume values from zero to  $\infty$  for our reaction aA + bB  $\rightleftharpoons$  cC + dD<img src="../images/fig-p1-ch05-59.jpg" alt="Source textbook figure"/>We note that, because  $K_{eq}$  lies between the extremes of o and  $\infty$ , if  $Q_{c} < K_{eq}$ ,  $Q_{c}$  will seek to increase until it satisfies the condition  $Q_{c} = K_{eq}$  and it will do soby virtue of the fact that the reaction shifts, along with  $Q_c$ , from left to right on the diagram above. On the other hand, if  $Q_c > K_{eq}$  as a result of the applied stress, then Q must decrease to re-achieve equilibrium and both Q and the reaction must shift from right to left in the diagram above.</td></tr><tr><td>7. Equilibrium Constraints, Spontaneous Processes, and Gibbs Free EnergyWe recognized from the Second Law of Thermodynamics that the Gibbs free energy $\Delta G = \Delta H - T\Delta S$ determines whether a process is spontaneous; thus, how are  $\Delta G$  and  $K_{eq}$  related? $\Delta G < 0$  Spontaneous $\Delta G > 0$  Nonspontaneous $\Delta G = 0$  No Motive for ChangeTo establish the relationship between Gibbs free energy and the equilibrium constant, let's return to the dimerization reaction $N_2O_4(g) \rightleftharpoons 2NO_2(g)$  $\Delta G_R^\circ = \left( \Delta G_f^\circ \right)_{2NO_2} - \left( \Delta G_f^\circ \right)_{N_2O_4} = (2)(51.8) - 98.3$  $= +5.3 \text{ kJ}$ So for the equilibrium reaction $N_2O_4 \rightleftharpoons 2NO_2 \quad \Delta G_R^\circ = +5.3 \text{ kJ}$ </td><td>But now we are in a position to link our equilibrium reaction to the diagram relating the reaction quotient, Q, to the equilibrium constant,  $K_{eq}(T)$ , and finally to the Gibbs free energy diagram, as shown in Figure 5.16.<img src="../images/fig-p1-ch05-60.jpg" alt="Source textbook figure"/></td></tr><tr><td>8. Gibbs Free Energy Under Nonstandard ConditionsThe equation linking  $\Delta G$ ,  $\Delta G^\circ$ , and the reaction quotient Q:  $\Delta G = \Delta G^\circ + RT \ln Q$ is one of the most useful and versatile equations in chemical thermodynamics because it can be applied across a vast range of concentrations that determine ΔG.</td><td>We can use this equation to determine the spontaneous (or nonspontaneous) nature of a reaction under any conditions of composition, if thetemperature and pressure conditions are constant. Moreover, we are now in a position to quantitatively link the equilibrium  $K_{\text{eq}}(T) = \frac{[C]^c [D]^d}{[A]^a [B]^b}$ , to ΔG°. We know that ΔG = 0 at equilibrium and we know that Q =  $K_{\text{eq}}(T)$  at equilibrium, so therefore at equilibrium ΔG = ΔG° + RT ln Q becomes o = ΔG° + RT ln  $K_{\text{eq}}(T)$  or ΔG° = -RT ln  $K_{\text{eq}}$  or  $K_{\text{eq}} = \exp(-\Delta G^\circ/RT)$ </td></tr><tr><td>9. ΔG° at Temperatures Other than 298 KIt is very important to calculate ΔG at temperatures other than 298 K because most reactions occur at temperatures other than 298 K and both ΔG and  $K_{\text{eq}}$  are sensitive to temperature.At temperatures other than 298 K, we write ΔGT to indicate that we are calculating and using ΔG at non-standard conditions. ThusΔGT = ΔHT - TΔSTΔH does not, to a rather high degree of accuracy, depend on T! This is a very important result. It means that we can use our tabulated values for ΔH° at standard conditions for ΔHT° at any temperature!As we can see from Chapter 2, ΔS° does not change very much as a function of temperature. The conclusion is important and very useful: We can calculate the change in Gibbs free energy at any temperature:ΔGT° = ΔH°298 - TΔS°298using the listed values for ΔH° and ΔS° from our standard tables at 298 K! We need only insert the correct temperature. To demonstrate, we return to our equilibrium reaction.</td><td></td></tr><tr><td>10. Activities: The True Thermodynamic Equilibrium Constant</td><td></td></tr></table>
+<table><tr><td>The functional form of  $K_c$  that led to the formulation of the Law of Mass Action depended on the correct determination of the functional form of  $K_c$  in terms of the concentrations of reactants and products. The determination of the correct functional form of  $K_c$  is established byexperimentallysolving for candidate equilibrium constants under different experimental conditions. The functional form that yields the same equilibrium constant independent of initial condition is the correct formulation.</td><td></td></tr><tr><td>4. Manipulation of the Equilibrium ConstantGiven that the equilibrium constant is driven by the stoichiometric coefficients and the corresponding concentrations, a given equilibrium constant depends directly on the specific way the chemical reaction is written. The equilibrium constant thus refers specifically to how a chemical reaction is written. If the chemical reaction is reversed, the equilibrium constant is inverted; if the stoichiometric coefficients are divided by 2, the resulting equilibrium constant is the square root of the original one. A listing is given at the right.</td><td>1. For each chemical equation defining an equilibrium reaction, there is a unique functional form of the equilibrium constant.2. When wereversethe chemical equation expressing the equilibrium relations between the left-hand and right-hand species, weinvertthe functional form of the equilibrium constant.3. If we multiply the stoichiometric coefficients in a balanced chemical reaction by a common factor (yielding a chemical reaction that is still balanced), then the equilibrium constant,  $K_c$ , is raised to the power by which the stoichiometric coefficients were multiplied.4. When reactions are summedtogether to form a net reaction, the equilibrium constants aremultipliedtogether to form the resultant equilibrium constant.</td></tr><tr><td>5. Converting Between the Equilibrium ConstantExpressed in Concentration Units vs. Pressure UnitsIt is clear that reactants and products in the gas phase reach equilibrium, so while we have developed the concept of the equilibrium constant in terms ofconcentrations, there must be a corresponding formulation in terms of thepressureof the participating species. The key equation linking concentration to pressure is the Perfect Gas Law:<img src="../images/fig-p1-ch05-58.jpg" alt="Source textbook figure"/></td><td>We can express this interconversion between  $K_c$  and  $K_p$  in a simple and more general form by considering our general expression for a chemical process in equilibrium $aA + bB \rightleftharpoons cC + dD$ wherein $K_{c} = \frac{[C]^{c}[D]^{d}}{[A]^{a}[B]^{b}} = \frac{(P_{C}/RT)^{c}(P_{D}/RT)^{d}}{(P_{A}/RT)^{a}(P_{B}/RT)^{b}}$  $= \frac{P_{C}^{c} P_{D}^{d}}{P_{A}^{a} P_{B}^{b}} \left( \frac{1}{RT} \right)^{c+d-(a+b)}$  $= K_{p} \left( \frac{1}{RT} \right)^{c+d-(a+b)}$  $= K_{p} \left( \frac{1}{RT} \right)^{\Delta n}$ Alternatively, we can, of course, write  $K_{p} = K_{c}(RT)^{\Delta n}$ where  $\Delta n = \text{change in the number of moles}$ = (number of moles of product) - (number of moles of reactants)</td></tr><tr><td>6. Stressed Equilibria and the Principle of Le ChatelierThis principle was first articulated by the French chemist Henry Le Chatelier (1850-1936) in 1888. The Le Chatelier Principle may be stated in a number of alternative forms:When a dynamic equilibrium in a system is upset by a disturbance, the system responds in a direction that tends to counteract that disturbance and, if possible, restore equilibrium.When an equilibrium system is subjected to a change in temperature, pressure, or concentration of a reacting species, the system responds by attaining a new equilibrium that partially offsets the impact of the change.The power of Le Chatelier's Principle is that it provides a means for determining the qualitative response, the direction of response, of equilibrium systems to an external stress. Le Chatelier also links into the relationship between the reaction quotient, Q, and the movement of an equilibrium system back toward equilibrium.</td><td>If we write our expression for the reaction quotient,  $Q_{c}$ , in terms of the concentrations immediately following the applied stress as $Q_{c} = \frac{[C]^{c}_{stress} [D]^{d}_{stress}}{[A]^{a}_{stress} [B]^{b}_{stress}}$ and we note that  $Q_{c}$  can assume values from zero to  $\infty$  for our reaction aA + bB  $\rightleftharpoons$  cC + dD<img src="../images/fig-p1-ch05-59.jpg" alt="Source textbook figure"/>We note that, because  $K_{eq}$  lies between the extremes of o and  $\infty$ , if  $Q_{c} < K_{eq}$ ,  $Q_{c}$  will seek to increase until it satisfies the condition  $Q_{c} = K_{eq}$  and it will do soby virtue of the fact that the reaction shifts, along with  $Q_c$ , from left to right on the diagram above. On the other hand, if  $Q_c > K_{eq}$  as a result of the applied stress, then Q must decrease to re-achieve equilibrium and both Q and the reaction must shift from right to left in the diagram above.</td></tr><tr><td>7. Equilibrium Constraints, Spontaneous Processes, and Gibbs Free EnergyWe recognized from the Second Law of Thermodynamics that the Gibbs free energy $\Delta G = \Delta H - T\Delta S$ determines whether a process is spontaneous; thus, how are  $\Delta G$  and  $K_{eq}$  related? $\Delta G < 0$  Spontaneous $\Delta G > 0$  Nonspontaneous $\Delta G = 0$  No Motive for ChangeTo establish the relationship between Gibbs free energy and the equilibrium constant, let's return to the dimerization reaction $N_2O_4(g) \rightleftharpoons 2NO_2(g)$  $\Delta G_R^\circ = \left( \Delta G_f^\circ \right)_{2NO_2} - \left( \Delta G_f^\circ \right)_{N_2O_4} = (2)(51.8) - 98.3$  $= +5.3 \text{ kJ}$ So for the equilibrium reaction $N_2O_4 \rightleftharpoons 2NO_2 \quad \Delta G_R^\circ = +5.3 \text{ kJ}$ </td><td>But now we are in a position to link our equilibrium reaction to the diagram relating the reaction quotient, Q, to the equilibrium constant,  $K_{eq}(T)$ , and finally to the Gibbs free energy diagram, as shown in <a href="#fig-p1-ch05-45">Figure 5.16</a>.<img src="../images/fig-p1-ch05-60.jpg" alt="Source textbook figure"/></td></tr><tr><td>8. Gibbs Free Energy Under Nonstandard ConditionsThe equation linking  $\Delta G$ ,  $\Delta G^\circ$ , and the reaction quotient Q:  $\Delta G = \Delta G^\circ + RT \ln Q$ is one of the most useful and versatile equations in chemical thermodynamics because it can be applied across a vast range of concentrations that determine ΔG.</td><td>We can use this equation to determine the spontaneous (or nonspontaneous) nature of a reaction under any conditions of composition, if thetemperature and pressure conditions are constant. Moreover, we are now in a position to quantitatively link the equilibrium  $K_{\text{eq}}(T) = \frac{[C]^c [D]^d}{[A]^a [B]^b}$ , to ΔG°. We know that ΔG = 0 at equilibrium and we know that Q =  $K_{\text{eq}}(T)$  at equilibrium, so therefore at equilibrium ΔG = ΔG° + RT ln Q becomes o = ΔG° + RT ln  $K_{\text{eq}}(T)$  or ΔG° = -RT ln  $K_{\text{eq}}$  or  $K_{\text{eq}} = \exp(-\Delta G^\circ/RT)$ </td></tr><tr><td>9. ΔG° at Temperatures Other than 298 KIt is very important to calculate ΔG at temperatures other than 298 K because most reactions occur at temperatures other than 298 K and both ΔG and  $K_{\text{eq}}$  are sensitive to temperature.At temperatures other than 298 K, we write ΔGT to indicate that we are calculating and using ΔG at non-standard conditions. ThusΔGT = ΔHT - TΔSTΔH does not, to a rather high degree of accuracy, depend on T! This is a very important result. It means that we can use our tabulated values for ΔH° at standard conditions for ΔHT° at any temperature!As we can see from Chapter 2, ΔS° does not change very much as a function of temperature. The conclusion is important and very useful: We can calculate the change in Gibbs free energy at any temperature:ΔGT° = ΔH°298 - TΔS°298using the listed values for ΔH° and ΔS° from our standard tables at 298 K! We need only insert the correct temperature. To demonstrate, we return to our equilibrium reaction.</td><td></td></tr><tr><td>10. Activities: The True Thermodynamic Equilibrium Constant</td><td></td></tr></table>
 
 :::{figure} ../images/fig-p1-ch05-61.jpg
 :name: fig-p1-ch05-61
@@ -2532,14 +2535,19 @@ Key Point: When an equilibrium expression is written in terms of activities, $K_
 This is a very important point! In fact, because activities must be used whenever $K_{eq}$ is calculated for use in the expression $\Delta G^{\circ} = -RT \ln K_{eq}$, it is important to practice using the rules given above for the calculation of activities.
 
 Overview of Manipulations of the Gibbs Free Energy Equation
-As shown in Figure 5.20, we can display the graphical relationship of $K_{eq}$ and temperature from the equation
+As shown in [Figure 5.20](#original-fig-5-20), we can display the graphical relationship of $K_{eq}$ and temperature from the equation
 $\Delta G^{\circ} = \Delta H^{\circ} - T\Delta S^{\circ} = -RT \ln K_{eq}$ $K_{eq} = \exp(-\Delta G^{\circ}/RT)$ at standard conditions.
 $K_{eq} = \exp(-\Delta G_T/RT)$ at any temperature,
 but be sure to recalculate $\Delta G_T = \Delta H^{\circ} - T\Delta S^{\circ}$.
 Calculate $K_{eq}$ at two different
 </div>
 
-<table><tr><td rowspan="4">Using ΔG° = -RT ln Keq and exponentiatingKeq = exp(-ΔG°/RT)</td><td>temperatures:Divide original equation by -RT.ΔH° - TΔS° = -RT ln Keqln Keq = (-ΔH°/RT) + (ΔS°/R)ln K1 = (-ΔH°/RT1) + (ΔS°/R)ln K2 = (-ΔH°/RT2) + (ΔS°/R)</td></tr><tr><td><img src="../images/fig-p1-ch05-63.jpg" alt="Source textbook figure"/></td></tr><tr><td>FIGURE 5.20 A plot of the expression ln Keq = -ΔH°/RT + ΔS°/R where the vertical axis (ordinate) is ln K and the horizontal axis (abscissa) is 1/T. This graph then has an intercept of ΔS°/R and a slope of -ΔH°/R.</td></tr><tr><td>Subtract:ln(K1 / K2) = (-ΔH°/R)(1/T1 - 1/T2)</td></tr></table>
+:::{figure}
+:label: original-fig-5-20
+:enumerated: false
+:alt: FIGURE 5.20 from the source textbook
+<table><tr><td rowspan="4">Using ΔG° = -RT ln Keq and exponentiatingKeq = exp(-ΔG°/RT)</td><td>temperatures:Divide original equation by -RT.ΔH° - TΔS° = -RT ln Keqln Keq = (-ΔH°/RT) + (ΔS°/R)ln K1 = (-ΔH°/RT1) + (ΔS°/R)ln K2 = (-ΔH°/RT2) + (ΔS°/R)</td></tr><tr><td><img src="../images/fig-p1-ch05-63.jpg" alt="Source textbook figure"/></td></tr><tr><td><a href="#original-fig-5-20">FIGURE 5.20</a> A plot of the expression ln Keq = -ΔH°/RT + ΔS°/R where the vertical axis (ordinate) is ln K and the horizontal axis (abscissa) is 1/T. This graph then has an intercept of ΔS°/R and a slope of -ΔH°/R.</td></tr><tr><td>Subtract:ln(K1 / K2) = (-ΔH°/R)(1/T1 - 1/T2)</td></tr></table>
+:::
 
 ## BUILDING A TECHNOLOGY BACKBONE
 
@@ -2555,7 +2563,7 @@ Before addressing the technology that underpins projected growth of biofuels ove
 
 ## 1.1 Current Consumption of Biomass Resources
 
-A biofuel is characterized as a fuel whose chemical energy is derived from biological carbon fixation via photosynthesis as depicted graphically in Figure CS5.1a. Biofuels are distinct from fossil fuels in that fossil fuels contain carbon that has been isolated from the active carbon cycle for millennia. Biofuels thus constitute an active partner in the carbon-oxygen cycles of the terrestrial and oceanic biosphere.
+A biofuel is characterized as a fuel whose chemical energy is derived from biological carbon fixation via photosynthesis as depicted graphically in [Figure CS5.1A](#fig-p1-ch05-64). Biofuels are distinct from fossil fuels in that fossil fuels contain carbon that has been isolated from the active carbon cycle for millennia. Biofuels thus constitute an active partner in the carbon-oxygen cycles of the terrestrial and oceanic biosphere.
 
 :::{figure} ../images/fig-p1-ch05-64.jpg
 :name: fig-p1-ch05-64
@@ -2572,7 +2580,7 @@ A key characteristic of first generation biofuels, particularly the use of corn 
 
 Second generation biofuels, such as cellulosic ethanol, algae fuel, biohydrogen, and biomethanol, are produced from cellulosic feedstocks that cannot be used for food because humans cannot digest the cellulosic structure. While the molecular structure of starch and cellulose appear to be virtually identical, the subtle difference is of critical biological importance.
 
-Starch and cellulose differ in the geometry or spatial orientation of the linkage between glucose units that comprise the chain or polymer structure of starch and cellulose. Figure CS5.1b displays the molecular structure of glucose in an aqueous solution. That figure presents both the molecular diagram and the three-dimensional stick model of the glucose structure.
+Starch and cellulose differ in the geometry or spatial orientation of the linkage between glucose units that comprise the chain or polymer structure of starch and cellulose. [Figure CS5.1B](#original-fig-cs5-1b) displays the molecular structure of glucose in an aqueous solution. That figure presents both the molecular diagram and the three-dimensional stick model of the glucose structure.
 
 :::{figure} ../images/fig-p1-ch05-65.jpg
 :name: fig-p1-ch05-65
@@ -2581,11 +2589,12 @@ Starch and cellulose differ in the geometry or spatial orientation of the linkag
 
 β-D-Glucose
 
+(original-fig-cs5-1b)=
 FIGURE CS5.1B Glucose is a ring hydrocarbon that occurs either as β-glucose shown here with the OH groups in a trans configuration or α-glucose with the OH groups in a cis configuration.
 
-There are two forms of glucose: α-glucose has the OH group diagonally across the ring of the molecule from the $_ \mathrm { H O - C H _ { 2 } - g r o u p }$ located on carbon 5, and β-glucose (shown in Figure CS5.1b) that has the hydroxyl groups on the same side of the molecular axis as the $_ \mathrm { H O - C H _ { 2 } - g r o u p }$ located on carbon 5.
+There are two forms of glucose: α-glucose has the OH group diagonally across the ring of the molecule from the $_ \mathrm { H O - C H _ { 2 } - g r o u p }$ located on carbon 5, and β-glucose (shown in [Figure CS5.1B)](#original-fig-cs5-1b) that has the hydroxyl groups on the same side of the molecular axis as the $_ \mathrm { H O - C H _ { 2 } - g r o u p }$ located on carbon 5.
 
-Starch is formed from a chain of α-glucose molecules that react as shown in Figure CS5.1c, eliminating water and creating a polymer with the bridging oxygen below the plane of the glucose ring.
+Starch is formed from a chain of α-glucose molecules that react as shown in [Figure CS5.1C](#fig-p1-ch05-66), eliminating water and creating a polymer with the bridging oxygen below the plane of the glucose ring.
 
 :::{figure} ../images/fig-p1-ch05-66.jpg
 :name: fig-p1-ch05-66
@@ -2594,7 +2603,7 @@ FIGURE CS5.1C Starch is distinguished by the fact that the bridging oxygen lies 
 :::
 
 
-The same reaction involving β-glucose results in the formation of cellulose, where cellulose is characterized by the bridging oxygen alternating above and below the plane of the glucose ring as shown in Figure CS5.1d.
+The same reaction involving β-glucose results in the formation of cellulose, where cellulose is characterized by the bridging oxygen alternating above and below the plane of the glucose ring as shown in [Figure CS5.1D](#fig-p1-ch05-67).
 
 :::{figure} ../images/fig-p1-ch05-67.jpg
 :name: fig-p1-ch05-67
@@ -2609,7 +2618,7 @@ Termites and ruminants (e.g., cows) can digest cellulosic structures only becaus
 
 When ethanol is produced from corn at industrial scale, the starch polymer is degraded to glucose with just amylase that is inexpensive and readily available. Then the glucose is fed to yeast that metabolizes and thereby oxidizes the glucose to ethanol—a.k.a. fermentation.
 
-The breakdown of cellulose, on the other hand, involves two obstacles. The first is that cellulose in plants is protected by a sheath of hemicellulose that is a polymer of $\mathrm { C } _ { 5 }$ sugars and lignin (see Chapter 2). That sheath must first be breached—a process that requires submersion in dilute sulfuric acid at elevated temperatures and pressures. This acid treatment breaks down the hemicellulose polymer to its $\mathrm { C } _ { 5 }$ sugar monomers such as xylose shown in Figure CS5.1e.
+The breakdown of cellulose, on the other hand, involves two obstacles. The first is that cellulose in plants is protected by a sheath of hemicellulose that is a polymer of $\mathrm { C } _ { 5 }$ sugars and lignin (see Chapter 2). That sheath must first be breached—a process that requires submersion in dilute sulfuric acid at elevated temperatures and pressures. This acid treatment breaks down the hemicellulose polymer to its $\mathrm { C } _ { 5 }$ sugar monomers such as xylose shown in [Figure CS5.1E](#fig-p1-ch05-68).
 
 :::{figure} ../images/fig-p1-ch05-68.jpg
 :name: fig-p1-ch05-68
@@ -2618,7 +2627,7 @@ FIGURE CS5.1E Xylose is a ${ \mathsf C } _ { 5 }$ sugar monomer that results fro
 :::
 
 
-We can graphically trace the sequence of processes for the biocatalysis of starch on the one hand and cellulosic material on the other in the formation of ethanol. That is displayed in Figure CS5.1f.
+We can graphically trace the sequence of processes for the biocatalysis of starch on the one hand and cellulosic material on the other in the formation of ethanol. That is displayed in [Figure CS5.1F](#fig-p1-ch05-69).
 
 :::{figure} ../images/fig-p1-ch05-69.jpg
 :name: fig-p1-ch05-69
@@ -2657,7 +2666,7 @@ It is becoming increasingly apparent that the demand placed on corn production b
 
 ## 2.3.2 Biodiesel
 
-Biodiesel is distinct as a fuel from ethanol because of its molecular structure. Figure CS5.1g displays the familiar structure of ethanol in the left-hand panel and an average molecular structure for biodiesel is shown in the right-hand panel.
+Biodiesel is distinct as a fuel from ethanol because of its molecular structure. [Figure CS5.1G](#fig-p1-ch05-70) displays the familiar structure of ethanol in the left-hand panel and an average molecular structure for biodiesel is shown in the right-hand panel.
 
 :::{figure} ../images/fig-p1-ch05-70.jpg
 :name: fig-p1-ch05-70
@@ -2666,7 +2675,7 @@ FIGURE CS5.1G Comparison between ethanol shown in the left-hand panel and an ave
 :::
 
 
-The sources of biodiesel include vegetable oils, soybeans, and waste fats. Production of biodiesel began in 2005 and increased rapidly through to 2008 as displayed in Figure CS5.1h. Soybean oil has been the primary feedstock for biodiesel, but annual fat and waste oils from restaurants and transportation are increasing in importance. Also displayed in Figure CS5.1h is the fact that the component of biodiesel extracted from soybeans has reached a plateau at approximately 400 million gallons each year—a sizable contribution.
+The sources of biodiesel include vegetable oils, soybeans, and waste fats. Production of biodiesel began in 2005 and increased rapidly through to 2008 as displayed in [Figure CS5.1H](#fig-p1-ch05-71). Soybean oil has been the primary feedstock for biodiesel, but annual fat and waste oils from restaurants and transportation are increasing in importance. Also displayed in [Figure CS5.1H](#fig-p1-ch05-71) is the fact that the component of biodiesel extracted from soybeans has reached a plateau at approximately 400 million gallons each year—a sizable contribution.
 
 :::{figure} ../images/fig-p1-ch05-71.jpg
 :name: fig-p1-ch05-71
@@ -2683,7 +2692,7 @@ Recycled waste fat and oils is expected to increase in relative importance for b
 
 Beginning in the late 1970s, a number of perennial grass and woody crops were evaluated in landmark species trials on a wide range of soil types across the United States. A key finding of this research was the development of a manifold of new crop types and the specification of crop management prescriptions for classes of high-potential perennial grasses and specific wood/tree crops. In the past decade, the list of high potential energy crops has been refined and we look here at the options. These energy crops constitute the specific crops that will establish the future potential for biofuel production in the US.
 
-Figure CS5.1i summarizes the important second generation biofuels. As the center panel in Figure CS5.1i shows, second generation biofuels may well become a very important category of primary energy generation in the US by 2030.
+[Figure CS5.1I](#fig-p1-ch05-72) summarizes the important second generation biofuels. As the center panel in [Figure CS5.1I](#fig-p1-ch05-72) shows, second generation biofuels may well become a very important category of primary energy generation in the US by 2030.
 
 :::{figure} ../images/fig-p1-ch05-72.jpg
 :name: fig-p1-ch05-72
@@ -2831,7 +2840,7 @@ The process is simple—it was devised by Fritz Haber in 1913—and worldwide pr
 
 3. Reduction in temperature, which, because the reaction is exothermic, also shifts equilibrium to the right.
 
-In fact, we can, through knowledge of the temperature dependence of the equilibrium constant, generate a graphical representation of the $\mathrm { N H } _ { 3 }$ yield as a function of temperature—this is displayed in Figure CS5.2a.
+In fact, we can, through knowledge of the temperature dependence of the equilibrium constant, generate a graphical representation of the $\mathrm { N H } _ { 3 }$ yield as a function of temperature—this is displayed in [Figure CS5.2A](#fig-p1-ch05-82).
 
 :::{figure} ../images/fig-p1-ch05-82.jpg
 :name: fig-p1-ch05-82
@@ -2844,7 +2853,7 @@ While this graph strongly suggests an operating regime for the optimization of $
 
 The stages in the industrial production of ammonia are designed to comply with the principles of chemical equilibria and with the rates at which reactions take place—the study of chemical kinetics.
 
-Figure CS5.2b captures the primary subsystems used for ammonia production. The first step involves the addition of $\mathrm { H } _ { 2 }$ and $\mathbf { N } _ { 2 }$ into a compressor that raises the pressure to 200 atm and the mixture is heated to $4 0 0 ^ { \circ } \mathrm { C } .$ Then the mixture is passed over a bed of iron embedded in a fused mixture of MgO, $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 } ,$ and $\mathrm { S i O } _ { 2 } .$ The emergent equilibrium mixture, which contains approximately 35% $\mathrm { N H } _ { 3 }$ by volume, is then extracted and cooled by refrigeration coils until the $\mathrm { N H } _ { 3 }$ condenses and is removed. The unreacted $\mathrm { H } _ { 2 }$ and $\mathbf { N } _ { 2 }$ are then fed back into the compressor.
+[Figure CS5.2B](#fig-p1-ch05-83) captures the primary subsystems used for ammonia production. The first step involves the addition of $\mathrm { H } _ { 2 }$ and $\mathbf { N } _ { 2 }$ into a compressor that raises the pressure to 200 atm and the mixture is heated to $4 0 0 ^ { \circ } \mathrm { C } .$ Then the mixture is passed over a bed of iron embedded in a fused mixture of MgO, $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 } ,$ and $\mathrm { S i O } _ { 2 } .$ The emergent equilibrium mixture, which contains approximately 35% $\mathrm { N H } _ { 3 }$ by volume, is then extracted and cooled by refrigeration coils until the $\mathrm { N H } _ { 3 }$ condenses and is removed. The unreacted $\mathrm { H } _ { 2 }$ and $\mathbf { N } _ { 2 }$ are then fed back into the compressor.
 
 :::{figure} ../images/fig-p1-ch05-83.jpg
 :name: fig-p1-ch05-83

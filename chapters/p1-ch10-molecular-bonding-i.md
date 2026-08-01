@@ -31,7 +31,7 @@ FIGURE 10.1 Notre Dame Cathedral, Paris, France.
 
 Now, if the story of the evolution of thinking about, and reaching an understanding of, the nature of the chemical bond that Lewis led did not lend valuable insight into an intuitive and predictive ability to determine bonding structures, we would not frame this problem. What is remarkable about the Lewis theory of bonding, which we visited briefly in Chapter 2 and will develop in some detail in this chapter, is that while the Lewis theory of bonding came after the discovery of the electron (J. J. Thomson 1897), the Lewis theory preceded the development of quantum mechanics. This is remarkable because quantum mechanics was so revolutionary that it rendered obsolete much of the scientific literature addressing the formation of the chemical bond written prior to 1925. But it did not eliminate the Lewis electron dot structure, nor the fundamental idea of shared electron pair bonding in molecules. So here is what happened.
 
-First, we note what the state of thinking was in 1915 regarding the structure and underlying physical principles determining the formation of molecular bonding when Lewis published his paper on electron pair bonding. As early as the 1860s, chemists were drawing chemical formulas in a way recognizable to any of us today—the nomenclature of atoms linked together by lines drawn between them as displayed in Figure 10.2.
+First, we note what the state of thinking was in 1915 regarding the structure and underlying physical principles determining the formation of molecular bonding when Lewis published his paper on electron pair bonding. As early as the 1860s, chemists were drawing chemical formulas in a way recognizable to any of us today—the nomenclature of atoms linked together by lines drawn between them as displayed in [Figure 10.2](#fig-p1-ch10-4).
 
 :::{figure} ../images/fig-p1-ch10-3.jpg
 :name: fig-p1-ch10-3
@@ -63,7 +63,7 @@ Which meant simply that the electron was transferred:
 ```
 
 
-What was particularly telling is that at the time, 1900-1915, it was strongly believed that for atoms with comparable abilities to attract electrons, the electrons could be transferred in either direction to form the bond. For example, for the case of $\mathrm { N C l } _ { 3 } ,$ two possible “electromeres” (named in analogy with isomers, which are molecules with the same number and identity of atoms but arranged in different geometries) were possible depending on the direction of electron transfer. One electromere could be created by transferring an electron from each chlorine to the nitrogen; the other electromere could be formed by transferring three electrons from the nitrogen to each of the chlorine atoms as sketched in Figure 10.3.
+What was particularly telling is that at the time, 1900-1915, it was strongly believed that for atoms with comparable abilities to attract electrons, the electrons could be transferred in either direction to form the bond. For example, for the case of $\mathrm { N C l } _ { 3 } ,$ two possible “electromeres” (named in analogy with isomers, which are molecules with the same number and identity of atoms but arranged in different geometries) were possible depending on the direction of electron transfer. One electromere could be created by transferring an electron from each chlorine to the nitrogen; the other electromere could be formed by transferring three electrons from the nitrogen to each of the chlorine atoms as sketched in [Figure 10.3](#fig-p1-ch10-5).
 
 :::{figure} ../images/fig-p1-ch10-5.jpg
 :name: fig-p1-ch10-5
@@ -74,7 +74,7 @@ FIGURE 10.3 Theories of bonding prior to the work of G. N. Lewis and prior to th
 
 The key point within this picture of molecular bonding formation is that in order to generate the strength in the bond so formed, the electron must be transferred to create the Coulomb attraction. But what force would act not just to move one or more electrons from one atom to another, but to move an electron in the opposite direction within the same molecular structure? As a measure of the degree to which this concept of the electron transfer as the prerequisite for the formation of the molecular bond and the associated idea of the electromere, were central to the chemical thinking of the day, two leading chemists in the US, William Noyes and Julius Stieglitz—chairs of the departments of chemistry at the University of Illinois and the University of Chicago, invested nearly two decades in the search for electromeres! No rational explanation within the domain of physics existed for such an idea. It was as though some mysterious force required the electron to decide which nucleus to attach itself to, thereby generating the Coulomb attraction needed to form the molecular bond. In a sense, this idea that “something different happens” at the atomic and molecular level that violated the fundamental tenets of physics as it was known in the first two decades of the 20th century turned out to be correct. But it had little to do with the dualistic theory, electromeres, etc.
 
-Remarkably, as early as 1902, in course material prepared for lectures he gave at Harvard with T. W. Richards, Lewis was developing a new type of diagram wherein he kept explicit track of the “new” electrons, discovered by Thomson seven years before, in the electronic structure of the atoms in the periodic table. This diagram by Lewis placed the electrons at the corners of cubes as shown in Figure 10.4.
+Remarkably, as early as 1902, in course material prepared for lectures he gave at Harvard with T. W. Richards, Lewis was developing a new type of diagram wherein he kept explicit track of the “new” electrons, discovered by Thomson seven years before, in the electronic structure of the atoms in the periodic table. This diagram by Lewis placed the electrons at the corners of cubes as shown in [Figure 10.4](#original-fig-10-4).
 
 B Boron
 
@@ -102,13 +102,14 @@ Sulfur
 Chlorine
 Argon
 
+(original-fig-10-4)=
 FIGURE 10.4 As early as 1902, in a course taught with T. W. Richards at Harvard, G. N. Lewis was developing a cubic model for atoms that placed an electron at the corner of the cube, increasing by one electron in steps across the second and third Periods of the periodic table. With the filling of the 8 electrons in neon of the second Period, that cube moved to the inside of the cube representing the sites for electron placement in building up the third Period of the periodic table.
 
-Just as is done in the periodic table, as we progress from hydrogen to neon in the first row, an electron is added, but in Lewis's scheme, to the corner of each new cube corresponding to the next heavier element. But, as we progress to the second row of the periodic table, the cube with eight electrons, Ne, moves to the interior of the next set of cubes that progressively represent the elements from sodium to argon as shown in Figure 10.4. At the time (1902) Lewis was teaching the class with T. W. Richards, Richards referred to these ideas of Lewis's as “twaddle,” which may well have been why Lewis didn't publish this cubic model of electron designation in atomic structure. The tenor of this may also have been related to why Lewis left Harvard, with a brief interlude in the Philippines where he continued to develop both his new formulation of thermodynamics and his cubic model of the atom, for MIT where he remained from 1906 to 1912. There he worked closely and productively with Arthur Noyes before being offered the position of chemistry department chairman and dean of the College of Chemistry at the University of California, Berkeley in 1912.
+Just as is done in the periodic table, as we progress from hydrogen to neon in the first row, an electron is added, but in Lewis's scheme, to the corner of each new cube corresponding to the next heavier element. But, as we progress to the second row of the periodic table, the cube with eight electrons, Ne, moves to the interior of the next set of cubes that progressively represent the elements from sodium to argon as shown in [Figure 10.4](#original-fig-10-4). At the time (1902) Lewis was teaching the class with T. W. Richards, Richards referred to these ideas of Lewis's as “twaddle,” which may well have been why Lewis didn't publish this cubic model of electron designation in atomic structure. The tenor of this may also have been related to why Lewis left Harvard, with a brief interlude in the Philippines where he continued to develop both his new formulation of thermodynamics and his cubic model of the atom, for MIT where he remained from 1906 to 1912. There he worked closely and productively with Arthur Noyes before being offered the position of chemistry department chairman and dean of the College of Chemistry at the University of California, Berkeley in 1912.
 
 It was in 1916, four years after arriving at Berkeley, that Lewis published his paper “The Atom and the Molecule” where he both rejected the dualistic framework that required an explicit electron transfer to create a molecular bond via the formation of Coulomb interaction between ion pairs, and introduced the idea that the molecular bond results from the sharing of electrons. But in particular, Lewis took the clear position in that paper that it was the sharing of electron pairs that created the stable structure of the molecular bond. What lead Lewis to this formulation of the electron pair bond was the union of his cubic picture of the atom to form molecules using this explicit electron counting intrinsic to his cubic model of the atom. What particularly concerned Lewis was that first, while it might be possible to rationalize such species as NaCl in terms of an electron transfer, a vast proportion of molecular structures occurred with an even number of electrons. Molecular structures with an unpaired electron were very rare. Second, how about molecules such as $\mathrm { H } _ { 2 } , \mathrm { O } _ { 2 } ,$ and $\mathrm { { C l } _ { 2 } \mathrm { { ? } } }$ Why would an O atom arbitrarily give up an electron to the other O atom, leaving one with 5 valence electrons and the other with 7 valence electrons?
 
-The key transition in Lewis's thinking on the matter occurred in 1915 when he realized that if he joined his cubic model of the atom to form molecules, he could explain this sharing of electron pairs by linking his cubic structures in different ways. In the case of the single bond in $\mathrm { C l } _ { 2 } ,$ he linked his cubic model for the Cl atom along an edge as shown on the right in Figure 10.5. For the double bond in $\mathrm { O } _ { 2 } ,$ he linked his cubic model for the O atom along a common face as shown on the left in Figure 10.5.
+The key transition in Lewis's thinking on the matter occurred in 1915 when he realized that if he joined his cubic model of the atom to form molecules, he could explain this sharing of electron pairs by linking his cubic structures in different ways. In the case of the single bond in $\mathrm { C l } _ { 2 } ,$ he linked his cubic model for the Cl atom along an edge as shown on the right in [Figure 10.5](#fig-p1-ch10-7). For the double bond in $\mathrm { O } _ { 2 } ,$ he linked his cubic model for the O atom along a common face as shown on the left in [Figure 10.5](#fig-p1-ch10-7).
 
 :::{figure} ../images/fig-p1-ch10-7.jpg
 :name: fig-p1-ch10-7
@@ -117,7 +118,7 @@ FIGURE 10.5 It was the union of the cubic model for atoms to form molecules by s
 :::
 
 
-In each of the molecules shown in Figure 10.5, both atoms have eight electrons in their outer cubes, and of primary importance, they have achieved this through the sharing of electron pairs. In the course of developing this theory of the shared electron pair bond, Lewis evolved a shorthand diagram that eliminated the need to explicitly draw the cubic structure around each atom with the electrons located at the corners of each cube. Each bond was represented as a shared pair of dots between two atoms, and the structure that was most stable resulted when each atom was surrounded by eight electrons—except hydrogen, which required but two electrons to form a stable bond. Thus, the original cubic structure evolved into the electron dot structure as shown in Figure 10.6.
+In each of the molecules shown in [Figure 10.5](#fig-p1-ch10-7), both atoms have eight electrons in their outer cubes, and of primary importance, they have achieved this through the sharing of electron pairs. In the course of developing this theory of the shared electron pair bond, Lewis evolved a shorthand diagram that eliminated the need to explicitly draw the cubic structure around each atom with the electrons located at the corners of each cube. Each bond was represented as a shared pair of dots between two atoms, and the structure that was most stable resulted when each atom was surrounded by eight electrons—except hydrogen, which required but two electrons to form a stable bond. Thus, the original cubic structure evolved into the electron dot structure as shown in [Figure 10.6](#fig-p1-ch10-8).
 
 :::{figure} ../images/fig-p1-ch10-8.jpg
 :name: fig-p1-ch10-8
@@ -143,7 +144,7 @@ In this period between 1912 and the early 1920s, there was a clear need to join 
 
 On the other hand, the static electron pair or pairs in the Lewis model would simply collapse into the positively charged nucleus, and the entire molecular structure would suffer the same fate as the Bohr atom.
 
-Yet, unquestionably, Bohr's model quantitatively described the hydrogen atom, and Lewis's model explained the patterns of stable molecular structures. We can summarize the profoundly untenable state of affairs during this period (1912-1924) with a diagram tracing the various schools of thought that converged into irreconcilable confusion centered on the formation of the molecular bond in Figure 10.7. This was a world without quantum mechanics, and, to engage in a profound understatement, it was not a happy situation!
+Yet, unquestionably, Bohr's model quantitatively described the hydrogen atom, and Lewis's model explained the patterns of stable molecular structures. We can summarize the profoundly untenable state of affairs during this period (1912-1924) with a diagram tracing the various schools of thought that converged into irreconcilable confusion centered on the formation of the molecular bond in [Figure 10.7](#fig-p1-ch10-10). This was a world without quantum mechanics, and, to engage in a profound understatement, it was not a happy situation!
 
 :::{figure} ../images/fig-p1-ch10-10.jpg
 :name: fig-p1-ch10-10
@@ -196,9 +197,9 @@ Given the existence of electrons, protons, and neutrons, it is not difficult to 
 ```
 
 
-as displayed in Figure 8.31.
+as displayed in [Figure 8.31](#fig-p1-ch08-49).
 
-But we also recognize that because the energies $\mathrm { E } _ { \mathrm { n } }$ depend inversely on the width of the potential well that confines the electron, as L increases, the energy $\mathrm { E _ { n } }$ decreases. This was displayed explicitly in Figure 8.33. While we will develop increasingly potent theories for the details of chemical bonding, it remains fundamentally true that in the microscopic domain of quantum mechanics, molecules form from atoms because the formation of a molecule provides a means for the wavefunctions of atoms to spread out, to delocalize, thereby reducing the energy of the combined wavefunction as shown in Figure 10.8. This figure, in panel a, represents the simplest model of the chemical bond wherein two atoms, each with an approximate square well potential, combine to form a molecule wherein the electron wavefunction spreads out across the larger dimension of the molecule. As we saw, a wavefunction that spreads out, decreases in energy. This decrease in energy corresponds to a more stable configuration of electrons and protons and thus a stable union results. Two isolated atoms choose to form a molecule because that molecular geometry allows the wavefunction of each electron to spread to larger spatial domain resulting in decreased energy—the atoms capture each other to reduce their combined energy.
+But we also recognize that because the energies $\mathrm { E } _ { \mathrm { n } }$ depend inversely on the width of the potential well that confines the electron, as L increases, the energy $\mathrm { E _ { n } }$ decreases. This was displayed explicitly in [Figure 8.33](#fig-p1-ch08-51). While we will develop increasingly potent theories for the details of chemical bonding, it remains fundamentally true that in the microscopic domain of quantum mechanics, molecules form from atoms because the formation of a molecule provides a means for the wavefunctions of atoms to spread out, to delocalize, thereby reducing the energy of the combined wavefunction as shown in [Figure 10.8](#fig-p1-ch10-23). This figure, in panel a, represents the simplest model of the chemical bond wherein two atoms, each with an approximate square well potential, combine to form a molecule wherein the electron wavefunction spreads out across the larger dimension of the molecule. As we saw, a wavefunction that spreads out, decreases in energy. This decrease in energy corresponds to a more stable configuration of electrons and protons and thus a stable union results. Two isolated atoms choose to form a molecule because that molecular geometry allows the wavefunction of each electron to spread to larger spatial domain resulting in decreased energy—the atoms capture each other to reduce their combined energy.
 
 ## Driving Forces for Chemical Bonding
 
@@ -216,7 +217,7 @@ FIGURE 10.8 The simplest model of the chemical bond involves reduction in energy
 :::
 
 
-The lower panel in Figure 10.8 (panel b) highlights the importance of electrostatics—Coulomb attraction—in determining the distribution of the wavefunction when two atoms of different energy of different ability to attract electrons combine to form a molecule. The atom with the greater ability to attract its valence electron (or electrons), is capable of extracting electron density from the atom that less strongly binds its valence electrons resulting in a shift in the combined wavefunction, a delocalization of electron density toward the atom with greater electronegativity.
+The lower panel in [Figure 10.8](#fig-p1-ch10-23) (panel b) highlights the importance of electrostatics—Coulomb attraction—in determining the distribution of the wavefunction when two atoms of different energy of different ability to attract electrons combine to form a molecule. The atom with the greater ability to attract its valence electron (or electrons), is capable of extracting electron density from the atom that less strongly binds its valence electrons resulting in a shift in the combined wavefunction, a delocalization of electron density toward the atom with greater electronegativity.
 
 Thus atoms combine when given the chance to create larger structures. To first order, nature does not distinguish between atoms or molecules. The protons, neutrons, and electrons are assembled by their electrical forces of attraction balanced against the electron-electron repulsion and the protonproton repulsion within the context of the wave properties of the electrons themselves.
 
@@ -238,7 +239,7 @@ These rotations and vibrations of the molecule are degrees of freedom unavailabl
 :alt: Figure from the University Chemistry source textbook
 :::
 
-The interaction between the two electrons and the two protons becomes increasingly complex, however, as the distance between the points decreases. As displayed here, the attraction between each electron and the two nuclei is offset by proton A repelling proton B and each electron repels the other. But the net result, the small difference between strong attraction (electronproton) and strong repulsion (proton-proton and electron-electron), is attraction, the release of energy as the potential energy of the system of electrons and protons decreases with decreasing internuclear distance. We can sketch the potential energy of this system of electrons and protons as a function of internuclear distance as displayed in Figure 10.9.
+The interaction between the two electrons and the two protons becomes increasingly complex, however, as the distance between the points decreases. As displayed here, the attraction between each electron and the two nuclei is offset by proton A repelling proton B and each electron repels the other. But the net result, the small difference between strong attraction (electronproton) and strong repulsion (proton-proton and electron-electron), is attraction, the release of energy as the potential energy of the system of electrons and protons decreases with decreasing internuclear distance. We can sketch the potential energy of this system of electrons and protons as a function of internuclear distance as displayed in [Figure 10.9](#fig-p1-ch10-26).
 
 :::{figure} ../images/fig-p1-ch10-26.jpg
 :name: fig-p1-ch10-26
@@ -247,9 +248,9 @@ FIGURE 10.9 As an H atom approaches another H atom, the electron of one atom is 
 :::
 
 
-The decrease in potential energy with internuclear distance doesn't continue unchecked. While the potential energy of the system decreases as the electrons delocalize and spread out to minimize the system energy across the totality of the forming $\mathrm { H } _ { 2 }$ molecule, the proton-proton repulsion begins to increase with decreasing internuclear distance. As the internuclear distance drops, the electrons are forced into a smaller and smaller spatial extent, and the electron-electron repulsion increases. The result, as displayed in Figure $\underline { { \mathbf { 1 0 . 9 } } } .$ is that the potential energy passes through a minimum and then, with further decrease in internuclear distance, begins to rise rapidly.
+The decrease in potential energy with internuclear distance doesn't continue unchecked. While the potential energy of the system decreases as the electrons delocalize and spread out to minimize the system energy across the totality of the forming $\mathrm { H } _ { 2 }$ molecule, the proton-proton repulsion begins to increase with decreasing internuclear distance. As the internuclear distance drops, the electrons are forced into a smaller and smaller spatial extent, and the electron-electron repulsion increases. The result, as displayed in [Figure 10.9](#fig-p1-ch10-26) is that the potential energy passes through a minimum and then, with further decrease in internuclear distance, begins to rise rapidly.
 
-The net result is that the H atoms are pulled together at larger internuclear distances, pushed apart at small internuclear distance and in between resides the “equilibrium internuclear distance” at point 3 in Figure 10.9.
+The net result is that the H atoms are pulled together at larger internuclear distances, pushed apart at small internuclear distance and in between resides the “equilibrium internuclear distance” at point 3 in [Figure 10.9](#fig-p1-ch10-26).
 
 It is important to emphasize here that in the formation of the chemical bond, energy is neither created nor destroyed, but energy is released in the forming of the bond
 
@@ -259,9 +260,9 @@ It is important to emphasize here that in the formation of the chemical bond, en
 ```
 
 
-The energy release, by virtue of the bond formation itself, is equal to the depth of the well shown in Figure 10.9 at the equilibrium internuclear distance. While we developed this potential energy diagram for $\mathrm { H } _ { 2 } ,$ the basic shape of the potential energy “surface” of any chemical bond between two atoms or between an atom and a larger molecule will have the same basic shape. The next question is: What is the relationship between the electronic wavefunctions shown in Figure 10.8 and the potential energy curve shown in Figure 10.9? The answer is that when we have two identical nuclei, as is the case for $\mathrm { H } _ { 2 } ,$ the ability of the electron-proton combinations to draw electron density to them is equal, so the electrons are shared equally between the nuclei and we have the situation depicted in the upper panel of Figure 10.8.
+The energy release, by virtue of the bond formation itself, is equal to the depth of the well shown in [Figure 10.9](#fig-p1-ch10-26) at the equilibrium internuclear distance. While we developed this potential energy diagram for $\mathrm { H } _ { 2 } ,$ the basic shape of the potential energy “surface” of any chemical bond between two atoms or between an atom and a larger molecule will have the same basic shape. The next question is: What is the relationship between the electronic wavefunctions shown in [Figure 10.8](#fig-p1-ch10-23) and the potential energy curve shown in [Figure 10.9](#fig-p1-ch10-26)? The answer is that when we have two identical nuclei, as is the case for $\mathrm { H } _ { 2 } ,$ the ability of the electron-proton combinations to draw electron density to them is equal, so the electrons are shared equally between the nuclei and we have the situation depicted in the upper panel of [Figure 10.8](#fig-p1-ch10-23).
 
-This electron sharing is termed a covalent bond, and the relationship between the simplified bond model in Figure 10.8 and the picture of the electron distribution about the two nuclei of the homonuclear (“same nuclei”) molecule is displayed in Figure 10.10a. Thus, while the electron distribution about each atom delocalizes within the structure of the molecule, thereby lowering the potential energy of the ensemble of electrons and protons, the probability density of the electrons within the new molecular bond is equally distributed between the two nuclei.
+This electron sharing is termed a covalent bond, and the relationship between the simplified bond model in [Figure 10.8](#fig-p1-ch10-23) and the picture of the electron distribution about the two nuclei of the homonuclear (“same nuclei”) molecule is displayed in [Figure 10.10A](#fig-p1-ch10-27). Thus, while the electron distribution about each atom delocalizes within the structure of the molecule, thereby lowering the potential energy of the ensemble of electrons and protons, the probability density of the electrons within the new molecular bond is equally distributed between the two nuclei.
 
 :::{figure} ../images/fig-p1-ch10-27.jpg
 :name: fig-p1-ch10-27
@@ -270,11 +271,11 @@ FIGURE 10.10 In the simple box model of the chemical bond, it is the relative en
 :::
 
 
-If a molecule is formed from two atoms, one of which has its valence orbitals more closely bound (thus lowering the energy levels of the valence in one of the atoms), the delocalized wavefunction of the resulting molecule will have the molecular wavefunction shifted preferentially toward the atom with the lower energy orbitals, as shown in Figure 10.10b. This leads to the formation of a “polar covalent” bond that has greater electron density centered on the atom with more tightly bound (lower energy) electrons in the separated atoms. In the extreme case where there is a large energy difference between the orbitals of the separated atoms, the molecule formed will have delocalization of the combined wavefunction toward the atom with lower energy orbitals. This case is displayed in Figure 10.10c, and is called an “ionic” bond because the bond is created in large measure by the simple Coulomb attraction between the cation that has donated electrons into the anion that has extracted electrons.
+If a molecule is formed from two atoms, one of which has its valence orbitals more closely bound (thus lowering the energy levels of the valence in one of the atoms), the delocalized wavefunction of the resulting molecule will have the molecular wavefunction shifted preferentially toward the atom with the lower energy orbitals, as shown in [Figure 10.10B](#fig-p1-ch10-28). This leads to the formation of a “polar covalent” bond that has greater electron density centered on the atom with more tightly bound (lower energy) electrons in the separated atoms. In the extreme case where there is a large energy difference between the orbitals of the separated atoms, the molecule formed will have delocalization of the combined wavefunction toward the atom with lower energy orbitals. This case is displayed in [Figure 10.10C](#fig-p1-ch10-28), and is called an “ionic” bond because the bond is created in large measure by the simple Coulomb attraction between the cation that has donated electrons into the anion that has extracted electrons.
 
-All three bond types—covalent, polar covalent, and ionic—however, share the same qualitative shape for their potential energy surface representing the relationship between potential energy and internuclear distance as shown in Figure 10.9.
+All three bond types—covalent, polar covalent, and ionic—however, share the same qualitative shape for their potential energy surface representing the relationship between potential energy and internuclear distance as shown in [Figure 10.9](#fig-p1-ch10-26).
 
-A fascinating aspect of chemistry is that the chemical behavior of molecules depends, in large measure, on the spatial distribution of electron density in the chemical bond. We also developed a sense for the linkage of electron penetration and shielding in individual atoms that lead to the concept of the effective charge, $Z _ { \mathrm { e f f } } ,$ that a valence electron “sees” in an atom. It is the variation of $\mathrm { Z _ { e f f } }$ across the periodic table that provides a systematic pattern for atomic size, for the first ionization energy, IE, for electron affinity, EA, and for trends in metallic behavior as summarized in Figure 10.11.
+A fascinating aspect of chemistry is that the chemical behavior of molecules depends, in large measure, on the spatial distribution of electron density in the chemical bond. We also developed a sense for the linkage of electron penetration and shielding in individual atoms that lead to the concept of the effective charge, $Z _ { \mathrm { e f f } } ,$ that a valence electron “sees” in an atom. It is the variation of $\mathrm { Z _ { e f f } }$ across the periodic table that provides a systematic pattern for atomic size, for the first ionization energy, IE, for electron affinity, EA, and for trends in metallic behavior as summarized in [Figure 10.11](#fig-p1-ch10-28).
 
 :::{figure} ../images/fig-p1-ch10-28.jpg
 :name: fig-p1-ch10-28
@@ -285,7 +286,7 @@ FIGURE 10.11 We can summarize trends in electron affinity, ionization energy, at
 
 How do these concepts of effective nuclear charge, first ionization energy, electron affinity, and atomic size translate over to help us understand the chemical behavior of molecules formed from those atoms? A significant part of the answer to this important question is that the propensity for an atom to draw electron density to it in a chemical bond exhibits a coherent pattern or tendency that is, to first order, independent of the particular pairing of atoms involved in the bond. That is, we can find a quantity that can be assigned to an atom in the periodic table, that represents a quantitative measure of that atom's ability to draw electron density to it independent of the identity of the other atom.
 
-The ability of a given atom to draw electrons to itself in a chemical bond is called electronegativity. The concept of electronegativity provides a useful way to estimate the degree to which electron density is delocalized in a chemical bond toward a particular atom in that bond structure. Linus Pauling, an American chemist, succeeded in assembling a coherent scale defining the electronegativity for each element in the periodic table. The Pauling electronegativity scale is an empirical system by which the ability of a particular atom in the periodic table to draw electron density to it is rated on a dimensionless scale, with the maximum value of electronegativity of 4.0 assigned to fluorine (F). The electronegativity scale for the periodic table is displayed in Figure 10.12.
+The ability of a given atom to draw electrons to itself in a chemical bond is called electronegativity. The concept of electronegativity provides a useful way to estimate the degree to which electron density is delocalized in a chemical bond toward a particular atom in that bond structure. Linus Pauling, an American chemist, succeeded in assembling a coherent scale defining the electronegativity for each element in the periodic table. The Pauling electronegativity scale is an empirical system by which the ability of a particular atom in the periodic table to draw electron density to it is rated on a dimensionless scale, with the maximum value of electronegativity of 4.0 assigned to fluorine (F). The electronegativity scale for the periodic table is displayed in [Figure 10.12](#fig-p1-ch10-29).
 
 :::{figure} ../images/fig-p1-ch10-29.jpg
 :name: fig-p1-ch10-29
@@ -296,7 +297,7 @@ FIGURE 10.12 The Pauling electronegativity scale, derived by consideration of ea
 
 Fluorine has the highest electronegativity (EN), which we can understand from our discussion of penetration, shielding, $\mathrm { Z _ { e f f } , }$ and $\mathrm { E I } _ { 1 }$ . Fluorine has a very large $\mathrm { Z _ { e f f } }$ because its valence electrons are poorly shielded, needing only one electron to complete the 2p configuration. Not only is $\mathrm { Z _ { e f f } }$ large for the valence electrons of fluorine, the fluorine atom is small so it attracts available negative charge more strongly than any other element. That large EN for fluorine is in stark contrast with, for example, rubidium (Rb) or cesium (Cs), which are each large with strong shielding of the valence electrons. Rb and Cs have ENs of 0.8 and 0.7 respectively. Hydrogen, which is able to both extract electron density in a chemical bond from alkali (Group 1A) and alkaline earth (Group 2A) elements and donate electron density to nonmetals in the upper right of the periodic table, has an EN of 2.1.
 
-The electronegativity (EN) scale is both extremely useful in practice and remarkable in the fact that, for all the possible combinations of atom-atom pairs that exist in the myriad of possible molecules, a single value of EN can be assigned to each element in the periodic table. Figure 10.13 summarizes the trend in EN across and down the periodic table. The electronegativity scale uses a combination of the first ionization energy, $\mathrm { I E } _ { 1 } ,$ and electric affinity, to establish the electronegativity ranking displayed in Figure 10.12 and 10.13. For example, a species A with small $\mathrm { I E } _ { 1 : }$ , and small EA will easily surrender an electron but will not compete to extract an electron. Confronted with a species B with higher $\mathrm { I E } _ { 1 : }$ , and high EA, A will transfer electron density to B in the formation of a chemical bond. Atoms characterized by small $\mathrm { I E } _ { 1 }$ and EA are the metals that have, as a result, low values of electronegativity. Atoms in the upper right of the periodic table, the non-metals, have high EN values.
+The electronegativity (EN) scale is both extremely useful in practice and remarkable in the fact that, for all the possible combinations of atom-atom pairs that exist in the myriad of possible molecules, a single value of EN can be assigned to each element in the periodic table. [Figure 10.13](#fig-p1-ch10-30) summarizes the trend in EN across and down the periodic table. The electronegativity scale uses a combination of the first ionization energy, $\mathrm { I E } _ { 1 } ,$ and electric affinity, to establish the electronegativity ranking displayed in [Figure 10.12](#fig-p1-ch10-29) and [10.13](#fig-p1-ch10-30). For example, a species A with small $\mathrm { I E } _ { 1 : }$ , and small EA will easily surrender an electron but will not compete to extract an electron. Confronted with a species B with higher $\mathrm { I E } _ { 1 : }$ , and high EA, A will transfer electron density to B in the formation of a chemical bond. Atoms characterized by small $\mathrm { I E } _ { 1 }$ and EA are the metals that have, as a result, low values of electronegativity. Atoms in the upper right of the periodic table, the non-metals, have high EN values.
 
 :::{figure} ../images/fig-p1-ch10-30.jpg
 :name: fig-p1-ch10-30
@@ -307,7 +308,7 @@ FIGURE 10.13 A summary of the trends in the Pauling electronegativity scale for 
 
 While values of EN are unitless, what matters in the formation of a chemical bond is the difference in EN between two atoms involved in a chemical bond. The larger the difference in EN between two species, the more polar will be the bond formed from those species. For example, in the formation of $\mathrm { O } _ { 2 } ,$ , while the EN for oxygen is very large (3.5) the difference in electronegativity in the bond is $\Delta \mathrm { E N } _ { \mathrm { b o n d } } = \mathrm { E N } _ { \mathrm { o } } - \mathrm { E N } _ { \mathrm { o } } = 3 . 5 - 3 . 5 = 0$ . The bond so formed is covalent with electron density balanced evenly between the two O atoms in the $\mathrm { O } _ { 2 }$ bond so formed. For the case of NaF, the EN of Na is 0.9 and the EN of F is 4.0, so for the NaF bond $\Delta \mathrm { E N } _ { \mathrm { N a F } } = \mathrm { E N } _ { \mathrm { F } } - \mathrm { E N } _ { \mathrm { N a } } = 4 . 0 -$ $0 . 9 = 3 . 1 $ . This is a very large difference in EN and thus the bond will be highly polar.
 
-We can relate the range of differences in EN between two species in a bond to the range in bond character from nonpolar covalent, to polar covalent, to ionic as shown in Figure 10.14.
+We can relate the range of differences in EN between two species in a bond to the range in bond character from nonpolar covalent, to polar covalent, to ionic as shown in [Figure 10.14](#fig-p1-ch10-31).
 
 :::{figure} ../images/fig-p1-ch10-31.jpg
 :name: fig-p1-ch10-31
@@ -318,7 +319,7 @@ FIGURE 10.14 There is a continuum of bond types ranging from pure, nonpolar cova
 
 ## Types of Chemical Bonds
 
-Our identification and analysis of covalent, polar covalent, and ionic bond structure, which emerges directly from the concept of electronegativity, establishes the foundation for the three types of chemical bonds found in nature. Figure 10.15 displays examples of the three types: ionic bonding, covalent bonding, and metallic bonding.
+Our identification and analysis of covalent, polar covalent, and ionic bond structure, which emerges directly from the concept of electronegativity, establishes the foundation for the three types of chemical bonds found in nature. [Figure 10.15](#fig-p1-ch10-32) displays examples of the three types: ionic bonding, covalent bonding, and metallic bonding.
 
 :::{figure} ../images/fig-p1-ch10-32.jpg
 :name: fig-p1-ch10-32
@@ -329,9 +330,9 @@ FIGURE 10.15 There are three types of chemical bonds categorized according to th
 
 Ionic bonding results when there is a large difference in the electronegativity of the two atoms that comprise the chemical bond. When metals on the left-hand side of the periodic table (with small EN) bond to nonmetals on the upper right of the periodic table (with large EN), electron density is extracted from the metal and drawn to the nonmetal forming a cation (the metal ion) and an anion (the nonmetal ion). The cation and anion are thus attracted to each atom by the Coulomb force.
 
-When a nonmetal forms a chemical bond with another nonmetal, both partners have large, or fairly large, ENs and thus the difference in EN is fairly modest. Thus the valence electrons are shared between the atoms participating in the bond. The “shared electron” bond is, as we have seen, termed the covalent bond. However, as Figure 10.14 demonstrates, there is a continuum of the degree of electron delocalization from strongly ionic (e.g. NaCl) to polar covalent (e.g. HF) to covalent (e.g. NO) depending on the difference in electronegativity between the two atoms that form the molecular bond. The third type of chemical bond is the metallic bond that, as the name suggests, occurs when metal atoms bond to each other in an ordered lattice as depicted in Figure 10.15. Metals have a low electronegativity and a low ionization energy and thus lose their electrons easily. The simplest model for metallic bonding is termed the “electron sea” model because the valence electrons of metals in a lattice delocalize throughout the lattice structure such that the metal cations are surrounded by a continuous “sea” of delocalized electrons. This freedom of movement of electrons throughout the metal lattice is the reason metals reflect light, conduct electricity, and conduct heat. In each case, it is the freedom of movement of electrons in the metal lattice that is responsible.
+When a nonmetal forms a chemical bond with another nonmetal, both partners have large, or fairly large, ENs and thus the difference in EN is fairly modest. Thus the valence electrons are shared between the atoms participating in the bond. The “shared electron” bond is, as we have seen, termed the covalent bond. However, as [Figure 10.14](#fig-p1-ch10-31) demonstrates, there is a continuum of the degree of electron delocalization from strongly ionic (e.g. NaCl) to polar covalent (e.g. HF) to covalent (e.g. NO) depending on the difference in electronegativity between the two atoms that form the molecular bond. The third type of chemical bond is the metallic bond that, as the name suggests, occurs when metal atoms bond to each other in an ordered lattice as depicted in [Figure 10.15](#fig-p1-ch10-32). Metals have a low electronegativity and a low ionization energy and thus lose their electrons easily. The simplest model for metallic bonding is termed the “electron sea” model because the valence electrons of metals in a lattice delocalize throughout the lattice structure such that the metal cations are surrounded by a continuous “sea” of delocalized electrons. This freedom of movement of electrons throughout the metal lattice is the reason metals reflect light, conduct electricity, and conduct heat. In each case, it is the freedom of movement of electrons in the metal lattice that is responsible.
 
-Metals are also capable of being pounded into thin sheets (a characteristic termed malleability) and metals can be drawn into long wires (termed ductility). The reason for this emerges from the “electron sea” model because while the metal cation in the sea of electrons can be displaced laterally with respect to a neighbor, chemical bonds are not explicitly broken, but rather seamlessly shifted as displayed in Figure 10.16.
+Metals are also capable of being pounded into thin sheets (a characteristic termed malleability) and metals can be drawn into long wires (termed ductility). The reason for this emerges from the “electron sea” model because while the metal cation in the sea of electrons can be displaced laterally with respect to a neighbor, chemical bonds are not explicitly broken, but rather seamlessly shifted as displayed in [Figure 10.16](#fig-p1-ch10-33).
 
 :::{figure} ../images/fig-p1-ch10-33.jpg
 :name: fig-p1-ch10-33
@@ -358,14 +359,14 @@ As we noted in Chapter 2 and in the Framework section of this chapter, it was G.
 
 We already know how to determine the electron configuration for each atom in the periodic table. What the Lewis electron dot symbol represents is a simplified representation of the detailed electron configuration in a form that keeps track of the valence electrons in both the atom and in the bonding structure of the molecules formed from those atoms. We simply need to link the electron configuration to the Lewis dot structure. In order to do this, we need to first isolate the core electrons from the valence electrons. We can do this by linking the elements in a given Period with the corresponding electron configuration. The separation between the core electrons and the valence electrons occurs with the progression from a principal quantum number n, to the next higher principal quantum number n+1.
 
-This is shown for the Period 2 (i.e. n=2) elements in Figure 10.17. The core electrons in this case are the ${ \bf 1 } { \bf S } ^ { 2 }$ electrons, which are the most tightly bound electrons in each of the Period 2 elements. It is the n=2 electrons that constitute the valence electrons from lithium (Li) to the noble gas neon (Ne). The reason for the distinct demarcation in energy between inner core electrons and outer valence electrons is shown in the left-hand panel of Figure 10.17. Specifically, with the progression from the n=1 to the $\mathbf { n } = \mathbf { 2 }$ principal quantum number, there exists a dramatic drop in the first ionization energy, $\mathrm { I E } _ { 1 : }$ , of the next electron, in this case lithium (Li), resulting from the shielding of the closed shell He ${ \bf 1 } { \bf S } ^ { 2 }$ electrons and the increase in radius of the 2s electron that reduces the potential energy of the Li 2s electron thereby reducing how tightly bound that electron is to the Li nucleus. Displayed at the top of each of the elements electron configuration is the corresponding Lewis structure. Notice that the Lewis structure involves only the valence electrons and those electrons are organized according to whether the orbitals are singly occupied or doubly occupied. It is very important when constructing a Lewis diagram to first clearly identify the valence electrons.
+This is shown for the Period 2 (i.e. n=2) elements in [Figure 10.17](#fig-p1-ch10-34). The core electrons in this case are the ${ \bf 1 } { \bf S } ^ { 2 }$ electrons, which are the most tightly bound electrons in each of the Period 2 elements. It is the n=2 electrons that constitute the valence electrons from lithium (Li) to the noble gas neon (Ne). The reason for the distinct demarcation in energy between inner core electrons and outer valence electrons is shown in the left-hand panel of [Figure 10.17](#fig-p1-ch10-34). Specifically, with the progression from the n=1 to the $\mathbf { n } = \mathbf { 2 }$ principal quantum number, there exists a dramatic drop in the first ionization energy, $\mathrm { I E } _ { 1 : }$ , of the next electron, in this case lithium (Li), resulting from the shielding of the closed shell He ${ \bf 1 } { \bf S } ^ { 2 }$ electrons and the increase in radius of the 2s electron that reduces the potential energy of the Li 2s electron thereby reducing how tightly bound that electron is to the Li nucleus. Displayed at the top of each of the elements electron configuration is the corresponding Lewis structure. Notice that the Lewis structure involves only the valence electrons and those electrons are organized according to whether the orbitals are singly occupied or doubly occupied. It is very important when constructing a Lewis diagram to first clearly identify the valence electrons.
 
 :::{figure} ../images/fig-p1-ch10-34.jpg
 :name: fig-p1-ch10-34
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Moving to the next Period in the periodic table, Period 3, Figure 10.18 steps sequentially through the elements corresponding to n=3 from sodium, Na, to argon, Ar. The first ionization energy, $\mathrm { I E } _ { 1 } ,$ , for Ne $( \mathrm { 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } } )$ is 2100 kJ/mole while $\mathrm { I E } _ { 1 }$ for Na $\mathrm { ( 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } 3 s ^ { 1 } ) }$ is 500 kJ/mole. The core electrons of Na $( \mathrm { 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } } )$ are tightly held and do not engage in molecular bond formation, while the valence electrons are dramatically less tightly bound, and those valence electrons are displayed in Figure 10.18 for each element in Period 3.
+Moving to the next Period in the periodic table, Period 3, [Figure 10.18](#fig-p1-ch10-35) steps sequentially through the elements corresponding to n=3 from sodium, Na, to argon, Ar. The first ionization energy, $\mathrm { I E } _ { 1 } ,$ , for Ne $( \mathrm { 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } } )$ is 2100 kJ/mole while $\mathrm { I E } _ { 1 }$ for Na $\mathrm { ( 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } 3 s ^ { 1 } ) }$ is 500 kJ/mole. The core electrons of Na $( \mathrm { 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } } )$ are tightly held and do not engage in molecular bond formation, while the valence electrons are dramatically less tightly bound, and those valence electrons are displayed in [Figure 10.18](#fig-p1-ch10-35) for each element in Period 3.
 
 :::{figure} ../images/fig-p1-ch10-35.jpg
 :name: fig-p1-ch10-35
@@ -378,7 +379,7 @@ FIGURE 10.18 The link between the electronic configuration of elements in the pe
 
 While we will focus the application of Lewis structure models on the vast array of covalent bonds in chemistry, the Lewis structure can be used for ionic bonding as well. In fact we begin with ionic bonding because it is simple, yet provides an introductory framework for building Lewis structures for a diverse range of molecules.
 
-Consider, as an example, the bonding structure for potassium chloride, KCl. We can write the Lewis symbols for potassium and for chlorine as shown in Figure 10.19.
+Consider, as an example, the bonding structure for potassium chloride, KCl. We can write the Lewis symbols for potassium and for chlorine as shown in [Figure 10.19](#fig-p1-ch10-36).
 
 :::{figure} ../images/fig-p1-ch10-36.jpg
 :name: fig-p1-ch10-36
@@ -395,7 +396,7 @@ K. +: \ddot {C} \dot {I}: \longrightarrow K ^ {+} [: \ddot {C} \dot {I}: ] ^ {-}
 ```
 
 
-This transfer of an electron from potassium gives chlorine an octet of electrons and as a result a closed shell electron configuration. The transfer of the electron from potassium leaves it without a valence electron, but with a closed $\mathbf { n } { = } 3$ shell electron configuration. However, because K has donated an electron, it becomes a cation, $\mathrm { K ^ { + } }$ , and Cl, receiving an electron, becomes an anion, Cl<sup>-</sup>. The Coulomb attraction of the cation to the anion decreases the potential energy of $\mathrm { K ^ { + } C l ^ { - } }$ below that of the separated atoms, resulting in the formation of an ionic bond, as displayed in Figure 10.20. It is common practice to write the cation without brackets and the anion with brackets.
+This transfer of an electron from potassium gives chlorine an octet of electrons and as a result a closed shell electron configuration. The transfer of the electron from potassium leaves it without a valence electron, but with a closed $\mathbf { n } { = } 3$ shell electron configuration. However, because K has donated an electron, it becomes a cation, $\mathrm { K ^ { + } }$ , and Cl, receiving an electron, becomes an anion, Cl<sup>-</sup>. The Coulomb attraction of the cation to the anion decreases the potential energy of $\mathrm { K ^ { + } C l ^ { - } }$ below that of the separated atoms, resulting in the formation of an ionic bond, as displayed in [Figure 10.20](#fig-p1-ch10-37). It is common practice to write the cation without brackets and the anion with brackets.
 
 :::{figure} ../images/fig-p1-ch10-37.jpg
 :name: fig-p1-ch10-37
@@ -404,7 +405,7 @@ FIGURE 10.20 The potential energy diagram for the ionic compound KCl.
 :::
 
 
-The Lewis model of ionic bonding has, it turns out, considerable predictive power. For example, if we use Lewis structures to determine the bonding between magnesium, Mg, and chlorine, Cl, we note that, from Figure 10.18,
+The Lewis model of ionic bonding has, it turns out, considerable predictive power. For example, if we use Lewis structures to determine the bonding between magnesium, Mg, and chlorine, Cl, we note that, from [Figure 10.18](#fig-p1-ch10-35),
 
 magnesium has the Lewis structure and chlorine . However, a chlorine atom can only accept a single electron, so how is it possible to leave both Mg and Cl with a closed shell octet? The answer is that a single magnesium atom bonds to two chlorine atoms
 
@@ -416,7 +417,7 @@ magnesium has the Lewis structure and chlorine . However, a chlorine atom can on
 
 to form the ionic bond joining the magnesium cation with two chlorine anions to form $\mathrm { { \bf M g C l } } _ { 2 } .$ . The key observation is that it is indeed $\mathbf { M g C l } _ { 2 }$ that is the observed structure in nature. Notice that with an EN of 1.2 for magnesium (and EN for Cl of 3.0) the large difference in electronegativity results in the transfer of the electrons from magnesium to the two chlorine atoms.
 
-What does Lewis theory predict for the bond structure of aluminum (Figure 10.18, ) with oxygen (Figure 10.17)? First, the difference in electronegativity for those two elements is $\Delta \mathrm { E N } { = } \mathrm { E N } _ { \mathrm { O } } - \mathrm { E N } _ { \mathrm { A l } } = 3 . 5 - 1 . 5 = 2$ so aluminum will transfer an electron to oxygen. But each oxygen can receive just two electrons to fill its octet, while each aluminum has three electrons to donate in order to attain a closed shell octet of its own. The solution, by the prediction of Lewis's theory, is that two aluminum atoms bond to three oxygen atoms with the following electron transfer
+What does Lewis theory predict for the bond structure of aluminum ([Figure 10.18](#fig-p1-ch10-35), ) with oxygen ([Figure 10.17)](#fig-p1-ch10-34)? First, the difference in electronegativity for those two elements is $\Delta \mathrm { E N } { = } \mathrm { E N } _ { \mathrm { O } } - \mathrm { E N } _ { \mathrm { A l } } = 3 . 5 - 1 . 5 = 2$ so aluminum will transfer an electron to oxygen. But each oxygen can receive just two electrons to fill its octet, while each aluminum has three electrons to donate in order to attain a closed shell octet of its own. The solution, by the prediction of Lewis's theory, is that two aluminum atoms bond to three oxygen atoms with the following electron transfer
 
 :::{figure} ../images/fig-p1-ch10-38.jpg
 :name: fig-p1-ch10-38
@@ -427,7 +428,7 @@ The oxide of aluminum, $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 } ,$
 
 ## Lattice Energy and the Formation of Ionic Crystals
 
-There is a very interesting feature of the energy trade-off that occurs when ionically bonded molecules coalesce to form crystal structures. Consider the case of common table salt, sodium chloride, that is formed from elemental sodium (a solid metal) and gas phase chlorine atoms $\mathrm { N a } ( \mathrm { s } ) + \mathrm { C l } ( \mathrm { g } )  \mathrm { N a C l } ( \mathrm { s } )$ $\Delta \mathrm { H } ^ { \circ } { } _ { f } = - 4 1 1 \mathrm { k J } / \mathrm { m o l e }$ . At first glance, it would seem reasonable to assume that the exothermicity of the reaction results from the energy release of the electron transfer to form the ionic bond. However, the first ionization energy (EI<sub>1</sub>) of sodium is +496 kJ/mol and the electron affinity (EA) of Cl is -349 kJ/mole. Thus the transfer of the electron, as shown in Figure 10.21, is +147 kJ/mole. It is endothermic! It requires the input of energy to form the NaCl bond. Why, then, is the reaction of elemental sodium and chlorine exothermic?
+There is a very interesting feature of the energy trade-off that occurs when ionically bonded molecules coalesce to form crystal structures. Consider the case of common table salt, sodium chloride, that is formed from elemental sodium (a solid metal) and gas phase chlorine atoms $\mathrm { N a } ( \mathrm { s } ) + \mathrm { C l } ( \mathrm { g } )  \mathrm { N a C l } ( \mathrm { s } )$ $\Delta \mathrm { H } ^ { \circ } { } _ { f } = - 4 1 1 \mathrm { k J } / \mathrm { m o l e }$ . At first glance, it would seem reasonable to assume that the exothermicity of the reaction results from the energy release of the electron transfer to form the ionic bond. However, the first ionization energy (EI<sub>1</sub>) of sodium is +496 kJ/mol and the electron affinity (EA) of Cl is -349 kJ/mole. Thus the transfer of the electron, as shown in [Figure 10.21](#fig-p1-ch10-39), is +147 kJ/mole. It is endothermic! It requires the input of energy to form the NaCl bond. Why, then, is the reaction of elemental sodium and chlorine exothermic?
 
 :::{figure} ../images/fig-p1-ch10-39.jpg
 :name: fig-p1-ch10-39
@@ -436,7 +437,7 @@ FIGURE 10.21 The electron transfer shown for the electron configuration of Na an
 :::
 
 
-The answer lies in the Coulomb attraction between the cation $\mathrm { N a ^ { + } }$ and anion Cl<sup>-</sup> when the crystal structure is formed with alternating $\mathrm { N a ^ { + } }$ and $\mathrm { C l ^ { - } }$ ions as shown in Figure 10.22. Thus it is the reduction in potential energy, resulting from the Coulomb attraction as energy is expended to transfer the electrons from the sodium to the chlorine while at the same time energy is released as the cation and anion are attracted toward each other to form the crystal structure. We can summarize the sequence of energy expended to form the cation and anion from Na(s) and $\mathrm { C l } ( { \bf g } )$ followed by the release of energy resulting from the Coulomb attraction of the cation-anion pairs that form the lattice resulting in the formation of the NaCl crystal structure, shown as a two-step process in Figure 10.23.
+The answer lies in the Coulomb attraction between the cation $\mathrm { N a ^ { + } }$ and anion Cl<sup>-</sup> when the crystal structure is formed with alternating $\mathrm { N a ^ { + } }$ and $\mathrm { C l ^ { - } }$ ions as shown in [Figure 10.22](#fig-p1-ch10-40). Thus it is the reduction in potential energy, resulting from the Coulomb attraction as energy is expended to transfer the electrons from the sodium to the chlorine while at the same time energy is released as the cation and anion are attracted toward each other to form the crystal structure. We can summarize the sequence of energy expended to form the cation and anion from Na(s) and $\mathrm { C l } ( { \bf g } )$ followed by the release of energy resulting from the Coulomb attraction of the cation-anion pairs that form the lattice resulting in the formation of the NaCl crystal structure, shown as a two-step process in [Figure 10.23](#fig-p1-ch10-41).
 
 :::{figure} ../images/fig-p1-ch10-40.jpg
 :name: fig-p1-ch10-40
@@ -475,7 +476,7 @@ While ionic bonding of main group elements represents a clear and straightforwar
 
 As an introduction to covalent bonding using Lewis theory, we briefly summarize the central elements of that theory:
 
-1. Valence electrons, because they are as a group less tightly bound to the nucleus, play a fundamental role in chemical bonding. Thus it is important to carefully distinguish the inner core electrons from the valence electrons. The Lewis structure is a systematic way of representing only the valence electrons of an atom, and that separation between the core electrons and the valence electrons is displayed in Figures 10.17 and 10.18.
+1. Valence electrons, because they are as a group less tightly bound to the nucleus, play a fundamental role in chemical bonding. Thus it is important to carefully distinguish the inner core electrons from the valence electrons. The Lewis structure is a systematic way of representing only the valence electrons of an atom, and that separation between the core electrons and the valence electrons is displayed in [Figures 10.17](#fig-p1-ch10-34) and [10.18](#fig-p1-ch10-35).
 
 2. Electrons are either transferred or they are shared in such a way that each atom in the bond acquires a stable electron configuration. This stable electron configuration is usually a filled shell. For main group elements this filled shell is an octet (ns<sup>2</sup>np<sup>6</sup>).
 
@@ -491,7 +492,7 @@ Chemical behavior is controlled by the distribution of electrons about the nucle
 
 ## Lewis Structures for Single Covalent Bonds: Diatomics
 
-If we extract the diagram linking the electron configuration of a chlorine atom, Cl, with its Lewis dot structure, Figure 10.24, we observe first that only the valence electrons are displayed in a Lewis diagram. Second, that there are seven electrons in the valence shell. As we will see, setting the correct bonding structure in a Lewis diagram always begins and ends with the counting of electrons! Third we recognize that the difference in electronegativity between the bonding atoms is zero because $\mathrm { C l } _ { 2 }$ is a homonuclear molecule—the bonding partners are the same. Thus the bond has no intrinsic polarity and the electrons are shared equally between the Cl atoms. Fourth, Lewis theory postulates that for elements in the second and third row of the periodic table, the outer shell of electrons must be an octet of electrons.
+If we extract the diagram linking the electron configuration of a chlorine atom, Cl, with its Lewis dot structure, [Figure 10.24](#fig-p1-ch10-43), we observe first that only the valence electrons are displayed in a Lewis diagram. Second, that there are seven electrons in the valence shell. As we will see, setting the correct bonding structure in a Lewis diagram always begins and ends with the counting of electrons! Third we recognize that the difference in electronegativity between the bonding atoms is zero because $\mathrm { C l } _ { 2 }$ is a homonuclear molecule—the bonding partners are the same. Thus the bond has no intrinsic polarity and the electrons are shared equally between the Cl atoms. Fourth, Lewis theory postulates that for elements in the second and third row of the periodic table, the outer shell of electrons must be an octet of electrons.
 
 :::{figure} ../images/fig-p1-ch10-43.jpg
 :name: fig-p1-ch10-43
@@ -678,7 +679,7 @@ We now develop a strategy for writing the Lewis structure for a molecular compou
 
 For simple molecules, this step in the sequence is easy. As the molecular structure becomes increasingly complicated, this step becomes increasingly difficult. It is also important to recognize that the only way to be certain that the correct skeletal structure has been identified is to verify the structure by experiment. However, there are two important guidelines. The first is that hydrogen atoms are almost invariably terminal atoms because hydrogen has a single electron and thus cannot form multiple bonds that is required of a central atom. The second important guideline is that the more electronegative atoms reside in the terminal positions, the less electronegative in the central positions.
 
-Bookkeeping; we need to count the total number of valence electrons contributed by each atom to the molecular structure. Given that Lewis structures are almost exclusively for elements in Period 1 through 3, the number of valence electrons for any main group element is equal to its group number in the periodic table. In practice it is essentially necessary to memorize Figures 10.17 and 10.18. A small price in practice!
+Bookkeeping; we need to count the total number of valence electrons contributed by each atom to the molecular structure. Given that Lewis structures are almost exclusively for elements in Period 1 through 3, the number of valence electrons for any main group element is equal to its group number in the periodic table. In practice it is essentially necessary to memorize [Figures 10.17](#fig-p1-ch10-34) and [10.18](#fig-p1-ch10-35). A small price in practice!
 
 ## Step 3:
 
@@ -688,7 +689,7 @@ Place electrons within the skeletal structure giving octets to the atoms other t
 
 Count the electrons around each atom and the total number of available electrons. If the available electrons have been used up and any atoms lack an octet, form double or triple bonds as necessary to satisfy the octet (duet) rule.
 
-In Figure 10.25, we can summarize this final step in a logic diagram that captures the sequence in completing the Lewis diagram.
+In [Figure 10.25](#fig-p1-ch10-54), we can summarize this final step in a logic diagram that captures the sequence in completing the Lewis diagram.
 
 :::{figure} ../images/fig-p1-ch10-54.jpg
 :name: fig-p1-ch10-54
@@ -700,9 +701,13 @@ In Figure 10.25, we can summarize this final step in a logic diagram that captur
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Let's work out the Lewis structure for three of the most important polyatomic molecules to life using this strategy: $\mathrm { H } _ { 2 } \mathrm { O } , \mathrm { C O } _ { 2 } ,$ and $\mathrm { { O } } _ { 3 }$ in Table 10.1.
+Let's work out the Lewis structure for three of the most important polyatomic molecules to life using this strategy: $\mathrm { H } _ { 2 } \mathrm { O } , \mathrm { C O } _ { 2 } ,$ and $\mathrm { { O } } _ { 3 }$ in [Table 10.1](#xref-visual-p1-ch10-molecular-bonding-i-705).
 
-<table><tr><td></td><td>Steps in the Procedure</td><td>Lewis Structure for H2O</td><td>Lewis Structure for CO2</td><td>Lewis Structure for Ozone</td></tr><tr><td rowspan="2">1</td><td rowspan="2">Correct skeletal structure for the molecule.</td><td>Hydrogen atoms are terminal atoms. Thus O is the central atom</td><td>Oxygen is more electronegative than carbon; carbon is the central atom</td><td rowspan="2">All atoms are the same</td></tr><tr><td>H O H</td><td>O C O</td></tr><tr><td>2</td><td>Determine total number of electrons for the Lewis structure by adding the valence electrons contributed by each atom. See Figures 10.17 and 10.18.</td><td>Each hydrogen contributes one electron: 2 electrons from hydrogen, oxygen is Group 6 so the total is 6 + 2 = 8 electrons</td><td>Carbon has 4 valence electrons, oxygen 6. Total number of electrons: 6 + 6 + 4 = 16 electrons</td><td>Total number of electrons: 6 electrons from each oxygen atom 3 × 6 = 18 electrons</td></tr><tr><td>3</td><td>Distribute electrons beginning with bonding electrons, then assigning lone pairs to terminal atoms, then to lone pairs on the central atom. Check to see whether each atom has an octet (duet for hydrogen atoms.)</td><td>Bonding electrons firstH:O:H4 electrons left; lone pairs on terminal atoms nextH:O:HNone needed; lone pairs on central atom next<img src="../images/fig-p1-ch10-56.jpg" alt="Source textbook figure"/>Zero electrons left</td><td>Bonding electrons firstO:C:O12 electrons left; lone pairs on terminal atoms next:O:C:O:Zero electrons left</td><td>Bonding electrons firstO:O:O4 electrons used, 14 remain; lone pairs on terminal atoms next:O:O:O:16 electrons used, two remain:O:O:O:</td></tr><tr><td rowspan="2">4</td><td rowspan="2">If an atom lacks an octet, form double or triple bonds as necessary to give them octets.</td><td rowspan="2">All atoms have an octet or duet. No electrons left; Lewis diagram complete</td><td>Carbon lacks an octet, so move terminal lone pairs to central atom to form double bonds</td><td>Central atom does not have an octet, create double (or triple) bonds on central atom</td></tr><tr><td>Correct Lewis Structure</td><td>This would imply that two different structures exist for ozone:  $\ddot{O} - \ddot{O} = \ddot{O} :$  and:  $\ddot{O} = \ddot{O} - \ddot{O} :$ </td></tr></table>
+:::{table} TABLE 10.1
+:label: xref-visual-p1-ch10-molecular-bonding-i-705
+:enumerated: false
+<table><tr><td></td><td>Steps in the Procedure</td><td>Lewis Structure for H2O</td><td>Lewis Structure for CO2</td><td>Lewis Structure for Ozone</td></tr><tr><td rowspan="2">1</td><td rowspan="2">Correct skeletal structure for the molecule.</td><td>Hydrogen atoms are terminal atoms. Thus O is the central atom</td><td>Oxygen is more electronegative than carbon; carbon is the central atom</td><td rowspan="2">All atoms are the same</td></tr><tr><td>H O H</td><td>O C O</td></tr><tr><td>2</td><td>Determine total number of electrons for the Lewis structure by adding the valence electrons contributed by each atom. See <a href="#fig-p1-ch10-34">Figures 10.17</a> and <a href="#fig-p1-ch10-35">10.18</a>.</td><td>Each hydrogen contributes one electron: 2 electrons from hydrogen, oxygen is Group 6 so the total is 6 + 2 = 8 electrons</td><td>Carbon has 4 valence electrons, oxygen 6. Total number of electrons: 6 + 6 + 4 = 16 electrons</td><td>Total number of electrons: 6 electrons from each oxygen atom 3 × 6 = 18 electrons</td></tr><tr><td>3</td><td>Distribute electrons beginning with bonding electrons, then assigning lone pairs to terminal atoms, then to lone pairs on the central atom. Check to see whether each atom has an octet (duet for hydrogen atoms.)</td><td>Bonding electrons firstH:O:H4 electrons left; lone pairs on terminal atoms nextH:O:HNone needed; lone pairs on central atom next<img src="../images/fig-p1-ch10-56.jpg" alt="Source textbook figure"/>Zero electrons left</td><td>Bonding electrons firstO:C:O12 electrons left; lone pairs on terminal atoms next:O:C:O:Zero electrons left</td><td>Bonding electrons firstO:O:O4 electrons used, 14 remain; lone pairs on terminal atoms next:O:O:O:16 electrons used, two remain:O:O:O:</td></tr><tr><td rowspan="2">4</td><td rowspan="2">If an atom lacks an octet, form double or triple bonds as necessary to give them octets.</td><td rowspan="2">All atoms have an octet or duet. No electrons left; Lewis diagram complete</td><td>Carbon lacks an octet, so move terminal lone pairs to central atom to form double bonds</td><td>Central atom does not have an octet, create double (or triple) bonds on central atom</td></tr><tr><td>Correct Lewis Structure</td><td>This would imply that two different structures exist for ozone:  $\ddot{O} - \ddot{O} = \ddot{O} :$  and:  $\ddot{O} = \ddot{O} - \ddot{O} :$ </td></tr></table>
+:::
 
 Is it correct to have two different Lewis structures for the same molecule? Is it physically plausible that a molecule could have an asymmetric structure wherein one of the O-O bonds in ozone is a double bond and one a single bond? Experiments have shown conclusively that the bonds in ozone are identical. How can such an observation be reconciled with the predictions of the Lewis model? The answer is that, as we will see in Chapter 10, electrons are capable of delocalizing within the bond structure of a molecule such that the two bond structures represented by the two Lewis structures of $\mathrm { { O } } _ { 3 }$ are of equal energy.
 
@@ -729,9 +734,13 @@ One of the most important applications of modern chemistry is the development of
 ```
 
 
-The ammonia is oxidized to ammonium nitrate fertilizer and applied to crops worldwide. The use of ammonium nitrate fertilizers has become so widespread that the majority of fixed nitrogen entering the Earth's biosphere is from synthetic fertilizers. A key problem in chemistry today is the development of more efficient ways of producing fixed nitrogen and in controlling the amount of fixed nitrogen used. Let's examine the Lewis structures for $\mathrm { N H _ { 3 } , N H ^ { + } } _ { 4 }$ , and $\mathrm { N O _ { ~ 3 ~ } ^ { - } }$ using our stepwise procedure in Table 10.2.
+The ammonia is oxidized to ammonium nitrate fertilizer and applied to crops worldwide. The use of ammonium nitrate fertilizers has become so widespread that the majority of fixed nitrogen entering the Earth's biosphere is from synthetic fertilizers. A key problem in chemistry today is the development of more efficient ways of producing fixed nitrogen and in controlling the amount of fixed nitrogen used. Let's examine the Lewis structures for $\mathrm { N H _ { 3 } , N H ^ { + } } _ { 4 }$ , and $\mathrm { N O _ { ~ 3 ~ } ^ { - } }$ using our stepwise procedure in [Table 10.2](#xref-visual-p1-ch10-molecular-bonding-i-734).
 
-<table><tr><td></td><td>Steps in the Procedure</td><td>Lewis Structure for NH3</td><td>Lewis Structure for NH4+</td><td>Lewis Structure for NO3-</td></tr><tr><td>1</td><td>Correct skeletal structure for the molecule.</td><td>Hydrogen is always terminal so nitrogen is the central atom</td><td>Hydrogen's terminal so nitrogen is the central atom</td><td>Nitrogen is least electronegative so is central atom</td></tr><tr><td>2</td><td>Determine total number of electrons for the Lewis structure by adding the valence electrons contributed by each atom. See Figures 10.17 and 10.18.</td><td>Nitrogen has 5 valence electrons and hydrogen has 1. $5 + 3 \times 1 = 8$ electrons</td><td>Nitrogen has 5 valence electrons, hydrogen has 1, and because  $NH^{+}_{4}$  is a +1 Cation, subtract 1 electron $5 + 4 \times 1 - 1 = 8$ electrons</td><td>Nitrogen has 5 valence electrons, oxygen has 6 valence electrons, and 1 negative charge adds 1 electron $5 + 3 \times 6 + 1 = 24$ </td></tr><tr><td>3</td><td>Distribute electrons beginning with bonding electrons and then assigning lone pairs to terminal atoms then to lone pairs on the central atom. Check to see whether each atom has an octet (duet for hydrogen atoms.)</td><td>Bonding electrons added firstH:N:HHThis uses 6 of 8 electrons. Last 2 electrons added to central NOctet Duet H:N:H Duet</td><td>Bonding electrons<img src="../images/fig-p1-ch10-58.jpg" alt="Source textbook figure"/>Eight electrons available, eight electrons used<img src="../images/fig-p1-ch10-59.jpg" alt="Source textbook figure"/>Octet and duets satisfied</td><td>Bonding electrons firstO O:N:ODistribute remaining electrons first to terminal atom<img src="../images/fig-p1-ch10-60.jpg" alt="Source textbook figure"/>24 electrons used but central N does not have octet move a lone pair to form double bonds<img src="../images/fig-p1-ch10-61.jpg" alt="Source textbook figure"/></td></tr><tr><td>4</td><td>If an atom lacks an octet, form double or triple bonds as necessary to give them octets.</td><td>The central nitrogen has an octet, the hydrogen a duet. All electrons accounted for. Correct Lewis structure</td><td>As a convention enclose the Lewis structure in brackets with charge of ion in upper right $\left[ \begin{array}{c} H \\ | \\ H-N-H \\ | \\ H \end{array} \right]^+$ </td><td>Enclose in brackets with charge designated $\left[ \begin{array}{c} :\ddot{\text{O}} : \\ :\ddot{\text{O}}-N=O \\ :\ddot{\text{O}} \end{array} \right]^-$ </td></tr></table>
+:::{table} TABLE 10.2
+:label: xref-visual-p1-ch10-molecular-bonding-i-734
+:enumerated: false
+<table><tr><td></td><td>Steps in the Procedure</td><td>Lewis Structure for NH3</td><td>Lewis Structure for NH4+</td><td>Lewis Structure for NO3-</td></tr><tr><td>1</td><td>Correct skeletal structure for the molecule.</td><td>Hydrogen is always terminal so nitrogen is the central atom</td><td>Hydrogen's terminal so nitrogen is the central atom</td><td>Nitrogen is least electronegative so is central atom</td></tr><tr><td>2</td><td>Determine total number of electrons for the Lewis structure by adding the valence electrons contributed by each atom. See <a href="#fig-p1-ch10-34">Figures 10.17</a> and <a href="#fig-p1-ch10-35">10.18</a>.</td><td>Nitrogen has 5 valence electrons and hydrogen has 1. $5 + 3 \times 1 = 8$ electrons</td><td>Nitrogen has 5 valence electrons, hydrogen has 1, and because  $NH^{+}_{4}$  is a +1 Cation, subtract 1 electron $5 + 4 \times 1 - 1 = 8$ electrons</td><td>Nitrogen has 5 valence electrons, oxygen has 6 valence electrons, and 1 negative charge adds 1 electron $5 + 3 \times 6 + 1 = 24$ </td></tr><tr><td>3</td><td>Distribute electrons beginning with bonding electrons and then assigning lone pairs to terminal atoms then to lone pairs on the central atom. Check to see whether each atom has an octet (duet for hydrogen atoms.)</td><td>Bonding electrons added firstH:N:HHThis uses 6 of 8 electrons. Last 2 electrons added to central NOctet Duet H:N:H Duet</td><td>Bonding electrons<img src="../images/fig-p1-ch10-58.jpg" alt="Source textbook figure"/>Eight electrons available, eight electrons used<img src="../images/fig-p1-ch10-59.jpg" alt="Source textbook figure"/>Octet and duets satisfied</td><td>Bonding electrons firstO O:N:ODistribute remaining electrons first to terminal atom<img src="../images/fig-p1-ch10-60.jpg" alt="Source textbook figure"/>24 electrons used but central N does not have octet move a lone pair to form double bonds<img src="../images/fig-p1-ch10-61.jpg" alt="Source textbook figure"/></td></tr><tr><td>4</td><td>If an atom lacks an octet, form double or triple bonds as necessary to give them octets.</td><td>The central nitrogen has an octet, the hydrogen a duet. All electrons accounted for. Correct Lewis structure</td><td>As a convention enclose the Lewis structure in brackets with charge of ion in upper right $\left[ \begin{array}{c} H \\ | \\ H-N-H \\ | \\ H \end{array} \right]^+$ </td><td>Enclose in brackets with charge designated $\left[ \begin{array}{c} :\ddot{\text{O}} : \\ :\ddot{\text{O}}-N=O \\ :\ddot{\text{O}} \end{array} \right]^-$ </td></tr></table>
+:::
 
 Inspection of the derived Lewis diagram for $\mathrm { N O _ { 3 } } ^ { - }$ reveals, as was the case for ozone, that the nitrate anion has a single bonding pair of electrons between two of the oxygen atoms and the central nitrogen, and a double bonding pair of electrons between one of the oxygens and the central nitrogen. However, experiments reveal that all three oxygen-nitrogen bonds in $\mathrm { N O _ { ~ 3 ~ } ^ { - } }$ are equivalent, so the actual structure of the nitrate anion is a hybrid of the three structures, with the electron pair that forms the double bond delocalized across the structure of the anion:
 
@@ -928,7 +937,7 @@ Let's consider what VSEPR theory says about the geometry of the $\mathrm { H } _
 ```
 
 
-it does tell us how many electron groups surround the central atom. There are four electron groups surrounding the oxygen atom, two bonding groups and two lone pairs. The geometry that maximizes the distance between these four electron groups is the tetrahedral structure shown in Figure 10.26:
+it does tell us how many electron groups surround the central atom. There are four electron groups surrounding the oxygen atom, two bonding groups and two lone pairs. The geometry that maximizes the distance between these four electron groups is the tetrahedral structure shown in [Figure 10.26](#fig-p1-ch10-74):
 
 :::{figure} ../images/fig-p1-ch10-74.jpg
 :name: fig-p1-ch10-74
@@ -1048,7 +1057,7 @@ Spectroscopic analysis of the formaldehyde molecule shows that the bond angles d
 :alt: Figure from the University Chemistry source textbook
 :::
 
-So these examples establish the relationship between (1) the number of electron groups and (2) the electron group geometry that maximizes the distance between electron groups and thereby minimizes the potential energy of the ensemble of electrons and protons in the structure. We have thus established the electron group geometry for 2, 3, and 4 electron group molecules. We have also put in place an approach that can determine the architecture of the molecule independent of the specific type of electron group—lone pair, single bond, multiple bond, or single electron. What about molecular structure with 5 or 6 electron groups around the central atom? The electron group geometry for those cases is determined simply by answering the question: What geometry maximizes the distance between 5 electron groups around the central atom? For the case of 6 electron groups we must answer the same question: the answer is pure geometry. For 5 electron groups the trigonal bipyramid structure maximizes the distance between electron groups; for 6 electron groups the octahedral structure maximizes the distance between electron groups. Thus we have a one-to-one relationship between the number of electron groups and the electron group geometry! The relationship is shown in Figure 10.27.
+So these examples establish the relationship between (1) the number of electron groups and (2) the electron group geometry that maximizes the distance between electron groups and thereby minimizes the potential energy of the ensemble of electrons and protons in the structure. We have thus established the electron group geometry for 2, 3, and 4 electron group molecules. We have also put in place an approach that can determine the architecture of the molecule independent of the specific type of electron group—lone pair, single bond, multiple bond, or single electron. What about molecular structure with 5 or 6 electron groups around the central atom? The electron group geometry for those cases is determined simply by answering the question: What geometry maximizes the distance between 5 electron groups around the central atom? For the case of 6 electron groups we must answer the same question: the answer is pure geometry. For 5 electron groups the trigonal bipyramid structure maximizes the distance between electron groups; for 6 electron groups the octahedral structure maximizes the distance between electron groups. Thus we have a one-to-one relationship between the number of electron groups and the electron group geometry! The relationship is shown in [Figure 10.27](#fig-p1-ch10-84).
 
 :::{figure} ../images/fig-p1-ch10-84.jpg
 :name: fig-p1-ch10-84
@@ -1059,7 +1068,7 @@ FIGURE 10.27 The geometry of the electron group is set uniquely by the number of
 
 Once we have established the electron group geometry, the next question is: What is the molecular geometry? What is the shape of the molecule itself? What are the bond angles between the actual atoms that comprise the molecular structure? The answer to these questions involves taking each of the electron group geometries and then placing the atoms, the lone pairs or the single electron (in the case of a radical) in the electron group position.
 
-Consider first the case of 3 electron groups. We already know that the electron group geometry is trigonal planar. What about the molecule geometry? If we have zero lone pairs, we have three atoms bonded into the central atom. This is the case for formaldehyde. The molecular geometry is trigonal planar. If we have one lone pair, the molecular geometry is bent. These cases are shown in Figure 10.28.
+Consider first the case of 3 electron groups. We already know that the electron group geometry is trigonal planar. What about the molecule geometry? If we have zero lone pairs, we have three atoms bonded into the central atom. This is the case for formaldehyde. The molecular geometry is trigonal planar. If we have one lone pair, the molecular geometry is bent. These cases are shown in [Figure 10.28](#fig-p1-ch10-85).
 
 :::{figure} ../images/fig-p1-ch10-85.jpg
 :name: fig-p1-ch10-85
@@ -1068,7 +1077,7 @@ FIGURE 10.28 For the case of 3 electron groups, the electron group geometry is t
 :::
 
 
-If we have $4$ electron groups, we have three possibilities: zero lone pairs, 1 lone pair, or 2 lone pairs. This case is displayed in Figure 10.29.
+If we have $4$ electron groups, we have three possibilities: zero lone pairs, 1 lone pair, or 2 lone pairs. This case is displayed in [Figure 10.29](#fig-p1-ch10-86).
 
 :::{figure} ../images/fig-p1-ch10-86.jpg
 :name: fig-p1-ch10-86
@@ -1079,7 +1088,7 @@ FIGURE 10.29 If there are 4 electron groups, the electron group geometry is tetr
 
 A number of patterns can now be recognized. First, we need simply determine the number of electron groups to establish the electron group geometry. After establishing the electron group geometry, if the number of lone pairs is zero, then the molecular geometry and the electron group geometry are identical. The number of molecular geometries available is equal to the number of electron groups minus 1.
 
-Proceeding to VSEPR theory for 5 electron group systems, we link the number of electron groups to the electron group geometry just as we did for the 2, 3, and 4 electron group systems. But for the 5 electron group systems, we must explicitly recognize that the lone pair electron group spreads out more than the bond pair electron group and this fact aids in the selection of the option for the molecular geometries that are available for a given electron group geometry. Figure 10.30 demonstrates the role played by lone pair repulsion in limiting the available molecular geometry.
+Proceeding to VSEPR theory for 5 electron group systems, we link the number of electron groups to the electron group geometry just as we did for the 2, 3, and 4 electron group systems. But for the 5 electron group systems, we must explicitly recognize that the lone pair electron group spreads out more than the bond pair electron group and this fact aids in the selection of the option for the molecular geometries that are available for a given electron group geometry. [Figure 10.30](#fig-p1-ch10-87) demonstrates the role played by lone pair repulsion in limiting the available molecular geometry.
 
 :::{figure} ../images/fig-p1-ch10-87.jpg
 :name: fig-p1-ch10-87
@@ -1090,7 +1099,7 @@ FIGURE 10.30 If the number of electron groups is 5, the electron group geometry 
 
 The key point in choosing the correct structure for the 1 lone pair case is to recognize that the electron group repulsion is greater (and thus the potential energy is higher) for the axial lone pair placement because (1) the angle between the lone pair and the bond pair electron groups is $9 0 ^ { \circ }$ whereas (2) for the equatorial lone pair the angle is $\mathbf { 1 2 0 ^ { \circ } }$ between the lone pair and the equatorial groups and (3) that there are two not three bond pair electron groups at $9 0 ^ { \circ }$ to the lone pair. For the case of both the two lone pair and the three lone pair structures, it is the larger $\mathbf { 1 2 0 ^ { \circ } }$ angle between electron groups that maximizes the distance between electron groups and thus minimizes the potential energy of the structure with the lone pairs in the equatorial position.
 
-For the six electron group case, the electron group geometry is set—it is the octahedral and the important cases are for 0, 1, and 2 lone pairs. This results in molecular geometries that are octahedral, square pyramidal and square planar respectively as shown in Figure 10.31.
+For the six electron group case, the electron group geometry is set—it is the octahedral and the important cases are for 0, 1, and 2 lone pairs. This results in molecular geometries that are octahedral, square pyramidal and square planar respectively as shown in [Figure 10.31](#fig-p1-ch10-88).
 
 :::{figure} ../images/fig-p1-ch10-88.jpg
 :name: fig-p1-ch10-88
@@ -1103,13 +1112,16 @@ FIGURE 10.31 If the number of electron groups is 6, the electron group geometry 
 
 We are now in a position to determine the bond angles in broad classes of molecules, but in the determination of molecular shape, we must also consider the length of the chemical bonds. The length of a given chemical bond is dependent on many factors, some easily recognized from the structure such as whether the bond is single, double, or triple. Other factors that control bond length involve the size of the atoms, the electronegativity of the species involved, etc. In general there is no simple way of predicting bond length—they must be measured or calculated using advanced computational methods. Of course bond lengths depend upon the details of the molecular structure within which the bond resides, but there are average bond lengths that emerge when a given bond is analyzed across a broad range of molecules.
 
-A table of some of the most important average bond energies and lengths is presented in Table 10.5. These bond lengths are given as the distance between the nuclei in the bond in units of picometers (pm), which is ${ \bf 1 0 } ^ { - 1 2 }$ meters. Interestingly, bond lengths range from 74 pm for $\mathrm { H } _ { 2 }$ to 266 pm for $\mathrm { I } _ { 2 } .$ Examination of Table 10.5 reveals several important features.
-
+A table of some of the most important average bond energies and lengths is presented in [Table 10.5](#xref-visual-p1-ch10-molecular-bonding-i-1112). These bond lengths are given as the distance between the nuclei in the bond in units of picometers (pm), which is ${ \bf 1 0 } ^ { - 1 2 }$ meters. Interestingly, bond lengths range from 74 pm for $\mathrm { H } _ { 2 }$ to 266 pm for $\mathrm { I } _ { 2 } .$ Examination of [Table 10.5](#xref-visual-p1-ch10-molecular-bonding-i-1112) reveals several important features.
 1. As the number of bonds increases the bond length decreases. If C−C bond has a bond length of 154 pm, the C=C bond a length of 134 pm, and the CC bond a length of 120 pm. The C−O bond has a length of 143 pm and the C=O bond 120 pm.
 
 2. The C−C bond, N−N bond, and O−O bond are all approximately 150 pm, and the H−C, H−N, and H−O bonds decrease in bond length with increasing electronegativity of the species bonded to hydrogen.
 
+:::{table} TABLE 10.5
+:label: xref-visual-p1-ch10-molecular-bonding-i-1112
+:enumerated: false
 <table><tr><td colspan="6">Average Bond Energies</td></tr><tr><td>Bond</td><td>Bond Energy (kJ/mol)</td><td>Bond</td><td>Bond Energy (kJ/mol)</td><td>Bond</td><td>Bond Energy (kJ/mol)</td></tr><tr><td>H—H</td><td>436</td><td>N—N</td><td>163</td><td>Br—F</td><td>237</td></tr><tr><td>H—C</td><td>414</td><td>N≡N</td><td>418</td><td>Br—Cl</td><td>218</td></tr><tr><td>H—N</td><td>389</td><td>N≡N</td><td>946</td><td>Br—Br</td><td>193</td></tr><tr><td>H—O</td><td>464</td><td>N—O</td><td>222</td><td>I—Cl</td><td>208</td></tr><tr><td>H—S</td><td>368</td><td>N=O</td><td>590</td><td>I—Br</td><td>175</td></tr><tr><td>H—F</td><td>565</td><td>N—F</td><td>272</td><td>I—I</td><td>151</td></tr><tr><td>H—Cl</td><td>431</td><td>N—Cl</td><td>200</td><td>Si—H</td><td>323</td></tr><tr><td>H—Br</td><td>364</td><td>N—Br</td><td>243</td><td>Si—Si</td><td>226</td></tr><tr><td>H—I</td><td>297</td><td>N—I</td><td>159</td><td>Si—C</td><td>301</td></tr><tr><td>C—C</td><td>347</td><td>O—O</td><td>142</td><td>Si=O</td><td>368</td></tr><tr><td>C=C</td><td>611</td><td>O=O</td><td>498</td><td>Si=Cl</td><td>464</td></tr><tr><td>C≡C</td><td>837</td><td>O—F</td><td>190</td><td>S—O</td><td>265</td></tr><tr><td>C—N</td><td>305</td><td>O—Cl</td><td>203</td><td>S=O</td><td>523</td></tr><tr><td>C≡N</td><td>615</td><td>O—I</td><td>234</td><td>S=S</td><td>418</td></tr><tr><td>C≡N</td><td>891</td><td>F—F</td><td>159</td><td>S—F</td><td>327</td></tr><tr><td>C—O</td><td>360</td><td>Cl—F</td><td>253</td><td>S—Cl</td><td>253</td></tr><tr><td>C=O</td><td>736*</td><td>Cl—Cl</td><td>243</td><td>S—Br</td><td>218</td></tr><tr><td>C≡O</td><td>1072</td><td></td><td></td><td>S—S</td><td>266</td></tr><tr><td>C—Cl</td><td>339</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="6">*799 in CO2</td></tr></table>
+:::
 
 One of the key reasons for highlighting bond lengths, in addition to the important role bond lengths play in the shape of molecules, is the relation between bond length and bond energy. As we have worked out, the bond energy is the energy required to remove two atoms (or molecular entities) bound in a potential energy well, and to separate them to a distance such that they are no longer interacting.
 
@@ -1228,7 +1240,11 @@ Structure A2
 :alt: Figure from the University Chemistry source textbook
 :::
 
-<table><tr><td rowspan="5">with the smallest formal charge represent the structures of lowest potential energy and are thus the most stable.3. Negative formal charges should appear on the most electronegative atoms.4. Structures having formal charges of the same sign on adjoining atoms are not favored.</td><td rowspan="5">TABLE 11.4Structure A1O = Cl - N : [IMAGE]Number of valence e-675- number of lone pair e-426- 1⁄2 (number of bonding e-)231Formal charge0+2-2-1+2-1</td><td colspan="3">Structure A2O = Cl = N : [IMAGE]</td></tr><tr><td>6</td><td>7</td><td>5</td></tr><tr><td>4</td><td>2</td><td>6</td></tr><tr><td>2</td><td>3</td><td>1</td></tr><tr><td>0</td><td>+2</td><td>-2</td></tr><tr><td rowspan="5"></td><td rowspan="5">Structure B1O = N - Cl : [IMAGE]Number of valence e-657- number of lone pair e-426- 1⁄2 (number of bonding e-)231Formal charge000-10+1</td><td>6</td><td>5</td><td>7</td></tr><tr><td>6</td><td>5</td><td>7</td></tr><tr><td>4</td><td>2</td><td>6</td></tr><tr><td>2</td><td>3</td><td>1</td></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>8. Limitations to the Lewis TheoryWhile the Lewis theory is a remarkably effective approach for identifying the molecular structure of lowest potential energy (i.e. the most stable structure) there are important cases that are exceptions to the Lewis octet (duet) rule.1. Free radical structures that are characterized by an unpaired electron in the valence shell of the molecule. These radicals are physically stable but highly reactive chemically. Important examples include OH and NO.2. Expanded valence shells. There are some important examples where the octet rule is broken by having 10 or 12 electrons around a central atom. Examples include phosphoric acid, shown at right.</td><td colspan="4"><img src="../images/fig-p1-ch10-100.jpg" alt="Source textbook figure"/><img src="../images/fig-p1-ch10-101.jpg" alt="Source textbook figure"/></td></tr><tr><td>9. Valence Shell Electron Pair Repulsion: VSEPR TheoryChemical behavior, chemical reactivity and the physical behavior of molecules are very sensitive to molecular shape, molecular size and the charge distribution within the molecular structure. The VSEPR model is based on the simple concept thatelectron groups that surround an atom repel each other through Coulombic forces and that</td><td colspan="4">For example, if the number of electron groups is equal to 4, the electron group geometry is tetrahedral and themolecular geometryis determined by the number of lone pairs as shown.</td></tr><tr><td rowspan="4">repulsion of electron groups controls the geometry of the molecule. We define an “electron group” as a lone pair, a single bond, a double bond, a triple bond, or a single electron in the case of a radical.</td><td>Number of electron groups</td><td>Electron-group geometry</td><td>Number of lone pairs</td><td>Molecular geometry</td></tr><tr><td rowspan="3">4</td><td rowspan="3">Tetrahedral</td><td>0</td><td>Tetrahedral</td></tr><tr><td>1</td><td>Trigonal pyramidal</td></tr><tr><td>2</td><td>V-shaped or bent</td></tr></table>
+:::{table} TABLE 11.4S
+:label: original-table-11-4s
+:enumerated: false
+<table><tr><td rowspan="5">with the smallest formal charge represent the structures of lowest potential energy and are thus the most stable.3. Negative formal charges should appear on the most electronegative atoms.4. Structures having formal charges of the same sign on adjoining atoms are not favored.</td><td rowspan="5"><a href="#original-table-11-4s">TABLE 11.4S</a>tructure A1O = Cl - N : [IMAGE]Number of valence e-675- number of lone pair e-426- 1⁄2 (number of bonding e-)231Formal charge0+2-2-1+2-1</td><td colspan="3">Structure A2O = Cl = N : [IMAGE]</td></tr><tr><td>6</td><td>7</td><td>5</td></tr><tr><td>4</td><td>2</td><td>6</td></tr><tr><td>2</td><td>3</td><td>1</td></tr><tr><td>0</td><td>+2</td><td>-2</td></tr><tr><td rowspan="5"></td><td rowspan="5">Structure B1O = N - Cl : [IMAGE]Number of valence e-657- number of lone pair e-426- 1⁄2 (number of bonding e-)231Formal charge000-10+1</td><td>6</td><td>5</td><td>7</td></tr><tr><td>6</td><td>5</td><td>7</td></tr><tr><td>4</td><td>2</td><td>6</td></tr><tr><td>2</td><td>3</td><td>1</td></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>8. Limitations to the Lewis TheoryWhile the Lewis theory is a remarkably effective approach for identifying the molecular structure of lowest potential energy (i.e. the most stable structure) there are important cases that are exceptions to the Lewis octet (duet) rule.1. Free radical structures that are characterized by an unpaired electron in the valence shell of the molecule. These radicals are physically stable but highly reactive chemically. Important examples include OH and NO.2. Expanded valence shells. There are some important examples where the octet rule is broken by having 10 or 12 electrons around a central atom. Examples include phosphoric acid, shown at right.</td><td colspan="4"><img src="../images/fig-p1-ch10-100.jpg" alt="Source textbook figure"/><img src="../images/fig-p1-ch10-101.jpg" alt="Source textbook figure"/></td></tr><tr><td>9. Valence Shell Electron Pair Repulsion: VSEPR TheoryChemical behavior, chemical reactivity and the physical behavior of molecules are very sensitive to molecular shape, molecular size and the charge distribution within the molecular structure. The VSEPR model is based on the simple concept thatelectron groups that surround an atom repel each other through Coulombic forces and that</td><td colspan="4">For example, if the number of electron groups is equal to 4, the electron group geometry is tetrahedral and themolecular geometryis determined by the number of lone pairs as shown.</td></tr><tr><td rowspan="4">repulsion of electron groups controls the geometry of the molecule. We define an “electron group” as a lone pair, a single bond, a double bond, a triple bond, or a single electron in the case of a radical.</td><td>Number of electron groups</td><td>Electron-group geometry</td><td>Number of lone pairs</td><td>Molecular geometry</td></tr><tr><td rowspan="3">4</td><td rowspan="3">Tetrahedral</td><td>0</td><td>Tetrahedral</td></tr><tr><td>1</td><td>Trigonal pyramidal</td></tr><tr><td>2</td><td>V-shaped or bent</td></tr></table>
+:::
 
 ## BUILDING QUANTITATIVE REASONING
 
@@ -1300,7 +1316,7 @@ is a more complete octet than each of the Cl atoms in a
 ```
 
 
-molecule wherein they must share an electron in order to complete the octet. So in order to lower the potential energy of the ensemble of atoms, one Cl atom relinquishes one of the shared electrons to the other Cl atom in exchange for the complete electron transfer shown in Figure CS10.1a.
+molecule wherein they must share an electron in order to complete the octet. So in order to lower the potential energy of the ensemble of atoms, one Cl atom relinquishes one of the shared electrons to the other Cl atom in exchange for the complete electron transfer shown in [Figure CS10.1A](#fig-p1-ch10-102).
 
 :::{figure} ../images/fig-p1-ch10-102.jpg
 :name: fig-p1-ch10-102
@@ -1329,7 +1345,7 @@ Let's see how the Lewis structures provide insight across an array of chemical r
 
 ## Lewis Picture for Acid-Base Reactions
 
-The Lewis formulation extends this picture of acid-base chemistry by generalizing acid-base behavior as a class of electron transfer reactions. In particular the Lewis acid-base formulation stipulates that the important factor in an acid-base reaction is the attainment of a new shared pair of electrons in a new polar covalent bond as displayed in Figure CS10.1b.
+The Lewis formulation extends this picture of acid-base chemistry by generalizing acid-base behavior as a class of electron transfer reactions. In particular the Lewis acid-base formulation stipulates that the important factor in an acid-base reaction is the attainment of a new shared pair of electrons in a new polar covalent bond as displayed in [Figure CS10.1B](#fig-p1-ch10-103).
 
 :::{figure} ../images/fig-p1-ch10-103.jpg
 :name: fig-p1-ch10-103
@@ -1344,7 +1360,7 @@ An acid is any species that accepts an electron pair and the creation results in
 
 The species A and can be neutral or charged.
 
-For example, consider the neutralization reaction between a proton and the hydroxide ion in the formation of the adduct $_ \mathrm { H _ { 2 } O }$ as shown in Figure CS10.1c.
+For example, consider the neutralization reaction between a proton and the hydroxide ion in the formation of the adduct $_ \mathrm { H _ { 2 } O }$ as shown in [Figure CS10.1C](#fig-p1-ch10-104).
 
 :::{figure} ../images/fig-p1-ch10-104.jpg
 :name: fig-p1-ch10-104
@@ -1357,7 +1373,7 @@ In this case $\mathrm { H ^ { + } }$ is just a particular example of an electron
 
 Lewis expressed strongly (as he often did) his objection to hanging the definition of acid-base reactions on the presence of the proton as the defining feature of an acid: $^ { 6 6 } T 0$ restrict the group of acids to those substances which contain hydrogen interferes as seriously with the systematic understanding of chemistry as would the restriction of the term oxidizing agent to those substances containing oxygen.”
 
-A key attribute of the Lewis picture of acid-base reactions is that it vastly expands the class of acids. One such example is the reaction of quicklime (CaO) with $\mathrm { S O } _ { 2 }$ (shown in Figure CS10.1d) wherein the latter is emitted in the combustion of coal:
+A key attribute of the Lewis picture of acid-base reactions is that it vastly expands the class of acids. One such example is the reaction of quicklime (CaO) with $\mathrm { S O } _ { 2 }$ (shown in [Figure CS10.1D)](#fig-p1-ch10-105) wherein the latter is emitted in the combustion of coal:
 
 :::{figure} ../images/fig-p1-ch10-105.jpg
 :name: fig-p1-ch10-105
@@ -1368,7 +1384,7 @@ FIGURE CS10.1D Quickline, a base, reacts with sulfur dioxide by donating a lone 
 
 In this case no hydrogen ion is involved, but the base is CaO, which donates an electron pair to the acid, $\mathrm { { S O } _ { 2 } , }$ forming $\mathrm { C a S O _ { 3 } }$ as the adduct.
 
-When quicklime is added to water, it reacts to form calcium hydroxide, a base as displayed in Figure CS10.1e.
+When quicklime is added to water, it reacts to form calcium hydroxide, a base as displayed in [Figure CS10.1E](#fig-p1-ch10-106).
 
 :::{figure} ../images/fig-p1-ch10-106.jpg
 :name: fig-p1-ch10-106
@@ -1377,7 +1393,7 @@ FIGURE CS10.1E Quickline reacts with water by extracting a lone pair forming Ca(
 :::
 
 
-Another example is the case of $\mathrm { { S O } _ { 2 } , }$ when added to water, that produces weak acid $\mathrm { H } _ { 2 } \mathrm { S O } _ { 3 }$ shown in Figure CS10.1f:
+Another example is the case of $\mathrm { { S O } _ { 2 } , }$ when added to water, that produces weak acid $\mathrm { H } _ { 2 } \mathrm { S O } _ { 3 }$ shown in [Figure CS10.1F](#fig-p1-ch10-107):
 
 :::{figure} ../images/fig-p1-ch10-107.jpg
 :name: fig-p1-ch10-107
@@ -1388,7 +1404,7 @@ FIGURE CS10.1F Water reacts with ${ \mathsf { S O } } _ { 2 }$ by donating a lon
 
 ## Reactions of Metal and Nonmetals with ${ \sf H } _ { 2 } { \sf O }$
 
-Just as we stressed in Case Study 2.2, the chemistry of water and of oxygen lies at the heart of a large fraction of chemistry—both in natural systems and in laboratory systems. We note again in Figure CS10.1g the structure of water displaying oxygen and hydrogen with bent geometry, featuring a strongly electronegative end and a strongly electropositive end that has, as we will see, major consequences:
+Just as we stressed in Case Study 2.2, the chemistry of water and of oxygen lies at the heart of a large fraction of chemistry—both in natural systems and in laboratory systems. We note again in [Figure CS10.1G](#fig-p1-ch10-108) the structure of water displaying oxygen and hydrogen with bent geometry, featuring a strongly electronegative end and a strongly electropositive end that has, as we will see, major consequences:
 
 :::{figure} ../images/fig-p1-ch10-108.jpg
 :name: fig-p1-ch10-108
@@ -1397,8 +1413,9 @@ FIGURE CS10.1G The structure of water is established by the geometry of the elec
 :::
 
 
-The separation of charge results from the electronegativity difference between $\mathrm { ~ O ~ } ( \chi = 3 . 5 )$ and H $( \chi = 2 . 2 )$ . It is this dual capability to attract cations to the electronegative end of $\mathrm { H } _ { 2 } \mathrm { O }$ and attract anions to the electropositive end of $\mathrm { H } _ { 2 } \mathrm { O }$ that underpins the versatility of water as a solvent. When salts (which invariably contain a metal donor and nonmetal acceptor) are placed in water, cations and anions result. A key part of the chemical vocabulary is the naming of these cations and anions. We can make a short list of the anions that repeatedly appear, and are summarized in Table CS10.1a. Given the importance of vocabulary to any discussion or any thought process, it may be wise to simply conquer this list once and for all with a set of flashcards!
+The separation of charge results from the electronegativity difference between $\mathrm { ~ O ~ } ( \chi = 3 . 5 )$ and H $( \chi = 2 . 2 )$ . It is this dual capability to attract cations to the electronegative end of $\mathrm { H } _ { 2 } \mathrm { O }$ and attract anions to the electropositive end of $\mathrm { H } _ { 2 } \mathrm { O }$ that underpins the versatility of water as a solvent. When salts (which invariably contain a metal donor and nonmetal acceptor) are placed in water, cations and anions result. A key part of the chemical vocabulary is the naming of these cations and anions. We can make a short list of the anions that repeatedly appear, and are summarized in [Table CS10.1A](#original-table-cs10-1a). Given the importance of vocabulary to any discussion or any thought process, it may be wise to simply conquer this list once and for all with a set of flashcards!
 
+(original-table-cs10-1a)=
 TABLE CS10.1A Commonly encountered anions.
 
 <table><tr><td>Formula</td><td>Name</td><td>Protonated Form(s)</td><td>Names(s)</td></tr><tr><td> $H^{-}$ </td><td>Hydride</td><td> $H_{2}$ </td><td>Hydrogen(g)</td></tr><tr><td> $F^{-}$ </td><td>Fluoride</td><td>HF</td><td>Hydrogen fluoride (g); hydrofluoric acid (aq)</td></tr><tr><td> $Cl^{-}$ </td><td>Chloride</td><td>HCl</td><td>Hydrogen chloride (g); hydrochloric acid (aq)</td></tr><tr><td> $O^{2-}$ </td><td>Oxide</td><td> $OH^{-}$ </td><td>Hydroxide</td></tr><tr><td> $S^{2-}$ </td><td>Sulfide</td><td> $HS^{-}$ </td><td>Hydrogen sulfide (bisulfide)</td></tr><tr><td> $N^{3-}$ </td><td>Nitride</td><td> $NH_{2}^{-}$ </td><td>Amide</td></tr><tr><td> $OH^{-}$ </td><td>Hydroxide</td><td> $H_{2}O$ </td><td>Water</td></tr><tr><td> $CO^{2-}_{3}$ </td><td>Carbonate</td><td> $HCO_{3}^{-}$ </td><td>Hydrogen carbonate (bicarbonate)</td></tr><tr><td></td><td></td><td> $H_{2}CO_{3}$ </td><td>Carbonic acid [also  $CO_{2}(aq)$ ]</td></tr><tr><td> $C_{2}H_{3}O_{2}^{-}$ </td><td>Acetate</td><td> $HC_{2}HO_{2}$ </td><td>Acetic acid</td></tr><tr><td> $SiO^{2-}_{3}$ </td><td>Silicate</td><td> $H_{4}SiO_{4}$ </td><td>Silicic acid ( $H_{2}SiO_{3}H_{2}O$ )</td></tr><tr><td> $NO_{3}^{-}$ </td><td>Nitrate</td><td> $HNO_{3}$ </td><td>Nitric Acid</td></tr><tr><td> $PO^{3-}_{4}$ </td><td>Phosphate</td><td> $HPO_{4}^{2-}$ </td><td>Monohydrogen phosphate</td></tr><tr><td> $O_{2}^{2-}$ </td><td>Peroxide</td><td> $H_{2}O_{2}$ </td><td>Hydrogen Peroxide</td></tr><tr><td> $SO_{4}^{2-}$ </td><td>Sulfate</td><td> $HSO_{4}$ </td><td>Hydrogen sulfate (bisulfate)</td></tr><tr><td> $SO_{3}^{2-}$ </td><td>Sulfite</td><td> $HSO_{3}^{-}$ </td><td>Hydrogen sulfite (bisulfite)</td></tr><tr><td></td><td></td><td> $H_{2}SO_{3}$ </td><td>Sulfurous acid [also  $SO_{2}(aq)$ ]</td></tr><tr><td> $ClO_{4}^{-}$ </td><td>Perchlorate</td><td> $HClO_{4}$ </td><td>Perchloric acid</td></tr></table>
@@ -1413,7 +1430,7 @@ In the reaction of sodium metal with water,
 ```
 
 
-we break the reaction down to a sequence of electron donater-acceptor steps displayed in Figure 10.1h.
+we break the reaction down to a sequence of electron donater-acceptor steps displayed in [Figure 10.1H](#fig-p1-ch10-109).
 
 :::{figure} ../images/fig-p1-ch10-109.jpg
 :name: fig-p1-ch10-109
@@ -1436,7 +1453,7 @@ Thus the Period 1 member, calcium, is the electron donor in the reaction
 ```
 
 
-which, when we track the movement of electrons in a Lewis diagram, yields a two step process initiated by the reaction shown in Figure CS10.1i where the electron moves from Ca to $\mathrm { H } _ { 2 } \mathrm { O }$ with the electron pair going to form OH<sup>-</sup>.
+which, when we track the movement of electrons in a Lewis diagram, yields a two step process initiated by the reaction shown in [Figure CS10.1I](#fig-p1-ch10-110) where the electron moves from Ca to $\mathrm { H } _ { 2 } \mathrm { O }$ with the electron pair going to form OH<sup>-</sup>.
 
 :::{figure} ../images/fig-p1-ch10-110.jpg
 :name: fig-p1-ch10-110
@@ -1455,7 +1472,7 @@ What about the reaction of water with nonmetals? Let's examine a reaction that i
 ```
 
 
-When we diagram the electron shift(s) associated with this reaction in a Lewis formulation, we require two steps. The first step is an electron donation from the lone pair of water (the base) to the carbon of $\mathrm { C O } _ { 2 }$ as shown in Figure CS10.1j.
+When we diagram the electron shift(s) associated with this reaction in a Lewis formulation, we require two steps. The first step is an electron donation from the lone pair of water (the base) to the carbon of $\mathrm { C O } _ { 2 }$ as shown in [Figure CS10.1J](#fig-p1-ch10-111).
 
 :::{figure} ../images/fig-p1-ch10-111.jpg
 :name: fig-p1-ch10-111
@@ -1464,16 +1481,16 @@ FIGURE CS10.1J Water and carbon dioxide react to form the adduct carbonic acid. 
 :::
 
 
-Following the donation from the lone pair of water, the next steps are by the transfer of an electron pair to oxygen in $\mathrm { C O } _ { 2 }$ and the donation of an electron pair from the oxygen in $\mathrm { C O } _ { 2 }$ to form a new hydrogen-oxygen bond as diagramed in Figure CS10.1j.
+Following the donation from the lone pair of water, the next steps are by the transfer of an electron pair to oxygen in $\mathrm { C O } _ { 2 }$ and the donation of an electron pair from the oxygen in $\mathrm { C O } _ { 2 }$ to form a new hydrogen-oxygen bond as diagramed in [Figure CS10.1J](#fig-p1-ch10-111).
 
 It is this remarkable inorganic reaction between a non-metal and water that makes carbon available to the organic/biological process in the world's oceans that creates the skeletal structures for all living things in the ocean. It is also the removal process that extracts massive amounts of $\mathrm { C O } _ { 2 }$ from the atmosphere as we add $\mathrm { C O } _ { 2 }$ to the atmosphere by the combustion of fossil fuels.
 
-So, keeping track of reactivity to this point we note that alkali metals and the heavier alkaline earths react with water as summarized in Figure CS10.1k.
+So, keeping track of reactivity to this point we note that alkali metals and the heavier alkaline earths react with water as summarized in [Figure CS10.1K](#fig-p1-ch10-112).
 
 :::{figure} ../images/fig-p1-ch10-112.jpg
 :name: fig-p1-ch10-112
 :alt: FIGURE CS10.1K All alkali metals react with water as described in Figure CS10.1H. The heavier alkaline earth metals from calcium to radium react with water as described in Figure CS10.1l.
-FIGURE CS10.1K All alkali metals react with water as described in Figure CS10.1H. The heavier alkaline earth metals from calcium to radium react with water as described in Figure CS10.1l.
+FIGURE CS10.1K All alkali metals react with water as described in [Figure CS10.1H](#fig-p1-ch10-109). The heavier alkaline earth metals from calcium to radium react with water as described in [Figure CS10.1L](#fig-p1-ch10-113).
 :::
 
 
@@ -1481,7 +1498,7 @@ Heavier alkaline earth metals react directly with water to form ${ { \bf { M } }
 
 ## Reaction of Metals with Acids
 
-As we witnessed with Be and Mg, when the IE of a metal reaches approximately 600 kJ/mol, that element no longer reacts directly with water. Thus the clear demarcation between magnesium and calcium in the reactivity of alkaline earths with water. The first ionization energies of key elements in the periodic table are displayed in Figure CS10.1l.
+As we witnessed with Be and Mg, when the IE of a metal reaches approximately 600 kJ/mol, that element no longer reacts directly with water. Thus the clear demarcation between magnesium and calcium in the reactivity of alkaline earths with water. The first ionization energies of key elements in the periodic table are displayed in [Figure CS10.1L](#fig-p1-ch10-113).
 
 :::{figure} ../images/fig-p1-ch10-113.jpg
 :name: fig-p1-ch10-113
@@ -1498,7 +1515,7 @@ However, metals in Group 3A and $4 \mathrm { A }$ along with beryllium and magne
 ```
 
 
-The reason these metals with higher ionization energies react with an acidic solution is that the proton, $\mathrm { H } ^ { + } ( \mathrm { a q } )$ has a $f a r$ greater ability to extract electrons than does neutral water. This opens up a large segment of the periodic table to acidic reaction with metals in Groups 2A, 3A, and $4 \mathrm { A }$ as shown in Figure CS10.1m.
+The reason these metals with higher ionization energies react with an acidic solution is that the proton, $\mathrm { H } ^ { + } ( \mathrm { a q } )$ has a $f a r$ greater ability to extract electrons than does neutral water. This opens up a large segment of the periodic table to acidic reaction with metals in Groups 2A, 3A, and $4 \mathrm { A }$ as shown in [Figure CS10.1M](#fig-p1-ch10-114).
 
 :::{figure} ../images/fig-p1-ch10-114.jpg
 :name: fig-p1-ch10-114
@@ -1541,7 +1558,7 @@ But what about the reaction of water with nonmetals? The first point to note is 
 ```
 
 
-The reaction products are acidic, and we can track the electron movement in the Lewis structure formulation as displayed in Figure CS10.1n.
+The reaction products are acidic, and we can track the electron movement in the Lewis structure formulation as displayed in [Figure CS10.1N](#fig-p1-ch10-115).
 
 :::{figure} ../images/fig-p1-ch10-115.jpg
 :name: fig-p1-ch10-115
@@ -1572,7 +1589,7 @@ Interestingly this reaction is followed by the self-reaction of $\mathbf { B r O
 
 This self-reaction of a species is termed disproportionation.
 
-The reaction of the halogen with water or OH<sup>-</sup> results from the highly electronegative halogen attacking the lone pair on water or the hydroxide anion as diagrammed in Figure CS10.1o.
+The reaction of the halogen with water or OH<sup>-</sup> results from the highly electronegative halogen attacking the lone pair on water or the hydroxide anion as diagrammed in [Figure CS10.1O](#fig-p1-ch10-116).
 
 :::{figure} ../images/fig-p1-ch10-116.jpg
 :name: fig-p1-ch10-116
@@ -1581,7 +1598,7 @@ FIGURE CS10.1O The electron movement in the reaction of a halogen with water.
 :::
 
 
-This gives us some chemical perspective. When metals were involved, it was the positive domain of the electron deficient hydrogen in water that was the center of interest. It was the electron deficient hydrogen that attacked the metal, inducing the donation of the electron from the metal, releasing energy in the process of supplying electron density to the electron deficient hydrogen as diagrammed in Figure CS10.1p.
+This gives us some chemical perspective. When metals were involved, it was the positive domain of the electron deficient hydrogen in water that was the center of interest. It was the electron deficient hydrogen that attacked the metal, inducing the donation of the electron from the metal, releasing energy in the process of supplying electron density to the electron deficient hydrogen as diagrammed in [Figure CS10.1P](#fig-p1-ch10-117).
 
 :::{figure} ../images/fig-p1-ch10-117.jpg
 :name: fig-p1-ch10-117
@@ -1608,7 +1625,7 @@ It is a logical step, then, to extend this discussion in two related and importa
 
 We have swept the full extent of the periodic table with respect to its reactivity patterns with water and its counterparts with H<sup>+</sup> and OH<sup>-</sup> spiked into the aqueous solution. Given that a vast fraction of all reactions occur in water, this is a big step forward.
 
-Underscoring the fact that an intuitive understanding of chemical reactions is all about patterns in chemical reactivity, we next pursue the patterns in chemical reactivity by cutting horizontally across the periodic table examining the oxygen containing binary (“containing two elements”) compounds, selecting the third Period as an example highlighted in Figure CS10.1q.
+Underscoring the fact that an intuitive understanding of chemical reactions is all about patterns in chemical reactivity, we next pursue the patterns in chemical reactivity by cutting horizontally across the periodic table examining the oxygen containing binary (“containing two elements”) compounds, selecting the third Period as an example highlighted in [Figure CS10.1Q](#fig-p1-ch10-118).
 
 :::{figure} ../images/fig-p1-ch10-118.jpg
 :name: fig-p1-ch10-118
@@ -1666,7 +1683,7 @@ But what a difference one step across Period Three makes! Aluminum forms the fam
 :alt: Figure from the University Chemistry source textbook
 :::
 
-The second most abundant element in the Earth's crust is silicon that is the metalloid transition from metals to non-metals in the periodic table. Its binary oxide, $\mathrm { S i O } _ { 2 }$ is also extremely inert—in fact it is the glass that chemical beakers are made from and the primary substance in glass. The reason $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ and $\mathrm { S i O } _ { 2 }$ are inert is that the increasing electronegativity of aluminum and of silicon draws the lone pairs on oxygen to more tightly hold them—fending off attack from any electrophilic intruder. The other possibility, attack by the oxygen end of water on the more electropositive Al or Si, is thwarted by the highly stable network of bonds in those oxides. For example, just as carbon forms -C-C- chains that dominate organic chemistry, Si forms -Si-O- chains and groupings that repeat in a wide variety of silicates, particularly in minerals in the Earth's crust. Three examples include the minerals zircon, hemimorphite, and beryl that are constructed as shown in Figure CS10.1r.
+The second most abundant element in the Earth's crust is silicon that is the metalloid transition from metals to non-metals in the periodic table. Its binary oxide, $\mathrm { S i O } _ { 2 }$ is also extremely inert—in fact it is the glass that chemical beakers are made from and the primary substance in glass. The reason $\mathrm { { A l } } _ { 2 } \mathrm { { O } } _ { 3 }$ and $\mathrm { S i O } _ { 2 }$ are inert is that the increasing electronegativity of aluminum and of silicon draws the lone pairs on oxygen to more tightly hold them—fending off attack from any electrophilic intruder. The other possibility, attack by the oxygen end of water on the more electropositive Al or Si, is thwarted by the highly stable network of bonds in those oxides. For example, just as carbon forms -C-C- chains that dominate organic chemistry, Si forms -Si-O- chains and groupings that repeat in a wide variety of silicates, particularly in minerals in the Earth's crust. Three examples include the minerals zircon, hemimorphite, and beryl that are constructed as shown in [Figure CS10.1R](#fig-p1-ch10-120).
 
 :::{figure} ../images/fig-p1-ch10-120.jpg
 :name: fig-p1-ch10-120
@@ -1691,7 +1708,7 @@ This tetraphosphorus decaoxide, $\mathrm { P } _ { 4 } \mathrm { O } _ { 1 0 } ,
 ```
 
 
-and has the structure shown in Figure CS10.1s.
+and has the structure shown in [Figure CS10.1S](#original-fig-cs10-1s).
 
 :::{figure} ../images/fig-p1-ch10-121.jpg
 :name: fig-p1-ch10-121
@@ -1706,9 +1723,10 @@ Phosphorus skeleton
 :::
 
 Phosphorus (V) oxide
+(original-fig-cs10-1s)=
 FIGURE CS10.1S Phosphorus forms bonding structures with oxygen that are important precursors for the inclusion of phosphorous into the structure of organisms.
 
-Unlike the silicates, these binary oxygen compounds with phosphorus do not form bonded networks. So the reaction of $\mathrm { P _ { 4 } O _ { 1 0 } ( s ) }$ with water producing phosphoric acid has the following structure displayed in Figure CS10.1t:
+Unlike the silicates, these binary oxygen compounds with phosphorus do not form bonded networks. So the reaction of $\mathrm { P _ { 4 } O _ { 1 0 } ( s ) }$ with water producing phosphoric acid has the following structure displayed in [Figure CS10.1T](#fig-p1-ch10-123):
 
 :::{figure} ../images/fig-p1-ch10-123.jpg
 :name: fig-p1-ch10-123
@@ -1724,7 +1742,7 @@ This structure results from the simple protonation of the phosphate ion
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Phosphorus, phosphoric acid, and phosphate have critically important roles in modern chemistry and chemical biology that we will explore in subsequent chapters. The point here is to look at patterns in chemical reactivity. When water attacks the electropositive P atom, it does so with its lone pair as diagrammed in Figure CS10.1u.
+Phosphorus, phosphoric acid, and phosphate have critically important roles in modern chemistry and chemical biology that we will explore in subsequent chapters. The point here is to look at patterns in chemical reactivity. When water attacks the electropositive P atom, it does so with its lone pair as diagrammed in [Figure CS10.1U](#fig-p1-ch10-125).
 
 :::{figure} ../images/fig-p1-ch10-125.jpg
 :name: fig-p1-ch10-125
@@ -1755,7 +1773,7 @@ In the reaction with water, it is the lone pair on the oxygen of water that goes
 :alt: Figure from the University Chemistry source textbook
 :::
 
-Thus, rather than breaking the S-O bond, the double bond is converted to a single bond with the “acidic” hydrogen attached. Thus we have the clear groupings of Period Three elements with water as displayed in Figure CS10.1v.
+Thus, rather than breaking the S-O bond, the double bond is converted to a single bond with the “acidic” hydrogen attached. Thus we have the clear groupings of Period Three elements with water as displayed in [Figure CS10.1V](#fig-p1-ch10-128).
 :::{figure} ../images/fig-p1-ch10-128.jpg
 :name: fig-p1-ch10-128
 :alt: FIGURE CS10.1V Summary of the reactivity pattern for Period 3 elements with water.
@@ -1779,7 +1797,7 @@ We are in pursuit of reactivity trends that we can link back to coherent pattern
 
 But why do some hydrides act as acids while others do not? Why is $\mathrm { H } _ { 2 } \mathrm { S }$ acidic but $\mathrm { C H } _ { 4 }$ is not? Why is HCl a strong acid, but its partner HF is not?
 
-In order to make this systematic, let's run across the Period Two elements, examining patterns in chemical behavior of the binary hydrides. The second row elements for which we examine the hydrides are recalled in Figure CS10.1w.
+In order to make this systematic, let's run across the Period Two elements, examining patterns in chemical behavior of the binary hydrides. The second row elements for which we examine the hydrides are recalled in [Figure CS10.1W](#fig-p1-ch10-129).
 
 :::{figure} ../images/fig-p1-ch10-129.jpg
 :name: fig-p1-ch10-129
@@ -1796,7 +1814,7 @@ In the lexicon of chemistry, only the first two and last one are named logically
 
 Because hydrogen is not highly electronegative, none of the compounds are fully ionic. LiH is strongly polar covalent with hydrogen extracting electron density from lithium, $\mathrm { L i } ^ { + 8 } \mathrm { H } ^ { - 8 }$ Hydrogen fluoride is strongly polar covalent with hydrogen donating electron density to fluoride, $\mathrm { F ^ { - } }$ $\pmb { \delta } _ { \mathrm { H } ^ { + } } \pmb { \delta }$
 
-When lithium hydride reacts with water, the hydrogen in LiH donates an electron pair to the electron deficient end of $\mathrm { H } _ { 2 } \mathrm { O }$ as that hydrogen donates an electron pair to the newly formed OH<sup>-</sup>, producing $\mathrm { H } _ { 2 } ( \mathbf { g } )$ as shown in Figure CS10.1x.
+When lithium hydride reacts with water, the hydrogen in LiH donates an electron pair to the electron deficient end of $\mathrm { H } _ { 2 } \mathrm { O }$ as that hydrogen donates an electron pair to the newly formed OH<sup>-</sup>, producing $\mathrm { H } _ { 2 } ( \mathbf { g } )$ as shown in [Figure CS10.1X](#fig-p1-ch10-130).
 
 :::{figure} ../images/fig-p1-ch10-130.jpg
 :name: fig-p1-ch10-130
@@ -1805,7 +1823,7 @@ FIGURE CS10.1X Electron movement in the reaction of LiH with water.
 :::
 
 
-Moving to beryllium hydride and diborane, both react slowly with water, but a slightly acidic aqueous solution increases the rate of the reaction and produces $\mathrm { H } _ { 2 } .$ . This exhausts the metals and metalloids in Period Two. The nonmetal hydrides have very different reactivity. Given that the electronegativity of carbon is only 0.3 units greater than that of hydrogen, $\mathrm { C H } _ { 4 }$ is an example of a balanced (nonpolar) covalent bond with no lone pairs. As a result, it is completely nonreactive with water. Ammonia, when placed in water, is an example of a Lewis base because it donates its lone electron pair to water as shown in Figure CS10.1y.
+Moving to beryllium hydride and diborane, both react slowly with water, but a slightly acidic aqueous solution increases the rate of the reaction and produces $\mathrm { H } _ { 2 } .$ . This exhausts the metals and metalloids in Period Two. The nonmetal hydrides have very different reactivity. Given that the electronegativity of carbon is only 0.3 units greater than that of hydrogen, $\mathrm { C H } _ { 4 }$ is an example of a balanced (nonpolar) covalent bond with no lone pairs. As a result, it is completely nonreactive with water. Ammonia, when placed in water, is an example of a Lewis base because it donates its lone electron pair to water as shown in [Figure CS10.1Y](#fig-p1-ch10-131).
 
 :::{figure} ../images/fig-p1-ch10-131.jpg
 :name: fig-p1-ch10-131
@@ -1814,7 +1832,7 @@ FIGURE CS10.1Y Lewis acid-base reaction of ammonia in water.
 :::
 
 
-While we have used water as our reference reactant, it would be logical to jump over it to HF. However, water reacts with itself to a small degree in a Lewis acid-base reaction diagrammed in Figure CS10.1z.
+While we have used water as our reference reactant, it would be logical to jump over it to HF. However, water reacts with itself to a small degree in a Lewis acid-base reaction diagrammed in [Figure CS10.1Z](#fig-p1-ch10-132).
 
 :::{figure} ../images/fig-p1-ch10-132.jpg
 :name: fig-p1-ch10-132
@@ -1929,7 +1947,7 @@ We begin by setting our objective of 1 terrawatt (1 TW) or $\mathbf { 1 \times 1
 
 Before we move to establish how much power we can generate in the U.S. from wind, we need to consider the physics behind how the kinetic energy contained in wind is actually converted to electrical power. On the face of it, we know that the kinetic energy of a mass in air moving at velocity v is $\mathrm { K E } = 1 / 2 ~ \mathrm { m v } ^ { 2 }$ . But what is m? How do we calculate it?
 
-To establish how we calculate the coupling between the motion of the atmosphere, a fluid moving with velocity v, and the blades of a wind turbine, we consider a cylinder of air passing through a hoop with an area equal to the circle swept out by the rotor blades. The wind turbine we have selected is the GE 2.5 MW, which has a blade length of 50 meters. Thus the area swept out is $\mathbf { A } = \pi \mathbf { r } ^ { 2 } ,$ with $\mathrm { ~ r ~ } = ~ 5 0 \mathrm { ~ m ~ }$ We can represent graphically the volume of air moving past the rotor blades in time t by starting at t = 0 with the cylinder of air coincident in space with our hoop of area $\mathbf { A } = \pi \mathbf { r } ^ { 2 }$ as shown in the upper panel of Figure CS10.2a.
+To establish how we calculate the coupling between the motion of the atmosphere, a fluid moving with velocity v, and the blades of a wind turbine, we consider a cylinder of air passing through a hoop with an area equal to the circle swept out by the rotor blades. The wind turbine we have selected is the GE 2.5 MW, which has a blade length of 50 meters. Thus the area swept out is $\mathbf { A } = \pi \mathbf { r } ^ { 2 } ,$ with $\mathrm { ~ r ~ } = ~ 5 0 \mathrm { ~ m ~ }$ We can represent graphically the volume of air moving past the rotor blades in time t by starting at t = 0 with the cylinder of air coincident in space with our hoop of area $\mathbf { A } = \pi \mathbf { r } ^ { 2 }$ as shown in the upper panel of [Figure CS10.2A](#fig-p1-ch10-133).
 
 :::{figure} ../images/fig-p1-ch10-133.jpg
 :name: fig-p1-ch10-133
@@ -1938,7 +1956,7 @@ FIGURE CS10.2A Tracking the flow of a volume of air crossing the wind turbine bl
 :::
 
 
-At time t later, that cylinder of air will have moved a distance equal to vt as displayed in the bottom panel of Figure CS10.2a.
+At time t later, that cylinder of air will have moved a distance equal to vt as displayed in the bottom panel of [Figure CS10.2A](#fig-p1-ch10-133).
 
 The kinetic energy of this volume of air is then
 
@@ -1984,7 +2002,7 @@ For a wind speed of 5 m/sec, the power delivered is
 
 As we will see, not all of this kinetic energy is successfully captured by the turbine blades.
 
-Wind speed counts! Thus we should look, albeit briefly, at the dependence of wind speed on height above the ground. The primary reason that wind speed increases rapidly above the ground is that there is considerable friction generated by the roughness of the grasses, trees, etc. experienced by the air moving over land. The upper panel of Figure CS10.2b presents a plot of wind speed vs. the $\log _ { 1 0 }$ of the height above the ground.
+Wind speed counts! Thus we should look, albeit briefly, at the dependence of wind speed on height above the ground. The primary reason that wind speed increases rapidly above the ground is that there is considerable friction generated by the roughness of the grasses, trees, etc. experienced by the air moving over land. The upper panel of [Figure CS10.2B](#fig-p1-ch10-134) presents a plot of wind speed vs. the $\log _ { 1 0 }$ of the height above the ground.
 
 :::{figure} ../images/fig-p1-ch10-134.jpg
 :name: fig-p1-ch10-134
@@ -1993,11 +2011,11 @@ FIGURE CS10.2B The dependence of wind speed on height above the ground and the d
 :::
 
 
-As a rule of thumb, increasing the height above the ground by a factor of two increases wind speed by 10%. But, as the lower panel of Figure CS10.2b shows, the power delivered by the wind increases by 30%.
+As a rule of thumb, increasing the height above the ground by a factor of two increases wind speed by 10%. But, as the lower panel of [Figure CS10.2B](#fig-p1-ch10-134) shows, the power delivered by the wind increases by 30%.
 
 ## Selection of a Wind Turbine
 
-It is now clear that if we are to carry out a quantitative analysis of the wind power potential for the U.S. we will need to select a wind turbine, because the length of the turbine blades and the height of the turbine hub above the ground are key quantities in the calculation. For our calculations here, we choose the new generation of wind turbines built by GE—in particular the 2.5 MW turbine with three blades of 50 meter length and a hub height of 100 meters shown in Figure CS10.2c.
+It is now clear that if we are to carry out a quantitative analysis of the wind power potential for the U.S. we will need to select a wind turbine, because the length of the turbine blades and the height of the turbine hub above the ground are key quantities in the calculation. For our calculations here, we choose the new generation of wind turbines built by GE—in particular the 2.5 MW turbine with three blades of 50 meter length and a hub height of 100 meters shown in [Figure CS10.2C](#fig-p1-ch10-135).
 
 :::{figure} ../images/fig-p1-ch10-135.jpg
 :name: fig-p1-ch10-135
@@ -2006,7 +2024,7 @@ FIGURE CS10.2C The 2.5 MW series of GE wind turbine, which constitutes the selec
 :::
 
 
-The rating of a wind turbine is typically measured by the maximum or “peak power” that the system will deliver. Wind turbines are designed to begin producing power at wind speeds of approximately 3 m/sec, to increase in power output rapidly with increasing wind speed (recall the basic formula goes as v<sup>3</sup>) and to plateau at the rated peak power. At wind speeds greater than 25 m/sec, the blades are “feathered” to stop rotation to protect the turbine under high wind conditions. The output of the GE 2.5 MW turbine as a function of wind speed is shown in Figure CS10.2d.
+The rating of a wind turbine is typically measured by the maximum or “peak power” that the system will deliver. Wind turbines are designed to begin producing power at wind speeds of approximately 3 m/sec, to increase in power output rapidly with increasing wind speed (recall the basic formula goes as v<sup>3</sup>) and to plateau at the rated peak power. At wind speeds greater than 25 m/sec, the blades are “feathered” to stop rotation to protect the turbine under high wind conditions. The output of the GE 2.5 MW turbine as a function of wind speed is shown in [Figure CS10.2D](#fig-p1-ch10-136).
 
 :::{figure} ../images/fig-p1-ch10-136.jpg
 :name: fig-p1-ch10-136
@@ -2027,7 +2045,7 @@ The power generated by the 2.5 MW turbine is given by
 ```
 
 
-where the efficiency factor, $\mathrm { f _ { p } , }$ is taken into account in the turbine power curve displayed in Figure CS10.2d. Assembly of the wind turbine system is shown in Figure CS10.2e.
+where the efficiency factor, $\mathrm { f _ { p } , }$ is taken into account in the turbine power curve displayed in [Figure CS10.2D](#fig-p1-ch10-136). Assembly of the wind turbine system is shown in [Figure CS10.2E](#fig-p1-ch10-137).
 
 :::{figure} ../images/fig-p1-ch10-137.jpg
 :name: fig-p1-ch10-137
@@ -2042,7 +2060,7 @@ Both calculations of atmospheric flow in the presence of this class of wind turb
 
 A final consideration is given to those regions that are not suitable for installation of wind turbines—most notably forested regions, water and/or permanent snow-bound areas.
 
-The calculated wind generating potential for the continental U.S. using the 2.5 MW GE wind turbine and the wind fields as calculated above is displayed as a state-by-state map in Figure CS10.2f in units of terawatt hour, TWh, per annum.
+The calculated wind generating potential for the continental U.S. using the 2.5 MW GE wind turbine and the wind fields as calculated above is displayed as a state-by-state map in [Figure CS10.2F](#fig-p1-ch10-138) in units of terawatt hour, TWh, per annum.
 
 :::{figure} ../images/fig-p1-ch10-138.jpg
 :name: fig-p1-ch10-138
@@ -2051,9 +2069,9 @@ FIGURE CS10.2F The state-by-state power generating potential from wind in units 
 :::
 
 
-A key issue, given this very large wind generated potential for electric power, is the balance of production and demand as well as the need for power distribution nationally. This issue will be explored repeatedly in subsequent Case Studies. It will require a smart grid for national distribution as first displayed in Figure CS4.3E of the text, and other forms of renewable energy generation and storage, also noted in Figure CS4.3E, such as concentrated solar thermal as well as energy storage that can be drawn from during periods of peak demand.
+A key issue, given this very large wind generated potential for electric power, is the balance of production and demand as well as the need for power distribution nationally. This issue will be explored repeatedly in subsequent Case Studies. It will require a smart grid for national distribution as first displayed in [Figure CS4.3E](#fig-p1-ch04-84) of the text, and other forms of renewable energy generation and storage, also noted in [Figure CS4.3E](#fig-p1-ch04-84), such as concentrated solar thermal as well as energy storage that can be drawn from during periods of peak demand.
 
-While we have focused here on the big picture of wind generated power in large regions of the Midwest, it is important to recognize that very important sources of wind power also exist along selected ridges such as shown here in the hills above San Francisco Bay in Figure CS10.2g.
+While we have focused here on the big picture of wind generated power in large regions of the Midwest, it is important to recognize that very important sources of wind power also exist along selected ridges such as shown here in the hills above San Francisco Bay in [Figure CS10.2G](#fig-p1-ch10-139).
 
 :::{figure} ../images/fig-p1-ch10-139.jpg
 :name: fig-p1-ch10-139
@@ -2064,19 +2082,19 @@ FIGURE CS10.2G Wind turbines located in the hills above San Francisco Bay demons
 
 ## Problem 1
 
-It was our stated objective to develop wind power in the US so as to provide 1 TW of power to the electrical grid. Figure CS10.2f provides a state-by-state breakdown of the number of TWh per annum generated from each state.
+It was our stated objective to develop wind power in the US so as to provide 1 TW of power to the electrical grid. [Figure CS10.2F](#fig-p1-ch10-138) provides a state-by-state breakdown of the number of TWh per annum generated from each state.
 
 a. Calculate the number of TWh per annum realized from 1 TW of power production from wind.
 
 b. Compare the number of TWh/yr provided by wind power in Texas alone to 1 TW. What about from North and South Dakota alone?
 
-c. Given the wind power production from all states indicated by the red and orange states in Figure CS10.2f, calculate the fraction of that power generation from wind that is required to produce 1 TW of power to the grid.
+c. Given the wind power production from all states indicated by the red and orange states in [Figure CS10.2F](#fig-p1-ch10-138), calculate the fraction of that power generation from wind that is required to produce 1 TW of power to the grid.
 
 ## BUILDING A TECHNOLOGY BACKBONE
 
 ## CASE STUDY 10.3 Cancer, DNA, and the Structures Resulting from Hydrogen Bonding
 
-We have already observed the importance of hydrogen bonding in the structure of water. The bonding between the electronegative oxygen end of the water molecule and the electron deficient hydrogen end of the water molecule serves to organize the molecules of water in the liquid phase. In the solid phase of water (ice), it is the hydrogen bonds that establish the crystal structure of water as displayed in Figure CS10.3a.
+We have already observed the importance of hydrogen bonding in the structure of water. The bonding between the electronegative oxygen end of the water molecule and the electron deficient hydrogen end of the water molecule serves to organize the molecules of water in the liquid phase. In the solid phase of water (ice), it is the hydrogen bonds that establish the crystal structure of water as displayed in [Figure CS10.3A](#fig-p1-ch10-140).
 
 :::{figure} ../images/fig-p1-ch10-140.jpg
 :name: fig-p1-ch10-140
@@ -2085,7 +2103,7 @@ FIGURE CS10.3A The structure of ice is established by the hydrogen bonding betwe
 :::
 
 
-A single hydrogen bond is weak in comparison with a fully developed covalent or ionic bond. Hydrogen bonds fall in the range of 10 kJ/mole whereas covalent bonds range from 100 to 500 kJ/mole. However, a key attribute of hydrogen bonding is that a large number can occur within a single molecular structure. Many large molecules can have tens to hundreds of hydrogen bonds within their structure resulting in remarkable architectures. Thus, collectively multiple hydrogen bonds can establish a strong bonding structure that controls a potentially complex three-dimensional structure. A key example is the DNA molecule, as displayed in Figure CS10.3b.
+A single hydrogen bond is weak in comparison with a fully developed covalent or ionic bond. Hydrogen bonds fall in the range of 10 kJ/mole whereas covalent bonds range from 100 to 500 kJ/mole. However, a key attribute of hydrogen bonding is that a large number can occur within a single molecular structure. Many large molecules can have tens to hundreds of hydrogen bonds within their structure resulting in remarkable architectures. Thus, collectively multiple hydrogen bonds can establish a strong bonding structure that controls a potentially complex three-dimensional structure. A key example is the DNA molecule, as displayed in [Figure CS10.3B](#fig-p1-ch10-141).
 
 :::{figure} ../images/fig-p1-ch10-141.jpg
 :name: fig-p1-ch10-141
@@ -2096,7 +2114,7 @@ FIGURE CS10.3B The hydrogen bonding in water, shown in the upper panel, is the s
 
 Hydrogen bonds
 
-As Figure CS10.3b shows, DNA is constructed from two long, helical strands containing many thousands of atoms and molecules. The double helix is linked across its structure by hydrogen bonds between base pairs, the sequence of which encodes information defining the genetic signature of an organism.
+As [Figure CS10.3B](#fig-p1-ch10-141) shows, DNA is constructed from two long, helical strands containing many thousands of atoms and molecules. The double helix is linked across its structure by hydrogen bonds between base pairs, the sequence of which encodes information defining the genetic signature of an organism.
 
 A key consideration in the structure of DNA, complementary to its ability to encode genetic information, is the balance between the cumulative strength of many hydrogen bonds with the weakness of individual hydrogen bonds. If an interaction between two molecules involves a limited number of hydrogen bonds, the structure can be altered quite easily. This aspect of hydrogen bonding plays an important role in enzyme-mediated reactions in biological systems—a subject we will develop sequentially through this text. This balance between the strength of many hydrogen bonds and the vulnerable nature of a small number of hydrogen bonds serves as a preamble to our discussion of the causes of cancer as well as an organism's ability to defend itself against cancer.
 
@@ -2112,7 +2130,7 @@ We will develop the mechanisms for DNA repair in chapters following our full dev
 
 ## Cancer
 
-Cancer is a disease inherent in all multicellular organisms and is characterized by uncontrolled cell division. Over 1 million individuals in the United States alone are diagnosed with cancer each year. About half that number, or 500,000, die each year from the disease. In about 10% of cancers, a higher predisposition to develop the disease is associated with inherited traits. However, research has shown that nearly 90% of cancers do not involve genetic changes that are passed from parents to offspring. Instead, cancer is an acquired condition that occurs later in life as a result of exposure to carcinogens. Carcinogens are chemical or photochemical agents that induce mutations that in turn lead to the development of cancer. The most common form of cancer is skin cancer. The mechanism for the onset of skin cancer is the severing of the hydrogen bonded base pairs across the spine of the double helix by the absorption of a UV photon as shown in Figure CS10.3c. The breakage of the base pair linking the base pairs results in the formation of the thymine dimer as shown in Figure CS10.3c.
+Cancer is a disease inherent in all multicellular organisms and is characterized by uncontrolled cell division. Over 1 million individuals in the United States alone are diagnosed with cancer each year. About half that number, or 500,000, die each year from the disease. In about 10% of cancers, a higher predisposition to develop the disease is associated with inherited traits. However, research has shown that nearly 90% of cancers do not involve genetic changes that are passed from parents to offspring. Instead, cancer is an acquired condition that occurs later in life as a result of exposure to carcinogens. Carcinogens are chemical or photochemical agents that induce mutations that in turn lead to the development of cancer. The most common form of cancer is skin cancer. The mechanism for the onset of skin cancer is the severing of the hydrogen bonded base pairs across the spine of the double helix by the absorption of a UV photon as shown in [Figure CS10.3C](#fig-p1-ch10-142). The breakage of the base pair linking the base pairs results in the formation of the thymine dimer as shown in [Figure CS10.3C](#fig-p1-ch10-142).
 
 :::{figure} ../images/fig-p1-ch10-142.jpg
 :name: fig-p1-ch10-142
@@ -2125,7 +2143,7 @@ FIGURE CS10.3C UV radiation supplies photons with sufficient energy to break the
 
 As noted above, cancers occur when normal mechanisms that limit cell growth and division are disrupted. It has been demonstrated that several mutations are required to transpose a normal cell into a cancerous one. This requires that multiple mutations are required and explains why there is a long latency period, typically decades, between exposure to a substance capable of inducing a mutation and the actual detection of the cancer. Another important consideration is that because of the probabilistic nature of mutations, the risk of cancer increases with age. As a result, while children and young adults do develop cancer, the disease is primarily one of old age. In addition, with increasing life expectancy, the probability for increasing cancer cases increases significantly.
 
-To review briefly, deoxyribonucleic acid (DNA) gains its acidic character because it releases hydrogen ions, H<sup>+</sup>, into solution and thus has a net negative charge at neutral pH. We can consider the structural features of DNA at different levels of complexity. With reference to Figure CS10.3d:
+To review briefly, deoxyribonucleic acid (DNA) gains its acidic character because it releases hydrogen ions, H<sup>+</sup>, into solution and thus has a net negative charge at neutral pH. We can consider the structural features of DNA at different levels of complexity. With reference to [Figure CS10.3D](#fig-p1-ch10-144):
 
 :::{figure} ../images/fig-p1-ch10-143.jpg
 :name: fig-p1-ch10-143
@@ -2147,7 +2165,7 @@ FIGURE CS10.3D The architecture of DNA is set by the hydrogen bonding of the nuc
 :::
 
 
-## 1. Nucleotides, shown in Figure CS10.3e, are the building blocks of DNA and are constructed from the covalent linkage of these nucleotides in a linear chain, as shown in Figure CS10.3f.
+## 1. Nucleotides, shown in [Figure CS10.3E](#fig-p1-ch10-145), are the building blocks of DNA and are constructed from the covalent linkage of these nucleotides in a linear chain, as shown in [Figure CS10.3F](#original-fig-cs10-3f).
 
 :::{figure} ../images/fig-p1-ch10-145.jpg
 :name: fig-p1-ch10-145
@@ -2156,6 +2174,7 @@ FIGURE CS10.3E Nucleotides are the building blocks of the DNA structure and are 
 :::
 
 
+(original-fig-cs10-3f)=
 FIGURE CS10.3F The nucleotides are ordered along the spine of DNA and are linked to one another by the phosphate bridge that serves, in the linked sequence, to covalently bond the sugars.
 
 :::{figure} ../images/fig-p1-ch10-146.jpg
@@ -2163,7 +2182,7 @@ FIGURE CS10.3F The nucleotides are ordered along the spine of DNA and are linked
 :alt: Figure from the University Chemistry source textbook
 :::
 
-2. Two strands of DNA can be hydrogen bonded to each other to form the double helix with two structural categories of bases: the double ring purines and the single ringed pyrimidines, as shown in Figure CS10.3g.
+2. Two strands of DNA can be hydrogen bonded to each other to form the double helix with two structural categories of bases: the double ring purines and the single ringed pyrimidines, as shown in [Figure CS10.3G](#fig-p1-ch10-147).
 
 :::{figure} ../images/fig-p1-ch10-147.jpg
 :name: fig-p1-ch10-147
@@ -2172,13 +2191,13 @@ FIGURE CS10.3G The designation of the deoxyribose nucleotides is set by the part
 :::
 
 
-3. There are two purines that constitute the bases that cross-link the nucleotides single strand of the DNA backbone: adenine (A) and guanine (G), shown in Figure CS10.3g. There are also two pyrimidines that are bases capable of cross-linking the nucleotide strand of DNA: thymine (T) and cytosine (C), also displayed in Figure CS10.3g.
+3. There are two purines that constitute the bases that cross-link the nucleotides single strand of the DNA backbone: adenine (A) and guanine (G), shown in [Figure CS10.3G](#fig-p1-ch10-147). There are also two pyrimidines that are bases capable of cross-linking the nucleotide strand of DNA: thymine (T) and cytosine (C), also displayed in [Figure CS10.3G](#fig-p1-ch10-147).
 
 4. In living cells, DNA is associated with an array of different proteins to form chromosomes. This association of proteins with DNA organizes the extended DNA strands into compact architectures that are incorporated into the cell nucleus.
 
 5. Finally, a genome is the complete complement of an organism's genetic encoding.
 
-So the nucleotide is composed of three components: a phosphate, a five member sugar (pentose), and a nitrogen containing base that repeats along the nucleotide strand as shown in Figure CS10.3h. A numbering system has been established to identify the attachment sites of the base and the phosphate to the deoxyribose sugar as shown in Figure CS10.3h.
+So the nucleotide is composed of three components: a phosphate, a five member sugar (pentose), and a nitrogen containing base that repeats along the nucleotide strand as shown in [Figure CS10.3H](#fig-p1-ch10-148). A numbering system has been established to identify the attachment sites of the base and the phosphate to the deoxyribose sugar as shown in [Figure CS10.3H](#fig-p1-ch10-148).
 
 :::{figure} ../images/fig-p1-ch10-148.jpg
 :name: fig-p1-ch10-148
@@ -2187,15 +2206,15 @@ FIGURE CS10.3H The numbering system of the carbons in the sugar is used to disti
 :::
 
 
-This numbering system is important for understanding the sequencing along the nucleotide strand, so we quickly summarize. With reference to Figure CS10.3h, in the sugar ring, carbon atoms are numbered in a clockwise direction beginning at the bonding site of the base to the deoxyribose, which is also the carbon atom to the immediate right of the oxygen atom in the sugar ring. The second, third and fourth carbon atoms are in the ring; the fifth carbon atom lies above the ring. All carbon atom numerical designations are primed: $\mathbf { 1 } ^ { \prime } , \mathbf { 2 } ^ { \prime } , \mathbf { 3 } ^ { \prime } , \mathbf { 4 } ^ { \prime }$ , and $5 ^ { \prime }$ to distinguish the number of carbons associated with the sugar. Carbon atoms in the ring structure of the bases are not primed. Thus a base is attached to the $_ { 1 ^ { \prime } }$ position and a phosphate to the $5 ^ { \prime }$ position.
+This numbering system is important for understanding the sequencing along the nucleotide strand, so we quickly summarize. With reference to [Figure CS10.3H](#fig-p1-ch10-148), in the sugar ring, carbon atoms are numbered in a clockwise direction beginning at the bonding site of the base to the deoxyribose, which is also the carbon atom to the immediate right of the oxygen atom in the sugar ring. The second, third and fourth carbon atoms are in the ring; the fifth carbon atom lies above the ring. All carbon atom numerical designations are primed: $\mathbf { 1 } ^ { \prime } , \mathbf { 2 } ^ { \prime } , \mathbf { 3 } ^ { \prime } , \mathbf { 4 } ^ { \prime }$ , and $5 ^ { \prime }$ to distinguish the number of carbons associated with the sugar. Carbon atoms in the ring structure of the bases are not primed. Thus a base is attached to the $_ { 1 ^ { \prime } }$ position and a phosphate to the $5 ^ { \prime }$ position.
 
-Consider again Figure CS10.3f, which displays a short strand of DNA with four nucleotides. A key characteristic of this linkage is to notice that a phosphate group connects two sugar molecules together such that the phosphate and sugar molecules form the backbone of the DNA strand. The bases project inward from the backbone; the backbone is negatively charged due to the phosphate anion. A key structural feature of a nucleic acid strand is the orientation of the nucleotides. Each phosphate is covalently bonded to the $5 ^ { \prime }$ carbon in one nucleotide and to the 3′ $3 ^ { \prime }$ carbon on the other (see Figure CS10.3f). In a strand, all sugar molecules are oriented in the same direction, which means that all $5 ^ { \prime }$ carbons in each sugar ring lies above the $3 ^ { \prime }$ carbons. This establishes a directionality based on the orientation of the sugar molecules within that strand.
+Consider again [Figure CS10.3F](#original-fig-cs10-3f), which displays a short strand of DNA with four nucleotides. A key characteristic of this linkage is to notice that a phosphate group connects two sugar molecules together such that the phosphate and sugar molecules form the backbone of the DNA strand. The bases project inward from the backbone; the backbone is negatively charged due to the phosphate anion. A key structural feature of a nucleic acid strand is the orientation of the nucleotides. Each phosphate is covalently bonded to the $5 ^ { \prime }$ carbon in one nucleotide and to the 3′ $3 ^ { \prime }$ carbon on the other (see [Figure CS10.3F)](#original-fig-cs10-3f). In a strand, all sugar molecules are oriented in the same direction, which means that all $5 ^ { \prime }$ carbons in each sugar ring lies above the $3 ^ { \prime }$ carbons. This establishes a directionality based on the orientation of the sugar molecules within that strand.
 
-Referring again to Figure CS10.3f, the direction of the strand is designated $5 ^ { \prime }$ to $3 ^ { \prime }$ in going from top to bottom; the $5 ^ { \prime }$ end of the DNA strand has a phosphate group and the $3 ^ { \prime }$ end has a hydroxyl (-OH) group. The genetic information contained in DNA is the information contained in the specific sequence of bases. Referring again to Figure CS10.3f, the sequence of bases is thymine-adenine-cytosine-guanine or TACG. To orient the sequence of bases to the directionality, the strand is abbreviated ${ \mathsf { J } } ^ { \prime } { \mathrm { - T A C G } } { - 3 } ^ { \prime }$ . While the bases in DNA are hydrogen bonded across the double helix, the nucleotides within a strand are covalently bonded such that the sequence of bases cannot be altered, cannot be rearranged except by a mutation.
+Referring again to [Figure CS10.3F](#original-fig-cs10-3f), the direction of the strand is designated $5 ^ { \prime }$ to $3 ^ { \prime }$ in going from top to bottom; the $5 ^ { \prime }$ end of the DNA strand has a phosphate group and the $3 ^ { \prime }$ end has a hydroxyl (-OH) group. The genetic information contained in DNA is the information contained in the specific sequence of bases. Referring again to [Figure CS10.3F](#original-fig-cs10-3f), the sequence of bases is thymine-adenine-cytosine-guanine or TACG. To orient the sequence of bases to the directionality, the strand is abbreviated ${ \mathsf { J } } ^ { \prime } { \mathrm { - T A C G } } { - 3 } ^ { \prime }$ . While the bases in DNA are hydrogen bonded across the double helix, the nucleotides within a strand are covalently bonded such that the sequence of bases cannot be altered, cannot be rearranged except by a mutation.
 
 ## DNA Structure and the Complementary Base Pairing of Nucleotides
 
-Watson and Crick, shown in Figure CS10.3i, proposed the structure of DNA as the double helix with the sugar-phosphate backbone on the outside with specific complementary base pairing in the inside. The key feature of the base pairing (which Watson and Crick worked out after a number of false starts) is the specificity of the hydrogen bonding between the bases.
+Watson and Crick, shown in [Figure CS10.3I](#fig-p1-ch10-149), proposed the structure of DNA as the double helix with the sugar-phosphate backbone on the outside with specific complementary base pairing in the inside. The key feature of the base pairing (which Watson and Crick worked out after a number of false starts) is the specificity of the hydrogen bonding between the bases.
 
 :::{figure} ../images/fig-p1-ch10-149.jpg
 :name: fig-p1-ch10-149
@@ -2204,7 +2223,7 @@ FIGURE CS10.3I James Watson and Francis Crick, in 1953, were the first to determ
 :::
 
 
-An adenine base in one strand links across the double helix with two hydrogen bonds to a thymine base on the opposite strand as displayed in the uppermost sector of Figure CS10.3j. A second specific hydrogen bonded pair is the three-bond guanine link to cytosine displayed in Figure CS10.3j. The double hydrogen bonded AT pair and the triple bonded GC pair constitute the AT/GC rule of DNA bare pair bonding. According to this AT/GC rule, purines always bond with pyrimidines, keeping the width of the double helix approximately constant along the length of the double helix.
+An adenine base in one strand links across the double helix with two hydrogen bonds to a thymine base on the opposite strand as displayed in the uppermost sector of [Figure CS10.3J](#fig-p1-ch10-150). A second specific hydrogen bonded pair is the three-bond guanine link to cytosine displayed in [Figure CS10.3J](#fig-p1-ch10-150). The double hydrogen bonded AT pair and the triple bonded GC pair constitute the AT/GC rule of DNA bare pair bonding. According to this AT/GC rule, purines always bond with pyrimidines, keeping the width of the double helix approximately constant along the length of the double helix.
 
 :::{figure} ../images/fig-p1-ch10-150.jpg
 :name: fig-p1-ch10-150
@@ -2213,7 +2232,7 @@ FIGURE CS10.3J Both the physical dimensions and the detailed bonding structure l
 :::
 
 
-As a result of the AT/GC rule, the base sequences of two DNA strands are complementary to one another such that if you know the sequence along one strand, you can predict the sequence in the opposite strand. ${ \bf S 0 , }$ if one strand has the sequence $5 ^ { \prime } - \mathrm { G C G G A T T T - 3 ^ { \prime } }$ the opposite strand must be $3 ^ { \prime } { \mathrm { - C G C C T A A A } } { \mathrm { - } } 5 ^ { \prime }$ . This also dictates the fact that two strands of a DNA double helix must be antiparallel. Inspection again of Figure $\mathrm { C S 1 0 . 3 j }$ demonstrates that if one strand runs in the $5 ^ { \prime }$ to $3 ^ { \prime }$ direction from top to bottom, the other strand must run from $3 ^ { \prime }$ to $5 ^ { \prime }$ bottom to top.
+As a result of the AT/GC rule, the base sequences of two DNA strands are complementary to one another such that if you know the sequence along one strand, you can predict the sequence in the opposite strand. ${ \bf S 0 , }$ if one strand has the sequence $5 ^ { \prime } - \mathrm { G C G G A T T T - 3 ^ { \prime } }$ the opposite strand must be $3 ^ { \prime } { \mathrm { - C G C C T A A A } } { \mathrm { - } } 5 ^ { \prime }$ . This also dictates the fact that two strands of a DNA double helix must be antiparallel. Inspection again of [Figure CS10.3J](#fig-p1-ch10-150) demonstrates that if one strand runs in the $5 ^ { \prime }$ to $3 ^ { \prime }$ direction from top to bottom, the other strand must run from $3 ^ { \prime }$ to $5 ^ { \prime }$ bottom to top.
 
 ## Mechanisms for Cancer Initiation
 
@@ -2227,7 +2246,7 @@ There are two primary lines of defense. The first is the presence of repair enzy
 
 The second line of defense is the body's immune system. Cancer cells can be and are detected by the immune system by virtue of the ability to detect variations in the surface molecules of the cancerous cells. In addition, the fast-growing cancer cells require a large local blood flow. This in turn requires a network of “foreign” blood vessels that can be detected and destroyed by the immune system.
 
-Against these lines of defense, occasionally a cancerous domain may develop in the tissue structure in a sequence depicted in Figure CS10.3k. While the probability of overcoming the body's defense mechanism is small, the probability is a function of several factors. One important consideration is genetics. Individuals may inherit a defect that compromises the normal lines of defense outlined above. Examples include a faulty repair enzyme that allows mutations to pass undetected or uncorrected. Another possibility is that there may be an inherited, preexisting mutation in a gene for one of the regulatory proteins, opening the possibility of linking with other accidental mutations. This genetic mapping is now uncovering an array of genes in which mutations increase the probability of developing specific cancers as well as the propensity for other diseases involving the cardiovascular and circulating systems.
+Against these lines of defense, occasionally a cancerous domain may develop in the tissue structure in a sequence depicted in [Figure CS10.3K](#fig-p1-ch10-154). While the probability of overcoming the body's defense mechanism is small, the probability is a function of several factors. One important consideration is genetics. Individuals may inherit a defect that compromises the normal lines of defense outlined above. Examples include a faulty repair enzyme that allows mutations to pass undetected or uncorrected. Another possibility is that there may be an inherited, preexisting mutation in a gene for one of the regulatory proteins, opening the possibility of linking with other accidental mutations. This genetic mapping is now uncovering an array of genes in which mutations increase the probability of developing specific cancers as well as the propensity for other diseases involving the cardiovascular and circulating systems.
 
 Invasive tumor cells break the wall of basal cells
 
@@ -2269,7 +2288,7 @@ The chemistry involved in cancer initiation is interesting in its own right, in 
 
 carcinogens are not reactive themselves, but rather are converted to reactive intermediates by the body's own biochemistry.
 
-A key ability of the body is the capability of removing foreign chemicals either directly through excretion or by chemically transforming these “xenobiotics.” An important example is the hydroxylation of lipophilic (affinity for fats) organic compounds. Consider the example of benzanthracene $\mathrm { ( C _ { 1 8 } H _ { 1 4 } ) }$ , a molecule that has four-linked benzene rings as shown in Figure CS10.3l and is carcinogenic.
+A key ability of the body is the capability of removing foreign chemicals either directly through excretion or by chemically transforming these “xenobiotics.” An important example is the hydroxylation of lipophilic (affinity for fats) organic compounds. Consider the example of benzanthracene $\mathrm { ( C _ { 1 8 } H _ { 1 4 } ) }$ , a molecule that has four-linked benzene rings as shown in [Figure CS10.3L](#fig-p1-ch10-155) and is carcinogenic.
 
 :::{figure} ../images/fig-p1-ch10-155.jpg
 :name: fig-p1-ch10-155
