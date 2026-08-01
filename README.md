@@ -64,9 +64,10 @@ npm.cmd run start -- --port 3000
 
 The automated QA fails on missing or orphan images, duplicate labels, missing
 image alternative text, unprocessed MinerU paths, combining OCR marks,
-unresolved or regressed cross-references, or any MyST build warning/error. It
-also reports non-blocking limitations such as extremely long generated table
-lines.
+unresolved or regressed cross-references, or any MyST build warning/error. The
+strict build also fails if table-formula sources are missing, remain raw in the
+generated site, or produce empty formula containers. Extremely long generated
+table lines remain a non-blocking maintainability warning.
 
 Machine extraction is not a substitute for subject-matter review. Equations,
 chemical structures, numerical tables, captions, and OCR-damaged prose require

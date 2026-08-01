@@ -10,6 +10,7 @@ scholarly review that still requires comparison with the source book.
 - 1,435 image files and 1,435 image references
 - 3,079 unique equation, figure, table, and synthetic anchor labels
 - 1,333 authored figure, table, and equation cross-references; none unresolved
+- 1,154 formulae inside 138 HTML tables rendered by the MyST table-math plugin
 - one documented original-source defect: Figure CS10.3M has no target figure
 - no missing or orphan images
 - no duplicate labels, NUL bytes, combining OCR marks, or missing image alt text

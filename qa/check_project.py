@@ -14,6 +14,7 @@ CHAPTERS = ROOT / "chapters"
 IMAGES = ROOT / "images"
 EXPECTED_AUTHORED_CROSSREFS = 1333
 EXPECTED_SOURCE_DEFECTS = 1
+EXPECTED_TABLE_MATH_SOURCES = 1149
 
 # Stable reconstruction baseline. A count change is allowed only after the
 # corresponding source comparison has been reviewed and this baseline updated.
@@ -72,6 +73,30 @@ def main() -> int:
     duplicates = sorted(name for name, count in Counter(labels).items() if count > 1)
     if duplicates:
         errors.append(f"duplicate labels: {', '.join(duplicates[:10])}")
+
+    html_tables = re.findall(r"(?is)<table\b.*?</table>", combined)
+    table_source = "\n".join(html_tables)
+    html_cells = re.findall(r"(?is)<t[dh]\b[^>]*>(.*?)</t[dh]>", table_source)
+    table_math_sources = sum(
+        len(
+            re.findall(
+                r"(?<!\\)\$\$[\s\S]*?(?<!\\)\$\$|"
+                r"(?<!\\)\$(?!\$)(?:\\.|[^$\n])+?(?<!\\)\$",
+                re.sub(r"<[^>]+>", "", cell),
+            )
+        )
+        for cell in html_cells
+    )
+    if table_math_sources != EXPECTED_TABLE_MATH_SOURCES:
+        errors.append(
+            f"expected {EXPECTED_TABLE_MATH_SOURCES} table math sources, "
+            f"found {table_math_sources}"
+        )
+    pre_rendered_table_math = len(re.findall(r'<span class="katex"\b', table_source))
+    if pre_rendered_table_math:
+        errors.append(
+            f"{pre_rendered_table_math} pre-rendered formulae found in source tables"
+        )
 
     for path, text in texts.items():
         h1_count = len(re.findall(r"(?m)^#\s+", text))
@@ -132,7 +157,8 @@ def main() -> int:
         "QA summary: "
         f"{len(chapter_files)} files, {len(labels)} labels, "
         f"{len(image_files)} images, {len(image_refs)} image references, "
-        f"{crossref_summary['authored_reference_occurrences']} cross-references"
+        f"{crossref_summary['authored_reference_occurrences']} cross-references, "
+        f"{table_math_sources} table formula sources"
     )
     for warning in warnings:
         print(f"WARNING: {warning}")
